@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="스태거: 요소들이 일정한 간격으로 차례로 움직임">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;opacity:.75}.m{font-size:10px;opacity:.85}.c{text-anchor:middle}.e{text-anchor:end}.d{animation:w 1.2s ease-in-out infinite}@keyframes w{0%,100%{transform:translateY(0)}50%{transform:translateY(-42px)}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+
+<line x1="20" y1="112" x2="300" y2="112" stroke="#334155" stroke-width="2"/>
+<circle class="d" style="animation-delay:-0.00s" cx="50" cy="100" r="11" fill="#f59e0b"/><circle class="d" style="animation-delay:-0.15s" cx="94" cy="100" r="11" fill="#38bdf8"/><circle class="d" style="animation-delay:-0.30s" cx="138" cy="100" r="11" fill="#f59e0b"/><circle class="d" style="animation-delay:-0.45s" cx="182" cy="100" r="11" fill="#38bdf8"/><circle class="d" style="animation-delay:-0.60s" cx="226" cy="100" r="11" fill="#f59e0b"/><circle class="d" style="animation-delay:-0.75s" cx="270" cy="100" r="11" fill="#38bdf8"/>
+<rect x="40" y="138" width="60" height="4" rx="2" fill="#38bdf8"/><rect x="60" y="145" width="60" height="4" rx="2" fill="#38bdf8"/><rect x="80" y="152" width="60" height="4" rx="2" fill="#38bdf8"/><rect x="100" y="159" width="60" height="4" rx="2" fill="#38bdf8"/><rect x="120" y="166" width="60" height="4" rx="2" fill="#38bdf8"/><rect x="140" y="173" width="60" height="4" rx="2" fill="#38bdf8"/>
+<text class="s" x="170" y="160">+0.15s each</text>
+
+</svg>

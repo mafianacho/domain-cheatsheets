@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="루프: 끝나면 처음으로 돌아가 반복">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;opacity:.75}.m{font-size:10px;opacity:.85}.c{text-anchor:middle}.e{text-anchor:end}.orb{transform-origin:110px 100px;animation:r 3s linear infinite}@keyframes r{to{transform:rotate(360deg)}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+
+<circle cx="110" cy="100" r="45" fill="none" stroke="#475569" stroke-width="3" stroke-dasharray="6 5"/>
+<polygon points="155,100 147,90 163,90" fill="#f59e0b" transform="rotate(8 155 100)"/>
+<text class="t c" x="110" y="108" style="fill:#f59e0b;font-size:24px">&#8734;</text>
+<g class="orb"><circle cx="110" cy="55" r="9" fill="#38bdf8"/></g>
+<line x1="205" y1="95" x2="295" y2="95" stroke="#475569" stroke-width="3"/>
+<circle cx="205" cy="95" r="4" fill="#f59e0b"/><circle cx="295" cy="95" r="4" fill="#f59e0b"/>
+<path d="M295 103 Q250 150 211 106" fill="none" stroke="#f59e0b" stroke-width="2" stroke-dasharray="4 3"/>
+<polygon points="205,100 218,107 208,115" fill="#f59e0b"/>
+<text class="s c" x="250" y="86">start → end</text><text class="s c" x="250" y="168">back to start</text>
+
+</svg>

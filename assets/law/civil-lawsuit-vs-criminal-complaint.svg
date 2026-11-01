@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" font-family="system-ui, sans-serif" role="img">
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<defs><marker id="a" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0L7 3.5L0 7z" fill="#94a3b8"/></marker></defs>
+<rect x="10" y="12" width="148" height="176" rx="10" fill="#1e293b"/>
+<rect x="162" y="12" width="148" height="176" rx="10" fill="#1e293b"/>
+<text x="84" y="34" font-size="13" font-weight="700" fill="#f59e0b" text-anchor="middle">민사소송</text>
+<text x="236" y="34" font-size="13" font-weight="700" fill="#38bdf8" text-anchor="middle">형사고소</text>
+<circle cx="40" cy="70" r="14" fill="#334155"/><text x="40" y="74" font-size="10" fill="#e2e8f0" text-anchor="middle">나</text>
+<circle cx="128" cy="70" r="14" fill="#334155"/><text x="128" y="74" font-size="10" fill="#e2e8f0" text-anchor="middle">상대</text>
+<line x1="56" y1="70" x2="110" y2="70" stroke="#f59e0b" stroke-width="2" marker-end="url(#a)"/>
+<text x="84" y="62" font-size="10" fill="#f59e0b" text-anchor="middle">돈·권리</text>
+<text x="84" y="108" font-size="10" fill="#e2e8f0" text-anchor="middle">목표: 내 돈·권리 되찾기</text>
+<text x="84" y="126" font-size="10" fill="#e2e8f0" text-anchor="middle">판단: 법원</text>
+<text x="84" y="144" font-size="10" fill="#e2e8f0" text-anchor="middle">결과: 지급·이행 판결</text>
+<text x="84" y="170" font-size="10" fill="#94a3b8" text-anchor="middle">사람 vs 사람</text>
+<circle cx="192" cy="70" r="14" fill="#334155"/><text x="192" y="74" font-size="10" fill="#e2e8f0" text-anchor="middle">나</text>
+<rect x="222" y="56" width="26" height="28" rx="5" fill="#334155"/><text x="235" y="74" font-size="9" fill="#e2e8f0" text-anchor="middle">수사</text>
+<circle cx="282" cy="70" r="14" fill="#334155"/><text x="282" y="74" font-size="10" fill="#e2e8f0" text-anchor="middle">상대</text>
+<line x1="208" y1="70" x2="220" y2="70" stroke="#38bdf8" stroke-width="2" marker-end="url(#a)"/>
+<line x1="250" y1="70" x2="264" y2="70" stroke="#38bdf8" stroke-width="2" marker-end="url(#a)"/>
+<text x="236" y="108" font-size="10" fill="#e2e8f0" text-anchor="middle">목표: 국가가 처벌</text>
+<text x="236" y="126" font-size="10" fill="#e2e8f0" text-anchor="middle">판단: 경찰·검찰·법원</text>
+<text x="236" y="144" font-size="10" fill="#e2e8f0" text-anchor="middle">결과: 벌금·징역 등</text>
+<text x="236" y="170" font-size="10" fill="#94a3b8" text-anchor="middle">돈을 받아주진 않음</text>
+</svg>

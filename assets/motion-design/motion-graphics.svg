@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="모션 그래픽스와 캐릭터 애니메이션의 차이">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;opacity:.75}.m{font-size:10px;opacity:.85}.c{text-anchor:middle}.e{text-anchor:end}.b{transform-box:fill-box;transform-origin:bottom;animation:g 2.4s ease-out infinite}.b2{animation-delay:.15s}.b3{animation-delay:.3s}.b4{animation-delay:.45s}@keyframes g{0%{transform:scaleY(.15)}60%,100%{transform:scaleY(1)}}.pu{animation:pu 1.2s ease-in-out infinite alternate;transform-box:fill-box;transform-origin:center}@keyframes pu{to{transform:scale(1.6)}}.bob{animation:bob .8s ease-in-out infinite alternate}@keyframes bob{to{transform:translateY(3px)}}.arm1,.arm2,.leg1,.leg2{animation:sw .8s ease-in-out infinite alternate}.arm1{transform-origin:236px 80px;--a:-35deg}.arm2{transform-origin:236px 80px;--a:35deg}.leg1{transform-origin:236px 100px;--a:-28deg}.leg2{transform-origin:236px 100px;--a:28deg}@keyframes sw{from{transform:rotate(var(--a))}to{transform:rotate(calc(var(--a) * -1))}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+
+<rect x="14" y="30" width="140" height="120" rx="8" fill="#1e293b"/><rect x="166" y="30" width="140" height="120" rx="8" fill="#1e293b"/>
+<rect x="28" y="44" width="64" height="8" rx="4" fill="#e2e8f0"/>
+<g fill="#f59e0b"><rect class="b b1" x="32" y="70" width="18" height="70"/><rect class="b b2" x="58" y="70" width="18" height="70"/><rect class="b b3" x="84" y="70" width="18" height="70" fill="#38bdf8"/><rect class="b b4" x="110" y="70" width="18" height="70"/></g>
+<circle class="pu" cx="130" cy="52" r="8" fill="#38bdf8"/>
+<g stroke="#e2e8f0" stroke-width="4" stroke-linecap="round" fill="none">
+<g class="bob"><circle cx="236" cy="62" r="10" fill="#f59e0b" stroke="none"/><line x1="236" y1="73" x2="236" y2="100"/>
+<line class="arm1" x1="236" y1="80" x2="236" y2="98"/><line class="arm2" x1="236" y1="80" x2="236" y2="98"/>
+<line class="leg1" x1="236" y1="100" x2="236" y2="126"/><line class="leg2" x1="236" y1="100" x2="236" y2="126"/></g></g>
+<text class="m c" x="84" y="172">Motion Graphics</text><text class="m c" x="236" y="172">Character Animation</text>
+<text class="s c" x="84" y="187">shapes, text, data</text><text class="s c" x="236" y="187">acting, story</text>
+
+</svg>

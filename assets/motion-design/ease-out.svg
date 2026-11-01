@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Ease-out easing">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;opacity:.75}.m{font-size:10px;opacity:.85}.c{text-anchor:middle}.e{text-anchor:end}.mk{animation:mk 2.8s linear infinite}@keyframes mk{0.00%{transform:translate(0.0px,-0.0px)}1.88%{transform:translate(3.8px,-4.7px)}3.75%{transform:translate(7.5px,-9.2px)}5.62%{transform:translate(11.2px,-13.6px)}7.50%{transform:translate(15.0px,-17.9px)}9.38%{transform:translate(18.8px,-22.1px)}11.25%{transform:translate(22.5px,-26.1px)}13.12%{transform:translate(26.2px,-30.1px)}15.00%{transform:translate(30.0px,-34.0px)}16.88%{transform:translate(33.8px,-37.8px)}18.75%{transform:translate(37.5px,-41.5px)}20.62%{transform:translate(41.2px,-45.1px)}22.50%{transform:translate(45.0px,-48.6px)}24.38%{transform:translate(48.8px,-52.1px)}26.25%{transform:translate(52.5px,-55.3px)}28.12%{transform:translate(56.2px,-58.5px)}30.00%{transform:translate(60.0px,-61.6px)}31.88%{transform:translate(63.8px,-64.6px)}33.75%{transform:translate(67.5px,-67.4px)}35.62%{transform:translate(71.2px,-70.1px)}37.50%{transform:translate(75.0px,-72.7px)}39.38%{transform:translate(78.8px,-75.2px)}41.25%{transform:translate(82.5px,-77.5px)}43.12%{transform:translate(86.2px,-79.6px)}45.00%{transform:translate(90.0px,-81.6px)}46.88%{transform:translate(93.8px,-83.4px)}48.75%{transform:translate(97.5px,-85.0px)}50.62%{transform:translate(101.2px,-86.4px)}52.50%{transform:translate(105.0px,-87.7px)}54.38%{transform:translate(108.8px,-88.6px)}56.25%{transform:translate(112.5px,-89.4px)}58.12%{transform:translate(116.2px,-89.8px)}60.00%{transform:translate(120.0px,-90.0px)}100%{transform:translate(120px,-90px)}}.tr{animation:tr 2.8s infinite}@keyframes tr{0%{transform:translateX(0);animation-timing-function:cubic-bezier(0,0,0.58,1)}60%{transform:translateX(106px)}100%{transform:translateX(106px)}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t" x="20" y="22">Ease-out</text>
+<text class="s e" x="146" y="36">progress</text>
+<line x1="26" y1="160" x2="152" y2="160" stroke="#475569" stroke-width="1.5"/>
+<line x1="26" y1="160" x2="26" y2="42" stroke="#475569" stroke-width="1.5"/>
+<line x1="26" y1="70" x2="146" y2="70" stroke="#334155" stroke-dasharray="3 3"/>
+<text class="s e" x="146" y="174">time</text>
+<path d="M26 160 C26.0 160.0 95.6 70.0 146 70" fill="none" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"/>
+<circle class="mk" cx="26" cy="160" r="5" fill="#e2e8f0"/>
+<line x1="190" y1="118" x2="296" y2="118" stroke="#475569" stroke-width="2"/>
+<circle cx="296" cy="118" r="8" fill="none" stroke="#475569" stroke-dasharray="3 3"/>
+<circle class="tr" cx="190" cy="118" r="8" fill="#38bdf8"/>
+<text class="s c" x="243" y="146">slow end</text>
+<text class="s" x="20" y="190">cubic-bezier(0, 0, 0.58, 1)</text>
+</svg>

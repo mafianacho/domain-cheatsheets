@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="패럴랙스: 멀리 있는 층은 느리게, 가까운 층은 빠르게">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;opacity:.75}.m{font-size:10px;opacity:.85}.c{text-anchor:middle}.e{text-anchor:end}.l0{animation:p0 3s ease-in-out infinite alternate}.l1{animation:p1 3s ease-in-out infinite alternate}.l2{animation:p2 3s ease-in-out infinite alternate}.l3{animation:p3 3s ease-in-out infinite alternate}@keyframes p0{from{transform:translateX(3px)}to{transform:translateX(-3px)}}@keyframes p1{from{transform:translateX(10px)}to{transform:translateX(-10px)}}@keyframes p2{from{transform:translateX(24px)}to{transform:translateX(-24px)}}@keyframes p3{from{transform:translateX(46px)}to{transform:translateX(-46px)}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+
+<defs><clipPath id="w"><rect x="30" y="34" width="260" height="122" rx="8"/></clipPath></defs>
+<g clip-path="url(#w)">
+<rect x="30" y="34" width="260" height="122" fill="#1e293b"/>
+<g class="l0"><circle cx="230" cy="64" r="14" fill="#f59e0b"/></g>
+<g class="l1"><path d="M-20 150 L40 80 L90 130 L150 70 L210 130 L270 76 L340 150 Z" fill="#334155"/></g>
+<g class="l2"><path d="M-20 156 Q40 100 100 130 T220 120 T340 156 Z" fill="#475569"/></g>
+<g class="l3" fill="#38bdf8"><path d="M10 156 L28 110 L46 156Z M90 156 L112 100 L134 156Z M180 156 L198 114 L216 156Z M250 156 L272 104 L294 156Z"/></g>
+</g>
+<rect x="30" y="34" width="260" height="122" rx="8" fill="none" stroke="#475569" stroke-width="2"/>
+<text class="s" x="30" y="178">far = moves little, near = moves a lot</text>
+
+</svg>

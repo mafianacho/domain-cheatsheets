@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="키프레임: 시작·중간·끝 지점만 정하면 사이는 자동">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;opacity:.75}.m{font-size:10px;opacity:.85}.c{text-anchor:middle}.e{text-anchor:end}.ball{transform-box:fill-box;transform-origin:center;animation:b 3s linear infinite}.head{animation:h 3s linear infinite}@keyframes b{0%{transform:translateX(0) scale(.45)}50%{transform:translateX(120px) scale(1)}100%{transform:translateX(240px) scale(.45)}}@keyframes h{0%{transform:translateX(0)}100%{transform:translateX(240px)}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+
+<line x1="30" y1="165" x2="290" y2="165" stroke="#475569" stroke-width="2"/>
+<g stroke="#475569" stroke-dasharray="3 3"><line x1="40" y1="100" x2="40" y2="158"/><line x1="160" y1="100" x2="160" y2="158"/><line x1="280" y1="100" x2="280" y2="158"/></g>
+<g fill="none" stroke="#f59e0b" stroke-dasharray="4 3" stroke-width="1.5"><circle cx="40" cy="72" r="10"/><circle cx="160" cy="72" r="22"/><circle cx="280" cy="72" r="10"/></g>
+<g fill="#f59e0b"><rect x="33" y="158" width="14" height="14" transform="rotate(45 40 165)"/><rect x="153" y="158" width="14" height="14" transform="rotate(45 160 165)"/><rect x="273" y="158" width="14" height="14" transform="rotate(45 280 165)"/></g>
+<text class="s c" x="160" y="190">keyframe</text>
+<text class="s c" x="40" y="190">0s</text><text class="s c" x="280" y="190">2s</text>
+<circle class="ball" cx="40" cy="72" r="22" fill="#38bdf8"/>
+<line class="head" x1="40" y1="120" x2="40" y2="175" stroke="#e2e8f0" stroke-width="2"/>
+
+</svg>

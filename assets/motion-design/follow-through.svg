@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="팔로스루: 몸이 멈춰도 달린 부분은 조금 더 움직이다 멈춤">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;opacity:.75}.m{font-size:10px;opacity:.85}.c{text-anchor:middle}.e{text-anchor:end}.mv{animation:m 3s infinite}.an{transform-origin:75px 86px;animation:an 3s infinite}@keyframes m{0%{transform:translateX(0);opacity:1;animation-timing-function:cubic-bezier(.2,.7,.4,1)}35%{transform:translateX(140px)}88%{transform:translateX(140px);opacity:1}92%{transform:translateX(140px);opacity:0}93%{transform:translateX(0);opacity:0}100%{transform:translateX(0);opacity:1}}@keyframes an{0%{transform:rotate(0);animation-timing-function:ease-out}15%{transform:rotate(-22deg)}35%{transform:rotate(-22deg);animation-timing-function:ease-out}45%{transform:rotate(18deg);animation-timing-function:ease-in-out}55%{transform:rotate(-8deg);animation-timing-function:ease-in-out}65%{transform:rotate(3deg)}75%,100%{transform:rotate(0)}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+
+<line x1="20" y1="122" x2="300" y2="122" stroke="#475569" stroke-width="2"/>
+<rect x="190" y="86" width="50" height="36" rx="4" fill="none" stroke="#475569" stroke-dasharray="3 3"/>
+<g class="mv">
+<g class="an"><line x1="75" y1="86" x2="75" y2="50" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"/><circle cx="75" cy="46" r="6" fill="#f59e0b"/></g>
+<rect x="50" y="86" width="50" height="36" rx="4" fill="#38bdf8"/>
+</g>
+<path d="M205 40 Q225 36 232 56" fill="none" stroke="#f59e0b" stroke-dasharray="3 3"/>
+<text class="s" x="20" y="158">the box stops, the antenna keeps going, then settles</text>
+
+</svg>

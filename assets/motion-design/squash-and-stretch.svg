@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="스쿼시 앤 스트레치: 떨어질 땐 길게, 닿을 땐 납작하게">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;opacity:.75}.m{font-size:10px;opacity:.85}.c{text-anchor:middle}.e{text-anchor:end}.up{animation:u 1.4s linear infinite}.bl{transform-origin:230px 165px;animation:q 1.4s linear infinite}.sh{transform-box:fill-box;transform-origin:center;animation:sh 1.4s linear infinite}@keyframes u{0%{transform:translateY(-100px);animation-timing-function:ease-in}45%,55%{transform:translateY(0);animation-timing-function:ease-out}100%{transform:translateY(-100px)}}@keyframes q{0%{transform:scale(1,1)}32%{transform:scale(.88,1.2)}45%{transform:scale(1.35,.65)}55%{transform:scale(1.15,.8)}68%{transform:scale(.92,1.1)}80%,100%{transform:scale(1,1)}}@keyframes sh{0%,100%{transform:scale(.5);opacity:.15}45%,55%{transform:scale(1.3);opacity:.5}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+
+<line x1="20" y1="165" x2="300" y2="165" stroke="#475569" stroke-width="3"/>
+<g fill="none" stroke="#f59e0b" stroke-dasharray="3 3" stroke-width="1.5">
+<ellipse cx="40" cy="139" rx="14" ry="26"/><circle cx="90" cy="147" r="18"/><ellipse cx="144" cy="154" rx="27" ry="11"/></g>
+<text class="s c" x="40" y="180">stretch</text><text class="s c" x="90" y="180">normal</text><text class="s c" x="144" y="180">squash</text>
+<ellipse class="sh" cx="230" cy="166" rx="16" ry="3" fill="#000" opacity=".4"/>
+<g class="up"><circle class="bl" cx="230" cy="147" r="18" fill="#38bdf8"/></g>
+
+</svg>

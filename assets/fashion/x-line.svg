@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200">
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<path d="M104,10 L216,10 L160,100 Z M160,100 L246,186 L74,186 Z" fill="none" stroke="#38bdf8" stroke-width="1.8" stroke-dasharray="5 4" stroke-linecap="round" stroke-linejoin="round"/><path d="M138,16 L150,16 Q160,34 170,16 L182,16 L190,54 Q178,80 180,100 L234,180 L86,180 L140,100 Q142,80 130,54 Z" fill="#1e293b" stroke="#e2e8f0" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" /><path d="M140,100 L180,100" fill="none" stroke="#f59e0b" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/><text x="272" y="52" font-size="40" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">X</text>
+</svg>

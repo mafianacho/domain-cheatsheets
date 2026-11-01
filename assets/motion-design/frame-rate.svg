@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="프레임 레이트: 초당 장면 수가 많을수록 부드럽다">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;opacity:.75}.m{font-size:10px;opacity:.85}.c{text-anchor:middle}.e{text-anchor:end}.c1{animation:a 2.4s infinite}.c2{animation:b 2.4s linear infinite}@keyframes a{0%{transform:translateX(0);animation-timing-function:steps(8,end)}85%,100%{transform:translateX(240px)}}@keyframes b{0%{transform:translateX(0)}85%,100%{transform:translateX(240px)}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+
+<text class="m" x="30" y="42">12 fps (choppy)</text><text class="m" x="30" y="112">60 fps (smooth)</text>
+<circle cx="30" cy="65" r="5" fill="none" stroke="#475569"/><circle cx="60" cy="65" r="5" fill="none" stroke="#475569"/><circle cx="90" cy="65" r="5" fill="none" stroke="#475569"/><circle cx="120" cy="65" r="5" fill="none" stroke="#475569"/><circle cx="150" cy="65" r="5" fill="none" stroke="#475569"/><circle cx="180" cy="65" r="5" fill="none" stroke="#475569"/><circle cx="210" cy="65" r="5" fill="none" stroke="#475569"/><circle cx="240" cy="65" r="5" fill="none" stroke="#475569"/><circle cx="270" cy="65" r="5" fill="none" stroke="#475569"/>
+<line x1="30" y1="135" x2="270" y2="135" stroke="#475569" stroke-width="2" stroke-dasharray="1 3" stroke-linecap="round"/>
+<circle class="c1" cx="30" cy="65" r="9" fill="#f59e0b"/><circle class="c2" cx="30" cy="135" r="9" fill="#38bdf8"/>
+<text class="s" x="30" y="180">fps = frames per second</text>
+
+</svg>

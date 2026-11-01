@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="움직임 줄이기 설정: 켠 사용자에게는 큰 움직임을 끄고 은은한 효과만">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;opacity:.75}.m{font-size:10px;opacity:.85}.c{text-anchor:middle}.e{text-anchor:end}.sl{animation:s 2.4s ease-in-out infinite}.fd{animation:f 2.4s ease-in-out infinite}@keyframes s{0%{transform:translateX(0)}50%,100%{transform:translateX(122px)}}@keyframes f{0%,100%{opacity:.1}50%{opacity:1}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+
+<rect x="14" y="46" width="110" height="88" rx="10" fill="#1e293b" stroke="#475569" stroke-width="2"/>
+<text class="m c" x="69" y="70">Reduce motion</text>
+<rect x="44" y="86" width="50" height="26" rx="13" fill="#f59e0b"/><circle cx="81" cy="99" r="10" fill="#0f172a"/>
+<text class="s c" x="69" y="150">phone / PC setting</text>
+<path d="M130 90 H146 M140 84 L146 90 L140 96" fill="none" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"/>
+<text class="m" x="158" y="46">default</text>
+<line x1="158" y1="66" x2="292" y2="66" stroke="#475569" stroke-width="2"/><circle class="sl" cx="162" cy="66" r="8" fill="#38bdf8"/>
+<text class="m" x="158" y="110">reduced</text>
+<line x1="158" y1="130" x2="292" y2="130" stroke="#475569" stroke-width="2"/><circle class="fd" cx="225" cy="130" r="8" fill="#38bdf8"/>
+<text class="s" x="158" y="154">big movement</text><text class="s" x="158" y="166">becomes a gentle fade</text>
+
+</svg>

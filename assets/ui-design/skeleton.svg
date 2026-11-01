@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200" role="img">
+<style>@keyframes sh{0%,100%{opacity:.35}50%{opacity:1}}.sh{animation:sh 1.6s ease-in-out infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<rect x="16" y="16" width="288" height="168" rx="10" fill="#1e293b" stroke="#475569" stroke-width="1" /><rect x="28" y="28" width="264" height="144" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1" /><g class="sh" ><circle cx="56" cy="56" r="18" fill="#334155" /><rect x="84" y="46" width="110" height="9" rx="4" fill="#334155" /><rect x="84" y="62" width="70" height="7" rx="3" fill="#334155" /><rect x="40" y="92" width="240" height="40" rx="6" fill="#334155" /><rect x="40" y="142" width="200" height="8" rx="4" fill="#334155" /><rect x="40" y="156" width="150" height="8" rx="4" fill="#334155" /></g>
+</svg>

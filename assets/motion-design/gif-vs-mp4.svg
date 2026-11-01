@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="GIF와 MP4: GIF는 파일이 크고 색이 적다">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;opacity:.75}.m{font-size:10px;opacity:.85}.c{text-anchor:middle}.e{text-anchor:end}.big{transform-box:fill-box;transform-origin:left;animation:b 3s ease-out infinite}.small{transform-box:fill-box;transform-origin:left;animation:s 3s ease-out infinite}@keyframes b{0%{transform:scaleX(.1)}60%,100%{transform:scaleX(1)}}@keyframes s{0%{transform:scaleX(.1)}60%,100%{transform:scaleX(1)}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#f59e0b"/><stop offset=".5" stop-color="#e2e8f0"/><stop offset="1" stop-color="#38bdf8"/></linearGradient></defs>
+<text class="t c" x="82" y="26">GIF</text><text class="t c" x="238" y="26">MP4 / WebM</text>
+<rect x="32" y="36" width="100" height="56" rx="6" fill="#1e293b"/>
+<g><rect x="32" y="36" width="20" height="56" fill="#f59e0b"/><rect x="52" y="36" width="20" height="56" fill="#fbd38d"/><rect x="72" y="36" width="20" height="56" fill="#e2e8f0"/><rect x="92" y="36" width="20" height="56" fill="#7dd3fc"/><rect x="112" y="36" width="20" height="56" fill="#38bdf8"/></g>
+<rect x="188" y="36" width="100" height="56" rx="6" fill="url(#g)"/>
+<text class="s c" x="82" y="108">max 256 colors</text><text class="s c" x="238" y="108">millions of colors</text>
+<text class="s c" x="82" y="121">no sound</text><text class="s c" x="238" y="121">sound OK</text>
+<text class="s" x="32" y="148">file size</text>
+<rect x="32" y="154" width="124" height="10" rx="5" fill="#334155"/><rect class="big" x="32" y="154" width="124" height="10" rx="5" fill="#f59e0b"/>
+<rect x="188" y="154" width="124" height="10" rx="5" fill="#334155"/><rect class="small" x="188" y="154" width="24" height="10" rx="5" fill="#38bdf8"/>
+<text class="s c" x="94" y="182">usually bigger</text><text class="s c" x="250" y="182">usually much smaller</text>
+
+</svg>
