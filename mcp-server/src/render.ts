@@ -10,6 +10,10 @@ export const GROUP_LABELS: Record<string, string> = {
 };
 
 const GRID_COLUMNS = 3;
+const INDEX_COLUMNS = 2;
+
+/** README-relative path of a sheet's animated preview (built by scripts/previews.ts). */
+export const previewPath = (id: string) => `assets/previews/${id}.gif`;
 
 function esc(s: string): string {
   return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -69,11 +73,18 @@ export function renderIndex(sheets: Cheatsheet[]): string {
   for (const g of order) {
     const list = groups.get(g);
     if (!list) continue;
-    out.push(`### ${GROUP_LABELS[g] ?? g}`, "", "| 도메인 | 이럴 때 펼쳐 보세요 | 용어 |", "|---|---|---:|");
-    for (const s of list) {
-      out.push(`| [${s.title} · ${s.titleEn}](cheatsheets/${s.id}.md) | ${plain(s.summary).replace(/\|/g, "\\|")} | ${s.terms.length} |`);
+    out.push(`### ${GROUP_LABELS[g] ?? g}`, "", "<table>");
+    for (let i = 0; i < list.length; i += INDEX_COLUMNS) {
+      out.push("<tr>");
+      for (const s of list.slice(i, i + INDEX_COLUMNS)) {
+        const href = `cheatsheets/${s.id}.md`;
+        out.push(
+          `<td width="${Math.floor(100 / INDEX_COLUMNS)}%" valign="top"><a href="${href}"><img src="${previewPath(s.id)}" alt="${esc(s.title)} 치트시트 미리보기" width="100%"></a><br><b><a href="${href}">${esc(s.title)} · ${esc(s.titleEn)}</a></b> <sub>용어 ${s.terms.length}개</sub><br><sub>${esc(plain(s.summary))}</sub></td>`,
+        );
+      }
+      out.push("</tr>");
     }
-    out.push("");
+    out.push("</table>", "");
   }
   out.push(INDEX_END);
   return out.join("\n");

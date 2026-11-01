@@ -73,6 +73,7 @@ HOST=127.0.0.1 PORT=8787 npm run start:http
 
 ```bash
 npm run generate   # 시트의 '한눈에 보기' 표와 README 도메인 목록 갱신
+npm run previews   # README용 시트별 미리보기 GIF (assets/previews/) 생성, Chrome 필요 (CHROME_BIN)
 npm run check      # 시트 형식·그림·링크·자동 생성 구역 검사 (CI와 같음)
 npm test           # 파서 + MCP(stdio, HTTP) 시험
 ```

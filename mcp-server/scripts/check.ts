@@ -3,7 +3,7 @@
 import { existsSync, readFileSync, readdirSync } from "node:fs";
 import { join, dirname, resolve, relative } from "node:path";
 import { defaultRepoRoot, loadCheatsheets, parseCheatsheet, type Cheatsheet } from "../src/cheatsheets.js";
-import { applyOverview, renderIndex, replaceBetween, INDEX_START, INDEX_END } from "../src/render.js";
+import { applyOverview, renderIndex, replaceBetween, previewPath, INDEX_START, INDEX_END } from "../src/render.js";
 
 const root = defaultRepoRoot();
 const only = process.argv[2];
@@ -50,7 +50,15 @@ for (const sheet of sheets) {
   }
 }
 
-const assetDirs = only ? (existsSync(join(root, "assets", only)) ? [only] : []) : readdirSync(join(root, "assets"));
+const PREVIEWS = "previews";
+if (!only) {
+  const dir = join(root, "assets", PREVIEWS);
+  const files = existsSync(dir) ? readdirSync(dir) : [];
+  for (const s of sheets) if (!files.includes(`${s.id}.gif`)) errors.push(`${previewPath(s.id)}: missing — run 'npm run previews'`);
+  for (const f of files) if (!sheets.some((s) => `${s.id}.gif` === f)) errors.push(`assets/${PREVIEWS}/${f}: no cheatsheet with this id`);
+}
+
+const assetDirs = only ? (existsSync(join(root, "assets", only)) ? [only] : []) : readdirSync(join(root, "assets")).filter((d) => d !== PREVIEWS);
 for (const dir of assetDirs) {
   const full = join(root, "assets", dir);
   const sheet = sheets.find((s) => s.id === dir);

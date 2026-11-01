@@ -20,6 +20,7 @@
    cd mcp-server
    npm ci
    npm run generate   # 한눈에 보기 표와 README 목록 갱신
+   npm run previews   # README의 시트별 미리보기 GIF 다시 만들기 (Chrome/Chromium 필요)
    npm run check      # 형식·그림·링크 검사
    npm test           # MCP 서버 시험
    ```

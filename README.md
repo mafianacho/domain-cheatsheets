@@ -17,20 +17,28 @@ UI 디자인, 모션, 3D 모델링 같은 기술 분야부터 법, 패션, 건�
 
 ### 기술 · 디자인
 
-| 도메인 | 이럴 때 펼쳐 보세요 | 용어 |
-|---|---|---:|
-| [3D 모델링 · 3D Modeling](cheatsheets/3d-modeling.md) | 3D 모델·캐릭터·소품을 AI나 3D 아티스트에게 주문하거나 검수할 때 쓰는 형태·표면·움직임·렌더·파일 용어 | 30 |
-| [모션 디자인 · Motion Design](cheatsheets/motion-design.md) | 앱·웹·영상 인트로·로고에 움직임을 넣고 싶은데 뭐라고 말해야 할지 모를 때 펼치는 타이밍·이징·기법·형식 용어 | 28 |
-| [UI 디자인 · UI Design](cheatsheets/ui-design.md) | 화면의 레이아웃·내비게이션·컴포넌트·효과를 AI에게 말로 정확히 설명해야 할 때 펼치는 용어집 | 36 |
+<table>
+<tr>
+<td width="50%" valign="top"><a href="cheatsheets/3d-modeling.md"><img src="assets/previews/3d-modeling.gif" alt="3D 모델링 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/3d-modeling.md">3D 모델링 · 3D Modeling</a></b> <sub>용어 30개</sub><br><sub>3D 모델·캐릭터·소품을 AI나 3D 아티스트에게 주문하거나 검수할 때 쓰는 형태·표면·움직임·렌더·파일 용어</sub></td>
+<td width="50%" valign="top"><a href="cheatsheets/motion-design.md"><img src="assets/previews/motion-design.gif" alt="모션 디자인 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/motion-design.md">모션 디자인 · Motion Design</a></b> <sub>용어 28개</sub><br><sub>앱·웹·영상 인트로·로고에 움직임을 넣고 싶은데 뭐라고 말해야 할지 모를 때 펼치는 타이밍·이징·기법·형식 용어</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="cheatsheets/ui-design.md"><img src="assets/previews/ui-design.gif" alt="UI 디자인 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/ui-design.md">UI 디자인 · UI Design</a></b> <sub>용어 36개</sub><br><sub>화면의 레이아웃·내비게이션·컴포넌트·효과를 AI에게 말로 정확히 설명해야 할 때 펼치는 용어집</sub></td>
+</tr>
+</table>
 
 ### 전문 분야
 
-| 도메인 | 이럴 때 펼쳐 보세요 | 용어 |
-|---|---|---:|
-| [회계 · 세무 기초 · Accounting & Tax Basics](cheatsheets/accounting.md) | 재무제표를 읽고, 세무사와 대화하고, AI에게 장부·대시보드를 시킬 때 필요한 회계·세무 기본 용어 | 32 |
-| [건설 · 인테리어 · Construction & Interior](cheatsheets/construction.md) | 가게·집 공사, 작은 건물 신축, 시공사 견적서·도면을 볼 때 쓰는 도면·면적·구조·마감·계약 용어 | 34 |
-| [패션 · Fashion](cheatsheets/fashion.md) | 옷을 AI 이미지 생성기·스타일리스트·봉제 공장에 정확히 설명해야 할 때 쓰는 실루엣·디테일·소재·무늬·생산 용어 | 32 |
-| [법률 기초 · Law Basics](cheatsheets/law.md) | 계약·분쟁·지식재산·개인정보·사업 관련 법률 용어를 모를 때, AI나 변호사에게 정확히 말하기 위해 여는 시트 | 30 |
+<table>
+<tr>
+<td width="50%" valign="top"><a href="cheatsheets/accounting.md"><img src="assets/previews/accounting.gif" alt="회계 · 세무 기초 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/accounting.md">회계 · 세무 기초 · Accounting &amp; Tax Basics</a></b> <sub>용어 32개</sub><br><sub>재무제표를 읽고, 세무사와 대화하고, AI에게 장부·대시보드를 시킬 때 필요한 회계·세무 기본 용어</sub></td>
+<td width="50%" valign="top"><a href="cheatsheets/construction.md"><img src="assets/previews/construction.gif" alt="건설 · 인테리어 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/construction.md">건설 · 인테리어 · Construction &amp; Interior</a></b> <sub>용어 34개</sub><br><sub>가게·집 공사, 작은 건물 신축, 시공사 견적서·도면을 볼 때 쓰는 도면·면적·구조·마감·계약 용어</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="cheatsheets/fashion.md"><img src="assets/previews/fashion.gif" alt="패션 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/fashion.md">패션 · Fashion</a></b> <sub>용어 32개</sub><br><sub>옷을 AI 이미지 생성기·스타일리스트·봉제 공장에 정확히 설명해야 할 때 쓰는 실루엣·디테일·소재·무늬·생산 용어</sub></td>
+<td width="50%" valign="top"><a href="cheatsheets/law.md"><img src="assets/previews/law.gif" alt="법률 기초 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/law.md">법률 기초 · Law Basics</a></b> <sub>용어 30개</sub><br><sub>계약·분쟁·지식재산·개인정보·사업 관련 법률 용어를 모를 때, AI나 변호사에게 정확히 말하기 위해 여는 시트</sub></td>
+</tr>
+</table>
 
 <!-- index:end -->
 
@@ -69,6 +77,7 @@ Claude, Cursor, Codex 같은 MCP 클라이언트에 이 저장소의 MCP 서버�
 README.md            ← 지금 이 페이지 (도메인 목록)
 cheatsheets/         ← 도메인별 시트. 파일 하나에 그 도메인의 모든 용어
 assets/<도메인>/     ← 시트에 들어가는 그림 (SVG)
+assets/previews/     ← 위 목록의 시트별 미리보기 GIF (자동 생성)
 docs/                ← 작성 규칙(FORMAT), 템플릿, 그림·영상 가이드
 mcp-server/          ← AI 에이전트용 MCP 서버 (stdio · Streamable HTTP)
 ```

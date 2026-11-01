@@ -5,6 +5,7 @@ import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { parseCheatsheet, githubAnchor, slugify, searchTerms, findTerm, FormatError, loadCheatsheets } from "../src/cheatsheets.js";
 import { renderOverview, applyOverview, renderIndex } from "../src/render.js";
+import { encodeGif, FRAME_W, FRAME_H } from "../scripts/previews.js";
 
 const here = dirname(fileURLToPath(import.meta.url));
 const fixtureRoot = resolve(here, "../../test/fixtures/repo");
@@ -60,9 +61,21 @@ test("overview grid links every term and is idempotent", () => {
   assert.deepEqual(parseCheatsheet(once).terms, s.terms.map((t) => ({ ...t })));
 });
 
-test("README index lists sheets with term counts", () => {
+test("README index is a GIF table linking each sheet with its term count", () => {
   const idx = renderIndex([parseCheatsheet(sample)]);
-  assert.match(idx, /\| \[샘플 · Sample\]\(cheatsheets\/sample\.md\) \| 시험용 시트 \| 3 \|/);
+  assert.match(idx, /<a href="cheatsheets\/sample\.md"><img src="assets\/previews\/sample\.gif" alt="샘플 치트시트 미리보기" width="100%"><\/a>/);
+  assert.match(idx, /<b><a href="cheatsheets\/sample\.md">샘플 · Sample<\/a><\/b> <sub>용어 3개<\/sub><br><sub>시험용 시트<\/sub>/);
+  assert.match(idx, /### 기술 · 디자인\n\n<table>\n<tr>/);
+});
+
+test("GIF encoder writes a looping animated GIF with one image per frame", () => {
+  const frame = (v: number) => Buffer.alloc(FRAME_W * FRAME_H * 4, v);
+  const bytes = Buffer.from(encodeGif([frame(0), frame(200)], [1000, 1000]));
+  assert.equal(bytes.subarray(0, 6).toString("latin1"), "GIF89a");
+  assert.equal(bytes.readUInt16LE(6), FRAME_W);
+  assert.equal(bytes.readUInt16LE(8), FRAME_H);
+  assert.ok(bytes.includes(Buffer.from("NETSCAPE2.0", "latin1")), "loop extension");
+  assert.equal(bytes.filter((b, i) => b === 0x21 && bytes[i + 1] === 0xf9).length >= 2, true);
 });
 
 test("search ranks exact names first and handles Korean and spacing", () => {

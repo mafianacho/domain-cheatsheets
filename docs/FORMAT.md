@@ -80,5 +80,5 @@ video:                        # (선택) 이 시트 전체 해설 YouTube 링크
 
 1. [TEMPLATE.md](TEMPLATE.md)를 `cheatsheets/<id>.md`로 복사
 2. 용어 작성, 그림은 `assets/<id>/`
-3. `cd mcp-server && npm ci && npm run generate && npm run check`
+3. `cd mcp-server && npm ci && npm run generate && npm run previews && npm run check` (`previews`는 Chrome/Chromium이 필요하며, 없으면 `CHROME_BIN`으로 경로 지정)
 4. PR

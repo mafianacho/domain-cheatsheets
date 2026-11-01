@@ -21,7 +21,9 @@ async function exercise(client: Client) {
   assert.deepEqual(tools, ["get_cheatsheet", "get_term", "list_domains", "search_terms"]);
   for (const t of (await client.listTools()).tools) assert.equal(t.annotations?.readOnlyHint, true, t.name);
 
-  assert.match(textOf(await client.callTool({ name: "list_domains", arguments: {} })), /\*\*sample\*\* — 샘플 · Sample: 시험용 시트/);
+  const domains = textOf(await client.callTool({ name: "list_domains", arguments: {} }));
+  assert.match(domains, /\*\*sample\*\* — 샘플 · Sample: 시험용 시트/);
+  assert.match(domains, /preview: https:\/\/raw\.githubusercontent\.com\/mafianacho\/domain-cheatsheets\/main\/assets\/previews\/sample\.gif/);
 
   const search = textOf(await client.callTool({ name: "search_terms", arguments: { query: "도시락" } }));
   assert.match(search, /Bento Grid · 벤토 그리드\*\* \(`sample\/bento-grid`/);

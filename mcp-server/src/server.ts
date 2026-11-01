@@ -80,7 +80,10 @@ export function createServer(sheets: Cheatsheet[], opts: ServerOptions = {}): Mc
       if (!list.length) return text(`No domain has tag '${tag}'. Tags in use: ${[...new Set(sheets.flatMap((s) => s.tags))].sort().join(", ")}`);
       return text(
         list
-          .map((s) => `- **${s.id}** — ${s.title} · ${s.titleEn}: ${s.summary}\n  - terms: ${s.terms.length} · categories: ${s.categories.join(" / ")} · tags: ${s.tags.join(", ")}`)
+          .map(
+            (s) =>
+              `- **${s.id}** — ${s.title} · ${s.titleEn}: ${s.summary}\n  - terms: ${s.terms.length} · categories: ${s.categories.join(" / ")} · tags: ${s.tags.join(", ")}\n  - page: ${pageUrl(s)} · preview: ${rawBase}assets/previews/${s.id}.gif`,
+          )
           .join("\n"),
       );
     },
