@@ -2,7 +2,7 @@
 // Usage: node dist/scripts/check.js [sheet-id]   (with an id, only that sheet and its assets are checked)
 import { existsSync, readFileSync, readdirSync } from "node:fs";
 import { join, dirname, resolve, relative } from "node:path";
-import { defaultRepoRoot, loadCheatsheets, parseCheatsheet, type Cheatsheet } from "../src/cheatsheets.js";
+import { defaultRepoRoot, loadCheatsheets, parseCheatsheet, normalize, type Cheatsheet } from "../src/cheatsheets.js";
 import { applyOverview, renderIndex, replaceBetween, previewPath, INDEX_START, INDEX_END } from "../src/render.js";
 
 const root = defaultRepoRoot();
@@ -21,17 +21,18 @@ try {
 
 const YOUTUBE = /^https:\/\/(www\.)?(youtube\.com\/(watch\?v=|playlist\?list=)|youtu\.be\/)[\w-]+/;
 
-function checkLinks(file: string, text: string) {
+function checkLinks(file: string, raw: string) {
+  const text = raw.replace(/^```[\s\S]*?^```/gm, ""); // examples in fenced code are not links
   const targets = [
     ...[...text.matchAll(/<img\s[^>]*src="([^"]+)"/g)].map((m) => m[1]!),
     ...[...text.matchAll(/!?\[[^\]]*\]\(([^)\s]+)\)/g)].map((m) => m[1]!),
   ];
-  for (const raw of targets) {
-    if (/^(https?:|mailto:|#)/.test(raw)) continue;
-    const path = decodeURIComponent(raw.split("#")[0]!);
+  for (const target of targets) {
+    if (/^(https?:|mailto:|#)/.test(target)) continue;
+    const path = decodeURIComponent(target.split("#")[0]!);
     const abs = resolve(dirname(join(root, file)), path);
-    if (relative(root, abs).startsWith("..")) errors.push(`${file}: link escapes the repo: ${raw}`);
-    else if (!existsSync(abs)) errors.push(`${file}: broken link ${raw}`);
+    if (relative(root, abs).startsWith("..")) errors.push(`${file}: link escapes the repo: ${target}`);
+    else if (!existsSync(abs)) errors.push(`${file}: broken link ${target}`);
   }
 }
 
@@ -46,6 +47,44 @@ for (const sheet of sheets) {
     if (t.image) {
       if (!t.image.startsWith(`../assets/${sheet.id}/`)) errors.push(`${sheet.file}: term ${t.id} image must live in assets/${sheet.id}/`);
       usedAssets.add(resolve(root, "cheatsheets", t.image));
+    }
+  }
+}
+
+// Numbers, deadlines and statute articles in professional (korea-tagged) sheets need 근거 + 검증일.
+export const CLAIM = /\d[\d,.]*\s?(%|년|개월|일|주|시간|원|만\s?원|억|㎡)|제\s?\d+\s?조/;
+const today = new Date(Date.now() + 9 * 3600_000).toISOString().slice(0, 10); // KST date
+for (const sheet of sheets) {
+  for (const t of sheet.terms) {
+    const where = `${sheet.file}: term ${t.id}`;
+    if (sheet.tags.includes("korea") && !t.canonical) {
+      const claimText = [t.definition, t.when ?? "", t.confusedWith ?? ""].join(" ");
+      if (CLAIM.test(claimText) && !t.source) errors.push(`${where} states a number/deadline/article ('${CLAIM.exec(claimText)![0]}') — add '- **근거**:' and '- **검증일**:'`);
+    }
+    if (t.source && !/\]\(https:\/\/[^)\s]+\)/.test(t.source)) errors.push(`${where}: 근거 needs at least one [name](https://...) link`);
+    if (t.source && /\]\(http:\/\//.test(t.source)) errors.push(`${where}: 근거 links must be https`);
+    if (t.verified && t.verified > today) errors.push(`${where}: 검증일 ${t.verified} is in the future`);
+  }
+}
+
+// Cross-references must point at an existing, non-reference term; the same term may not be defined twice.
+if (!only) {
+  const byId = new Map(sheets.map((s) => [s.id, s]));
+  const owners = new Map<string, string>();
+  for (const sheet of sheets) {
+    for (const t of sheet.terms) {
+      if (t.canonicalRef) {
+        const target = byId.get(t.canonicalRef.domain)?.terms.find((x) => x.anchor === t.canonicalRef!.anchor);
+        if (!target) errors.push(`${sheet.file}: term ${t.id} 원본 points at a missing term (${t.canonical})`);
+        else if (target.canonical) errors.push(`${sheet.file}: term ${t.id} 원본 points at another cross-reference`);
+        continue;
+      }
+      for (const n of t.names) {
+        const key = normalize(n);
+        const prev = owners.get(key);
+        if (prev && !prev.startsWith(`${sheet.id}/`)) errors.push(`term name '${n}' is defined in both ${prev} and ${sheet.id}/${t.id} — keep one and make the other a 원본 cross-reference`);
+        owners.set(key, `${sheet.id}/${t.id}`);
+      }
     }
   }
 }

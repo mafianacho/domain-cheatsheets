@@ -12,7 +12,7 @@ video:
 
 > 가게나 집을 고치거나 작은 건물을 지을 때, 시공사 견적서와 도면을 받았는데 무슨 말인지 모를 때 펼치는 시트입니다. 같은 단어로 AI·시공사와 이야기하면 오해가 줄어듭니다.
 
-> **참고용 · 대한민국 기준 · 2026-11 기준.** 구조·안전·인허가 판단은 건축사·구조기술사·시공사와 확인하세요. 이 시트는 용어를 이해하기 위한 안내이며 법률·구조 판단을 대신하지 않습니다. 법 기준은 지역·건물 종류·규모에 따라 달라지고 바뀔 수 있어 구체적인 숫자는 일부러 적지 않았습니다.
+> **참고용 · 대한민국 기준 · 2026-11 기준.** 구조·안전·인허가 판단은 건축사·구조기술사·시공사와 확인하세요. 이 시트는 용어를 이해하기 위한 안내이며 법률·구조 판단을 대신하지 않습니다. 법 기준은 지역·건물 종류·규모에 따라 달라지고 바뀔 수 있습니다. 숫자와 조문은 `근거`·`검증일`이 붙은 항목에만 적었으니 원문에서 다시 확인하세요.
 
 ## 이렇게 쓰세요
 
@@ -45,18 +45,18 @@ video:
 
 <table>
 <tr>
-<td width="33%" valign="top"><a href="#exclusive-area--전용면적"><img src="../assets/construction/exclusive-area.svg" alt="Exclusive Area" width="100%"></a><br><b><a href="#exclusive-area--전용면적">Exclusive Area</a></b> <sub>전용면적</sub><br><sub>내 집 문 안쪽에서 실제로 쓰는 바닥 면적. 벽 안쪽 기준이며 복도·계단 같은 공용 공간은 빠진다.</sub></td>
-<td width="33%" valign="top"><b><a href="#supply-area--공급면적">Supply Area</a></b> <sub>공급면적</sub><br><sub>전용면적에 계단·복도·엘리베이터 홀처럼 같은 층·동 사람이 같이 쓰는 공용 면적 일부를 더한 면적. 분양할 때 '몇 평형'이라고 부르는 기준이다.</sub></td>
-<td width="33%" valign="top"><b><a href="#service-area--서비스면적">Service Area</a></b> <sub>서비스면적</sub><br><sub>분양 때 면적에 따로 잡히지 않고 덤처럼 딸려 오는 공간. 대표적으로 발코니가 있다.</sub></td>
+<td width="33%" valign="top"><a href="#exclusive-area--전용면적"><img src="../assets/construction/exclusive-area.svg" alt="Exclusive Area" width="100%"></a><br><b><a href="#exclusive-area--전용면적">Exclusive Area</a></b> <sub>전용면적</sub><br><sub>내 집 문 안쪽에서 실제로 쓰는 바닥 면적. 공동주택은 외벽 안쪽 선을 기준으로 재며 복도·계단 같은 공용 공간은 빠진다.</sub></td>
+<td width="33%" valign="top"><a href="#supply-area--공급면적"><img src="../assets/construction/supply-area.svg" alt="Supply Area" width="100%"></a><br><b><a href="#supply-area--공급면적">Supply Area</a></b> <sub>공급면적</sub><br><sub>전용면적에 계단·복도·엘리베이터 홀처럼 같은 층·동 사람이 같이 쓰는 공용 면적 일부를 더한 면적. 분양할 때 '몇 평형'이라고 부르는 기준이다.</sub></td>
+<td width="33%" valign="top"><a href="#service-area--서비스면적"><img src="../assets/construction/service-area.svg" alt="Service Area" width="100%"></a><br><b><a href="#service-area--서비스면적">Service Area</a></b> <sub>서비스면적</sub><br><sub>분양 때 면적에 따로 잡히지 않고 덤처럼 딸려 오는 공간. 대표적으로 발코니가 있다.</sub></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="#building-coverage-ratio--건폐율"><img src="../assets/construction/building-coverage-ratio.svg" alt="Building Coverage Ratio" width="100%"></a><br><b><a href="#building-coverage-ratio--건폐율">Building Coverage Ratio</a></b> <sub>건폐율</sub><br><sub>땅(대지)을 위에서 내려다볼 때 건물이 땅을 덮은 비율. 건축면적 ÷ 대지면적이다. 땅에 마당·공지를 얼마나 남겨야 하는지 정하는 숫자다.</sub></td>
-<td width="33%" valign="top"><a href="#floor-area-ratio--용적률"><img src="../assets/construction/floor-area-ratio.svg" alt="Floor Area Ratio" width="100%"></a><br><b><a href="#floor-area-ratio--용적률">Floor Area Ratio</a></b> <sub>용적률</sub><br><sub>건물 모든 층 바닥면적의 합(연면적)을 땅(대지) 면적으로 나눈 비율. 높게 지을 수 있는 정도를 정하는 숫자다. 지하층과 건물에 딸린 지상 주차장 면적 등은 계산에서 빠진다.</sub></td>
-<td width="33%" valign="top"><b><a href="#building-permit--건축허가--신고">Building Permit</a></b> <sub>건축허가 · 신고</sub><br><sub>건물을 새로 짓거나 늘리거나 구조를 크게 바꾸기 전에 관청(시·군·구)에 받는 허락(허가) 또는 알리는 절차(신고). 어느 쪽인지는 공사 규모와 종류에 따라 다르다.</sub></td>
+<td width="33%" valign="top"><a href="#building-coverage-ratio--건폐율"><img src="../assets/construction/building-coverage-ratio.svg" alt="Building Coverage Ratio" width="100%"></a><br><b><a href="#building-coverage-ratio--건폐율">Building Coverage Ratio</a></b> <sub>건폐율</sub><br><sub>땅(대지)을 위에서 내려다볼 때 건물이 땅을 덮은 비율. 건축면적(외벽 중심선으로 둘러싸인 부분의 수평투영면적) ÷ 대지면적이다. 땅에 마당·공지를 얼마나 남겨야 하는지 정하는 숫자다.</sub></td>
+<td width="33%" valign="top"><a href="#floor-area-ratio--용적률"><img src="../assets/construction/floor-area-ratio.svg" alt="Floor Area Ratio" width="100%"></a><br><b><a href="#floor-area-ratio--용적률">Floor Area Ratio</a></b> <sub>용적률</sub><br><sub>건물 모든 층 바닥면적의 합(연면적)을 땅(대지) 면적으로 나눈 비율. 높게 지을 수 있는 정도를 정하는 숫자다. 용적률을 계산할 때는 연면적에서 지하층 면적, 건물에 딸린(부속용도) 지상층 주차용 면적 등을 뺀다.</sub></td>
+<td width="33%" valign="top"><a href="#building-permit--건축허가--신고"><img src="../assets/construction/building-permit.svg" alt="Building Permit" width="100%"></a><br><b><a href="#building-permit--건축허가--신고">Building Permit</a></b> <sub>건축허가 · 신고</sub><br><sub>건물을 새로 짓거나 늘리거나 구조를 크게 바꾸기 전에 관청(시·군·구)에 받는 허락(허가) 또는 알리는 절차(신고). 어느 쪽인지는 공사 규모와 종류에 따라 다르다.</sub></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><b><a href="#use-approval--사용승인">Use Approval</a></b> <sub>사용승인</sub><br><sub>허가나 신고를 받은 공사를 다 끝낸 뒤, 도면대로 지었는지 관청이 확인하고 건물을 써도 된다고 인정하는 절차. 사용승인을 받아야 건물을 쓸 수 있다.</sub></td>
-<td width="33%" valign="top"><b><a href="#change-of-use--용도변경">Change of Use</a></b> <sub>용도변경</sub><br><sub>건물의 쓰임새(주택, 상가, 사무실, 음식점 등)를 다른 것으로 바꾸는 일. 쓰임새를 비슷한 그룹(시설군)으로 묶고, 어느 그룹으로 바뀌느냐에 따라 허가·신고·장부 변경으로 나뉜다.</sub></td>
+<td width="33%" valign="top"><a href="#use-approval--사용승인"><img src="../assets/construction/use-approval.svg" alt="Use Approval" width="100%"></a><br><b><a href="#use-approval--사용승인">Use Approval</a></b> <sub>사용승인</sub><br><sub>허가나 신고를 받은 공사를 다 끝낸 뒤, 도면대로 지었는지 관청이 확인하고 건물을 써도 된다고 인정하는 절차. 사용승인을 받아야 건물을 쓸 수 있다.</sub></td>
+<td width="33%" valign="top"><a href="#change-of-use--용도변경"><img src="../assets/construction/change-of-use.svg" alt="Change of Use" width="100%"></a><br><b><a href="#change-of-use--용도변경">Change of Use</a></b> <sub>용도변경</sub><br><sub>건물의 쓰임새(주택, 상가, 사무실, 음식점 등)를 다른 것으로 바꾸는 일. 쓰임새를 비슷한 그룹(시설군)으로 묶고, 어느 그룹으로 바뀌느냐에 따라 허가·신고·장부 변경으로 나뉜다.</sub></td>
 </tr>
 </table>
 
@@ -78,8 +78,8 @@ video:
 
 <table>
 <tr>
-<td width="33%" valign="top"><b><a href="#demolition--철거">Demolition</a></b> <sub>철거</sub><br><sub>기존 벽·바닥·천장·설비를 뜯어내는 공사. 인테리어 공사의 첫 단계다. 뜯어낸 폐기물 처리도 함께 포함된다.</sub></td>
-<td width="33%" valign="top"><a href="#waterproofing--방수"><img src="../assets/construction/waterproofing.svg" alt="Waterproofing" width="100%"></a><br><b><a href="#waterproofing--방수">Waterproofing</a></b> <sub>방수</sub><br><sub>물이 스며들어 아래층이나 벽 속으로 새지 않게 막는 층을 만드는 공사. 욕실·베란다·옥상·외벽에서 한다.</sub></td>
+<td width="33%" valign="top"><a href="#demolition--철거"><img src="../assets/construction/demolition.svg" alt="Demolition" width="100%"></a><br><b><a href="#demolition--철거">Demolition</a></b> <sub>철거</sub><br><sub>기존 벽·바닥·천장·설비를 뜯어내는 공사. 인테리어 공사의 첫 단계다. 뜯어낸 폐기물 처리도 함께 포함된다.</sub></td>
+<td width="33%" valign="top"><a href="#waterproofing--방수"><img src="../assets/construction/waterproofing.svg" alt="Waterproofing" width="100%"></a><br><b><a href="#waterproofing--방수">Waterproofing</a></b> <sub>방수</sub><br><sub>물이 스며들어 아래층이나 벽 속으로 새지 않게 막는 층을 만드는 공사. 욕실·베란다·옥상·외벽에서 한다. 욕실에서는 구조체(슬래브·벽) 위에 방수층을 바닥에서 벽 위로 올려 붙이고, 그 위에 보호 모르타르(바탕), 타일 접착재, 타일 순으로 쌓는다.</sub></td>
 <td width="33%" valign="top"><a href="#insulation--단열"><img src="../assets/construction/insulation.svg" alt="Insulation" width="100%"></a><br><b><a href="#insulation--단열">Insulation</a></b> <sub>단열</sub><br><sub>안의 열이 밖으로 빠지거나 바깥 열이 안으로 들어오는 것을 막는 층. 겨울에 덜 춥고 여름에 덜 덥게 하며 냉난방비를 줄인다.</sub></td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ video:
 </tr>
 <tr>
 <td width="33%" valign="top"><a href="#baseboard-and-molding--걸레받이--몰딩"><img src="../assets/construction/baseboard-and-molding.svg" alt="Baseboard and Molding" width="100%"></a><br><b><a href="#baseboard-and-molding--걸레받이--몰딩">Baseboard and Molding</a></b> <sub>걸레받이 · 몰딩</sub><br><sub>걸레받이는 벽과 바닥이 만나는 아랫부분에 대는 띠로 벽을 보호한다. 몰딩은 벽과 천장이 만나는 윗부분에 대는 띠로 모서리를 깔끔하게 마감한다.</sub></td>
-<td width="33%" valign="top"><b><a href="#trades--공종">Trades</a></b> <sub>공종</sub><br><sub>공사를 일의 종류별로 나눈 구분. 철거, 설비(배관), 전기, 목공, 타일, 방수, 도장(페인트), 도배, 바닥재, 가구 같은 일들이다. 보통 공종마다 담당 기술자가 다르다.</sub></td>
+<td width="33%" valign="top"><a href="#trades--공종"><img src="../assets/construction/trades.svg" alt="Trades" width="100%"></a><br><b><a href="#trades--공종">Trades</a></b> <sub>공종</sub><br><sub>공사를 일의 종류별로 나눈 구분. 철거, 설비(배관), 전기, 목공, 타일, 방수, 도장(페인트), 도배, 바닥재, 가구 같은 일들이다. 보통 공종마다 담당 기술자가 다르다.</sub></td>
 </tr>
 </table>
 
@@ -97,17 +97,17 @@ video:
 
 <table>
 <tr>
-<td width="33%" valign="top"><b><a href="#bill-of-quantities--내역서--견적서">Bill of Quantities</a></b> <sub>내역서 · 견적서</sub><br><sub>견적서는 공사 비용 전체를 적은 문서, 내역서는 항목별로 수량·단가·금액을 자세히 적은 문서. 시공사가 '무엇을 얼마나 할지'를 적은 약속이다.</sub></td>
+<td width="33%" valign="top"><a href="#bill-of-quantities--내역서--견적서"><img src="../assets/construction/bill-of-quantities.svg" alt="Bill of Quantities" width="100%"></a><br><b><a href="#bill-of-quantities--내역서--견적서">Bill of Quantities</a></b> <sub>내역서 · 견적서</sub><br><sub>견적서는 공사 비용 전체를 적은 문서, 내역서는 항목별로 수량·단가·금액을 자세히 적은 문서. 시공사가 '무엇을 얼마나 할지'를 적은 약속이다.</sub></td>
 <td width="33%" valign="top"><a href="#schedule--공정표"><img src="../assets/construction/schedule.svg" alt="Schedule" width="100%"></a><br><b><a href="#schedule--공정표">Schedule</a></b> <sub>공정표</sub><br><sub>어떤 공사를 언제부터 언제까지 할지 순서와 기간을 막대로 나타낸 일정표.</sub></td>
-<td width="33%" valign="top"><b><a href="#supervision--감리">Supervision</a></b> <sub>감리</sub><br><sub>공사가 도면과 기준대로 되고 있는지 시공사와 별도로 지켜보며 확인하는 일, 또는 그 사람. 법에서 감리를 두도록 정한 공사가 있고, 건축주가 따로 맡길 수도 있다.</sub></td>
+<td width="33%" valign="top"><a href="#supervision--감리"><img src="../assets/construction/supervision.svg" alt="Supervision" width="100%"></a><br><b><a href="#supervision--감리">Supervision</a></b> <sub>감리</sub><br><sub>공사가 도면과 기준대로 되고 있는지 시공사와 별도로 지켜보며 확인하는 일, 또는 그 사람. 법에서 감리를 두도록 정한 공사가 있고, 건축주가 따로 맡길 수도 있다.</sub></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><b><a href="#subcontracting--하도급">Subcontracting</a></b> <sub>하도급</sub><br><sub>공사를 맡은 시공사(원도급)가 그중 일부를 다른 업체나 기술자(하도급)에게 다시 맡기는 것. 인테리어에서는 목공·타일·전기 팀이 하도급인 경우가 흔하다.</sub></td>
-<td width="33%" valign="top"><b><a href="#defect-repair--하자보수">Defect Repair</a></b> <sub>하자보수</sub><br><sub>공사를 끝낸 뒤 약속한 기간 안에 생긴 결함(누수, 갈라짐, 들뜸 등)을 시공사가 고쳐 주는 것.</sub></td>
-<td width="33%" valign="top"><b><a href="#change-order--설계변경">Change Order</a></b> <sub>설계변경</sub><br><sub>공사 도중 도면이나 범위를 바꾸는 것. 바꾸면 비용과 일정이 함께 변하므로 문서로 합의한다. 인테리어에서는 흔히 '추가 공사', '변경 공사'라고 부른다.</sub></td>
+<td width="33%" valign="top"><a href="#subcontracting--하도급"><img src="../assets/construction/subcontracting.svg" alt="Subcontracting" width="100%"></a><br><b><a href="#subcontracting--하도급">Subcontracting</a></b> <sub>하도급</sub><br><sub>공사를 맡은 시공사(원도급)가 그중 일부를 다른 업체나 기술자(하도급)에게 다시 맡기는 것. 인테리어에서는 목공·타일·전기 팀이 하도급인 경우가 흔하다.</sub></td>
+<td width="33%" valign="top"><a href="#defect-repair--하자보수"><img src="../assets/construction/defect-repair.svg" alt="Defect Repair" width="100%"></a><br><b><a href="#defect-repair--하자보수">Defect Repair</a></b> <sub>하자보수</sub><br><sub>공사를 끝낸 뒤 약속한 기간 안에 생긴 결함(누수, 갈라짐, 들뜸 등)을 시공사가 고쳐 주는 것.</sub></td>
+<td width="33%" valign="top"><a href="#change-order--설계변경"><img src="../assets/construction/change-order.svg" alt="Change Order" width="100%"></a><br><b><a href="#change-order--설계변경">Change Order</a></b> <sub>설계변경</sub><br><sub>공사 도중 도면이나 범위를 바꾸는 것. 바꾸면 비용과 일정이 함께 변하므로 문서로 합의한다. 인테리어에서는 흔히 '추가 공사', '변경 공사'라고 부른다.</sub></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><b><a href="#as-built-drawing--준공도면">As-built Drawing</a></b> <sub>준공도면</sub><br><sub>공사가 끝난 뒤 실제로 지어진 모습대로 고쳐 그린 도면. 설계 도면과 달라진 부분이 반영되어 있다.</sub></td>
+<td width="33%" valign="top"><a href="#as-built-drawing--준공도면"><img src="../assets/construction/as-built-drawing.svg" alt="As-built Drawing" width="100%"></a><br><b><a href="#as-built-drawing--준공도면">As-built Drawing</a></b> <sub>준공도면</sub><br><sub>공사가 끝난 뒤 실제로 지어진 모습대로 고쳐 그린 도면. 설계 도면과 달라진 부분이 반영되어 있다.</sub></td>
 </tr>
 </table>
 
@@ -172,7 +172,7 @@ video:
 
 ### Scale · 축척
 
-<img src="../assets/construction/scale.svg" alt="도면 1cm가 실제 1m인 축척 1대100 설명" width="320">
+<img src="../assets/construction/scale.svg" alt="축척 1대10과 1대100에서 도면 1cm와 실제 길이를 같은 비율로 그린 막대 그림" width="320">
 
 - **정의**: 도면에 그린 길이와 실제 길이의 비율. 1:100이면 도면에서 1cm가 실제로는 100cm(1m)다.
 - **AI에게 이렇게**: "이 도면은 축척이 1:100이야. 도면에서 재니까 방 가로가 5cm인데 실제 길이는 몇 m야?"
@@ -187,14 +187,18 @@ video:
 
 <img src="../assets/construction/exclusive-area.svg" alt="우리 집 안쪽 전용면적, 복도 공용면적, 발코니 서비스면적을 색으로 구분한 그림" width="320">
 
-- **정의**: 내 집 문 안쪽에서 실제로 쓰는 바닥 면적. 벽 안쪽 기준이며 복도·계단 같은 공용 공간은 빠진다.
+- **정의**: 내 집 문 안쪽에서 실제로 쓰는 바닥 면적. 공동주택은 외벽 안쪽 선을 기준으로 재며 복도·계단 같은 공용 공간은 빠진다.
 - **AI에게 이렇게**: "분양 광고에 공급면적이 84㎡라고 되어 있어. 전용면적은 대략 어느 정도이고, 인테리어 견적은 어느 면적 기준으로 비교해야 하는지 알려줘."
 - **언제**: 아파트·오피스텔 비교, 인테리어 견적을 평수 기준으로 받을 때
 - **헷갈림**: 공급면적 — 전용면적에 복도·엘리베이터 같은 공용 일부를 더한 값. 광고의 '몇 평형'은 보통 공급면적이다
 - **관련**: Supply Area, Service Area
 - **확인 질문**: 견적의 '평수'는 전용·공급·실제 시공 면적 중 무엇인가요? 건축물대장 기준인가요?
+- **근거**: [주택법 시행규칙 제2조](https://www.law.go.kr/법령/주택법시행규칙/제2조) (주거전용면적의 산정방법: 공동주택은 외벽의 내부선 기준, 복도·계단·현관 등 공용면적 제외)
+- **검증일**: 2026-11-01
 
 ### Supply Area · 공급면적
+
+<img src="../assets/construction/supply-area.svg" alt="전용면적에 주거공용을 더하면 공급면적, 기타공용까지 더하면 계약면적이 되는 막대 그림" width="320">
 
 - **정의**: 전용면적에 계단·복도·엘리베이터 홀처럼 같은 층·동 사람이 같이 쓰는 공용 면적 일부를 더한 면적. 분양할 때 '몇 평형'이라고 부르는 기준이다.
 - **AI에게 이렇게**: "공급면적, 계약면적, 전용면적의 차이를 아파트 분양 예시로 표로 정리해줘."
@@ -204,6 +208,8 @@ video:
 - **확인 질문**: 지금 보는 숫자가 분양 광고의 면적인가요, 건축물대장의 면적인가요?
 
 ### Service Area · 서비스면적
+
+<img src="../assets/construction/service-area.svg" alt="거실 바깥의 발코니가 분양 면적에 따로 잡히지 않는 서비스면적임을 보여주는 평면 그림" width="320">
 
 - **정의**: 분양 때 면적에 따로 잡히지 않고 덤처럼 딸려 오는 공간. 대표적으로 발코니가 있다.
 - **AI에게 이렇게**: "발코니 확장 공사를 하면 실제로 쓰는 방 크기가 얼마나 늘어나는지, 챙겨야 할 법적·시공 주의점을 알려줘."
@@ -216,34 +222,44 @@ video:
 
 <img src="../assets/construction/building-coverage-ratio.svg" alt="대지 안에서 건물이 땅을 덮은 비율을 위에서 본 건폐율 그림" width="320">
 
-- **정의**: 땅(대지)을 위에서 내려다볼 때 건물이 땅을 덮은 비율. 건축면적 ÷ 대지면적이다. 땅에 마당·공지를 얼마나 남겨야 하는지 정하는 숫자다.
+- **정의**: 땅(대지)을 위에서 내려다볼 때 건물이 땅을 덮은 비율. 건축면적(외벽 중심선으로 둘러싸인 부분의 수평투영면적) ÷ 대지면적이다. 땅에 마당·공지를 얼마나 남겨야 하는지 정하는 숫자다.
 - **AI에게 이렇게**: "대지면적이 200㎡이고 건폐율 한도가 (예시로) 60%면, 1층에 지을 수 있는 건축면적은 최대 얼마야? 우리 지역의 실제 한도는 어디서 확인해?"
 - **언제**: 작은 건물 신축, 증축 가능 여부 검토
-- **헷갈림**: 용적률 — 건폐율은 땅을 덮은 비율(바닥 1층 기준), 용적률은 모든 층 바닥을 합친 크기 비율이다
+- **헷갈림**: 용적률 — 건폐율은 건물이 땅을 위에서 덮은 면적의 비율, 용적률은 모든 층 바닥을 합친 크기 비율이다. 최대 한도는 용도지역별로 국토계획법이 범위를 두고 지자체 조례가 정한다
 - **관련**: Floor Area Ratio, Building Permit
 - **확인 질문**: 땅의 용도지역은 어디인가요? 한도는 지자체 조례로 다를 수 있습니다. 토지이음(eum.go.kr)에서 확인했나요?
+- **근거**: [건축법 제55조](https://www.law.go.kr/법령/건축법/제55조), [국토의 계획 및 이용에 관한 법률 제77조](https://www.law.go.kr/법령/국토의계획및이용에관한법률/제77조), [건축법 시행령 제119조](https://www.law.go.kr/법령/건축법시행령/제119조) (건축면적·대지면적 산정)
+- **검증일**: 2026-11-01
 
 ### Floor Area Ratio · 용적률
 
 <img src="../assets/construction/floor-area-ratio.svg" alt="여러 층 바닥면적의 합을 대지면적으로 나누는 용적률 그림" width="320">
 
-- **정의**: 건물 모든 층 바닥면적의 합(연면적)을 땅(대지) 면적으로 나눈 비율. 높게 지을 수 있는 정도를 정하는 숫자다. 지하층과 건물에 딸린 지상 주차장 면적 등은 계산에서 빠진다.
+- **정의**: 건물 모든 층 바닥면적의 합(연면적)을 땅(대지) 면적으로 나눈 비율. 높게 지을 수 있는 정도를 정하는 숫자다. 용적률을 계산할 때는 연면적에서 지하층 면적, 건물에 딸린(부속용도) 지상층 주차용 면적 등을 뺀다.
 - **AI에게 이렇게**: "대지면적 200㎡에 용적률 한도가 (예시로) 200%면 연면적을 최대 몇 ㎡까지 지을 수 있어? 지하층과 주차장이 계산에 어떻게 들어가는지도 알려줘."
 - **언제**: 몇 층까지, 총 몇 ㎡까지 지을 수 있는지 볼 때
 - **헷갈림**: 건폐율은 1층이 땅을 덮은 비율, 용적률은 전체 층을 합산한 비율. 둘 다 지켜야 한다
 - **관련**: Building Coverage Ratio, Section Drawing
 - **확인 질문**: 지하층·주차장·옥탑 면적을 어떻게 계획했나요? 용도지역별 한도와 지자체 조례를 확인했나요?
+- **근거**: [건축법 제56조](https://www.law.go.kr/법령/건축법/제56조), [건축법 시행령 제119조](https://www.law.go.kr/법령/건축법시행령/제119조) (연면적: 용적률 산정 시 지하층, 부속용도 지상층 주차용 면적 등 제외), [국토의 계획 및 이용에 관한 법률 제78조](https://www.law.go.kr/법령/국토의계획및이용에관한법률/제78조)
+- **검증일**: 2026-11-01
 
 ### Building Permit · 건축허가 · 신고
 
+<img src="../assets/construction/building-permit.svg" alt="건축 계획이 시·군·구 확인을 거쳐 허가 또는 신고 수리로 이어지는 흐름도" width="320">
+
 - **정의**: 건물을 새로 짓거나 늘리거나 구조를 크게 바꾸기 전에 관청(시·군·구)에 받는 허락(허가) 또는 알리는 절차(신고). 어느 쪽인지는 공사 규모와 종류에 따라 다르다.
 - **AI에게 이렇게**: "2층 단독주택 일부를 증축하려고 해. 건축허가인지 신고인지, 설계는 누구에게 맡겨야 하는지 확인해야 할 순서를 알려줘."
-- **언제**: 신축·증축·개축·대수선(구조에 영향 주는 큰 수선), 공사 전 계획 단계
+- **언제**: 신축·증축·개축·대수선(기둥·보·내력벽·주계단 등 구조나 외부 형태를 수선·변경하는 것), 공사 전 계획 단계. 예: 바닥면적 합계 85㎡ 이내의 증축·개축·재축 등 일부는 허가 대신 신고로 가능하다(3층 이상 건축물은 증축 부분이 연면적의 10분의 1 이내일 때만)
 - **헷갈림**: 벽지·바닥재·칸막이 같은 단순 마감 인테리어는 보통 허가 대상이 아니지만, 내력벽을 건드리면 대수선이 될 수 있다. 아파트는 관리사무소·관리규약 절차가 따로 있다. 반드시 지자체 건축과에 확인한다
 - **관련**: Use Approval, Change of Use, Load-bearing Wall
 - **확인 질문**: 새로 짓나요, 늘리나요, 구조를 바꾸나요, 마감만 바꾸나요? 건축물대장상 용도와 면적은 얼마인가요?
+- **근거**: [건축법 제11조](https://www.law.go.kr/법령/건축법/제11조) (건축허가), [건축법 제14조](https://www.law.go.kr/법령/건축법/제14조) (건축신고: 신고하면 허가를 받은 것으로 봄), [건축법 제2조](https://www.law.go.kr/법령/건축법/제2조) (대수선 정의)
+- **검증일**: 2026-11-01
 
 ### Use Approval · 사용승인
+
+<img src="../assets/construction/use-approval.svg" alt="공사 완료, 사용승인 신청, 관청 검사, 사용승인서 교부 순서와 승인 전 사용 불가 안내" width="320">
 
 - **정의**: 허가나 신고를 받은 공사를 다 끝낸 뒤, 도면대로 지었는지 관청이 확인하고 건물을 써도 된다고 인정하는 절차. 사용승인을 받아야 건물을 쓸 수 있다.
 - **AI에게 이렇게**: "건물이 다 지어졌는데 사용승인을 받으려면 어떤 서류와 검사가 필요한지, 지금 입주하거나 장사를 시작해도 되는지 알려줘."
@@ -251,15 +267,21 @@ video:
 - **헷갈림**: 준공 — 공사가 끝났다는 말. 사용승인은 관청이 인정해 주는 절차라서 둘은 같지 않다. 영업 인허가(식품·소방 등)는 별도로 필요할 수 있다
 - **관련**: Building Permit, Supervision, As-built Drawing
 - **확인 질문**: 감리가 있었나요? 소방·전기·가스 등 다른 검사도 끝났나요?
+- **근거**: [건축법 제22조](https://www.law.go.kr/법령/건축법/제22조) (허가·신고를 받은 건축물은 사용승인을 받은 뒤에 사용, 예외로 임시 사용승인)
+- **검증일**: 2026-11-01
 
 ### Change of Use · 용도변경
 
+<img src="../assets/construction/change-of-use.svg" alt="시설군 9개를 번호순으로 나열하고 번호가 작은 쪽은 허가, 큰 쪽은 신고, 같은 군은 건축물대장 변경임을 보여주는 그림" width="320">
+
 - **정의**: 건물의 쓰임새(주택, 상가, 사무실, 음식점 등)를 다른 것으로 바꾸는 일. 쓰임새를 비슷한 그룹(시설군)으로 묶고, 어느 그룹으로 바뀌느냐에 따라 허가·신고·장부 변경으로 나뉜다.
 - **AI에게 이렇게**: "주택 1층을 카페로 쓰고 싶어. 용도변경이 필요한지, 허가인지 신고인지, 소방·주차 기준은 어떻게 확인하면 되는지 알려줘."
-- **언제**: 주택을 가게로, 사무실을 음식점으로 쓰는 등 쓰임새가 달라질 때. 임대 전에 꼭 확인
+- **언제**: 주택을 가게로, 사무실을 음식점으로 쓰는 등 쓰임새가 달라질 때. 임대 전에 꼭 확인. 시설군은 9개(자동차 관련, 산업 등, 전기통신, 문화 및 집회, 영업, 교육 및 복지, 근린생활, 주거업무, 그 밖의 시설군)이고 번호가 작은 군(상위군)으로 바꾸면 허가, 큰 군(하위군)으로 바꾸면 신고, 같은 군 안이면 건축물대장 기재 변경 신청이다. 용도변경하는 바닥면적 합계가 100㎡ 이상이면 사용승인 절차를 준용한다(500㎡ 미만이고 대수선을 수반하지 않으면 제외)
 - **헷갈림**: 사업자등록이나 영업신고와 다르다. 건축물대장의 용도가 먼저 맞아야 영업 허가가 나오는 경우가 많다
 - **관련**: Building Permit, Use Approval
 - **확인 질문**: 건축물대장의 현재 용도는 무엇이고 어떤 용도로 쓰려고 하나요? 면적은 얼마인가요?
+- **근거**: [건축법 제19조](https://www.law.go.kr/법령/건축법/제19조) (용도변경: 시설군, 허가·신고·건축물대장 변경, 사용승인 준용)
+- **검증일**: 2026-11-01
 
 ## 구조 · Structure
 
@@ -322,6 +344,8 @@ video:
 
 ### Demolition · 철거
 
+<img src="../assets/construction/demolition.svg" alt="철거할 칸막이벽과 건드리면 안 되는 내력벽, 벽 속 배관을 구분해 표시한 평면 그림" width="320">
+
 - **정의**: 기존 벽·바닥·천장·설비를 뜯어내는 공사. 인테리어 공사의 첫 단계다. 뜯어낸 폐기물 처리도 함께 포함된다.
 - **AI에게 이렇게**: "상가 철거 공사 견적을 비교하려고 해. 철거 범위, 폐기물 처리, 소음·분진 대책, 석면 확인이 항목에 들어 있는지 체크리스트로 만들어줘."
 - **언제**: 공사 시작 단계, 오래된 건물 리모델링
@@ -331,9 +355,9 @@ video:
 
 ### Waterproofing · 방수
 
-<img src="../assets/construction/waterproofing.svg" alt="욕실 바닥과 벽 아래부터 방수층이 올라가고 그 위에 타일이 붙은 단면 그림" width="320">
+<img src="../assets/construction/waterproofing.svg" alt="욕실 바닥과 벽 모서리 단면: 구조체, 방수층(바닥에서 벽 위로 올림), 보호 모르타르, 타일 접착재, 타일 순서" width="320">
 
-- **정의**: 물이 스며들어 아래층이나 벽 속으로 새지 않게 막는 층을 만드는 공사. 욕실·베란다·옥상·외벽에서 한다.
+- **정의**: 물이 스며들어 아래층이나 벽 속으로 새지 않게 막는 층을 만드는 공사. 욕실·베란다·옥상·외벽에서 한다. 욕실에서는 구조체(슬래브·벽) 위에 방수층을 바닥에서 벽 위로 올려 붙이고, 그 위에 보호 모르타르(바탕), 타일 접착재, 타일 순으로 쌓는다.
 - **AI에게 이렇게**: "욕실 방수 공사 시 확인할 순서(방수 재료, 바닥 및 벽 올림 높이, 담수 시험, 보증 기간)를 체크리스트로 만들어줘."
 - **언제**: 욕실·주방·베란다 공사, 누수가 생겼을 때
 - **헷갈림**: 타일이나 실리콘 마감은 방수 '층'이 아니다. 방수층은 타일 밑에 있어서 한번 덮으면 눈으로 확인할 수 없으니, 타일 붙이기 전에 담수 시험과 사진 기록을 남긴다
@@ -397,6 +421,8 @@ video:
 
 ### Trades · 공종
 
+<img src="../assets/construction/trades.svg" alt="철거부터 설비, 전기, 방수, 목공, 타일, 도장, 도배, 바닥재, 가구까지 공종을 예시 순서로 이은 흐름도" width="320">
+
 - **정의**: 공사를 일의 종류별로 나눈 구분. 철거, 설비(배관), 전기, 목공, 타일, 방수, 도장(페인트), 도배, 바닥재, 가구 같은 일들이다. 보통 공종마다 담당 기술자가 다르다.
 - **AI에게 이렇게**: "작은 가게 인테리어의 공종을 작업 순서대로 나열하고, 각 공종 사이에 반드시 확인해야 할 점도 알려줘."
 - **언제**: 견적서를 읽을 때, 공사 순서와 일정을 짤 때
@@ -407,6 +433,8 @@ video:
 ## 계약 · 관리 · Contract & Management
 
 ### Bill of Quantities · 내역서 · 견적서
+
+<img src="../assets/construction/bill-of-quantities.svg" alt="항목별 수량·단가·금액이 적힌 내역서 표와 수량이 없는 '일식' 항목을 표시한 그림" width="320">
 
 - **정의**: 견적서는 공사 비용 전체를 적은 문서, 내역서는 항목별로 수량·단가·금액을 자세히 적은 문서. 시공사가 '무엇을 얼마나 할지'를 적은 약속이다.
 - **AI에게 이렇게**: "시공사 두 곳이 준 견적서를 항목별로 비교해줘. 빠진 항목, 수량이 다른 항목, '일식'이라고만 적힌 항목을 찾아줘."
@@ -428,14 +456,20 @@ video:
 
 ### Supervision · 감리
 
+<img src="../assets/construction/supervision.svg" alt="건축주가 시공사와 감리자를 따로 계약하고 감리자가 시공사를 점검하는 관계도" width="320">
+
 - **정의**: 공사가 도면과 기준대로 되고 있는지 시공사와 별도로 지켜보며 확인하는 일, 또는 그 사람. 법에서 감리를 두도록 정한 공사가 있고, 건축주가 따로 맡길 수도 있다.
 - **AI에게 이렇게**: "소규모 인테리어 공사에 감리를 따로 두면 비용 대비 효과가 있을지, 하자가 많이 생기는 단계에서 건축주가 직접 확인할 체크리스트를 알려줘."
 - **언제**: 신축·큰 공사, 시공사를 믿기 어렵거나 하자 분쟁을 줄이고 싶을 때
 - **헷갈림**: 감리는 시공사와 별개 입장에서 점검하는 사람이다. 시공사 현장소장은 감독이지만 감리가 아니다. 감리 의무 대상은 공사 규모·용도로 정해져 있다
 - **관련**: Use Approval, Defect Repair
 - **확인 질문**: 법적 감리 대상 공사인가요? 감리자를 건축주가 직접 지정하나요? 보고서나 사진 기록을 받을 수 있나요?
+- **근거**: [건축법 제25조](https://www.law.go.kr/법령/건축법/제25조) (건축주는 대통령령으로 정하는 용도·규모의 건축물에 공사감리자를 지정, 감리자는 위반 시 시정·재시공 요청과 허가권자 보고)
+- **검증일**: 2026-11-01
 
 ### Subcontracting · 하도급
+
+<img src="../assets/construction/subcontracting.svg" alt="건축주, 원도급 시공사, 하도급 팀(목공·타일·전기)의 계약 구조도" width="320">
 
 - **정의**: 공사를 맡은 시공사(원도급)가 그중 일부를 다른 업체나 기술자(하도급)에게 다시 맡기는 것. 인테리어에서는 목공·타일·전기 팀이 하도급인 경우가 흔하다.
 - **AI에게 이렇게**: "계약서에 하도급 관련 조항이 있어? 하도급업체에 대금이 제대로 안 가서 현장이 멈추거나 분쟁이 생기는 상황을 막으려면 뭘 확인해야 해?"
@@ -443,17 +477,25 @@ video:
 - **헷갈림**: 하도급이 곧 불법은 아니다. 다만 공사를 통째로 넘기는 것처럼 법이 제한하는 경우가 있다. 내가 계약한 업체와 현장에서 일하는 업체가 다를 수 있다
 - **관련**: Trades, Bill of Quantities, Defect Repair
 - **확인 질문**: 어느 공종을 직접 시공하고 어느 공종을 하도급 주나요? 공사 대금을 단계별로 어떻게 나눠 지급하나요?
+- **근거**: [건설산업기본법 제29조](https://www.law.go.kr/법령/건설산업기본법/제29조) (건설사업자는 도급받은 공사의 전부 또는 주요 부분의 대부분을 다른 건설사업자에게 하도급 불가, 예외 있음)
+- **검증일**: 2026-11-01
 
 ### Defect Repair · 하자보수
+
+<img src="../assets/construction/defect-repair.svg" alt="완공 뒤 하자담보책임기간 안에 하자를 발견했을 때 기록, 서면 요청, 보수 순서를 보여주는 타임라인" width="320">
 
 - **정의**: 공사를 끝낸 뒤 약속한 기간 안에 생긴 결함(누수, 갈라짐, 들뜸 등)을 시공사가 고쳐 주는 것.
 - **AI에게 이렇게**: "공사한 지 6개월 된 욕실에 누수가 생겼어. 하자보수를 요구하는 방법, 증거로 남길 것, 시공사가 거부할 때 쓸 수 있는 방법을 알려줘."
 - **언제**: 공사 후 누수·갈라짐·들뜸이 생겼을 때, 계약서에 보증 기간을 쓸 때
-- **헷갈림**: 하자와 사용 중 파손은 다르다. 하자담보책임 기간은 공종·건물 종류별로 법령이나 계약으로 정해지니 계약서에 적힌 기간을 확인한다
+- **헷갈림**: 하자와 사용 중 파손은 다르다. 건설산업기본법은 완공일과 목적물 사용 시작일 중 먼저 온 날부터 공사 종류별로 시행령이 정한 기간(구조내력 부분 10년, 그 밖은 5년의 범위 안)에 생긴 하자에 수급인이 책임지게 한다(건설산업기본법이 적용되는 공사 기준). 다른 법령에 특별 규정이 있으면 그에 따르고, 시행령 요건을 갖추면 도급계약에서 따로 정할 수도 있으니 계약서에 적힌 기간을 확인한다
 - **관련**: Waterproofing, Supervision, Subcontracting
 - **확인 질문**: 하자가 언제 처음 발견됐나요? 사진·영상과 계약서, 준공일을 가지고 있나요? 하자보수 보증서가 있나요?
+- **근거**: [건설산업기본법 제28조](https://www.law.go.kr/법령/건설산업기본법/제28조), [건설산업기본법 시행령 제30조](https://www.law.go.kr/법령/건설산업기본법시행령/제30조) (공사 종류별 기간은 별표 4)
+- **검증일**: 2026-11-01
 
 ### Change Order · 설계변경
+
+<img src="../assets/construction/change-order.svg" alt="변경 요청, 비용·일정 확인, 서면 합의, 도면 수정 순서와 추가 금액 막대 그림" width="320">
 
 - **정의**: 공사 도중 도면이나 범위를 바꾸는 것. 바꾸면 비용과 일정이 함께 변하므로 문서로 합의한다. 인테리어에서는 흔히 '추가 공사', '변경 공사'라고 부른다.
 - **AI에게 이렇게**: "공사 중에 콘센트 위치를 바꾸고 싶어. 추가 비용과 일정 영향을 확인하는 문서 양식을 만들어줘."
@@ -463,6 +505,8 @@ video:
 - **확인 질문**: 변경 내용과 추가 금액, 늘어나는 공사 기간을 서면으로 받았나요? 변경 때문에 다른 공종에 영향이 있나요?
 
 ### As-built Drawing · 준공도면
+
+<img src="../assets/construction/as-built-drawing.svg" alt="설계도와 실제 시공된 벽·배관 위치 차이를 겹쳐 그린 준공도면 그림" width="320">
 
 - **정의**: 공사가 끝난 뒤 실제로 지어진 모습대로 고쳐 그린 도면. 설계 도면과 달라진 부분이 반영되어 있다.
 - **AI에게 이렇게**: "공사가 끝나면 시공사에게 받아야 할 서류 목록(준공도면, 자재 사양서, 보증서, 배관·전기 배선도 등)을 알려줘."

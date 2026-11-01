@@ -5,6 +5,6 @@
 <line x1="20" y1="112" x2="300" y2="112" stroke="#334155" stroke-width="2"/>
 <circle class="d" style="animation-delay:-0.00s" cx="50" cy="100" r="11" fill="#f59e0b"/><circle class="d" style="animation-delay:-0.15s" cx="94" cy="100" r="11" fill="#38bdf8"/><circle class="d" style="animation-delay:-0.30s" cx="138" cy="100" r="11" fill="#f59e0b"/><circle class="d" style="animation-delay:-0.45s" cx="182" cy="100" r="11" fill="#38bdf8"/><circle class="d" style="animation-delay:-0.60s" cx="226" cy="100" r="11" fill="#f59e0b"/><circle class="d" style="animation-delay:-0.75s" cx="270" cy="100" r="11" fill="#38bdf8"/>
 <rect x="40" y="138" width="60" height="4" rx="2" fill="#38bdf8"/><rect x="60" y="145" width="60" height="4" rx="2" fill="#38bdf8"/><rect x="80" y="152" width="60" height="4" rx="2" fill="#38bdf8"/><rect x="100" y="159" width="60" height="4" rx="2" fill="#38bdf8"/><rect x="120" y="166" width="60" height="4" rx="2" fill="#38bdf8"/><rect x="140" y="173" width="60" height="4" rx="2" fill="#38bdf8"/>
-<text class="s" x="170" y="160">+0.15s each</text>
+<text class="s" x="170" y="160">각각 +0.15s</text>
 
 </svg>

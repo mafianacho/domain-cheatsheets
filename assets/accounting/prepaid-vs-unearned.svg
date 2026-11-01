@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="12개월 구독료 120만 원을 미리 받으면 3개월 뒤 30만 원은 매출로 옮겨지고 90만 원은 선수금으로 남는다. 선급은 반대로 미리 낸 돈이 비용으로 옮겨진다">
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="22" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">선수 · 선급: 미리 받은 돈, 미리 낸 돈</text>
+<text x="30" y="46" font-size="10" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">선수: 12개월 구독료 120만 원을 미리 받음 (부채)</text>
+<rect x="40" y="54" width="18" height="18" rx="3" fill="#f59e0b" stroke="#f59e0b" stroke-width="1"/>
+<rect x="60" y="54" width="18" height="18" rx="3" fill="#f59e0b" stroke="#f59e0b" stroke-width="1"/>
+<rect x="80" y="54" width="18" height="18" rx="3" fill="#f59e0b" stroke="#f59e0b" stroke-width="1"/>
+<rect x="100" y="54" width="18" height="18" rx="3" fill="#334155" stroke="#475569" stroke-width="1"/>
+<rect x="120" y="54" width="18" height="18" rx="3" fill="#334155" stroke="#475569" stroke-width="1"/>
+<rect x="140" y="54" width="18" height="18" rx="3" fill="#334155" stroke="#475569" stroke-width="1"/>
+<rect x="160" y="54" width="18" height="18" rx="3" fill="#334155" stroke="#475569" stroke-width="1"/>
+<rect x="180" y="54" width="18" height="18" rx="3" fill="#334155" stroke="#475569" stroke-width="1"/>
+<rect x="200" y="54" width="18" height="18" rx="3" fill="#334155" stroke="#475569" stroke-width="1"/>
+<rect x="220" y="54" width="18" height="18" rx="3" fill="#334155" stroke="#475569" stroke-width="1"/>
+<rect x="240" y="54" width="18" height="18" rx="3" fill="#334155" stroke="#475569" stroke-width="1"/>
+<rect x="260" y="54" width="18" height="18" rx="3" fill="#334155" stroke="#475569" stroke-width="1"/>
+<rect x="40" y="80" width="8" height="8" rx="2" fill="#f59e0b"/>
+<text x="52" y="88" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">30만 매출로 옮김</text>
+<rect x="160" y="80" width="8" height="8" rx="2" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="172" y="88" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">90만 선수금 잔액</text>
+<text x="30" y="118" font-size="10" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">선급: 12개월 보험료 120만 원을 미리 냄 (자산)</text>
+<rect x="40" y="126" width="18" height="18" rx="3" fill="#38bdf8" stroke="#38bdf8" stroke-width="1"/>
+<rect x="60" y="126" width="18" height="18" rx="3" fill="#38bdf8" stroke="#38bdf8" stroke-width="1"/>
+<rect x="80" y="126" width="18" height="18" rx="3" fill="#38bdf8" stroke="#38bdf8" stroke-width="1"/>
+<rect x="100" y="126" width="18" height="18" rx="3" fill="#334155" stroke="#475569" stroke-width="1"/>
+<rect x="120" y="126" width="18" height="18" rx="3" fill="#334155" stroke="#475569" stroke-width="1"/>
+<rect x="140" y="126" width="18" height="18" rx="3" fill="#334155" stroke="#475569" stroke-width="1"/>
+<rect x="160" y="126" width="18" height="18" rx="3" fill="#334155" stroke="#475569" stroke-width="1"/>
+<rect x="180" y="126" width="18" height="18" rx="3" fill="#334155" stroke="#475569" stroke-width="1"/>
+<rect x="200" y="126" width="18" height="18" rx="3" fill="#334155" stroke="#475569" stroke-width="1"/>
+<rect x="220" y="126" width="18" height="18" rx="3" fill="#334155" stroke="#475569" stroke-width="1"/>
+<rect x="240" y="126" width="18" height="18" rx="3" fill="#334155" stroke="#475569" stroke-width="1"/>
+<rect x="260" y="126" width="18" height="18" rx="3" fill="#334155" stroke="#475569" stroke-width="1"/>
+<rect x="40" y="152" width="8" height="8" rx="2" fill="#38bdf8"/>
+<text x="52" y="160" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">30만 비용으로 옮김</text>
+<rect x="160" y="152" width="8" height="8" rx="2" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="172" y="160" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">90만 선급금 잔액</text>
+<text x="160" y="186" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">칸 하나 = 1개월 (3개월 지난 모습)</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" font-family="system-ui, sans-serif" role="img"><title>특허권은 출원일부터 20년이 되는 날까지의 기간 중 설정등록 이후 독점하는 권리</title><defs><marker id="ma" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#f59e0b"/></marker><marker id="ms" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#38bdf8"/></marker><marker id="mg" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#94a3b8"/></marker></defs><rect width="320" height="200" rx="12" fill="#0f172a"/><text x="160" y="22" font-size="12" fill="#f59e0b" text-anchor="middle" font-weight="700">특허권 = 기간 한정 독점</text>
+<line x1="40" y1="52" x2="280" y2="52" stroke="#38bdf8" stroke-width="2"/>
+<line x1="40" y1="46" x2="40" y2="58" stroke="#38bdf8" stroke-width="2"/>
+<line x1="280" y1="46" x2="280" y2="58" stroke="#38bdf8" stroke-width="2"/>
+<text x="160" y="44" font-size="10" fill="#38bdf8" text-anchor="middle" font-weight="700">출원일부터 20년이 되는 날까지</text>
+<line x1="20" y1="100" x2="300" y2="100" stroke="#475569" stroke-width="3" marker-end="url(#mg)"/>
+<text x="284" y="86" font-size="9" fill="#e2e8f0" text-anchor="end">시간 →</text>
+<rect x="40" y="92" width="80" height="16" rx="3" fill="#1e293b" stroke="#94a3b8" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="80" y="104" font-size="9" fill="#e2e8f0" text-anchor="middle">심사 중</text>
+<rect x="120" y="92" width="160" height="16" rx="3" fill="#f59e0b"/>
+<text x="200" y="104" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700">독점해서 쓸 수 있는 기간</text>
+<circle cx="40" cy="100" r="5" fill="#38bdf8"/>
+<circle cx="120" cy="100" r="5" fill="#f59e0b"/>
+<circle cx="280" cy="100" r="5" fill="#38bdf8"/>
+<text x="40" y="130" font-size="10" fill="#e2e8f0" text-anchor="middle">출원일</text>
+<text x="120" y="130" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700">설정등록</text>
+<text x="280" y="130" font-size="10" fill="#e2e8f0" text-anchor="middle">만료</text>
+<rect x="14" y="146" width="292" height="44" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.2"/>
+<text x="160" y="164" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">출원 전에 공개하면 새롭지 않다고 볼 수 있음</text>
+<text x="160" y="179" font-size="9" fill="#94a3b8" text-anchor="middle">공개 후 12개월 안에 출원하면 예외가 될 수 있음</text></svg>

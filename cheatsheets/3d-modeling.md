@@ -71,7 +71,7 @@ video:
 </tr>
 <tr>
 <td width="33%" valign="top"><a href="#blend-shape--블렌드-셰이프"><img src="../assets/3d-modeling/blend-shape.svg" alt="Blend Shape" width="100%"></a><br><b><a href="#blend-shape--블렌드-셰이프">Blend Shape</a></b> <sub>블렌드 셰이프</sub><br><sub>모양 A와 모양 B를 저장해 두고, 슬라이더 값(0~1)으로 둘 사이를 섞는 기능. 표정을 만들 때 가장 많이 쓴다. Shape Key, Morph Target이라고도 부른다.</sub></td>
-<td width="33%" valign="top"><a href="#keyframe--키프레임"><img src="../assets/3d-modeling/keyframe.svg" alt="Keyframe" width="100%"></a><br><b><a href="#keyframe--키프레임">Keyframe</a></b> <sub>키프레임</sub><br><sub>애니메이션에서 '여기서는 이 위치·자세'라고 직접 찍어 두는 핵심 순간. 키프레임 사이는 프로그램이 알아서 채운다.</sub></td>
+<td width="33%" valign="top"><b><a href="motion-design.md#keyframe--키프레임">Keyframe</a></b> <sub>키프레임</sub><br><sub>3D 애니메이션에서 '이 프레임에서는 이 위치·자세'라고 직접 찍어 두는 핵심 순간. 사이 장면은 프로그램이 채운다. → motion-design 시트</sub></td>
 </tr>
 </table>
 
@@ -322,14 +322,8 @@ video:
 
 ### Keyframe · 키프레임
 
-<img src="../assets/3d-modeling/keyframe.svg" alt="타임라인의 두 키프레임 사이를 공이 포물선으로 움직이는 그림" width="320">
-
-- **정의**: 애니메이션에서 '여기서는 이 위치·자세'라고 직접 찍어 두는 핵심 순간. 키프레임 사이는 프로그램이 알아서 채운다.
-- **AI에게 이렇게**: "1프레임에서 공이 바닥에 있고, 12프레임에서 가장 높이 올라가고, 24프레임에서 다시 내려오도록 키프레임을 찍어줘. 30fps로"
-- **언제**: 로고 회전, 문 열림, 물체 이동 같은 애니메이션을 만들 때
-- **헷갈림**: Frame — 프레임은 영상의 한 장면 전체, 키프레임은 그중 사람이 직접 지정한 핵심 장면
-- **관련**: Pivot / Origin, Bone / Armature, Blend Shape
-- **확인 질문**: 전체 길이는 몇 초이고 초당 몇 프레임(fps)인가요? 반복(루프)되나요?
+- **정의**: 3D 애니메이션에서 '이 프레임에서는 이 위치·자세'라고 직접 찍어 두는 핵심 순간. 사이 장면은 프로그램이 채운다.
+- **원본**: [모션 디자인 · Keyframe](motion-design.md#keyframe--키프레임)
 
 ## 장면 · Scene & Render
 

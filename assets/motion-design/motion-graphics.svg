@@ -10,7 +10,7 @@
 <g class="bob"><circle cx="236" cy="62" r="10" fill="#f59e0b" stroke="none"/><line x1="236" y1="73" x2="236" y2="100"/>
 <line class="arm1" x1="236" y1="80" x2="236" y2="98"/><line class="arm2" x1="236" y1="80" x2="236" y2="98"/>
 <line class="leg1" x1="236" y1="100" x2="236" y2="126"/><line class="leg2" x1="236" y1="100" x2="236" y2="126"/></g></g>
-<text class="m c" x="84" y="172">Motion Graphics</text><text class="m c" x="236" y="172">Character Animation</text>
-<text class="s c" x="84" y="187">shapes, text, data</text><text class="s c" x="236" y="187">acting, story</text>
+<text class="m c" x="84" y="172">모션 그래픽스</text><text class="m c" x="236" y="172">캐릭터 애니메이션</text>
+<text class="s c" x="84" y="187">도형·글자·데이터</text><text class="s c" x="236" y="187">연기·이야기</text>
 
 </svg>

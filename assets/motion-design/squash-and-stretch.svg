@@ -5,7 +5,7 @@
 <line x1="20" y1="165" x2="300" y2="165" stroke="#475569" stroke-width="3"/>
 <g fill="none" stroke="#f59e0b" stroke-dasharray="3 3" stroke-width="1.5">
 <ellipse cx="40" cy="139" rx="14" ry="26"/><circle cx="90" cy="147" r="18"/><ellipse cx="144" cy="154" rx="27" ry="11"/></g>
-<text class="s c" x="40" y="180">stretch</text><text class="s c" x="90" y="180">normal</text><text class="s c" x="144" y="180">squash</text>
+<text class="s c" x="40" y="180">늘어남</text><text class="s c" x="90" y="180">기본</text><text class="s c" x="144" y="180">납작</text>
 <ellipse class="sh" cx="230" cy="166" rx="16" ry="3" fill="#000" opacity=".4"/>
 <g class="up"><circle class="bl" cx="230" cy="147" r="18" fill="#38bdf8"/></g>
 

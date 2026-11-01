@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" font-family="system-ui, sans-serif" role="img"><title>개인정보처리방침은 회사가 개인정보를 어떻게 다루는지를 고객에게 공개하는 문서</title><defs><marker id="ma" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#f59e0b"/></marker><marker id="ms" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#38bdf8"/></marker><marker id="mg" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#94a3b8"/></marker></defs><rect width="320" height="200" rx="12" fill="#0f172a"/><text x="160" y="22" font-size="12" fill="#f59e0b" text-anchor="middle" font-weight="700">개인정보처리방침 = 처리 방식 공개</text>
+<rect x="12" y="32" width="200" height="156" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="112" y="50" font-size="11" fill="#f59e0b" text-anchor="middle" font-weight="700">개인정보처리방침</text>
+<rect x="20" y="62" width="92" height="22" rx="6" fill="#334155" stroke="#475569" stroke-width="1"/>
+<text x="66" y="77" font-size="10" fill="#e2e8f0" text-anchor="middle">처리 목적</text>
+<rect x="116" y="62" width="92" height="22" rx="6" fill="#334155" stroke="#475569" stroke-width="1"/>
+<text x="162" y="77" font-size="10" fill="#e2e8f0" text-anchor="middle">보유 기간</text>
+<rect x="20" y="92" width="92" height="22" rx="6" fill="#334155" stroke="#475569" stroke-width="1"/>
+<text x="66" y="107" font-size="10" fill="#e2e8f0" text-anchor="middle">제3자 제공</text>
+<rect x="116" y="92" width="92" height="22" rx="6" fill="#334155" stroke="#475569" stroke-width="1"/>
+<text x="162" y="107" font-size="10" fill="#e2e8f0" text-anchor="middle">처리 위탁</text>
+<rect x="20" y="122" width="92" height="22" rx="6" fill="#334155" stroke="#475569" stroke-width="1"/>
+<text x="66" y="137" font-size="10" fill="#e2e8f0" text-anchor="middle">파기 절차</text>
+<rect x="116" y="122" width="92" height="22" rx="6" fill="#334155" stroke="#475569" stroke-width="1"/>
+<text x="162" y="137" font-size="10" fill="#e2e8f0" text-anchor="middle">정보주체 권리</text>
+<rect x="20" y="152" width="92" height="22" rx="6" fill="#334155" stroke="#475569" stroke-width="1"/>
+<text x="66" y="167" font-size="10" fill="#e2e8f0" text-anchor="middle">담당자 연락처</text>
+<line x1="214" y1="110" x2="236" y2="110" stroke="#f59e0b" stroke-width="2.5" marker-end="url(#ma)"/>
+<rect x="238" y="74" width="72" height="70" rx="6" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<rect x="238" y="74" width="72" height="14" rx="6" fill="#38bdf8"/>
+<circle cx="246" cy="81" r="2.5" fill="#0f172a"/>
+<circle cx="254" cy="81" r="2.5" fill="#0f172a"/>
+<text x="274" y="112" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">고객에게</text>
+<text x="274" y="128" font-size="10" fill="#38bdf8" text-anchor="middle" font-weight="700">공개</text>
+<text x="274" y="162" font-size="10" fill="#e2e8f0" text-anchor="middle">홈페이지·앱</text></svg>

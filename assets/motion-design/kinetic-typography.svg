@@ -4,6 +4,6 @@
 
 <line x1="28" y1="130" x2="292" y2="130" stroke="#334155" stroke-width="2"/>
 <text class="k" style="animation-delay:-0.00s;fill:#f59e0b" x="50" y="115">M</text><text class="k" style="animation-delay:-0.18s;fill:#38bdf8" x="94" y="115">O</text><text class="k" style="animation-delay:-0.36s;fill:#f59e0b" x="138" y="115">T</text><text class="k" style="animation-delay:-0.54s;fill:#e2e8f0" x="182" y="115">I</text><text class="k" style="animation-delay:-0.72s;fill:#f59e0b" x="226" y="115">O</text><text class="k" style="animation-delay:-0.90s;fill:#e2e8f0" x="270" y="115">N</text>
-<text class="s" x="28" y="170">each letter moves on its own beat</text>
+<text class="s" x="28" y="170">글자마다 제 박자에 맞춰 움직임</text>
 
 </svg>

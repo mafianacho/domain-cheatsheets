@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200" role="img">
+<title>건축 계획이 시군구 확인을 거쳐 허가 또는 신고 수리로 이어지는 흐름</title>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="14" y="22" font-size="11" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">건축허가 · 신고 흐름</text>
+<rect x="14" y="46" width="86" height="44" fill="#1e293b" rx="6" stroke="#475569" stroke-width="1.5"/>
+<text x="57" y="67" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">건축 계획</text>
+<text x="57" y="79" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">신축·증축·대수선</text>
+<line x1="100" y1="68" x2="118" y2="68" stroke="#38bdf8" stroke-width="1.5"/>
+<polygon points="122.0,68.0 117.5,70.2 117.5,65.8" fill="#38bdf8"/>
+<rect x="122" y="46" width="86" height="44" fill="#1e293b" rx="6" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="165" y="67" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">시·군·구</text>
+<text x="165" y="79" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">(허가권자)</text>
+<path d="M208,68 L214,68 L214,52 L218,52" fill="none" stroke="#f59e0b" stroke-width="1.5"/>
+<polygon points="222.0,52.0 217.5,54.2 217.5,49.8" fill="#f59e0b"/>
+<path d="M208,68 L214,68 L214,86 L218,86" fill="none" stroke="#38bdf8" stroke-width="1.5"/>
+<polygon points="222.0,86.0 217.5,88.2 217.5,83.8" fill="#38bdf8"/>
+<rect x="222" y="38" width="90" height="28" fill="#1e293b" rx="6" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="267" y="55.5" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">허가</text>
+<rect x="222" y="72" width="90" height="28" fill="#1e293b" rx="6" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="267" y="89.5" font-size="10" fill="#38bdf8" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">신고 수리</text>
+<rect x="14" y="114" width="292" height="72" fill="#1e293b" rx="8" stroke="#475569" stroke-width="1"/>
+<text x="26" y="134" font-size="10" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">• 짓기 · 늘리기 · 구조 변경은 공사 전에</text>
+<text x="26" y="152" font-size="10" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">• 신고해도 허가받은 것으로 봄 (건축법 제14조)</text>
+<text x="26" y="170" font-size="10" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">• 벽지 · 바닥재 같은 단순 마감은 보통 제외</text>
+</svg>

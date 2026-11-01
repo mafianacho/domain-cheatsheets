@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200" role="img">
+<title>거실과 발코니를 위에서 본 평면: 발코니는 서비스면적</title>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="14" y="22" font-size="11" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">서비스면적 · 발코니 예시 (위에서 본 모습)</text>
+<rect x="24" y="40" width="170" height="90" fill="#1e293b" stroke="#475569" stroke-width="2"/>
+<text x="109" y="82" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">거실 · 방</text>
+<text x="109" y="98" font-size="9" fill="#f59e0b" text-anchor="middle" font-family="system-ui, sans-serif">전용면적에 들어감</text>
+<rect x="24" y="130" width="170" height="40" fill="#38bdf8" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="5 3" fill-opacity="0.12"/>
+<text x="109" y="148" font-size="11" fill="#38bdf8" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">발코니</text>
+<text x="109" y="162" font-size="9" fill="#38bdf8" text-anchor="middle" font-family="system-ui, sans-serif">= 서비스면적</text>
+<line x1="24" y1="130" x2="74" y2="130" stroke="#e2e8f0" stroke-width="3"/>
+<line x1="144" y1="130" x2="194" y2="130" stroke="#e2e8f0" stroke-width="3"/>
+<text x="109" y="126" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">창 · 문</text>
+<text x="206" y="70" font-size="10" fill="#e2e8f0" text-anchor="start" font-weight="bold" font-family="system-ui, sans-serif">분양 면적에</text>
+<text x="206" y="83" font-size="10" fill="#e2e8f0" text-anchor="start" font-weight="bold" font-family="system-ui, sans-serif">따로 안 잡힘</text>
+<text x="206" y="108" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">확장해서 방처럼</text>
+<text x="206" y="120" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">써도 공식</text>
+<text x="206" y="132" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">전용면적은</text>
+<text x="206" y="144" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">대개 그대로</text>
+<text x="206" y="162" font-size="9" fill="#f59e0b" text-anchor="start" font-family="system-ui, sans-serif">단열 · 결로 · 난방은</text>
+<text x="206" y="174" font-size="9" fill="#f59e0b" text-anchor="start" font-family="system-ui, sans-serif">따로 챙기기</text>
+</svg>

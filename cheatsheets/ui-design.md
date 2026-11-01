@@ -93,7 +93,7 @@ video:
 <tr>
 <td width="33%" valign="top"><a href="#hover-effect--호버-효과"><img src="../assets/ui-design/hover-effect.svg" alt="Hover Effect" width="100%"></a><br><b><a href="#hover-effect--호버-효과">Hover Effect</a></b> <sub>호버 효과</sub><br><sub>마우스를 올리면 모양이 바뀌는 효과입니다. 버튼이 밝아지거나 카드가 살짝 떠오르는 식입니다.</sub></td>
 <td width="33%" valign="top"><a href="#scroll-reveal--스크롤-리빌"><img src="../assets/ui-design/scroll-reveal.svg" alt="Scroll Reveal" width="100%"></a><br><b><a href="#scroll-reveal--스크롤-리빌">Scroll Reveal</a></b> <sub>스크롤 리빌</sub><br><sub>스크롤해서 화면에 들어오는 순간 요소가 흐릿하게 아래에서 떠오르며 나타나는 효과입니다.</sub></td>
-<td width="33%" valign="top"><a href="#stagger-animation--스태거-애니메이션"><img src="../assets/ui-design/stagger-animation.svg" alt="Stagger Animation" width="100%"></a><br><b><a href="#stagger-animation--스태거-애니메이션">Stagger Animation</a></b> <sub>스태거 애니메이션</sub><br><sub>같이 나타나는 여러 요소를 한꺼번에가 아니라 조금씩 시간 차를 두고 차례로 움직이게 하는 효과입니다.</sub></td>
+<td width="33%" valign="top"><b><a href="motion-design.md#stagger--스태거">Stagger Animation</a></b> <sub>스태거 애니메이션</sub><br><sub>카드·메뉴처럼 여러 요소를 한꺼번에가 아니라 조금씩 시간 차를 두고 차례로 나타나게 하는 효과. → motion-design 시트</sub></td>
 </tr>
 <tr>
 <td width="33%" valign="top"><a href="#smooth-transition--부드러운-전환"><img src="../assets/ui-design/smooth-transition.svg" alt="Smooth Transition" width="100%"></a><br><b><a href="#smooth-transition--부드러운-전환">Smooth Transition</a></b> <sub>부드러운 전환</sub><br><sub>색, 크기, 위치가 순간적으로 바뀌지 않고 짧은 시간 동안 이어서 자연스럽게 바뀌게 하는 효과입니다.</sub></td>
@@ -103,7 +103,7 @@ video:
 <tr>
 <td width="33%" valign="top"><a href="#scroll-snap--스크롤-스냅"><img src="../assets/ui-design/scroll-snap.svg" alt="Scroll Snap" width="100%"></a><br><b><a href="#scroll-snap--스크롤-스냅">Scroll Snap</a></b> <sub>스크롤 스냅</sub><br><sub>스크롤을 멈추면 가까운 구역의 경계에 딱 맞춰 달라붙는 효과입니다. 한 번에 한 화면씩 넘기는 느낌입니다.</sub></td>
 <td width="33%" valign="top"><a href="#micro-interaction--마이크로-인터랙션"><img src="../assets/ui-design/micro-interaction.svg" alt="Micro-interaction" width="100%"></a><br><b><a href="#micro-interaction--마이크로-인터랙션">Micro-interaction</a></b> <sub>마이크로 인터랙션</sub><br><sub>버튼 하나에 생기는 아주 작은 반응입니다. 좋아요를 누르면 하트가 톡 커지거나 저장되면 체크가 그려지는 식입니다.</sub></td>
-<td width="33%" valign="top"><a href="#ease-in-out--이징-천천히-빠르게-천천히"><img src="../assets/ui-design/ease-in-out.svg" alt="Ease-in-out" width="100%"></a><br><b><a href="#ease-in-out--이징-천천히-빠르게-천천히">Ease-in-out</a></b> <sub>이징 (천천히-빠르게-천천히)</sub><br><sub>움직임이 천천히 시작해서 중간에 빨라지고 끝에서 다시 느려지는 속도 곡선입니다. 실제 물체처럼 자연스럽게 느껴집니다.</sub></td>
+<td width="33%" valign="top"><b><a href="motion-design.md#ease-in-out--이즈-인-아웃">Ease-in-out</a></b> <sub>이징 (천천히-빠르게-천천히)</sub><br><sub>천천히 시작해 중간에 빨라지고 끝에서 다시 천천히 멈추는 속도 곡선. 화면 움직임을 자연스럽게 만든다. → motion-design 시트</sub></td>
 </tr>
 </table>
 
@@ -442,14 +442,8 @@ video:
 
 ### Stagger Animation · 스태거 애니메이션
 
-<img src="../assets/ui-design/stagger-animation.svg" alt="다섯 장의 카드가 왼쪽부터 차례로 시간차를 두고 올라오는 모습" width="320">
-
-- **정의**: 같이 나타나는 여러 요소를 한꺼번에가 아니라 조금씩 시간 차를 두고 차례로 움직이게 하는 효과입니다.
-- **AI에게 이렇게**: "카드 5장이 왼쪽부터 0.1초 간격으로 차례로 아래에서 올라오며 나타나는 스태거 애니메이션을 만들어줘"
-- **언제**: 카드 목록, 메뉴 항목처럼 여러 개가 동시에 등장할 때
-- **헷갈림**: Scroll Reveal — 스크롤 리빌은 '언제' 나타나는지, 스태거는 '순서와 간격'을 말합니다. 둘을 합쳐 쓰기도 합니다.
-- **관련**: Scroll Reveal, Smooth Transition, Ease-in-out
-- **확인 질문**: 간격은 몇 초이고 어느 방향 순서인가요? 항목이 많으면 전체 시간이 너무 길지 않게 제한할까요?
+- **정의**: 카드·메뉴처럼 여러 요소를 한꺼번에가 아니라 조금씩 시간 차를 두고 차례로 나타나게 하는 효과.
+- **원본**: [모션 디자인 · Stagger](motion-design.md#stagger--스태거)
 
 ### Smooth Transition · 부드러운 전환
 
@@ -508,11 +502,5 @@ video:
 
 ### Ease-in-out · 이징 (천천히-빠르게-천천히)
 
-<img src="../assets/ui-design/ease-in-out.svg" alt="직선과 S자 곡선 그래프, 그리고 두 점이 서로 다른 속도로 움직이는 모습" width="320">
-
-- **정의**: 움직임이 천천히 시작해서 중간에 빨라지고 끝에서 다시 느려지는 속도 곡선입니다. 실제 물체처럼 자연스럽게 느껴집니다.
-- **AI에게 이렇게**: "카드 이동에 0.4초 ease-in-out 이징을 써서 시작과 끝은 천천히, 중간은 빠르게 움직이게 해줘"
-- **언제**: 화면에서 무언가 움직이거나 바뀌는 거의 모든 순간
-- **헷갈림**: Linear(선형) — 리니어는 같은 속도로 기계처럼 움직이고, 이징은 가속과 감속을 넣어 자연스럽게 만듭니다. ease-out은 빨리 시작해 느리게 끝나고 ease-in은 반대입니다.
-- **관련**: Smooth Transition, Stagger Animation, Micro-interaction
-- **확인 질문**: 처음부터 빠르게(ease-out)인가요, 양쪽 다 부드럽게(ease-in-out)인가요? 움직이는 시간은 얼마로 할까요?
+- **정의**: 천천히 시작해 중간에 빨라지고 끝에서 다시 천천히 멈추는 속도 곡선. 화면 움직임을 자연스럽게 만든다.
+- **원본**: [모션 디자인 · Ease-in-out](motion-design.md#ease-in-out--이즈-인-아웃)

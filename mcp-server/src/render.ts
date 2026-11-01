@@ -1,5 +1,5 @@
 // Generated sections: the per-sheet "한눈에 보기" grid and the README domain index.
-import { type Cheatsheet, OVERVIEW_START, OVERVIEW_END } from "./cheatsheets.js";
+import { type Cheatsheet, OVERVIEW_START, OVERVIEW_END, ownTerms } from "./cheatsheets.js";
 
 export const INDEX_START = "<!-- index:start -->";
 export const INDEX_END = "<!-- index:end -->";
@@ -36,6 +36,13 @@ export function renderOverview(sheet: Cheatsheet): string {
       out.push("<tr>");
       for (const t of terms.slice(i, i + GRID_COLUMNS)) {
         const [primary, ...rest] = t.names;
+        if (t.canonicalRef) {
+          const href = `${t.canonicalRef.domain}.md#${t.canonicalRef.anchor}`;
+          out.push(
+            `<td width="${Math.floor(100 / GRID_COLUMNS)}%" valign="top"><b><a href="${esc(href)}">${esc(primary!)}</a></b>${rest.length ? ` <sub>${esc(rest.join(" · "))}</sub>` : ""}<br><sub>${esc(plain(t.definition))} → ${esc(t.canonicalRef.domain)} 시트</sub></td>`,
+          );
+          continue;
+        }
         const img = t.image ? `<a href="#${t.anchor}"><img src="${esc(t.image)}" alt="${esc(primary!)}" width="100%"></a><br>` : "";
         const sub = rest.length ? ` <sub>${esc(rest.join(" · "))}</sub>` : "";
         out.push(
@@ -68,7 +75,7 @@ export function renderIndex(sheets: Cheatsheet[]): string {
     groups.set(g, [...(groups.get(g) ?? []), s]);
   }
   const order = [...Object.keys(GROUP_LABELS), ...[...groups.keys()].filter((g) => !(g in GROUP_LABELS)).sort()];
-  const total = sheets.reduce((n, s) => n + s.terms.length, 0);
+  const total = sheets.reduce((n, s) => n + ownTerms(s).length, 0);
   const out: string[] = [INDEX_START, "<!-- 이 구역은 자동 생성됩니다. `cd mcp-server && npm run generate` -->", "", `도메인 ${sheets.length}개 · 용어 ${total}개`, ""];
   for (const g of order) {
     const list = groups.get(g);
@@ -79,7 +86,7 @@ export function renderIndex(sheets: Cheatsheet[]): string {
       for (const s of list.slice(i, i + INDEX_COLUMNS)) {
         const href = `cheatsheets/${s.id}.md`;
         out.push(
-          `<td width="${Math.floor(100 / INDEX_COLUMNS)}%" valign="top"><a href="${href}"><img src="${previewPath(s.id)}" alt="${esc(s.title)} 치트시트 미리보기" width="100%"></a><br><b><a href="${href}">${esc(s.title)} · ${esc(s.titleEn)}</a></b> <sub>용어 ${s.terms.length}개</sub><br><sub>${esc(plain(s.summary))}</sub></td>`,
+          `<td width="${Math.floor(100 / INDEX_COLUMNS)}%" valign="top"><a href="${href}"><img src="${previewPath(s.id)}" alt="${esc(s.title)} 치트시트 미리보기" width="100%"></a><br><b><a href="${href}">${esc(s.title)} · ${esc(s.titleEn)}</a></b> <sub>용어 ${ownTerms(s).length}개</sub><br><sub>${esc(plain(s.summary))}</sub></td>`,
         );
       }
       out.push("</tr>");

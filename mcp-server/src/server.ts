@@ -1,7 +1,7 @@
 // MCP server definition shared by the stdio and HTTP entry points.
 import { McpServer, ResourceTemplate } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { z } from "zod";
-import { type Cheatsheet, type Term, OVERVIEW_START, OVERVIEW_END, searchTerms, findTerm } from "./cheatsheets.js";
+import { type Cheatsheet, type Term, OVERVIEW_START, OVERVIEW_END, searchTerms, findTerm, ownTerms } from "./cheatsheets.js";
 
 export const SERVER_NAME = "domain-cheatsheets";
 export const SERVER_VERSION = "0.1.0";
@@ -48,6 +48,7 @@ export function createServer(sheets: Cheatsheet[], opts: ServerOptions = {}): Mc
     if (t.confirm) lines.push(`- 확인 질문: ${t.confirm}`);
     if (t.image) lines.push(`- image: ${imageUrl(t.image)}`);
     if (t.video) lines.push(`- video: ${t.video}`);
+    if (t.source) lines.push(`- 근거: ${t.source} (검증일 ${t.verified})`);
     lines.push(`- page: ${pageUrl(s, t)}`);
     return lines.join("\n");
   };
@@ -82,7 +83,7 @@ export function createServer(sheets: Cheatsheet[], opts: ServerOptions = {}): Mc
         list
           .map(
             (s) =>
-              `- **${s.id}** — ${s.title} · ${s.titleEn}: ${s.summary}\n  - terms: ${s.terms.length} · categories: ${s.categories.join(" / ")} · tags: ${s.tags.join(", ")}\n  - page: ${pageUrl(s)} · preview: ${rawBase}assets/previews/${s.id}.gif`,
+              `- **${s.id}** — ${s.title} · ${s.titleEn}: ${s.summary}\n  - terms: ${ownTerms(s).length} · categories: ${s.categories.join(" / ")} · tags: ${s.tags.join(", ")}\n  - page: ${pageUrl(s)} · preview: ${rawBase}assets/previews/${s.id}.gif`,
           )
           .join("\n"),
       );
@@ -124,7 +125,16 @@ export function createServer(sheets: Cheatsheet[], opts: ServerOptions = {}): Mc
     async ({ domain, term }) => {
       const s = byId.get(domain);
       if (!s) return unknownDomain(domain);
-      const t = findTerm(s, term);
+      let t = findTerm(s, term);
+      let note = "";
+      if (t?.canonicalRef) {
+        const target = byId.get(t.canonicalRef.domain);
+        const canonical = target?.terms.find((x) => x.anchor === t!.canonicalRef!.anchor);
+        if (target && canonical) {
+          note = `(${s.id}의 '${t.names[0]}'은 ${target.id} 시트의 이 용어를 원본으로 참조합니다)\n\n`;
+          return text(note + termDetail(target, canonical));
+        }
+      }
       if (!t) {
         const near = searchTerms(sheets, term, { domain, limit: 5 }).map((h) => h.term.id);
         return fail(`No term '${term}' in ${domain}.${near.length ? ` Did you mean: ${near.join(", ")}?` : ""}`);

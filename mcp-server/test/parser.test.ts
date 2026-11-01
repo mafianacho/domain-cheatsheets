@@ -3,7 +3,7 @@ import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
-import { parseCheatsheet, githubAnchor, slugify, searchTerms, findTerm, FormatError, loadCheatsheets } from "../src/cheatsheets.js";
+import { parseCheatsheet, githubAnchor, slugify, searchTerms, findTerm, FormatError, loadCheatsheets, ownTerms } from "../src/cheatsheets.js";
 import { renderOverview, applyOverview, renderIndex } from "../src/render.js";
 import { encodeGif, FRAME_W, FRAME_H } from "../scripts/previews.js";
 
@@ -76,6 +76,34 @@ test("GIF encoder writes a looping animated GIF with one image per frame", () =>
   assert.equal(bytes.readUInt16LE(8), FRAME_H);
   assert.ok(bytes.includes(Buffer.from("NETSCAPE2.0", "latin1")), "loop extension");
   assert.equal(bytes.filter((b, i) => b === 0x21 && bytes[i + 1] === 0xf9).length >= 2, true);
+});
+
+const refMd = readFileSync(join(fixtureRoot, "cheatsheets/ref.md"), "utf8");
+
+test("cross-reference entries and cited sources parse", () => {
+  const r = parseCheatsheet(refMd, "ref.md");
+  const ref = r.terms[0]!;
+  assert.deepEqual(ref.canonicalRef, { domain: "sample", anchor: "hero-section--히어로-섹션" });
+  assert.equal(ref.prompt, "");
+  const cited = r.terms[1]!;
+  assert.equal(cited.verified, "2026-11-01");
+  assert.match(cited.source!, /민사소송법 제470조/);
+  assert.deepEqual(ownTerms(r).map((t) => t.id), ["objection-period"]);
+  assert.match(renderOverview(r), /<a href="sample\.md#hero-section--히어로-섹션">Hero Banner<\/a>.*→ sample 시트/);
+});
+
+test("rejects malformed cross-references and half-cited claims", () => {
+  const bad = (mutate: (s: string) => string, re: RegExp) => assert.throws(() => parseCheatsheet(mutate(refMd), "r.md"), (e: unknown) => e instanceof FormatError && re.test((e as Error).message));
+  bad((s) => s.replace("- **원본**: [샘플 · Hero Section](sample.md#hero-section--히어로-섹션)", "- **원본**: 샘플 시트 참고"), /must be one link/);
+  bad((s) => s.replace("- **정의**: 페이지 맨 위 대표 영역.", "- **정의**: 페이지 맨 위 대표 영역.\n- **AI에게 이렇게**: \"만들어줘\""), /may only have 정의 and 원본/);
+  bad((s) => s.replace("### Hero Banner · 히어로 배너\n", "### Hero Banner · 히어로 배너\n<img src=\"../assets/ref/x.svg\">\n"), /must not have an image/);
+  bad((s) => s.replace("- **검증일**: 2026-11-01\n", ""), /needs both 근거 and 검증일/);
+  bad((s) => s.replace("- **검증일**: 2026-11-01", "- **검증일**: 2026.11.01"), /검증일 must be YYYY-MM-DD/);
+});
+
+test("search does not return cross-reference entries twice", () => {
+  const sheets = [parseCheatsheet(refMd), parseCheatsheet(sample)];
+  assert.deepEqual(searchTerms(sheets, "히어로").map((h) => `${h.domain}/${h.term.id}`), ["sample/hero-section"]);
 });
 
 test("search ranks exact names first and handles Korean and spacing", () => {

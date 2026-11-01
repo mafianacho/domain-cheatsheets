@@ -7,11 +7,11 @@
 <rect x="32" y="36" width="100" height="56" rx="6" fill="#1e293b"/>
 <g><rect x="32" y="36" width="20" height="56" fill="#f59e0b"/><rect x="52" y="36" width="20" height="56" fill="#fbd38d"/><rect x="72" y="36" width="20" height="56" fill="#e2e8f0"/><rect x="92" y="36" width="20" height="56" fill="#7dd3fc"/><rect x="112" y="36" width="20" height="56" fill="#38bdf8"/></g>
 <rect x="188" y="36" width="100" height="56" rx="6" fill="url(#g)"/>
-<text class="s c" x="82" y="108">max 256 colors</text><text class="s c" x="238" y="108">millions of colors</text>
-<text class="s c" x="82" y="121">no sound</text><text class="s c" x="238" y="121">sound OK</text>
-<text class="s" x="32" y="148">file size</text>
+<text class="s c" x="82" y="108">최대 256색</text><text class="s c" x="238" y="108">수백만 색</text>
+<text class="s c" x="82" y="121">소리 없음</text><text class="s c" x="238" y="121">소리 가능</text>
+<text class="s" x="32" y="148">파일 크기</text>
 <rect x="32" y="154" width="124" height="10" rx="5" fill="#334155"/><rect class="big" x="32" y="154" width="124" height="10" rx="5" fill="#f59e0b"/>
 <rect x="188" y="154" width="124" height="10" rx="5" fill="#334155"/><rect class="small" x="188" y="154" width="24" height="10" rx="5" fill="#38bdf8"/>
-<text class="s c" x="94" y="182">usually bigger</text><text class="s c" x="250" y="182">usually much smaller</text>
+<text class="s c" x="94" y="182">보통 더 큼</text><text class="s c" x="250" y="182">보통 훨씬 작음</text>
 
 </svg>

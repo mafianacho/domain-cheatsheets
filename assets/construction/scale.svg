@@ -1,6 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200" role="img">
-<title>축척</title>
-<defs></defs>
+<title>축척 1대10과 1대100을 실제 비율로 그린 막대</title>
 <rect width="320" height="200" rx="12" fill="#0f172a"/>
-<text x="14" y="22" font-size="11" fill="#94a3b8" text-anchor="start" font-weight="normal" font-family="system-ui, sans-serif">축척 · 도면 길이와 실제 길이의 비율</text><text x="160" y="62" font-size="22" fill="#f59e0b" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">1 : 100</text><rect x="60" y="85" width="20" height="10" fill="#f59e0b" stroke="none" stroke-width="1" /><text x="70" y="78" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="normal" font-family="system-ui, sans-serif">도면 위 1cm</text><line x1="70" y1="100" x2="70" y2="128" stroke="#38bdf8" stroke-width="1.5"/><polygon points="70,128 67.4,122.6 72.6,122.6" fill="#38bdf8"/><rect x="60" y="134" width="100" height="12" fill="#334155" stroke="#475569" stroke-width="1.5" /><line x1="80" y1="134" x2="80" y2="146" stroke="#475569" stroke-width="1.5"/><line x1="100" y1="134" x2="100" y2="146" stroke="#475569" stroke-width="1.5"/><line x1="120" y1="134" x2="120" y2="146" stroke="#475569" stroke-width="1.5"/><line x1="140" y1="134" x2="140" y2="146" stroke="#475569" stroke-width="1.5"/><text x="110" y="170" font-size="11" fill="#38bdf8" text-anchor="middle" font-weight="normal" font-family="system-ui, sans-serif">실제 1m</text><text x="235" y="146" font-size="16" fill="#f59e0b" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">× 100배</text>
+<text x="14" y="22" font-size="11" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">축척 · 도면 길이 : 실제 길이</text>
+<text x="14" y="42" font-size="10" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">① 1:10이면 — 도면 1cm가 실제 10cm</text>
+<rect x="20" y="48" width="20" height="10" fill="#f59e0b"/>
+<text x="48" y="57" font-size="10" fill="#f59e0b" text-anchor="start" font-family="system-ui, sans-serif">도면 1cm</text>
+<rect x="20" y="64" width="200" height="10" fill="#38bdf8"/>
+<text x="228" y="73" font-size="10" fill="#38bdf8" text-anchor="start" font-family="system-ui, sans-serif">실제 10cm</text>
+<text x="14" y="98" font-size="10" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">② 1:100이면 — 도면 1cm가 실제 100cm</text>
+<rect x="15" y="106" width="2.9" height="12" fill="#f59e0b"/>
+<text x="26" y="116" font-size="10" fill="#f59e0b" text-anchor="start" font-family="system-ui, sans-serif">도면 1cm</text>
+<rect x="15" y="124" width="290" height="10" fill="#38bdf8"/>
+<text x="160" y="148" font-size="10" fill="#38bdf8" text-anchor="middle" font-family="system-ui, sans-serif">실제 100cm (= 1m)</text>
+<line x1="14" y1="160" x2="306" y2="160" stroke="#475569" stroke-width="1"/>
+<text x="160" y="175" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">1:50 → 50cm · 1:100 → 100cm · 1:200 → 200cm</text>
+<text x="160" y="191" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">줄마다 도면 1cm의 크기는 다르지만 줄 안의 비율은 정확합니다</text>
 </svg>

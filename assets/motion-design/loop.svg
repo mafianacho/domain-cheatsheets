@@ -10,6 +10,6 @@
 <circle cx="205" cy="95" r="4" fill="#f59e0b"/><circle cx="295" cy="95" r="4" fill="#f59e0b"/>
 <path d="M295 103 Q250 150 211 106" fill="none" stroke="#f59e0b" stroke-width="2" stroke-dasharray="4 3"/>
 <polygon points="205,100 218,107 208,115" fill="#f59e0b"/>
-<text class="s c" x="250" y="86">start → end</text><text class="s c" x="250" y="168">back to start</text>
+<text class="s c" x="250" y="86">시작 → 끝</text><text class="s c" x="250" y="168">처음으로 돌아감</text>
 
 </svg>
