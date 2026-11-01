@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="직전 연도 공급대가 1억 400만 원 미만의 개인사업자는 간이과세자이고, 4,800만 원 미만이면 납부가 면제된다. 신고는 연 1회">
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="22" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">간이과세자 기준 (직전 연도 공급대가)</text>
+<text x="126" y="56" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">간이과세자 (개인사업자)</text>
+<line x1="30" y1="62" x2="223" y2="62" stroke="#94a3b8" stroke-width="1"/>
+<rect x="30" y="70" width="89" height="34" rx="5" fill="#1e293b" stroke="#38bdf8" stroke-width="2"/>
+<text x="75" y="91" font-size="10" fill="#38bdf8" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">납부 면제</text>
+<rect x="119" y="70" width="104" height="34" rx="5" fill="#334155" stroke="#f59e0b" stroke-width="2"/>
+<text x="171" y="91" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">납부 (간이 계산)</text>
+<rect x="223" y="70" width="67" height="34" rx="5" fill="#1e293b" stroke="#475569" stroke-width="2"/>
+<text x="256" y="91" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">일반과세</text>
+<text x="119" y="122" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">4,800만</text>
+<text x="223" y="122" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">1억 400만</text>
+<line x1="119" y1="104" x2="119" y2="110" stroke="#475569" stroke-width="1.5"/>
+<line x1="223" y1="104" x2="223" y2="110" stroke="#475569" stroke-width="1.5"/>
+<text x="160" y="146" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">4,800만 원 미만: 납부는 면제, 신고는 해야 한다</text>
+<text x="160" y="162" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">세금계산서 대신 영수증 발급 (신규 등 예외 있음)</text>
+<text x="160" y="182" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">신고는 연 1회: 다음 해 1월 25일까지</text>
+</svg>

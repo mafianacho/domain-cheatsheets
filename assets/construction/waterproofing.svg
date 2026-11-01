@@ -1,6 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200" role="img">
-<title>방수</title>
-<defs></defs>
+<title>욕실 바닥과 벽 모서리 단면: 구조체, 방수층, 보호 모르타르, 타일 접착재, 타일 순서</title>
 <rect width="320" height="200" rx="12" fill="#0f172a"/>
-<text x="14" y="22" font-size="11" fill="#94a3b8" text-anchor="start" font-weight="normal" font-family="system-ui, sans-serif">방수 · 욕실 바닥·벽 단면</text><rect x="30" y="60" width="52" height="115" fill="#475569" stroke="none" stroke-width="1" /><rect x="30" y="140" width="260" height="35" fill="#475569" stroke="none" stroke-width="1" /><rect x="82" y="126" width="208" height="14" fill="#334155" stroke="none" stroke-width="1" /><rect x="82" y="70" width="10" height="70" fill="#334155" stroke="none" stroke-width="1" /><rect x="92" y="118" width="198" height="8" fill="#f59e0b" stroke="none" stroke-width="1" /><rect x="92" y="70" width="0" height="0" fill="#334155" stroke="none" stroke-width="1" /><rect x="92" y="118" width="198" height="8" fill="#f59e0b" stroke="none" stroke-width="1" /><rect x="92" y="70" width="8" height="48" fill="#f59e0b" stroke="none" stroke-width="1" /><path d="M82,62 L82,140 L290,140" fill="none" stroke="#38bdf8" stroke-width="4"/><path d="M190,60 q-4,7 0,10 q4,-3 0,-10z" fill="#38bdf8"/><path d="M230,80 q-4,7 0,10 q4,-3 0,-10z" fill="#38bdf8"/><path d="M260,50 q-4,7 0,10 q4,-3 0,-10z" fill="#38bdf8"/><text x="56" y="100" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="normal" font-family="system-ui, sans-serif">벽</text><text x="190" y="112" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="normal" font-family="system-ui, sans-serif">타일</text><text x="190" y="137" font-size="9" fill="#e2e8f0" text-anchor="middle" font-weight="normal" font-family="system-ui, sans-serif">보호 모르타르</text><text x="190" y="158" font-size="10" fill="#38bdf8" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">방수층</text><text x="190" y="172" font-size="9" fill="#e2e8f0" text-anchor="middle" font-weight="normal" font-family="system-ui, sans-serif">벽 아래부터 위로 올려 붙임</text>
+<text x="14" y="22" font-size="11" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">방수 · 욕실 바닥과 벽 모서리 단면</text>
+<rect x="20" y="34" width="32" height="140" fill="#475569"/>
+<rect x="20" y="150" width="144" height="24" fill="#475569"/>
+<text x="36" y="106" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">벽</text>
+<text x="100" y="166" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">바닥</text>
+<path d="M56,46 L56,146 L164,146" fill="none" stroke="#38bdf8" stroke-width="8" stroke-linejoin="miter"/>
+<path d="M68,46 L68,134 L164,134" fill="none" stroke="#64748b" stroke-width="16" stroke-linejoin="miter"/>
+<path d="M80,46 L80,122 L164,122" fill="none" stroke="#f59e0b" stroke-width="8" stroke-linejoin="miter"/>
+<path d="M90,46 L90,112 L164,112" fill="none" stroke="#e2e8f0" stroke-width="12" stroke-linejoin="miter"/>
+<text x="132" y="80" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">욕실 안쪽</text>
+<line x1="164" y1="112" x2="182" y2="63" stroke="#475569" stroke-width="1"/>
+<circle cx="184" cy="63" r="3" fill="#e2e8f0"/>
+<text x="192" y="66" font-size="10" fill="#e2e8f0" text-anchor="start" font-weight="bold" font-family="system-ui, sans-serif">⑤ 타일</text>
+<text x="192" y="77" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">마감 · 물 닿는 면</text>
+<line x1="164" y1="122" x2="182" y2="89" stroke="#475569" stroke-width="1"/>
+<circle cx="184" cy="89" r="3" fill="#f59e0b"/>
+<text x="192" y="92" font-size="10" fill="#e2e8f0" text-anchor="start" font-weight="bold" font-family="system-ui, sans-serif">④ 타일 접착재</text>
+<text x="192" y="103" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">타일을 붙이는 층</text>
+<line x1="164" y1="134" x2="182" y2="115" stroke="#475569" stroke-width="1"/>
+<circle cx="184" cy="115" r="3" fill="#64748b"/>
+<text x="192" y="118" font-size="10" fill="#e2e8f0" text-anchor="start" font-weight="bold" font-family="system-ui, sans-serif">③ 보호 모르타르</text>
+<text x="192" y="129" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">방수층 보호 · 바탕</text>
+<line x1="164" y1="146" x2="182" y2="141" stroke="#475569" stroke-width="1"/>
+<circle cx="184" cy="141" r="3" fill="#38bdf8"/>
+<text x="192" y="144" font-size="10" fill="#38bdf8" text-anchor="start" font-weight="bold" font-family="system-ui, sans-serif">② 방수층</text>
+<text x="192" y="155" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">바닥에서 벽 위로 올림</text>
+<line x1="164" y1="162" x2="182" y2="167" stroke="#475569" stroke-width="1"/>
+<circle cx="184" cy="167" r="3" fill="#475569" stroke="#94a3b8" stroke-width="1"/>
+<text x="192" y="170" font-size="10" fill="#e2e8f0" text-anchor="start" font-weight="bold" font-family="system-ui, sans-serif">① 구조체</text>
+<text x="192" y="181" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">슬래브(바닥) · 벽</text>
+<text x="14" y="193" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">두께는 알아보기 쉽게 과장했습니다</text>
 </svg>

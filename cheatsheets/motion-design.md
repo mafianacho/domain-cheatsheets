@@ -77,8 +77,8 @@ video:
 <td width="33%" valign="top"><a href="#follow-through--팔로스루"><img src="../assets/motion-design/follow-through.svg" alt="Follow-through" width="100%"></a><br><b><a href="#follow-through--팔로스루">Follow-through</a></b> <sub>팔로스루</sub><br><sub>몸체가 멈춘 뒤에도 달려 있는 부분(머리카락, 안테나, 옷자락)이 관성으로 조금 더 움직이다가 천천히 멈추게 하는 기법.</sub></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="#parallax--패럴랙스"><img src="../assets/motion-design/parallax.svg" alt="Parallax" width="100%"></a><br><b><a href="#parallax--패럴랙스">Parallax</a></b> <sub>패럴랙스</sub><br><sub>멀리 있는 층은 천천히, 가까운 층은 빠르게 움직여서 평면 화면에 깊이감을 만드는 효과. 차창 밖 풍경이 이렇게 보입니다.</sub></td>
-<td width="33%" valign="top"><a href="#micro-interaction--마이크로-인터랙션"><img src="../assets/motion-design/micro-interaction.svg" alt="Micro-interaction" width="100%"></a><br><b><a href="#micro-interaction--마이크로-인터랙션">Micro-interaction</a></b> <sub>마이크로 인터랙션</sub><br><sub>버튼 누르기, 좋아요, 토글처럼 사용자의 작은 행동 하나에 즉시 돌아오는 짧은 반응. 성공·실패 같은 상태를 알려줍니다.</sub></td>
+<td width="33%" valign="top"><b><a href="ui-design.md#parallax-scrolling--패럴랙스-스크롤">Parallax</a></b> <sub>패럴랙스</sub><br><sub>먼 층은 천천히, 가까운 층은 빠르게 움직여 평면 화면에 깊이감을 만드는 효과. 스크롤 외에 영상·게임 배경에도 쓴다. → ui-design 시트</sub></td>
+<td width="33%" valign="top"><b><a href="ui-design.md#micro-interaction--마이크로-인터랙션">Micro-interaction</a></b> <sub>마이크로 인터랙션</sub><br><sub>버튼 누르기·좋아요·토글처럼 작은 행동 하나에 즉시 돌아오는 짧은 반응 움직임. → ui-design 시트</sub></td>
 </tr>
 </table>
 
@@ -106,7 +106,7 @@ video:
 
 - **정의**: 움직임에서 "여기서는 이 모양·이 위치"라고 직접 찍어 두는 중요한 순간. 키프레임 사이의 장면은 프로그램이 알아서 채웁니다.
 - **AI에게 이렇게**: "0초에는 작고 투명하게, 0.5초에는 원래 크기로, 1초에는 오른쪽으로 이동하는 3개의 키프레임으로 애니메이션을 만들어줘."
-- **언제**: 시작·중간·끝처럼 모양이 바뀌는 지점을 정확히 지정하고 싶을 때
+- **언제**: 시작·중간·끝처럼 모양이 바뀌는 지점을 정확히 지정하고 싶을 때. 웹 애니메이션, 영상, 3D 애니메이션(공 튀기기·로고 회전)에서 모두 같은 개념이다
 - **헷갈림**: Frame(프레임) — 프레임은 영상의 낱장 한 컷이고, 키프레임은 사람이 직접 정한 중요한 컷입니다. 둘 사이의 컷은 Tween이 채웁니다.
 - **관련**: Tween, Duration, Easing
 - **확인 질문**: 어떤 순간에 어떤 모양(위치·크기·색·투명도)이어야 하나요? 키프레임은 몇 개로 할까요?
@@ -337,25 +337,13 @@ video:
 
 ### Parallax · 패럴랙스
 
-<img src="../assets/motion-design/parallax.svg" alt="산, 언덕, 나무 세 층이 서로 다른 속도로 좌우로 움직이는 깊이감 있는 풍경" width="320">
-
-- **정의**: 멀리 있는 층은 천천히, 가까운 층은 빠르게 움직여서 평면 화면에 깊이감을 만드는 효과. 차창 밖 풍경이 이렇게 보입니다.
-- **AI에게 이렇게**: "스크롤할 때 배경은 천천히, 중간 이미지는 보통, 앞쪽 글자는 빠르게 움직이는 Parallax 스크롤을 만들어줘."
-- **언제**: 스크롤에 따라 움직이는 랜딩 페이지, 2D 게임 배경, 영상 인트로의 깊이감
-- **헷갈림**: Scroll Animation — 스크롤에 맞춰 움직이는 모든 효과의 큰 이름이고, Parallax는 층마다 속도가 다른 것입니다. 너무 많거나 크면 어지러움을 유발할 수 있어 Prefers-reduced-motion을 꼭 챙겨야 합니다.
-- **관련**: Prefers-reduced-motion, Linear, Motion Graphics
-- **확인 질문**: 움직임의 기준이 스크롤인가요, 마우스 움직임인가요, 자동 재생인가요? 몇 개 층으로 나눌까요?
+- **정의**: 먼 층은 천천히, 가까운 층은 빠르게 움직여 평면 화면에 깊이감을 만드는 효과. 스크롤 외에 영상·게임 배경에도 쓴다.
+- **원본**: [UI 디자인 · Parallax Scrolling](ui-design.md#parallax-scrolling--패럴랙스-스크롤)
 
 ### Micro-interaction · 마이크로 인터랙션
 
-<img src="../assets/motion-design/micro-interaction.svg" alt="하트 버튼을 누르면 하트가 커지며 색이 변하고 작은 불꽃이 퍼지는 그림" width="320">
-
-- **정의**: 버튼 누르기, 좋아요, 토글처럼 사용자의 작은 행동 하나에 즉시 돌아오는 짧은 반응. 성공·실패 같은 상태를 알려줍니다.
-- **AI에게 이렇게**: "좋아요 하트를 누르면 0.4초 동안 커졌다가 돌아오면서 주황색으로 바뀌고 작은 입자가 퍼지는 Micro-interaction을 넣어줘."
-- **언제**: 버튼 눌림, 체크박스·토글, 입력 오류 흔들림, 로딩 완료 표시
-- **헷갈림**: 일반 애니메이션 — Micro-interaction은 "사용자 행동 → 반응"이라는 짝이 있는 아주 작은 움직임입니다. 0.1~0.5초 안에 끝나야 하며 화려함보다 정보 전달이 목적입니다.
-- **관련**: Ease-out, Duration, Spring
-- **확인 질문**: 어떤 행동에 반응하나요(클릭·호버·입력 오류)? 성공과 실패를 다르게 보여줄까요?
+- **정의**: 버튼 누르기·좋아요·토글처럼 작은 행동 하나에 즉시 돌아오는 짧은 반응 움직임.
+- **원본**: [UI 디자인 · Micro-interaction](ui-design.md#micro-interaction--마이크로-인터랙션)
 
 ## 결과물과 도구 · Formats & Tools
 

@@ -6,7 +6,7 @@
 <g stroke="#475569" stroke-dasharray="3 3"><line x1="40" y1="100" x2="40" y2="158"/><line x1="160" y1="100" x2="160" y2="158"/><line x1="280" y1="100" x2="280" y2="158"/></g>
 <g fill="none" stroke="#f59e0b" stroke-dasharray="4 3" stroke-width="1.5"><circle cx="40" cy="72" r="10"/><circle cx="160" cy="72" r="22"/><circle cx="280" cy="72" r="10"/></g>
 <g fill="#f59e0b"><rect x="33" y="158" width="14" height="14" transform="rotate(45 40 165)"/><rect x="153" y="158" width="14" height="14" transform="rotate(45 160 165)"/><rect x="273" y="158" width="14" height="14" transform="rotate(45 280 165)"/></g>
-<text class="s c" x="160" y="190">keyframe</text>
+<text class="s c" x="160" y="190">키프레임</text>
 <text class="s c" x="40" y="190">0s</text><text class="s c" x="280" y="190">2s</text>
 <circle class="ball" cx="40" cy="72" r="22" fill="#38bdf8"/>
 <line class="head" x1="40" y1="120" x2="40" y2="175" stroke="#e2e8f0" stroke-width="2"/>

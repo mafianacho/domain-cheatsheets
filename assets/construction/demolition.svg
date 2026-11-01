@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200" role="img">
+<title>철거할 칸막이벽, 건드리면 안 되는 내력벽, 배관을 표시한 평면</title>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="14" y="22" font-size="11" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">철거 · 뜯기 전에 구분할 것</text>
+<rect x="20" y="32" width="280" height="86" fill="#1e293b" stroke="#475569" stroke-width="2"/>
+<line x1="110" y1="34" x2="110" y2="116" stroke="#f59e0b" stroke-width="5" stroke-dasharray="6 4"/>
+<line x1="212" y1="34" x2="212" y2="116" stroke="#64748b" stroke-width="8"/>
+<path d="M26,100 H96 V84 H206 V100 H294" fill="none" stroke="#38bdf8" stroke-width="2" stroke-dasharray="4 3" stroke-linejoin="round"/>
+<text x="65" y="62" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">방 A</text>
+<text x="161" y="62" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">방 B</text>
+<text x="256" y="62" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">방 C</text>
+<line x1="20" y1="134" x2="44" y2="134" stroke="#f59e0b" stroke-width="5" stroke-dasharray="6 4"/>
+<text x="52" y="138" font-size="10" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">철거할 칸막이벽</text>
+<line x1="20" y1="150" x2="44" y2="150" stroke="#64748b" stroke-width="8"/>
+<text x="52" y="154" font-size="10" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">내력벽 — 함부로 철거 금지, 구조 확인 먼저</text>
+<line x1="20" y1="166" x2="44" y2="166" stroke="#38bdf8" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="52" y="170" font-size="10" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">배관 · 전기선 — 벽 속을 지나가는지 확인</text>
+<text x="20" y="190" font-size="10" fill="#f59e0b" text-anchor="start" font-family="system-ui, sans-serif">철거 폐기물의 반출 · 처리까지가 철거 공사</text>
+</svg>

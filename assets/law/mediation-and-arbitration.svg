@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" font-family="system-ui, sans-serif" role="img"><title>조정은 제3자가 합의를 돕고 중재는 중재인이 판정을 내려 따르게 하는 분쟁 해결 방법</title><defs><marker id="ma" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#f59e0b"/></marker><marker id="ms" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#38bdf8"/></marker><marker id="mg" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#94a3b8"/></marker></defs><rect width="320" height="200" rx="12" fill="#0f172a"/><rect x="8" y="12" width="148" height="180" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2"/>
+<rect x="164" y="12" width="148" height="180" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.2"/>
+<text x="82" y="32" font-size="14" fill="#38bdf8" text-anchor="middle" font-weight="700">조정</text>
+<text x="238" y="32" font-size="14" fill="#f59e0b" text-anchor="middle" font-weight="700">중재</text>
+<circle cx="82" cy="54" r="9" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="82" y="58" font-size="9" fill="#e2e8f0" text-anchor="middle">3</text>
+<circle cx="46" cy="100" r="9" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="46" y="104" font-size="9" fill="#e2e8f0" text-anchor="middle">갑</text>
+<circle cx="118" cy="100" r="9" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="118" y="104" font-size="9" fill="#e2e8f0" text-anchor="middle">을</text>
+<circle cx="238" cy="54" r="9" fill="#334155" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="238" y="58" font-size="9" fill="#e2e8f0" text-anchor="middle">3</text>
+<circle cx="202" cy="100" r="9" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="202" y="104" font-size="9" fill="#e2e8f0" text-anchor="middle">갑</text>
+<circle cx="274" cy="100" r="9" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="274" y="104" font-size="9" fill="#e2e8f0" text-anchor="middle">을</text>
+<line x1="52" y1="94" x2="72" y2="64" stroke="#38bdf8" stroke-width="1.5"/>
+<line x1="112" y1="94" x2="92" y2="64" stroke="#38bdf8" stroke-width="1.5"/>
+<line x1="61" y1="100" x2="103" y2="100" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="82" y="118" font-size="9" fill="#38bdf8" text-anchor="middle">서로 합의해야 성립</text>
+<line x1="208" y1="64" x2="208" y2="91" stroke="#f59e0b" stroke-width="1.5" marker-end="url(#ma)"/>
+<line x1="268" y1="64" x2="268" y2="91" stroke="#f59e0b" stroke-width="1.5" marker-end="url(#ma)"/>
+<text x="238" y="118" font-size="9" fill="#f59e0b" text-anchor="middle">판정을 따라야 함</text>
+<text x="82" y="140" font-size="10" fill="#e2e8f0" text-anchor="middle">제3자가 합의를 이끔</text>
+<text x="82" y="156" font-size="9" fill="#e2e8f0" text-anchor="middle">합의되면 재판상 화해와</text>
+<text x="82" y="172" font-size="9" fill="#e2e8f0" text-anchor="middle">같은 효력</text>
+<text x="238" y="140" font-size="10" fill="#e2e8f0" text-anchor="middle">중재인이 판정을 내림</text>
+<text x="238" y="156" font-size="9" fill="#e2e8f0" text-anchor="middle">서면 중재합의 필요(분쟁 전후 가능)</text>
+<text x="238" y="172" font-size="9" fill="#e2e8f0" text-anchor="middle">확정판결과 같은 효력</text></svg>

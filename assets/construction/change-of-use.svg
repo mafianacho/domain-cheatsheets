@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200" role="img">
+<title>용도변경 시설군 아홉 개와 허가, 신고, 건축물대장 변경의 방향</title>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="14" y="22" font-size="11" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">용도변경 · 시설군 9개</text>
+<rect x="14" y="32" width="140" height="15" fill="#1e293b" rx="4" stroke="#475569" stroke-width="1"/>
+<text x="24" y="43" font-size="9" fill="#f59e0b" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">1</text>
+<text x="36" y="43" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">자동차 관련 시설군</text>
+<rect x="14" y="49" width="140" height="15" fill="#1e293b" rx="4" stroke="#475569" stroke-width="1"/>
+<text x="24" y="60" font-size="9" fill="#f59e0b" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">2</text>
+<text x="36" y="60" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">산업 등 시설군</text>
+<rect x="14" y="66" width="140" height="15" fill="#1e293b" rx="4" stroke="#475569" stroke-width="1"/>
+<text x="24" y="77" font-size="9" fill="#f59e0b" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">3</text>
+<text x="36" y="77" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">전기통신 시설군</text>
+<rect x="14" y="83" width="140" height="15" fill="#1e293b" rx="4" stroke="#475569" stroke-width="1"/>
+<text x="24" y="94" font-size="9" fill="#f59e0b" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">4</text>
+<text x="36" y="94" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">문화 및 집회 시설군</text>
+<rect x="14" y="100" width="140" height="15" fill="#1e293b" rx="4" stroke="#475569" stroke-width="1"/>
+<text x="24" y="111" font-size="9" fill="#f59e0b" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">5</text>
+<text x="36" y="111" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">영업 시설군</text>
+<rect x="14" y="117" width="140" height="15" fill="#1e293b" rx="4" stroke="#475569" stroke-width="1"/>
+<text x="24" y="128" font-size="9" fill="#f59e0b" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">6</text>
+<text x="36" y="128" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">교육 및 복지 시설군</text>
+<rect x="14" y="134" width="140" height="15" fill="#1e293b" rx="4" stroke="#475569" stroke-width="1"/>
+<text x="24" y="145" font-size="9" fill="#f59e0b" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">7</text>
+<text x="36" y="145" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">근린생활 시설군</text>
+<rect x="14" y="151" width="140" height="15" fill="#1e293b" rx="4" stroke="#475569" stroke-width="1"/>
+<text x="24" y="162" font-size="9" fill="#f59e0b" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">8</text>
+<text x="36" y="162" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">주거업무 시설군</text>
+<rect x="14" y="168" width="140" height="15" fill="#1e293b" rx="4" stroke="#475569" stroke-width="1"/>
+<text x="24" y="179" font-size="9" fill="#f59e0b" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">9</text>
+<text x="36" y="179" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">그 밖의 시설군</text>
+<text x="14" y="192" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">번호가 작을수록 위의 군</text>
+<line x1="176" y1="90" x2="176" y2="44" stroke="#f59e0b" stroke-width="2"/>
+<polygon points="176.0,40.0 178.2,44.5 173.8,44.5" fill="#f59e0b"/>
+<text x="188" y="58" font-size="11" fill="#f59e0b" text-anchor="start" font-weight="bold" font-family="system-ui, sans-serif">허가</text>
+<text x="188" y="71" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">번호 작은 쪽으로</text>
+<text x="188" y="83" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">(상위군)</text>
+<text x="188" y="108" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">같은 군 안이면</text>
+<text x="188" y="120" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">건축물대장 변경</text>
+<line x1="176" y1="128" x2="176" y2="172" stroke="#38bdf8" stroke-width="2"/>
+<polygon points="176.0,176.0 173.8,171.5 178.2,171.5" fill="#38bdf8"/>
+<text x="188" y="146" font-size="11" fill="#38bdf8" text-anchor="start" font-weight="bold" font-family="system-ui, sans-serif">신고</text>
+<text x="188" y="159" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">번호 큰 쪽으로</text>
+<text x="188" y="171" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">(하위군)</text>
+</svg>

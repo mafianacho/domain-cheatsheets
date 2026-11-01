@@ -30,17 +30,17 @@ video:
 
 <table>
 <tr>
-<td width="33%" valign="top"><b><a href="#parties-to-a-contract--계약-당사자갑을">Parties to a Contract</a></b> <sub>계약 당사자(갑·을)</sub><br><sub>계약서에서 계약을 맺는 각 사람이나 회사를 부르는 이름. 보통 돈을 내고 일을 시키는 쪽을 '갑', 일을 받아 하는 쪽을 '을'이라 쓰지만, 법적으로 갑이 더 세다는 뜻은 아니다.</sub></td>
+<td width="33%" valign="top"><a href="#parties-to-a-contract--계약-당사자갑을"><img src="../assets/law/parties-to-a-contract.svg" alt="Parties to a Contract" width="100%"></a><br><b><a href="#parties-to-a-contract--계약-당사자갑을">Parties to a Contract</a></b> <sub>계약 당사자(갑·을)</sub><br><sub>계약서에서 계약을 맺는 각 사람이나 회사를 부르는 이름. 보통 돈을 내고 일을 시키는 쪽을 '갑', 일을 받아 하는 쪽을 '을'이라 쓰지만, 법적으로 갑이 더 세다는 뜻은 아니다.</sub></td>
 <td width="33%" valign="top"><a href="#rescission--해제"><img src="../assets/law/rescission.svg" alt="Rescission" width="100%"></a><br><b><a href="#rescission--해제">Rescission</a></b> <sub>해제</sub><br><sub>한쪽이 약속을 어겼을 때 등 계약을 처음부터 없던 것처럼 되돌리는 것. 이미 주고받은 돈이나 물건은 서로 돌려줘야 한다(원상회복).</sub></td>
-<td width="33%" valign="top"><b><a href="#termination--해지">Termination</a></b> <sub>해지</sub><br><sub>이어지는 계약(월세, 구독, 월 단위 용역 등)을 지금부터 앞으로만 끝내는 것. 이미 지나간 기간의 계약 내용은 그대로 유효하다.</sub></td>
+<td width="33%" valign="top"><a href="#termination--해지"><img src="../assets/law/termination.svg" alt="Termination" width="100%"></a><br><b><a href="#termination--해지">Termination</a></b> <sub>해지</sub><br><sub>이어지는 계약(월세, 구독, 월 단위 용역 등)을 지금부터 앞으로만 끝내는 것. 이미 지나간 기간의 계약 내용은 그대로 유효하다.</sub></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><b><a href="#liquidated-damages--위약금손해배상액의-예정">Liquidated Damages</a></b> <sub>위약금(손해배상액의 예정)</sub><br><sub>계약을 어기면 &quot;이만큼 물어준다&quot;고 계약서에 미리 정해 둔 금액. 실제 손해가 얼마인지 따지지 않고 그 금액을 기준으로 한다.</sub></td>
-<td width="33%" valign="top"><b><a href="#damages--손해배상">Damages</a></b> <sub>손해배상</sub><br><sub>상대의 잘못으로 내가 입은 손해를 돈으로 물어 달라고 하는 것. 손해가 있었다는 것, 상대 잘못 때문이라는 것, 금액이 얼마인지를 보통 청구하는 쪽이 보여줘야 한다.</sub></td>
-<td width="33%" valign="top"><b><a href="#standard-terms--약관">Standard Terms</a></b> <sub>약관</sub><br><sub>사업자가 여러 고객과 똑같이 계약하려고 미리 만들어 둔 계약 조건. 쇼핑몰 이용약관, 앱 서비스 약관이 대표적이다. 약관의 공정성은 약관규제법이 따로 규율한다.</sub></td>
+<td width="33%" valign="top"><a href="#liquidated-damages--위약금손해배상액의-예정"><img src="../assets/law/liquidated-damages.svg" alt="Liquidated Damages" width="100%"></a><br><b><a href="#liquidated-damages--위약금손해배상액의-예정">Liquidated Damages</a></b> <sub>위약금(손해배상액의 예정)</sub><br><sub>계약을 어기면 &quot;이만큼 물어준다&quot;고 계약서에 미리 정해 둔 금액. 실제 손해가 얼마인지 따지지 않고 그 금액을 기준으로 한다.</sub></td>
+<td width="33%" valign="top"><a href="#damages--손해배상"><img src="../assets/law/damages.svg" alt="Damages" width="100%"></a><br><b><a href="#damages--손해배상">Damages</a></b> <sub>손해배상</sub><br><sub>상대의 잘못으로 내가 입은 손해를 돈으로 물어 달라고 하는 것. 손해가 있었다는 것, 상대 잘못 때문이라는 것, 금액이 얼마인지를 보통 청구하는 쪽이 보여줘야 한다.</sub></td>
+<td width="33%" valign="top"><a href="#standard-terms--약관"><img src="../assets/law/standard-terms.svg" alt="Standard Terms" width="100%"></a><br><b><a href="#standard-terms--약관">Standard Terms</a></b> <sub>약관</sub><br><sub>사업자가 여러 고객과 똑같이 계약하려고 미리 만들어 둔 계약 조건. 쇼핑몰 이용약관, 앱 서비스 약관이 대표적이다. 약관의 공정성은 약관규제법이 따로 규율한다.</sub></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><b><a href="#nda--비밀유지계약">NDA</a></b> <sub>비밀유지계약</sub><br><sub>서로 주고받은 비밀 정보를 남에게 알리거나 정해진 목적 밖에서 쓰지 않겠다고 약속하는 계약. 'Non-Disclosure Agreement'를 줄인 말이다.</sub></td>
+<td width="33%" valign="top"><a href="#nda--비밀유지계약"><img src="../assets/law/nda.svg" alt="NDA" width="100%"></a><br><b><a href="#nda--비밀유지계약">NDA</a></b> <sub>비밀유지계약</sub><br><sub>서로 주고받은 비밀 정보를 남에게 알리거나 정해진 목적 밖에서 쓰지 않겠다고 약속하는 계약. 'Non-Disclosure Agreement'를 줄인 말이다.</sub></td>
 </tr>
 </table>
 
@@ -48,17 +48,17 @@ video:
 
 <table>
 <tr>
-<td width="33%" valign="top"><b><a href="#certified-mail--내용증명">Certified Mail</a></b> <sub>내용증명</sub><br><sub>&quot;언제, 누가, 누구에게, 어떤 내용의 문서를 보냈는지&quot;를 우체국이 증명해 주는 우편. 상대가 받았는데 몰랐다고 하기 어렵게 기록을 남긴다.</sub></td>
+<td width="33%" valign="top"><a href="#certified-mail--내용증명"><img src="../assets/law/certified-mail.svg" alt="Certified Mail" width="100%"></a><br><b><a href="#certified-mail--내용증명">Certified Mail</a></b> <sub>내용증명</sub><br><sub>&quot;언제, 누가, 누구에게, 어떤 내용의 문서를 보냈는지&quot;를 우체국이 증명해 주는 우편. 상대가 받았는데 몰랐다고 하기 어렵게 기록을 남긴다.</sub></td>
 <td width="33%" valign="top"><a href="#payment-order--지급명령"><img src="../assets/law/payment-order.svg" alt="Payment Order" width="100%"></a><br><b><a href="#payment-order--지급명령">Payment Order</a></b> <sub>지급명령</sub><br><sub>돈을 받을 게 있을 때 재판 없이 서류 심사만으로 &quot;돈을 갚아라&quot;는 명령을 법원에서 받는 절차. 상대가 가만히 있으면 확정판결과 같은 효력이 생긴다.</sub></td>
-<td width="33%" valign="top"><b><a href="#small-claims--소액사건심판">Small Claims</a></b> <sub>소액사건심판</sub><br><sub>금액이 작은 돈 다툼을 일반 재판보다 간단하고 빠르게 처리하는 재판 절차. 신청 때 말로 접수하는 것도 가능하고, 법원이 먼저 &quot;갚으라&quot;는 이행권고결정을 보내기도 한다.</sub></td>
+<td width="33%" valign="top"><a href="#small-claims--소액사건심판"><img src="../assets/law/small-claims.svg" alt="Small Claims" width="100%"></a><br><b><a href="#small-claims--소액사건심판">Small Claims</a></b> <sub>소액사건심판</sub><br><sub>금액이 작은 돈 다툼을 일반 재판보다 간단하고 빠르게 처리하는 재판 절차. 신청 때 말로 접수하는 것도 가능하고, 법원이 먼저 &quot;갚으라&quot;는 이행권고결정을 보내기도 한다.</sub></td>
 </tr>
 <tr>
 <td width="33%" valign="top"><a href="#civil-lawsuit-vs-criminal-complaint--민사소송과-형사고소"><img src="../assets/law/civil-lawsuit-vs-criminal-complaint.svg" alt="Civil Lawsuit vs Criminal Complaint" width="100%"></a><br><b><a href="#civil-lawsuit-vs-criminal-complaint--민사소송과-형사고소">Civil Lawsuit vs Criminal Complaint</a></b> <sub>민사소송과 형사고소</sub><br><sub>민사소송은 사람끼리 돈·권리 다툼을 법원에서 가리는 것이고, 형사고소는 상대를 처벌해 달라고 수사기관에 알리는 것이다.</sub></td>
 <td width="33%" valign="top"><a href="#provisional-attachment--가압류"><img src="../assets/law/provisional-attachment.svg" alt="Provisional Attachment" width="100%"></a><br><b><a href="#provisional-attachment--가압류">Provisional Attachment</a></b> <sub>가압류</sub><br><sub>판결을 받기 전에 상대가 재산을 숨기거나 팔아 버리지 못하도록, 법원 결정으로 그 재산(통장, 부동산 등)을 임시로 묶어 두는 절차.</sub></td>
-<td width="33%" valign="top"><b><a href="#statute-of-limitations--소멸시효">Statute of Limitations</a></b> <sub>소멸시효</sub><br><sub>받을 권리가 있어도 오랫동안 행사하지 않으면 그 권리가 사라지는 제도. 청구할 수 있는 기간이 권리 종류마다 다르다.</sub></td>
+<td width="33%" valign="top"><a href="#statute-of-limitations--소멸시효"><img src="../assets/law/statute-of-limitations.svg" alt="Statute of Limitations" width="100%"></a><br><b><a href="#statute-of-limitations--소멸시효">Statute of Limitations</a></b> <sub>소멸시효</sub><br><sub>받을 권리가 있어도 오랫동안 행사하지 않으면 그 권리가 사라지는 제도. 청구할 수 있는 기간이 권리 종류마다 다르다.</sub></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><b><a href="#mediation-and-arbitration--조정중재">Mediation and Arbitration</a></b> <sub>조정·중재</sub><br><sub>재판 대신 제3자의 도움으로 분쟁을 푸는 방법. 조정은 중간에서 합의를 이끌고, 중재는 중재인이 판정을 내려 따르게 한다.</sub></td>
+<td width="33%" valign="top"><a href="#mediation-and-arbitration--조정중재"><img src="../assets/law/mediation-and-arbitration.svg" alt="Mediation and Arbitration" width="100%"></a><br><b><a href="#mediation-and-arbitration--조정중재">Mediation and Arbitration</a></b> <sub>조정·중재</sub><br><sub>재판 대신 제3자의 도움으로 분쟁을 푸는 방법. 조정은 중간에서 합의를 이끌고, 중재는 중재인이 판정을 내려 따르게 한다.</sub></td>
 </tr>
 </table>
 
@@ -67,16 +67,16 @@ video:
 <table>
 <tr>
 <td width="33%" valign="top"><a href="#ip-rights-overview--지식재산권-3종-비교"><img src="../assets/law/ip-rights-overview.svg" alt="IP Rights Overview" width="100%"></a><br><b><a href="#ip-rights-overview--지식재산권-3종-비교">IP Rights Overview</a></b> <sub>지식재산권 3종 비교</sub><br><sub>사람이 만든 결과물을 보호하는 권리 가운데 가장 많이 쓰는 세 가지. 저작권은 글·그림·코드 같은 표현, 상표권은 이름·로고, 특허권은 기술 아이디어를 지킨다.</sub></td>
-<td width="33%" valign="top"><b><a href="#copyright--저작권">Copyright</a></b> <sub>저작권</sub><br><sub>창작한 글·그림·사진·음악·프로그램 같은 '표현'을 만든 사람이 갖는 권리. 따로 등록하지 않아도 만든 순간 생긴다.</sub></td>
-<td width="33%" valign="top"><b><a href="#work-made-for-hire--업무상저작물">Work Made for Hire</a></b> <sub>업무상저작물</sub><br><sub>회사 직원이 회사 일로 만든 저작물은 일정한 조건이면 회사가 저작자가 되는 제도. 조건은 회사의 기획 아래, 업무로, 회사 이름으로 공표되는 것 등이다(프로그램은 공표 요건이 없다).</sub></td>
+<td width="33%" valign="top"><a href="#copyright--저작권"><img src="../assets/law/copyright.svg" alt="Copyright" width="100%"></a><br><b><a href="#copyright--저작권">Copyright</a></b> <sub>저작권</sub><br><sub>창작한 글·그림·사진·음악·프로그램 같은 '표현'을 만든 사람이 갖는 권리. 따로 등록하지 않아도 만든 순간 생긴다.</sub></td>
+<td width="33%" valign="top"><a href="#work-made-for-hire--업무상저작물"><img src="../assets/law/work-made-for-hire.svg" alt="Work Made for Hire" width="100%"></a><br><b><a href="#work-made-for-hire--업무상저작물">Work Made for Hire</a></b> <sub>업무상저작물</sub><br><sub>회사 직원이 회사 일로 만든 저작물은 일정한 조건이면 회사가 저작자가 되는 제도. 조건은 회사의 기획 아래, 업무로, 회사 이름으로 공표되는 것 등이다(프로그램은 공표 요건이 없다).</sub></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><b><a href="#trademark--상표권">Trademark</a></b> <sub>상표권</sub><br><sub>내 상품·서비스를 다른 것과 구별하게 해 주는 이름, 로고 같은 표시를 독점해서 쓰는 권리. 특허청에 등록해야 생긴다.</sub></td>
-<td width="33%" valign="top"><b><a href="#patent--특허권">Patent</a></b> <sub>특허권</sub><br><sub>새롭고 쉽게 생각해 내기 어려운 기술적 발명을 정해진 기간 동안 독점해서 쓸 수 있게 하는 권리. 특허청에 출원해 심사를 통과해야 한다.</sub></td>
-<td width="33%" valign="top"><b><a href="#license--라이선스이용허락">License</a></b> <sub>라이선스(이용허락)</sub><br><sub>저작권·상표 같은 권리를 가진 사람이 다른 사람에게 &quot;이 조건으로 쓰는 것은 허락한다&quot;고 하는 약속. 권리 자체는 그대로 가진다.</sub></td>
+<td width="33%" valign="top"><a href="#trademark--상표권"><img src="../assets/law/trademark.svg" alt="Trademark" width="100%"></a><br><b><a href="#trademark--상표권">Trademark</a></b> <sub>상표권</sub><br><sub>내 상품·서비스를 다른 것과 구별하게 해 주는 이름, 로고 같은 표시를 독점해서 쓰는 권리. 특허청에 등록해야 생긴다.</sub></td>
+<td width="33%" valign="top"><a href="#patent--특허권"><img src="../assets/law/patent.svg" alt="Patent" width="100%"></a><br><b><a href="#patent--특허권">Patent</a></b> <sub>특허권</sub><br><sub>새롭고 쉽게 생각해 내기 어려운 기술적 발명을 정해진 기간 동안 독점해서 쓸 수 있게 하는 권리. 특허청에 출원해 심사를 통과해야 한다.</sub></td>
+<td width="33%" valign="top"><a href="#license--라이선스이용허락"><img src="../assets/law/license.svg" alt="License" width="100%"></a><br><b><a href="#license--라이선스이용허락">License</a></b> <sub>라이선스(이용허락)</sub><br><sub>저작권·상표 같은 권리를 가진 사람이 다른 사람에게 &quot;이 조건으로 쓰는 것은 허락한다&quot;고 하는 약속. 권리 자체는 그대로 가진다.</sub></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><b><a href="#copyright-assignment--저작권-양도">Copyright Assignment</a></b> <sub>저작권 양도</sub><br><sub>저작권 중 재산권(복제, 배포 등)을 다른 사람에게 넘기는 계약. 넘기면 원래 저작자는 그 권리를 더 이상 마음대로 쓸 수 없다.</sub></td>
+<td width="33%" valign="top"><a href="#copyright-assignment--저작권-양도"><img src="../assets/law/copyright-assignment.svg" alt="Copyright Assignment" width="100%"></a><br><b><a href="#copyright-assignment--저작권-양도">Copyright Assignment</a></b> <sub>저작권 양도</sub><br><sub>저작권 중 재산권(복제, 배포 등)을 다른 사람에게 넘기는 계약. 넘기면 원래 저작자는 그 권리를 더 이상 마음대로 쓸 수 없다.</sub></td>
 </tr>
 </table>
 
@@ -84,13 +84,13 @@ video:
 
 <table>
 <tr>
-<td width="33%" valign="top"><b><a href="#personal-information--개인정보">Personal Information</a></b> <sub>개인정보</sub><br><sub>살아 있는 사람을 알아볼 수 있는 정보. 이름, 연락처, 얼굴 사진 같은 것은 물론, 다른 정보와 쉽게 합쳐서 누구인지 알 수 있으면 포함된다.</sub></td>
-<td width="33%" valign="top"><b><a href="#consent--동의">Consent</a></b> <sub>동의</sub><br><sub>고객이 &quot;내 정보를 이 목적으로 쓰는 것에 찬성한다&quot;고 알리는 것. 어떤 정보를, 왜, 얼마나 쓰는지 먼저 알려야 한다.</sub></td>
+<td width="33%" valign="top"><a href="#personal-information--개인정보"><img src="../assets/law/personal-information.svg" alt="Personal Information" width="100%"></a><br><b><a href="#personal-information--개인정보">Personal Information</a></b> <sub>개인정보</sub><br><sub>살아 있는 사람을 알아볼 수 있는 정보. 이름, 연락처, 얼굴 사진 같은 것은 물론, 다른 정보와 쉽게 합쳐서 누구인지 알 수 있으면 포함된다.</sub></td>
+<td width="33%" valign="top"><a href="#consent--동의"><img src="../assets/law/consent.svg" alt="Consent" width="100%"></a><br><b><a href="#consent--동의">Consent</a></b> <sub>동의</sub><br><sub>고객이 &quot;내 정보를 이 목적으로 쓰는 것에 찬성한다&quot;고 알리는 것. 어떤 정보를, 왜, 얼마나 쓰는지 먼저 알려야 한다.</sub></td>
 <td width="33%" valign="top"><a href="#entrustment--처리위탁"><img src="../assets/law/entrustment.svg" alt="Entrustment" width="100%"></a><br><b><a href="#entrustment--처리위탁">Entrustment</a></b> <sub>처리위탁</sub><br><sub>내가 해야 할 개인정보 처리 업무(문자 발송, 배송, 클라우드 보관 등)를 다른 업체에 맡기는 것. 업체는 내 일을 대신할 뿐 자기 목적으로 쓰지 않는다.</sub></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><b><a href="#third-party-provision--제3자-제공">Third-Party Provision</a></b> <sub>제3자 제공</sub><br><sub>고객 정보를 다른 회사나 사람에게 넘겨서 그쪽이 자기 목적으로 쓰게 하는 것. 원칙적으로 고객에게 따로 동의를 받아야 한다.</sub></td>
-<td width="33%" valign="top"><b><a href="#privacy-policy--개인정보처리방침">Privacy Policy</a></b> <sub>개인정보처리방침</sub><br><sub>회사가 개인정보를 어떻게 다루는지(수집 항목, 목적, 보관 기간, 위탁·제공, 파기, 고객 권리, 담당자 연락처) 고객에게 공개하는 문서.</sub></td>
+<td width="33%" valign="top"><a href="#third-party-provision--제3자-제공"><img src="../assets/law/third-party-provision.svg" alt="Third-Party Provision" width="100%"></a><br><b><a href="#third-party-provision--제3자-제공">Third-Party Provision</a></b> <sub>제3자 제공</sub><br><sub>고객 정보를 다른 회사나 사람에게 넘겨서 그쪽이 자기 목적으로 쓰게 하는 것. 원칙적으로 고객에게 따로 동의를 받아야 한다.</sub></td>
+<td width="33%" valign="top"><a href="#privacy-policy--개인정보처리방침"><img src="../assets/law/privacy-policy.svg" alt="Privacy Policy" width="100%"></a><br><b><a href="#privacy-policy--개인정보처리방침">Privacy Policy</a></b> <sub>개인정보처리방침</sub><br><sub>회사가 개인정보를 어떻게 다루는지(수집 항목, 목적, 보관 기간, 위탁·제공, 파기, 고객 권리, 담당자 연락처) 고객에게 공개하는 문서.</sub></td>
 </tr>
 </table>
 
@@ -98,12 +98,12 @@ video:
 
 <table>
 <tr>
-<td width="33%" valign="top"><b><a href="#sole-proprietor-vs-corporation--개인사업자와-법인">Sole Proprietor vs Corporation</a></b> <sub>개인사업자와 법인</sub><br><sub>개인사업자는 사업을 하는 사람이 곧 사업 주체이고, 법인은 사람과 별개로 법이 인정한 '회사' 자체가 계약·재산의 주체가 되는 형태.</sub></td>
+<td width="33%" valign="top"><a href="#sole-proprietor-vs-corporation--개인사업자와-법인"><img src="../assets/law/sole-proprietor-vs-corporation.svg" alt="Sole Proprietor vs Corporation" width="100%"></a><br><b><a href="#sole-proprietor-vs-corporation--개인사업자와-법인">Sole Proprietor vs Corporation</a></b> <sub>개인사업자와 법인</sub><br><sub>개인사업자는 사업을 하는 사람이 곧 사업 주체이고, 법인은 사람과 별개로 법이 인정한 '회사' 자체가 계약·재산의 주체가 되는 형태.</sub></td>
 <td width="33%" valign="top"><a href="#employee-status--근로자성"><img src="../assets/law/employee-status.svg" alt="Employee Status" width="100%"></a><br><b><a href="#employee-status--근로자성">Employee Status</a></b> <sub>근로자성</sub><br><sub>계약서 이름과 상관없이 실제 일하는 모습을 보고 그 사람이 법적으로 '근로자'인지 가리는 것. 근로자로 인정되면 근로기준법의 보호(연차, 퇴직금, 해고 제한 등)를 받는다.</sub></td>
-<td width="33%" valign="top"><b><a href="#service-contract--용역계약">Service Contract</a></b> <sub>용역계약</sub><br><sub>일(개발, 디자인, 컨설팅, 청소 등)을 해주고 대가를 받는 계약을 통틀어 부르는 말. 법률 용어가 아니고, 내용에 따라 '도급'(결과물 완성) 또는 '위임'(일 처리) 중 하나로 본다.</sub></td>
+<td width="33%" valign="top"><a href="#service-contract--용역계약"><img src="../assets/law/service-contract.svg" alt="Service Contract" width="100%"></a><br><b><a href="#service-contract--용역계약">Service Contract</a></b> <sub>용역계약</sub><br><sub>일(개발, 디자인, 컨설팅, 청소 등)을 해주고 대가를 받는 계약을 통틀어 부르는 말. 법률 용어가 아니고, 내용에 따라 '도급'(결과물 완성) 또는 '위임'(일 처리) 중 하나로 본다.</sub></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><b><a href="#unfair-dismissal--부당해고">Unfair Dismissal</a></b> <sub>부당해고</sub><br><sub>정당한 이유 없이 직원을 내보내거나, 정해진 절차(서면 통지 등)를 지키지 않고 해고하는 것. 근로기준법은 해고에 정당한 이유를 요구한다.</sub></td>
+<td width="33%" valign="top"><a href="#unfair-dismissal--부당해고"><img src="../assets/law/unfair-dismissal.svg" alt="Unfair Dismissal" width="100%"></a><br><b><a href="#unfair-dismissal--부당해고">Unfair Dismissal</a></b> <sub>부당해고</sub><br><sub>정당한 이유 없이 직원을 내보내거나, 정해진 절차(서면 통지 등)를 지키지 않고 해고하는 것. 근로기준법은 해고에 정당한 이유를 요구한다.</sub></td>
 </tr>
 </table>
 
@@ -112,6 +112,8 @@ video:
 ## 계약 · Contracts
 
 ### Parties to a Contract · 계약 당사자(갑·을)
+
+<img src="../assets/law/parties-to-a-contract.svg" alt="갑은 돈을 내고 일을 맡기는 쪽, 을은 일을 하고 대가를 받는 쪽으로 계약서의 이름표일 뿐 법적 우열이 아니며 실제 이름과 사업자등록번호로 확인해야 함을 보여주는 그림" width="320">
 
 - **정의**: 계약서에서 계약을 맺는 각 사람이나 회사를 부르는 이름. 보통 돈을 내고 일을 시키는 쪽을 '갑', 일을 받아 하는 쪽을 '을'이라 쓰지만, 법적으로 갑이 더 세다는 뜻은 아니다.
 - **AI에게 이렇게**: "이 계약서에서 갑과 을이 각각 누구인지 정리하고, 나(을)가 져야 할 의무와 받을 권리를 표로 만들어줘."
@@ -122,7 +124,7 @@ video:
 
 ### Rescission · 해제
 
-<img src="../assets/law/rescission.svg" alt="해제는 계약을 처음부터 없던 일로 되돌리는 것이고, 해지는 앞으로의 계약만 끝내는 것임을 비교한 시간선 그림" width="320">
+<img src="../assets/law/rescission.svg" alt="해제는 해제 시점에서 계약 체결 시점으로 효력이 거슬러 올라가 계약이 없던 일이 되고, 이미 주고받은 돈과 물건을 서로 돌려주는 원상회복이 따른다는 것을 보여주는 시간선 그림" width="320">
 
 - **정의**: 한쪽이 약속을 어겼을 때 등 계약을 **처음부터 없던 것처럼** 되돌리는 것. 이미 주고받은 돈이나 물건은 서로 돌려줘야 한다(원상회복).
 - **AI에게 이렇게**: "상대가 납품 기한을 두 번 어겼어. 이 계약을 해제할 수 있는 요건과 해제 통지서에 꼭 들어갈 내용을 알려줘."
@@ -130,8 +132,12 @@ video:
 - **헷갈림**: Termination(해지) — 해제는 처음으로 돌아가고 해지는 지금부터 끝낸다. 한 번에 끝나는 계약은 해제, 임대차·구독·월 단위 용역처럼 이어지는 계약은 해지가 일반적이다. 해제해도 손해가 있으면 손해배상은 따로 청구할 수 있다. 소비자가 쇼핑몰에서 하는 '청약철회'도 다른 제도다.
 - **관련**: Termination, Damages, Liquidated Damages
 - **확인 질문**: 계약서에 해제 조건이 적혀 있나요? 이미 돈이나 물건이 오갔나요? 상대에게 "기한 안에 이행하라"고 한 기록(문자, 내용증명)이 있나요?
+- **근거**: [민법 제543조](https://www.law.go.kr/법령/민법/제543조), [민법 제548조](https://www.law.go.kr/법령/민법/제548조), [민법 제551조](https://www.law.go.kr/법령/민법/제551조)
+- **검증일**: 2026-11-01
 
 ### Termination · 해지
+
+<img src="../assets/law/termination.svg" alt="해지는 계약 시작부터 해지 통지 시점까지의 지나간 기간은 그대로 유효하고 그 이후부터만 효력이 사라진다는 것을 왼쪽에서 오른쪽으로 흐르는 시간선으로 보여주는 그림" width="320">
 
 - **정의**: 이어지는 계약(월세, 구독, 월 단위 용역 등)을 **지금부터 앞으로만** 끝내는 것. 이미 지나간 기간의 계약 내용은 그대로 유효하다.
 - **AI에게 이렇게**: "매달 이어지는 유지보수 계약을 끝내려고 해. 계약서의 해지 조항(예고 기간, 위약금)을 찾아서 내가 언제까지 어떻게 통지해야 하는지 알려줘."
@@ -139,8 +145,12 @@ video:
 - **헷갈림**: Rescission(해제) — 해지는 과거는 그대로 두고 미래만 끝낸다. 계약 기간이 끝나서 자연스럽게 종료되는 '만료'나, 서로 합의해서 끝내는 '합의해제'와도 구분한다. 일상에서 '해지'와 '해제'를 섞어 쓰기 때문에 계약서 문구를 확인해야 한다.
 - **관련**: Rescission, Liquidated Damages
 - **확인 질문**: 계약서에 중도 해지 방법과 예고 기간(몇 달 전 통지)이 있나요? 해지 사유가 상대의 잘못인가요, 내 사정인가요?
+- **근거**: [민법 제543조](https://www.law.go.kr/법령/민법/제543조), [민법 제550조](https://www.law.go.kr/법령/민법/제550조), [민법 제551조](https://www.law.go.kr/법령/민법/제551조)
+- **검증일**: 2026-11-01
 
 ### Liquidated Damages · 위약금(손해배상액의 예정)
+
+<img src="../assets/law/liquidated-damages.svg" alt="계약을 어기면 미리 정한 금액을 지급하고, 그 금액이 부당히 과다하면 법원이 줄일 수 있음을 보여주는 흐름과 막대 그림" width="320">
 
 - **정의**: 계약을 어기면 "이만큼 물어준다"고 계약서에 미리 정해 둔 금액. 실제 손해가 얼마인지 따지지 않고 그 금액을 기준으로 한다.
 - **AI에게 이렇게**: "계약서에 위약금이 계약금액의 두 배로 적혀 있어. 이 정도면 너무 과한지, 줄일 수 있는 방법이 있는지 법적 쟁점을 정리해줘."
@@ -148,8 +158,12 @@ video:
 - **헷갈림**: 위약금은 보통 '손해배상액의 예정'으로 보지만, 계약에 "손해배상과 별도로 벌로 물린다"는 '위약벌'이면 성격이 다르다. 손해배상액의 예정이 부당하게 과다하면 법원이 줄일 수 있다(민법 제398조). 위약금이 곧 상한이라는 뜻도 아니다. 조항 문구로 판단해야 한다.
 - **관련**: Damages, Termination, Rescission
 - **확인 질문**: 위약금이 어떤 경우에 어떤 기준(금액, 비율)으로 발생한다고 적혀 있나요? "위약금과 별도로 손해배상" 문구가 있나요?
+- **근거**: [민법 제398조](https://www.law.go.kr/법령/민법/제398조)
+- **검증일**: 2026-11-01
 
 ### Damages · 손해배상
+
+<img src="../assets/law/damages.svg" alt="손해가 있었다, 상대 잘못 때문이다, 금액이 얼마인지의 세 가지를 보여주고 금전으로 배상을 청구하는 순서 그림" width="320">
 
 - **정의**: 상대의 잘못으로 내가 입은 손해를 돈으로 물어 달라고 하는 것. 손해가 있었다는 것, 상대 잘못 때문이라는 것, 금액이 얼마인지를 보통 청구하는 쪽이 보여줘야 한다.
 - **AI에게 이렇게**: "납품 지연으로 광고 일정이 밀려 손해가 났어. 어떤 손해를 청구할 수 있고, 어떤 증거를 모아야 하는지 체크리스트로 만들어줘."
@@ -157,8 +171,12 @@ video:
 - **헷갈림**: Liquidated Damages(위약금) — 손해배상은 실제 손해를 따져 계산하고, 위약금은 미리 정한 금액이다. 계약 위반으로 인한 손해배상(채무불이행)과 계약 없는 사람에게 입힌 손해(불법행위)는 요건이 다르다.
 - **관련**: Liquidated Damages, Statute of Limitations, Civil Lawsuit vs Criminal Complaint
 - **확인 질문**: 손해가 구체적으로 어떤 항목(돈, 시간, 매출)인가요? 영수증, 계약서, 대화 기록 같은 증거가 있나요?
+- **근거**: [민법 제390조](https://www.law.go.kr/법령/민법/제390조), [민법 제750조](https://www.law.go.kr/법령/민법/제750조)
+- **검증일**: 2026-11-01
 
 ### Standard Terms · 약관
+
+<img src="../assets/law/standard-terms.svg" alt="사업자가 미리 만든 똑같은 약관을 여러 고객에게 적용하고, 따로 합의한 내용은 약관보다 우선함을 보여주는 그림" width="320">
 
 - **정의**: 사업자가 여러 고객과 똑같이 계약하려고 미리 만들어 둔 계약 조건. 쇼핑몰 이용약관, 앱 서비스 약관이 대표적이다. 약관의 공정성은 약관규제법이 따로 규율한다.
 - **AI에게 이렇게**: "우리 서비스 이용약관 초안을 읽고 고객에게 일방적으로 불리해서 무효가 될 수 있는 조항이 있는지 찾아줘."
@@ -166,8 +184,12 @@ video:
 - **헷갈림**: 개별 계약서 — 약관은 모두에게 똑같이 쓰는 조건이고, 개별 계약서는 한 상대와 협의한 내용이다. 상대와 따로 합의한 내용이 약관보다 우선한다. 약관이어도 불공정하면 무효가 될 수 있고, 중요한 내용은 사업자가 고객에게 설명해야 한다.
 - **관련**: Parties to a Contract, Consent, Privacy Policy
 - **확인 질문**: 고객과 따로 협의하는 부분이 있나요, 모두에게 동일한 조건인가요? 약관을 고객이 가입 전에 볼 수 있나요?
+- **근거**: [약관의 규제에 관한 법률 제2조](https://www.law.go.kr/법령/약관의규제에관한법률/제2조), [약관의 규제에 관한 법률 제3조](https://www.law.go.kr/법령/약관의규제에관한법률/제3조), [약관의 규제에 관한 법률 제4조](https://www.law.go.kr/법령/약관의규제에관한법률/제4조), [약관의 규제에 관한 법률 제6조](https://www.law.go.kr/법령/약관의규제에관한법률/제6조)
+- **검증일**: 2026-11-01
 
 ### NDA · 비밀유지계약
+
+<img src="../assets/law/nda.svg" alt="갑과 을이 비밀정보를 주고받으며 정해진 목적에만 쓰고 남에게 알리지 않겠다고 약속하는 비밀유지계약 그림" width="320">
 
 - **정의**: 서로 주고받은 비밀 정보를 남에게 알리거나 정해진 목적 밖에서 쓰지 않겠다고 약속하는 계약. 'Non-Disclosure Agreement'를 줄인 말이다.
 - **AI에게 이렇게**: "외주 개발사와 아이디어를 공유하기 전에 쓸 NDA 초안을 만들어줘. 비밀정보 범위, 사용 목적, 기간, 반환·폐기 조항을 포함해줘."
@@ -175,10 +197,14 @@ video:
 - **헷갈림**: 영업비밀 — NDA는 당사자끼리의 약속이고, 영업비밀 보호는 법(부정경쟁방지법)이 정한 별개의 보호다. 영업비밀로 인정받으려면 비밀로 관리해 왔다는 점이 중요하다. NDA에 서명했다고 모든 정보가 자동으로 보호되는 건 아니며, 이미 공개된 정보는 보통 제외된다.
 - **관련**: Parties to a Contract, Liquidated Damages, Personal Information
 - **확인 질문**: 어떤 정보를 비밀로 할 건가요? 쌍방 비밀유지인가요, 한쪽만인가요? 비밀유지 기간은 얼마로 할까요?
+- **근거**: [부정경쟁방지 및 영업비밀보호에 관한 법률 제2조](https://www.law.go.kr/법령/부정경쟁방지및영업비밀보호에관한법률/제2조)
+- **검증일**: 2026-11-01
 
 ## 분쟁 · Disputes
 
 ### Certified Mail · 내용증명
+
+<img src="../assets/law/certified-mail.svg" alt="발송인이 보낸 문서의 내용과 날짜를 우체국이 증명해 상대방에게 전달하지만 돈을 받아낼 강제력은 없음을 보여주는 흐름 그림" width="320">
 
 - **정의**: "언제, 누가, 누구에게, 어떤 내용의 문서를 보냈는지"를 우체국이 증명해 주는 우편. 상대가 받았는데 몰랐다고 하기 어렵게 기록을 남긴다.
 - **AI에게 이렇게**: "빌려준 500만 원을 14일 안에 갚으라는 내용증명 초안을 써줘. 날짜, 금액, 계좌, 기한이 들어가게."
@@ -186,6 +212,8 @@ video:
 - **헷갈림**: 내용증명 자체에는 돈을 받아내는 힘(강제력)이 없다. 상대가 무시해도 벌이나 의무가 생기지 않는다. 나중에 소송에서 "이런 요구를 했다"는 증거가 될 뿐이다. 지급명령·소송과는 다른 단계다.
 - **관련**: Payment Order, Rescission, Statute of Limitations
 - **확인 질문**: 요구 내용(금액, 기한, 방법)을 정했나요? 상대의 정확한 주소를 알고 있나요? 이미 대화로 요구한 기록이 있나요?
+- **근거**: [우편법 시행규칙 제25조](https://www.law.go.kr/법령/우편법시행규칙/제25조)
+- **검증일**: 2026-11-01
 
 ### Payment Order · 지급명령
 
@@ -197,15 +225,21 @@ video:
 - **헷갈림**: 소액사건심판 — 지급명령은 서류만으로 진행하는 절차이고 소액사건은 재판 절차다. 상대가 정해진 기간(받은 날부터 2주) 안에 이의신청을 하면 지급명령은 힘을 잃고 소송으로 넘어간다. 또 금전 등 일정한 수량 지급이 목적일 때 쓰며, 상대의 주소를 알아야 한다.
 - **관련**: Certified Mail, Small Claims, Statute of Limitations
 - **확인 질문**: 돈의 금액과 근거(계약서, 계산서, 메시지)는? 상대방 주소는 정확한가요? 상대가 금액이나 이유를 다툴 가능성이 있나요?
+- **근거**: [민사소송법 제462조](https://www.law.go.kr/법령/민사소송법/제462조), [민사소송법 제467조](https://www.law.go.kr/법령/민사소송법/제467조), [민사소송법 제470조](https://www.law.go.kr/법령/민사소송법/제470조), [민사소송법 제474조](https://www.law.go.kr/법령/민사소송법/제474조), [대법원 독촉절차 안내](https://www.scourt.go.kr/nm/min_1/min_1_7/min_1_7_1/index.html)
+- **검증일**: 2026-11-01
 
 ### Small Claims · 소액사건심판
+
+<img src="../assets/law/small-claims.svg" alt="소송목적의 값이 3,000만 원 이하이면 소액사건으로 소장 접수, 이행권고결정 송달, 2주 안 이의 여부에 따라 확정되거나 재판으로 가는 순서 그림" width="320">
 
 - **정의**: 금액이 작은 돈 다툼을 일반 재판보다 간단하고 빠르게 처리하는 재판 절차. 신청 때 말로 접수하는 것도 가능하고, 법원이 먼저 "갚으라"는 이행권고결정을 보내기도 한다.
 - **AI에게 이렇게**: "받을 돈이 800만 원이야. 소액사건심판으로 갈 수 있는지, 소장에 뭘 써야 하는지 순서대로 알려줘."
 - **언제**: 소송목적의 값이 소액사건 기준 이하(소액사건심판규칙 기준 3,000만 원 이하, 2017.1.1. 시행 이후)인 금전 청구
-- **헷갈림**: 기준 금액은 법령(대법원규칙)이 바뀌면 달라질 수 있으니 제기 전에 확인한다. 이행권고결정을 받은 쪽도 받은 날부터 2주 안에 이의신청을 하면 재판으로 이어진다. 한 번 받을 돈을 쪼개 소액사건으로 내는 것은 허용되지 않는다.
+- **헷갈림**: 기준 금액은 법령(대법원규칙)이 바뀌면 달라질 수 있으니 제기 전에 확인한다. 이행권고결정을 받은 쪽(피고)이 등본을 송달받은 날부터 2주 안에 서면으로 이의신청을 하면 재판으로 이어진다. 소액사건심판법을 적용받으려고 청구를 쪼개 일부만 청구하면 소가 각하된다(소액사건심판법 제5조의2).
 - **관련**: Payment Order, Civil Lawsuit vs Criminal Complaint, Mediation and Arbitration
 - **확인 질문**: 청구 금액은 얼마(이자 제외)인가요? 상대의 주소와 증거가 있나요? 이미 지급명령을 시도했나요?
+- **근거**: [소액사건심판규칙 제1조의2](https://www.law.go.kr/법령/소액사건심판규칙/제1조의2), [소액사건심판법 제4조](https://www.law.go.kr/법령/소액사건심판법/제4조), [소액사건심판법 제5조의2](https://www.law.go.kr/법령/소액사건심판법/제5조의2), [소액사건심판법 제5조의3](https://www.law.go.kr/법령/소액사건심판법/제5조의3), [소액사건심판법 제5조의4](https://www.law.go.kr/법령/소액사건심판법/제5조의4), [찾기쉬운 생활법령정보 소액사건재판](https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?ccfNo=1&cciNo=1&cnpClsNo=1&csmSeq=239&popMenu=ov)
+- **검증일**: 2026-11-01
 
 ### Civil Lawsuit vs Criminal Complaint · 민사소송과 형사고소
 
@@ -225,27 +259,37 @@ video:
 - **정의**: 판결을 받기 전에 상대가 재산을 숨기거나 팔아 버리지 못하도록, 법원 결정으로 그 재산(통장, 부동산 등)을 임시로 묶어 두는 절차.
 - **AI에게 이렇게**: "상대가 곧 재산을 처분할 것 같아. 가압류를 하려면 뭘 소명해야 하고 담보금이 필요한지 알려줘."
 - **언제**: 받을 돈이 있는데 소송 중 재산이 사라질 위험이 있을 때
-- **헷갈림**: 가압류는 돈을 받는 것이 아니라 재산을 '못 팔게 묶는' 임시 조치다. 이후 본안 소송에서 이기고 강제집행을 해야 실제로 돈을 받는다. 보통 법원이 담보 제공을 요구하고, 잘못 신청하면 상대 손해를 물어줄 수 있다. 돈이 아닌 권리(물건 인도, 사용 금지)를 지키는 것은 '가처분'이다.
+- **헷갈림**: 가압류는 돈을 받는 것이 아니라 재산을 '못 팔게 묶는' 임시 조치다. 이후 본안 소송에서 이기고 강제집행을 해야 실제로 돈을 받는다. 보통 법원이 담보 제공을 요구하고(민사집행법 제280조), 본안에서 지면 신청인의 고의·과실이 추정되어 상대가 입은 손해를 물어줄 수 있다(대법원 2023. 6. 1. 선고 2020다242935 판결). 돈이 아닌 권리(물건 인도, 사용 금지)를 지키는 것은 '가처분'이다.
 - **관련**: Civil Lawsuit vs Criminal Complaint, Payment Order
 - **확인 질문**: 상대의 재산(은행, 부동산, 받을 돈)이 어디 있는지 알고 있나요? 받을 돈의 증거가 있나요? 담보금을 마련할 수 있나요?
+- **근거**: [민사집행법 제276조](https://www.law.go.kr/법령/민사집행법/제276조), [민사집행법 제280조](https://www.law.go.kr/법령/민사집행법/제280조), [민사집행법 제300조](https://www.law.go.kr/법령/민사집행법/제300조), [대법원 2023. 6. 1. 선고 2020다242935 판결](https://www.law.go.kr/LSW/precInfoP.do?precSeq=237195)
+- **검증일**: 2026-11-01
 
 ### Statute of Limitations · 소멸시효
+
+<img src="../assets/law/statute-of-limitations.svg" alt="권리 발생 후 3년, 5년, 10년 소멸시효 기간을 막대 길이로 비교하고 청구·압류·승인으로 시효가 중단되면 새로 시작함을 보여주는 그림" width="320">
 
 - **정의**: 받을 권리가 있어도 오랫동안 행사하지 않으면 그 권리가 사라지는 제도. 청구할 수 있는 기간이 권리 종류마다 다르다.
 - **AI에게 이렇게**: "3년 전에 받지 못한 외주 대금이 있어. 소멸시효가 지났는지 따져보게, 어떤 사실을 확인해야 하는지 물어봐줘."
 - **언제**: 오래된 돈·권리를 청구하거나, 오래된 청구를 받았을 때
-- **헷갈림**: 대표적으로 일반 민사채권 10년, 상거래로 생긴 채권 5년, 일부 채권은 3년 등으로 나뉜다(2026-11 기준 민법·상법, 종류별로 확인 필요). 판결로 확정되면 시효가 새로 시작된다. 청구·압류·가압류·상대의 인정 등으로 시효가 '중단'될 수 있어서, 달력만 보고 판단하면 안 된다.
+- **헷갈림**: 대표적으로 일반 민사채권 10년(민법 제162조), 상거래로 생긴 채권 5년(상법 제64조), 일부 채권(이자·급료, 도급받은 자의 공사 채권, 상품 대금 등)은 3년(민법 제163조) 등으로 나뉜다(2026-11 기준 민법·상법, 종류별로 확인 필요). 재판상 청구로 중단된 시효는 판결이 확정된 때부터 새로 진행하고, 판결로 확정된 채권의 시효는 10년이다(제165조, 제178조). 청구·압류·가압류·상대의 인정 등으로 시효가 '중단'될 수 있어서, 달력만 보고 판단하면 안 된다.
 - **관련**: Certified Mail, Payment Order, Provisional Attachment
 - **확인 질문**: 돈이 생긴 날은 언제이고, 그 뒤에 청구나 상대의 일부 변제·인정 같은 일이 있었나요? 어떤 종류의 채권(대금, 임금, 대여금)인가요?
+- **근거**: [민법 제162조](https://www.law.go.kr/법령/민법/제162조), [민법 제163조](https://www.law.go.kr/법령/민법/제163조), [민법 제165조](https://www.law.go.kr/법령/민법/제165조), [민법 제168조](https://www.law.go.kr/법령/민법/제168조), [민법 제178조](https://www.law.go.kr/법령/민법/제178조), [상법 제64조](https://www.law.go.kr/법령/상법/제64조)
+- **검증일**: 2026-11-01
 
 ### Mediation and Arbitration · 조정·중재
+
+<img src="../assets/law/mediation-and-arbitration.svg" alt="조정은 제3자가 갑과 을의 합의를 이끄는 것이고 중재는 중재인이 판정을 내려 따르게 하는 것임을 나란히 비교한 그림" width="320">
 
 - **정의**: 재판 대신 제3자의 도움으로 분쟁을 푸는 방법. 조정은 중간에서 합의를 이끌고, 중재는 중재인이 판정을 내려 따르게 한다.
 - **AI에게 이렇게**: "저작권 분쟁이 생겼는데 재판 말고 조정으로 풀 수 있는 기관과 절차를 알려줘. 비용과 걸리는 기간도 같이."
 - **언제**: 재판까지 가기엔 부담이 크고, 서로 합의 가능성이 있을 때
-- **헷갈림**: 조정은 서로 합의해야 성립한다. 합의가 되면 재판상 화해 등과 같은 효력을 갖는 경우가 있다. 중재는 사전에 중재합의가 있어야 하고, 중재판정은 보통 한 번으로 끝난다(재판처럼 항소하지 않음). 계약서에 '분쟁은 중재로 해결한다'는 조항이 있으면 법원 소송이 막힐 수 있으니 서명 전에 읽는다.
+- **헷갈림**: 조정은 서로 합의해야 성립한다. 합의가 되면 재판상 화해 등과 같은 효력을 갖는 경우가 있다. 중재는 당사자 사이에 서면 중재합의가 있어야 하고(분쟁 전에 계약서 조항으로 두거나 분쟁 후에 따로 합의할 수 있다), 중재판정은 보통 한 번으로 끝난다(재판처럼 항소하지 않음). 계약서에 '분쟁은 중재로 해결한다'는 조항이 있으면 법원 소송이 막힐 수 있으니 서명 전에 읽는다.
 - **관련**: Small Claims, Parties to a Contract
 - **확인 질문**: 계약서에 중재나 관할 법원 조항이 있나요? 상대도 합의할 의사가 있어 보이나요?
+- **근거**: [민사조정법 제29조](https://www.law.go.kr/법령/민사조정법/제29조), [중재법 제8조](https://www.law.go.kr/법령/중재법/제8조), [중재법 제9조](https://www.law.go.kr/법령/중재법/제9조), [중재법 제35조](https://www.law.go.kr/법령/중재법/제35조), [중재법 제36조](https://www.law.go.kr/법령/중재법/제36조)
+- **검증일**: 2026-11-01
 
 ## 지식재산 · IP
 
@@ -259,8 +303,12 @@ video:
 - **헷갈림**: 저작권은 만든 순간 생기지만 상표·특허는 등록(심사)해야 독점 권리가 생긴다. 아이디어 자체는 저작권으로 보호되지 않는다. 이름과 로고는 저작권 문제일 수도, 상표 문제일 수도 있으니 목적을 나눠 본다.
 - **관련**: Copyright, Trademark, Patent
 - **확인 질문**: 지키고 싶은 것이 이름·로고인가요, 글·그림·코드인가요, 기술 방식인가요? 이미 공개했나요?
+- **근거**: [저작권법 제10조](https://www.law.go.kr/법령/저작권법/제10조), [상표법 제82조](https://www.law.go.kr/법령/상표법/제82조), [특허법 제87조](https://www.law.go.kr/법령/특허법/제87조), [한국저작권위원회 AI-저작권 안내서](https://www.copyright.or.kr/notify/notice/view.do?brdctsno=55402)
+- **검증일**: 2026-11-01
 
 ### Copyright · 저작권
+
+<img src="../assets/law/copyright.svg" alt="글·그림·코드를 창작한 순간 등록 없이 저작권이 생기고, 저작인격권과 저작재산권으로 나뉨을 보여주는 그림" width="320">
 
 - **정의**: 창작한 글·그림·사진·음악·프로그램 같은 '표현'을 만든 사람이 갖는 권리. 따로 등록하지 않아도 만든 순간 생긴다.
 - **AI에게 이렇게**: "블로그에 남이 만든 이미지를 쓰려고 해. 저작권 때문에 확인해야 할 것과 안전하게 쓰는 방법을 알려줘."
@@ -268,8 +316,12 @@ video:
 - **헷갈림**: 아이디어·사실·제목 같은 것은 보호 대상이 아닌 경우가 많고, 구체적인 표현만 보호된다. 저작권은 복제·배포 같은 재산권과, 이름을 밝히고 훼손을 막는 인격권으로 나뉘며 인격권은 양도하기 어렵다. AI가 만든 결과물은 사람의 창작적 기여가 있어야 보호될 수 있다는 것이 현재 일반적 안내인데, 사안마다 다르다.
 - **관련**: Work Made for Hire, License, Copyright Assignment
 - **확인 질문**: 누가 언제 만들었나요? 외주나 직원이 만든 것인가요? 계약서에 저작권을 누구에게 둔다고 적혀 있나요?
+- **근거**: [저작권법 제2조](https://www.law.go.kr/법령/저작권법/제2조), [저작권법 제10조](https://www.law.go.kr/법령/저작권법/제10조), [저작권법 제14조](https://www.law.go.kr/법령/저작권법/제14조), [한국저작권위원회 AI-저작권 안내서](https://www.copyright.or.kr/notify/notice/view.do?brdctsno=55402)
+- **검증일**: 2026-11-01
 
 ### Work Made for Hire · 업무상저작물
+
+<img src="../assets/law/work-made-for-hire.svg" alt="회사의 기획, 회사 업무, 회사 이름 공표 등 조건을 모두 만족하면 회사가 저작자가 되고 외주 프리랜서 결과물은 해당하지 않음을 보여주는 그림" width="320">
 
 - **정의**: 회사 직원이 회사 일로 만든 저작물은 일정한 조건이면 회사가 저작자가 되는 제도. 조건은 회사의 기획 아래, 업무로, 회사 이름으로 공표되는 것 등이다(프로그램은 공표 요건이 없다).
 - **AI에게 이렇게**: "직원이 만든 디자인의 저작권이 회사에 있는지 따져보게, 확인해야 할 항목을 알려줘. 근로계약서에 넣을 문구 예시도."
@@ -277,8 +329,12 @@ video:
 - **헷갈림**: 외주(프리랜서)가 만든 결과물에는 이 규정이 그대로 적용되지 않는다. 외주 결과물은 계약서에 저작권을 넘긴다는 문구(Copyright Assignment)가 없으면 만든 사람에게 남는다. 계약이나 회사 규정으로 다르게 정할 수도 있다.
 - **관련**: Copyright, Copyright Assignment, Employee Status
 - **확인 질문**: 만든 사람은 직원인가요, 프리랜서인가요? 업무 시간·장비로 만들었나요? 회사 이름으로 공개되나요?
+- **근거**: [저작권법 제2조](https://www.law.go.kr/법령/저작권법/제2조), [저작권법 제9조](https://www.law.go.kr/법령/저작권법/제9조)
+- **검증일**: 2026-11-01
 
 ### Trademark · 상표권
+
+<img src="../assets/law/trademark.svg" alt="상표는 출원, 심사, 등록 순서로 권리가 생기고 같은 상표는 먼저 출원한 사람이 우선함을 시간선으로 보여주는 그림" width="320">
 
 - **정의**: 내 상품·서비스를 다른 것과 구별하게 해 주는 이름, 로고 같은 표시를 독점해서 쓰는 권리. 특허청에 등록해야 생긴다.
 - **AI에게 이렇게**: "카페 이름 '달빛로스터'를 상표로 등록하고 싶어. 비슷한 상표가 이미 있는지 조사하는 방법과 어떤 류(분류)로 출원해야 하는지 알려줘."
@@ -286,17 +342,25 @@ video:
 - **헷갈림**: 사업자등록증이나 법인 이름과 상표는 별개다. 회사 이름을 등록했다고 상표권이 생기지 않는다. 같은 이름이라도 상품·서비스의 종류(류)마다 따로 등록한다. 한국은 먼저 출원한 사람이 우선하는 제도라서 쓰기 전 선점 확인이 중요하다.
 - **관련**: IP Rights Overview, License
 - **확인 질문**: 이름·로고는 어떤 상품·서비스에 쓰나요? 해외에서도 쓸 계획인가요? 이미 같은 이름을 쓰는 곳이 있는지 검색해 봤나요?
+- **근거**: [상표법 제35조](https://www.law.go.kr/법령/상표법/제35조), [상표법 제38조](https://www.law.go.kr/법령/상표법/제38조), [상표법 제82조](https://www.law.go.kr/법령/상표법/제82조)
+- **검증일**: 2026-11-01
 
 ### Patent · 특허권
+
+<img src="../assets/law/patent.svg" alt="특허권은 출원일부터 20년이 되는 날까지의 기간 중 설정등록 이후 독점하며, 출원 전 공개는 새롭지 않다고 볼 수 있음을 보여주는 시간선 그림" width="320">
 
 - **정의**: 새롭고 쉽게 생각해 내기 어려운 기술적 발명을 정해진 기간 동안 독점해서 쓸 수 있게 하는 권리. 특허청에 출원해 심사를 통과해야 한다.
 - **AI에게 이렇게**: "내가 만든 알고리즘이 특허가 될 수 있는지 판단할 때 확인할 기준을 설명하고, 출원 전에 해야 할 일을 알려줘."
 - **언제**: 새로운 기술·제조 방법을 개발했고 남이 못 베끼게 하고 싶을 때
-- **헷갈림**: 출원 전에 공개하면 새롭지 않다고 판단될 수 있다(예외 제도가 있지만 조건이 까다롭다). 존속기간은 출원일부터 20년이 기준이다(특허법 기준). 아이디어만으론 안 되고 구체적인 기술 방법이어야 하며, 소프트웨어는 별도 검토가 필요하다.
+- **헷갈림**: 출원 전에 공개하면 새롭지 않다고 판단될 수 있다(예외 제도가 있지만 조건이 까다롭다). 존속기간은 특허권을 설정등록한 날부터 특허출원일 후 20년이 되는 날까지다(특허법 제88조). 특허권은 설정등록으로 생기고(제87조), 공개 후 12개월 안에 출원하면 새롭지 않다는 판단을 피하는 예외가 있다(제30조). 아이디어만으론 안 되고 구체적인 기술 방법이어야 하며, 소프트웨어는 별도 검토가 필요하다.
 - **관련**: IP Rights Overview, Trademark
 - **확인 질문**: 이미 공개(발표, 판매, 논문)한 적이 있나요? 기존 기술과 무엇이 다른가요? 비슷한 특허를 검색해 봤나요?
+- **근거**: [특허법 제29조](https://www.law.go.kr/법령/특허법/제29조), [특허법 제30조](https://www.law.go.kr/법령/특허법/제30조), [특허법 제87조](https://www.law.go.kr/법령/특허법/제87조), [특허법 제88조](https://www.law.go.kr/법령/특허법/제88조)
+- **검증일**: 2026-11-01
 
 ### License · 라이선스(이용허락)
+
+<img src="../assets/law/license.svg" alt="권리자가 조건을 붙여 이용자에게 사용을 허락하되 권리 자체는 권리자가 그대로 가진다는 것을 보여주는 그림" width="320">
 
 - **정의**: 저작권·상표 같은 권리를 가진 사람이 다른 사람에게 "이 조건으로 쓰는 것은 허락한다"고 하는 약속. 권리 자체는 그대로 가진다.
 - **AI에게 이렇게**: "이 폰트/이미지/오픈소스 라이선스로 상업 서비스에 써도 되는지 허용 범위(상업적 이용, 수정, 재배포, 출처 표시)를 표로 정리해줘."
@@ -304,19 +368,27 @@ video:
 - **헷갈림**: Copyright Assignment(양도) — 라이선스는 사용 허락이고, 양도는 권리 자체를 넘기는 것이다. 독점/비독점, 기간, 지역, 용도, 수정 가능 여부에 따라 범위가 크게 달라진다. 무료 라이선스도 조건(출처 표시, 같은 조건으로 공개)이 붙는 경우가 많다.
 - **관련**: Copyright, Copyright Assignment, Trademark
 - **확인 질문**: 어디서 무엇에 쓸 건가요(상업적 여부, 기간, 지역)? 독점이어야 하나요? 수정하거나 재배포할 건가요?
+- **근거**: [저작권법 제46조](https://www.law.go.kr/법령/저작권법/제46조)
+- **검증일**: 2026-11-01
 
 ### Copyright Assignment · 저작권 양도
+
+<img src="../assets/law/copyright-assignment.svg" alt="저작재산권은 양수인에게 넘어가지만 2차적저작물작성권은 넘긴다고 적어야 하고 저작인격권은 넘길 수 없음을 세 줄로 보여주는 그림" width="320">
 
 - **정의**: 저작권 중 재산권(복제, 배포 등)을 다른 사람에게 넘기는 계약. 넘기면 원래 저작자는 그 권리를 더 이상 마음대로 쓸 수 없다.
 - **AI에게 이렇게**: "외주 개발 계약서에 결과물 저작권을 우리 회사로 양도하는 조항을 넣고 싶어. 2차적저작물 작성권과 저작인격권 불행사까지 빠뜨리지 않게 문구를 제안해줘."
 - **언제**: 외주 결과물의 권리를 확실히 가져올 때, 내 작품을 팔 때
-- **헷갈림**: 계약서에 "저작권 일체 양도"라고만 쓰면 2차적저작물작성권(번역·각색·변형)은 넘기지 않았다고 추정된다. 이 권리까지 넘긴다고 따로 적어야 한다. 저작인격권은 넘길 수 없어서 '행사하지 않기로 한다'는 특약을 쓰는 것이 일반적이다. 양도와 이용허락의 차이를 구분한다.
+- **헷갈림**: 계약서에 "저작권 일체 양도"라고만 쓰면 2차적저작물작성권(번역·각색·변형)은 넘기지 않았다고 추정된다(저작권법 제45조 제2항). 다만 컴퓨터프로그램은 특약이 없으면 2차적저작물작성권도 함께 양도된 것으로 추정되니, 프로그램이 아닌 결과물이라면 이 권리까지 넘긴다고 따로 적어야 한다. 저작인격권은 넘길 수 없어서 '행사하지 않기로 한다'는 특약을 쓰는 것이 일반적이다. 양도와 이용허락의 차이를 구분한다.
 - **관련**: License, Copyright, Work Made for Hire
 - **확인 질문**: 모든 권리를 넘기나요, 일부만 넘기나요? 넘긴 후 만든 사람이 포트폴리오로 쓸 수 있게 허락할까요? 대가는 얼마인가요?
+- **근거**: [저작권법 제14조](https://www.law.go.kr/법령/저작권법/제14조), [저작권법 제22조](https://www.law.go.kr/법령/저작권법/제22조), [저작권법 제45조](https://www.law.go.kr/법령/저작권법/제45조)
+- **검증일**: 2026-11-01
 
 ## 개인정보 · Privacy
 
 ### Personal Information · 개인정보
+
+<img src="../assets/law/personal-information.svg" alt="이름·연락처·얼굴 사진 등 살아 있는 사람을 알아볼 수 있는 정보가 개인정보이고 민감정보와 고유식별정보는 더 엄격히 다룬다는 그림" width="320">
 
 - **정의**: 살아 있는 사람을 알아볼 수 있는 정보. 이름, 연락처, 얼굴 사진 같은 것은 물론, 다른 정보와 쉽게 합쳐서 누구인지 알 수 있으면 포함된다.
 - **AI에게 이렇게**: "우리 서비스가 수집하는 항목(이름, 이메일, 접속 IP, 주문 기록)이 개인정보 보호법상 개인정보인지 구분하고, 최소한만 받는 방법을 알려줘."
@@ -324,8 +396,12 @@ video:
 - **헷갈림**: 이름이 없어도 이메일·전화번호·아이디가 사람을 가리키면 개인정보다. 법인 정보 자체는 개인정보가 아니지만 그 안의 담당자 이름·연락처는 개인정보다. 건강·정치 성향처럼 민감한 정보와 주민등록번호 같은 고유식별번호는 더 엄격하게 다룬다.
 - **관련**: Consent, Entrustment, Privacy Policy
 - **확인 질문**: 어떤 항목을 왜 받나요? 꼭 필요한 항목만인가요? 얼마나 오래 보관하고 언제 지우나요?
+- **근거**: [개인정보 보호법 제2조](https://www.law.go.kr/법령/개인정보보호법/제2조), [개인정보 보호법 제23조](https://www.law.go.kr/법령/개인정보보호법/제23조), [개인정보 보호법 제24조](https://www.law.go.kr/법령/개인정보보호법/제24조)
+- **검증일**: 2026-11-01
 
 ### Consent · 동의
+
+<img src="../assets/law/consent.svg" alt="개인정보 수집·이용 동의는 필수와 선택으로 나누어 받고, 선택 거부해도 서비스를 쓸 수 있으며 만 14세 미만은 법정대리인 동의가 필요함을 보여주는 그림" width="320">
 
 - **정의**: 고객이 "내 정보를 이 목적으로 쓰는 것에 찬성한다"고 알리는 것. 어떤 정보를, 왜, 얼마나 쓰는지 먼저 알려야 한다.
 - **AI에게 이렇게**: "회원가입 화면의 개인정보 수집·이용 동의문을 필수 항목과 선택 항목으로 나누어 써줘. 마케팅 수신은 따로 받게."
@@ -333,6 +409,8 @@ video:
 - **헷갈림**: 모든 처리에 동의가 필요한 것은 아니고(계약 이행에 필요한 정보 등), 동의 없이 처리하는 근거가 따로 있다. 동의를 받는다면 필수·선택을 나누어야 하며, 선택 동의를 거부했다고 서비스를 못 쓰게 하면 안 된다. 만 14세 미만 아동은 법정대리인 동의가 필요하다(2026-11 기준 확인).
 - **관련**: Personal Information, Third-Party Provision, Privacy Policy
 - **확인 질문**: 이 정보가 서비스 제공에 꼭 필요한가요, 마케팅용인가요? 14세 미만 사용자가 있을 수 있나요?
+- **근거**: [개인정보 보호법 제15조](https://www.law.go.kr/법령/개인정보보호법/제15조), [개인정보 보호법 제16조](https://www.law.go.kr/법령/개인정보보호법/제16조), [개인정보 보호법 제22조](https://www.law.go.kr/법령/개인정보보호법/제22조), [개인정보 보호법 제22조의2](https://www.law.go.kr/법령/개인정보보호법/제22조의2)
+- **검증일**: 2026-11-01
 
 ### Entrustment · 처리위탁
 
@@ -344,8 +422,12 @@ video:
 - **헷갈림**: Third-Party Provision(제3자 제공) — 처리위탁은 맡기는 쪽의 업무를 대신하는 것이고, 제3자 제공은 받는 쪽이 자기 목적으로 쓴다. 위탁이면 보통 별도 동의 없이 가능하지만 위탁계약서를 쓰고, 맡긴 사실을 공개하며, 업체를 관리·감독해야 한다. 맡겼다고 책임이 없어지지 않는다.
 - **관련**: Third-Party Provision, Privacy Policy, Personal Information
 - **확인 질문**: 업체가 고객 정보를 자기 서비스에 쓸 수 있나요, 우리 일만 대신하나요? 업체가 해외에 있거나 정보가 해외로 나가나요?
+- **근거**: [개인정보 보호법 제26조](https://www.law.go.kr/법령/개인정보보호법/제26조), [개인정보 보호법 제17조](https://www.law.go.kr/법령/개인정보보호법/제17조)
+- **검증일**: 2026-11-01
 
 ### Third-Party Provision · 제3자 제공
+
+<img src="../assets/law/third-party-provision.svg" alt="고객의 별도 동의를 받은 뒤 우리 회사가 제3자에게 정보를 넘기고 제3자는 자기 목적으로 쓴다는 것과 동의 때 알릴 항목을 보여주는 그림" width="320">
 
 - **정의**: 고객 정보를 다른 회사나 사람에게 넘겨서 그쪽이 자기 목적으로 쓰게 하는 것. 원칙적으로 고객에게 따로 동의를 받아야 한다.
 - **AI에게 이렇게**: "제휴 쇼핑몰에 고객 이름과 전화번호를 넘기려고 해. 제3자 제공 동의문에 들어갈 항목(받는 자, 목적, 항목, 보유기간)을 써줘."
@@ -353,8 +435,12 @@ video:
 - **헷갈림**: Entrustment(처리위탁) — 위탁은 내 업무 대행, 제공은 상대의 목적. 겉보기에 비슷해도 법적 의무가 다르다. 동의는 '받는 자, 목적, 항목, 보유기간'을 알려야 하고, 거부할 권리와 거부 시 불이익도 안내한다. 법에서 허용하는 예외도 있다.
 - **관련**: Entrustment, Consent, Privacy Policy
 - **확인 질문**: 정보를 받는 쪽이 누구이고 무엇에 쓰나요? 고객 서비스에 꼭 필요한 제공인가요, 사업상 필요인가요?
+- **근거**: [개인정보 보호법 제17조](https://www.law.go.kr/법령/개인정보보호법/제17조)
+- **검증일**: 2026-11-01
 
 ### Privacy Policy · 개인정보처리방침
+
+<img src="../assets/law/privacy-policy.svg" alt="개인정보처리방침에 처리 목적, 보유 기간, 제3자 제공, 처리 위탁, 파기 절차, 권리, 담당자 연락처가 들어가고 고객에게 공개된다는 그림" width="320">
 
 - **정의**: 회사가 개인정보를 어떻게 다루는지(수집 항목, 목적, 보관 기간, 위탁·제공, 파기, 고객 권리, 담당자 연락처) 고객에게 공개하는 문서.
 - **AI에게 이렇게**: "우리 서비스는 이메일·주문 정보를 받고 배송업체에 위탁해. 이 사실을 반영한 개인정보처리방침 초안을 법에서 요구하는 항목 순서대로 써줘."
@@ -362,10 +448,14 @@ video:
 - **헷갈림**: Standard Terms(약관) — 이용약관은 서비스 계약 조건이고 처리방침은 개인정보 정책 공개 문서로 둘은 별개다. 개인정보를 처리하는 사업자는 소규모여도 원칙적으로 만들어 공개해야 한다. 실제로 하지 않는 일을 적거나, 쓴 내용과 다르게 처리하면 문제가 된다.
 - **관련**: Consent, Entrustment, Third-Party Provision, Standard Terms
 - **확인 질문**: 수집 항목·목적·보관 기간이 정리되어 있나요? 위탁·제공하는 업체 목록이 있나요? 개인정보 담당자는 누구인가요?
+- **근거**: [개인정보 보호법 제30조](https://www.law.go.kr/법령/개인정보보호법/제30조)
+- **검증일**: 2026-11-01
 
 ## 회사·노동 · Business & Labor
 
 ### Sole Proprietor vs Corporation · 개인사업자와 법인
+
+<img src="../assets/law/sole-proprietor-vs-corporation.svg" alt="개인사업자는 나와 사업이 한 몸이고 법인은 나와 회사가 별개라는 차이와 책임·시작 절차를 두 칸으로 비교한 그림" width="320">
 
 - **정의**: 개인사업자는 사업을 하는 사람이 곧 사업 주체이고, 법인은 사람과 별개로 법이 인정한 '회사' 자체가 계약·재산의 주체가 되는 형태.
 - **AI에게 이렇게**: "1인 개발 서비스를 시작하는데 개인사업자와 법인 중 어느 쪽이 맞을지, 책임·계약·설립 절차 관점에서 비교해줘. 세금 부분은 세무사에게 물어볼 항목으로만 정리해줘."
@@ -373,6 +463,8 @@ video:
 - **헷갈림**: 개인사업자는 사업 빚에 대해 개인 재산으로 책임지는 반면, 법인은 법인과 주주가 구분된다. 다만 대표가 개인 보증을 서거나 법적 책임이 있는 행위를 하면 개인에게도 책임이 생길 수 있다. 개인사업자는 사업자등록, 법인은 법인 설립 등기를 한다. 세금 차이는 이 시트가 다루지 않으니 세무사에게 확인한다.
 - **관련**: Parties to a Contract, Employee Status
 - **확인 질문**: 투자 유치나 공동 창업 계획이 있나요? 공동 대표나 직원이 생기나요? 사업 위험(소송, 큰 계약) 수준은 어떤가요?
+- **근거**: [상법 제169조](https://www.law.go.kr/법령/상법/제169조), [상법 제172조](https://www.law.go.kr/법령/상법/제172조), [상법 제331조](https://www.law.go.kr/법령/상법/제331조), [부가가치세법 제8조](https://www.law.go.kr/법령/부가가치세법/제8조)
+- **검증일**: 2026-11-01
 
 ### Employee Status · 근로자성
 
@@ -381,11 +473,15 @@ video:
 - **정의**: 계약서 이름과 상관없이 실제 일하는 모습을 보고 그 사람이 법적으로 '근로자'인지 가리는 것. 근로자로 인정되면 근로기준법의 보호(연차, 퇴직금, 해고 제한 등)를 받는다.
 - **AI에게 이렇게**: "프리랜서 계약으로 일하는 사람에게 출퇴근 시간을 정해주고 업무 지시도 하고 있어. 근로자로 볼 위험이 있는지 판단 기준과 점검 항목을 알려줘."
 - **언제**: 프리랜서·용역으로 사람을 쓸 때, 내가 프리랜서인데 직원처럼 일할 때
-- **헷갈림**: Service Contract(용역계약) — 계약서에 '용역'이라 쓰고 3.3% 공제를 해도, 실제로 지휘·감독과 시간 구속이 강하면 근로자로 볼 수 있다. 반대로 근로계약서를 썼어도 실질이 독립 사업자면 달라질 수 있다. 하나의 사실만으로 정해지지 않고 여러 요소를 종합해 판단한다.
+- **헷갈림**: Service Contract(용역계약) — 계약서에 '용역'이라 쓰고 3.3% 공제(사업소득 원천징수: 소득세 3% + 지방소득세 0.3%)를 해도, 실제로 지휘·감독과 시간 구속이 강하면 근로자로 볼 수 있다. 3.3% 공제는 세금 처리 방식일 뿐 근로자성을 정하지 않는다. 원천징수율은 2026-11 기준이며 세법 개정으로 바뀔 수 있다. 반대로 근로계약서를 썼어도 실질이 독립 사업자면 달라질 수 있다. 하나의 사실만으로 정해지지 않고 여러 요소를 종합해 판단한다.
 - **관련**: Service Contract, Unfair Dismissal, Work Made for Hire
 - **확인 질문**: 업무 시간과 장소를 누가 정하나요? 업무 지시를 받나요? 다른 사람이 대신 일할 수 있나요? 보수는 고정급인가요, 결과물 대가인가요?
+- **근거**: [근로기준법 제2조](https://www.law.go.kr/법령/근로기준법/제2조), [소득세법 제129조](https://www.law.go.kr/법령/소득세법/제129조), [국세청 원천징수 3.3% 안내](https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=239072), [국세청 원천징수 대상 사업소득](https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6620&cntntsId=7900)
+- **검증일**: 2026-11-01
 
 ### Service Contract · 용역계약
+
+<img src="../assets/law/service-contract.svg" alt="용역계약은 법률 용어가 아니며 일의 완성이 핵심인 도급과 업무 처리가 핵심인 위임으로 나뉨을 보여주는 그림" width="320">
 
 - **정의**: 일(개발, 디자인, 컨설팅, 청소 등)을 해주고 대가를 받는 계약을 통틀어 부르는 말. 법률 용어가 아니고, 내용에 따라 '도급'(결과물 완성) 또는 '위임'(일 처리) 중 하나로 본다.
 - **AI에게 이렇게**: "디자이너에게 로고를 맡기는 용역계약서를 만들어줘. 결과물 범위, 수정 횟수, 대금 지급 시기, 저작권 귀속, 해지 조건을 포함해줘."
@@ -393,12 +489,18 @@ video:
 - **헷갈림**: 근로계약 — 근로계약은 회사 지시 아래 일하고 임금을 받는 관계이고, 용역계약은 독립적으로 결과나 업무를 처리하는 관계다. 이름이 용역이어도 실제가 근로면 근로자로 볼 수 있다. 도급은 '완성'이, 위임은 '처리'가 핵심이라 수정·검수·대금 조건이 다르다. 대기업이나 일정 규모 이상 거래는 하도급법에 따라 서면 발급 의무 등이 따로 있다.
 - **관련**: Employee Status, Copyright Assignment, Termination
 - **확인 질문**: 결과물이 완성되어야 대금이 나가나요, 일한 시간에 따라 나가나요? 수정은 몇 번까지인가요? 결과물의 저작권은 누구에게 가나요?
+- **근거**: [민법 제664조](https://www.law.go.kr/법령/민법/제664조), [민법 제680조](https://www.law.go.kr/법령/민법/제680조), [하도급거래 공정화에 관한 법률 제3조](https://www.law.go.kr/법령/하도급거래공정화에관한법률/제3조)
+- **검증일**: 2026-11-01
 
 ### Unfair Dismissal · 부당해고
+
+<img src="../assets/law/unfair-dismissal.svg" alt="상시 근로자 5명 이상과 5명 미만 사업장에서 정당한 이유, 서면통지, 30일 전 해고예고, 노동위원회 구제신청 적용 여부가 어떻게 다른지 비교한 표" width="320">
 
 - **정의**: 정당한 이유 없이 직원을 내보내거나, 정해진 절차(서면 통지 등)를 지키지 않고 해고하는 것. 근로기준법은 해고에 정당한 이유를 요구한다.
 - **AI에게 이렇게**: "직원을 해고하려는데 정당한 이유가 되는지, 해고 예고와 서면 통지는 어떻게 해야 하는지 절차 체크리스트를 만들어줘."
 - **언제**: 직원을 해고하려고 하거나, 부당하게 해고당했다고 느낄 때
-- **헷갈림**: 상시 5명 미만 사업장은 근로기준법 일부 규정(정당한 이유 요구, 해고사유 서면통지, 노동위원회 구제신청 등)이 적용되지 않는다. 다만 30일 전 해고 예고(또는 해고예고수당) 규정은 규모와 관계없이 적용된다(근로기준법 시행령 별표 1, 2026-11 기준). 5명 이상 사업장의 해고 구제는 해고일로부터 3개월 안에 노동위원회에 신청해야 하는 기준이 있다(2026-11 기준). '권고사직'이나 '자진 퇴사 처리'도 실제로는 해고로 다퉈질 수 있다.
+- **헷갈림**: 상시 5명 미만 사업장은 근로기준법 일부 규정(정당한 이유 요구, 해고사유 서면통지, 노동위원회 구제신청 등)이 적용되지 않는다. 다만 30일 전 해고 예고(또는 30일분 이상 통상임금인 해고예고수당) 규정은 규모와 관계없이 적용된다(근로기준법 시행령 제7조·별표 1, 2026-11 기준). 해고예고는 계속 근로한 기간이 3개월 미만인 경우 등 예외가 있다(제26조). 5명 이상 사업장의 해고 구제는 부당해고가 있었던 날부터 3개월 안에 노동위원회에 신청해야 한다(제28조, 2026-11 기준). '권고사직'이나 '자진 퇴사 처리'도 실제로는 해고로 다퉈질 수 있다.
 - **관련**: Employee Status, Service Contract
 - **확인 질문**: 상시 근로자 수는 몇 명인가요? 해고 이유는 무엇이며 서면으로 알렸나요? 해고 예고를 했나요? 해고된 날은 언제인가요?
+- **근거**: [근로기준법 제11조](https://www.law.go.kr/법령/근로기준법/제11조), [근로기준법 제23조](https://www.law.go.kr/법령/근로기준법/제23조), [근로기준법 제26조](https://www.law.go.kr/법령/근로기준법/제26조), [근로기준법 제27조](https://www.law.go.kr/법령/근로기준법/제27조), [근로기준법 제28조](https://www.law.go.kr/법령/근로기준법/제28조), [근로기준법 시행령 제7조](https://www.law.go.kr/법령/근로기준법시행령/제7조), [찾기쉬운 생활법령정보 부당해고와 구제절차](https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=514&ccfNo=5&cciNo=1&cnpClsNo=1)
+- **검증일**: 2026-11-01

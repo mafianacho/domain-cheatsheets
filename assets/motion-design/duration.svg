@@ -6,7 +6,7 @@
 <line x1="30" y1="70" x2="250" y2="70" stroke="#475569" stroke-width="2"/><line x1="30" y1="130" x2="250" y2="130" stroke="#475569" stroke-width="2"/>
 <g stroke="#475569" stroke-width="2"><line x1="250" y1="58" x2="250" y2="82"/><line x1="250" y1="118" x2="250" y2="142"/></g>
 <circle class="f" cx="30" cy="70" r="9" fill="#f59e0b"/><circle class="sl" cx="30" cy="130" r="9" fill="#38bdf8"/>
-<text class="s" x="262" y="73">fast</text><text class="s" x="262" y="133">slow</text>
-<text class="s" x="30" y="180">same distance, different duration</text>
+<text class="s" x="262" y="73">빠름</text><text class="s" x="262" y="133">느림</text>
+<text class="s" x="30" y="180">같은 거리, 다른 길이(시간)</text>
 
 </svg>

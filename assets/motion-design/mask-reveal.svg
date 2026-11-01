@@ -7,6 +7,6 @@
 <text class="c" x="160" y="115" style="font-size:52px;font-weight:800;fill:none;stroke:#475569;stroke-width:1.2" stroke-dasharray="3 3">REVEAL</text>
 <text class="c" x="160" y="115" mask="url(#m)" style="font-size:52px;font-weight:800;fill:#f59e0b">REVEAL</text>
 <line class="edge" x1="40" y1="46" x2="40" y2="144" stroke="#38bdf8" stroke-width="3"/>
-<text class="s" x="36" y="170">a hidden window slides open to show it</text>
+<text class="s" x="36" y="170">가려진 창이 열리며 글자가 드러남</text>
 
 </svg>

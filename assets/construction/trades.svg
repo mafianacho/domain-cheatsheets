@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200" role="img">
+<title>철거부터 가구까지 공종을 예시 순서로 나열한 흐름</title>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="14" y="22" font-size="11" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">공종 · 일의 종류 (예시 순서)</text>
+<rect x="17" y="44" width="50" height="30" fill="#1e293b" rx="6" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="42" y="62.5" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">철거</text>
+<text x="23" y="40" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">1</text>
+<line x1="67" y1="59" x2="72" y2="59" stroke="#94a3b8" stroke-width="1.5"/>
+<polygon points="76.0,59.0 71.5,61.2 71.5,56.8" fill="#94a3b8"/>
+<rect x="76" y="44" width="50" height="30" fill="#1e293b" rx="6" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="101" y="62.5" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">설비</text>
+<text x="82" y="40" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">2</text>
+<line x1="126" y1="59" x2="131" y2="59" stroke="#94a3b8" stroke-width="1.5"/>
+<polygon points="135.0,59.0 130.5,61.2 130.5,56.8" fill="#94a3b8"/>
+<rect x="135" y="44" width="50" height="30" fill="#1e293b" rx="6" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="160" y="62.5" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">전기</text>
+<text x="141" y="40" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">3</text>
+<line x1="185" y1="59" x2="190" y2="59" stroke="#94a3b8" stroke-width="1.5"/>
+<polygon points="194.0,59.0 189.5,61.2 189.5,56.8" fill="#94a3b8"/>
+<rect x="194" y="44" width="50" height="30" fill="#1e293b" rx="6" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="219" y="62.5" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">방수</text>
+<text x="200" y="40" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">4</text>
+<line x1="244" y1="59" x2="249" y2="59" stroke="#94a3b8" stroke-width="1.5"/>
+<polygon points="253.0,59.0 248.5,61.2 248.5,56.8" fill="#94a3b8"/>
+<rect x="253" y="44" width="50" height="30" fill="#1e293b" rx="6" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="278" y="62.5" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">목공</text>
+<text x="259" y="40" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">5</text>
+<path d="M278,74 V90 H42 V102" fill="none" stroke="#94a3b8" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="42.0,106.0 39.8,101.5 44.2,101.5" fill="#94a3b8"/>
+<rect x="17" y="106" width="50" height="30" fill="#1e293b" rx="6" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="42" y="124.5" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">타일</text>
+<text x="23" y="102" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">6</text>
+<line x1="67" y1="121" x2="72" y2="121" stroke="#94a3b8" stroke-width="1.5"/>
+<polygon points="76.0,121.0 71.5,123.2 71.5,118.8" fill="#94a3b8"/>
+<rect x="76" y="106" width="50" height="30" fill="#1e293b" rx="6" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="101" y="124.5" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">도장</text>
+<text x="82" y="102" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">7</text>
+<line x1="126" y1="121" x2="131" y2="121" stroke="#94a3b8" stroke-width="1.5"/>
+<polygon points="135.0,121.0 130.5,123.2 130.5,118.8" fill="#94a3b8"/>
+<rect x="135" y="106" width="50" height="30" fill="#1e293b" rx="6" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="160" y="124.5" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">도배</text>
+<text x="141" y="102" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">8</text>
+<line x1="185" y1="121" x2="190" y2="121" stroke="#94a3b8" stroke-width="1.5"/>
+<polygon points="194.0,121.0 189.5,123.2 189.5,118.8" fill="#94a3b8"/>
+<rect x="194" y="106" width="50" height="30" fill="#1e293b" rx="6" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="219" y="124.5" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">바닥재</text>
+<text x="200" y="102" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">9</text>
+<line x1="244" y1="121" x2="249" y2="121" stroke="#94a3b8" stroke-width="1.5"/>
+<polygon points="253.0,121.0 248.5,123.2 248.5,118.8" fill="#94a3b8"/>
+<rect x="253" y="106" width="50" height="30" fill="#1e293b" rx="6" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="278" y="124.5" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">가구</text>
+<text x="259" y="102" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">10</text>
+<text x="160" y="160" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">순서는 현장 · 공사 범위에 따라 달라집니다</text>
+<text x="160" y="177" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">공종마다 담당 기술자가 다른 경우가 많습니다</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="받을 돈은 물건은 넘겼지만 돈이 안 들어온 자산, 줄 돈은 물건은 받았지만 돈을 안 낸 부채">
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="22" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">받을 돈 · 줄 돈</text>
+<rect x="14" y="34" width="142" height="152" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="85" y="54" font-size="11" fill="#38bdf8" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">받을 돈 (자산)</text>
+<text x="85" y="70" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">외상매출금·미수금</text>
+<rect x="24" y="84" width="44" height="24" rx="5" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="46" y="100" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">우리</text>
+<rect x="102" y="84" width="44" height="24" rx="5" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="124" y="100" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">거래처</text>
+<line x1="68" y1="92" x2="102" y2="92" stroke="#38bdf8" stroke-width="2"/>
+<line x1="102" y1="92" x2="95.9" y2="95.4" stroke="#38bdf8" stroke-width="2"/>
+<line x1="102" y1="92" x2="95.9" y2="88.6" stroke="#38bdf8" stroke-width="2"/>
+<line x1="102" y1="102" x2="68" y2="102" stroke="#38bdf8" stroke-width="2" stroke-dasharray="3 3"/>
+<line x1="68" y1="102" x2="74.1" y2="98.6" stroke="#38bdf8" stroke-width="2"/>
+<line x1="68" y1="102" x2="74.1" y2="105.4" stroke="#38bdf8" stroke-width="2"/>
+<text x="85" y="134" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">① 물건은 넘겼다</text>
+<text x="85" y="150" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">② 돈은 아직 안 들어왔다</text>
+<text x="85" y="172" font-size="9" fill="#38bdf8" text-anchor="middle" font-family="system-ui, sans-serif">받을 때까지 자산</text>
+<rect x="164" y="34" width="142" height="152" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="235" y="54" font-size="11" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">줄 돈 (부채)</text>
+<text x="235" y="70" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">외상매입금·미지급금</text>
+<rect x="174" y="84" width="44" height="24" rx="5" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="196" y="100" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">공급처</text>
+<rect x="252" y="84" width="44" height="24" rx="5" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="274" y="100" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">우리</text>
+<line x1="218" y1="92" x2="252" y2="92" stroke="#f59e0b" stroke-width="2"/>
+<line x1="252" y1="92" x2="245.9" y2="95.4" stroke="#f59e0b" stroke-width="2"/>
+<line x1="252" y1="92" x2="245.9" y2="88.6" stroke="#f59e0b" stroke-width="2"/>
+<line x1="252" y1="102" x2="218" y2="102" stroke="#f59e0b" stroke-width="2" stroke-dasharray="3 3"/>
+<line x1="218" y1="102" x2="224.1" y2="98.6" stroke="#f59e0b" stroke-width="2"/>
+<line x1="218" y1="102" x2="224.1" y2="105.4" stroke="#f59e0b" stroke-width="2"/>
+<text x="235" y="134" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">① 물건은 받았다</text>
+<text x="235" y="150" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">② 돈은 아직 안 냈다</text>
+<text x="235" y="172" font-size="9" fill="#f59e0b" text-anchor="middle" font-family="system-ui, sans-serif">낼 때까지 부채</text>
+</svg>

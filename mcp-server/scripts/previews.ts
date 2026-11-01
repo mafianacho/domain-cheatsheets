@@ -8,7 +8,7 @@ import { homedir, tmpdir } from "node:os";
 import { join, resolve } from "node:path";
 import { PNG } from "pngjs";
 import gifenc from "gifenc";
-import { defaultRepoRoot, loadCheatsheets, type Cheatsheet, type Term } from "../src/cheatsheets.js";
+import { defaultRepoRoot, loadCheatsheets, ownTerms, type Cheatsheet, type Term } from "../src/cheatsheets.js";
 import { plain } from "../src/render.js";
 
 export const FRAME_W = 320;
@@ -51,7 +51,7 @@ function termFrame(root: string, sheet: Cheatsheet, t: Term): string {
 }
 
 function titleFrame(sheet: Cheatsheet): string {
-  return `<div class="f title"><div class="k">Domain Cheatsheets</div><div class="t">${esc(sheet.title)}</div><div class="e">${esc(sheet.titleEn)}</div><div class="n">용어 ${sheet.terms.length}개 · ${esc(sheet.categories.map((c) => c.split(" · ")[0]).join(" / "))}</div></div>`;
+  return `<div class="f title"><div class="k">Domain Cheatsheets</div><div class="t">${esc(sheet.title)}</div><div class="e">${esc(sheet.titleEn)}</div><div class="n">용어 ${ownTerms(sheet).length}개 · ${esc(sheet.categories.map((c) => c.split(" · ")[0]).join(" / "))}</div></div>`;
 }
 
 function page(frames: string[]): string {
@@ -120,9 +120,10 @@ if (isMain) {
   mkdirSync(outDir, { recursive: true });
   const work = mkdtempSync(join(process.env.TMPDIR ?? tmpdir(), "previews-"));
   for (const sheet of loadCheatsheets(root).filter((s) => !only || s.id === only)) {
-    const frames = [titleFrame(sheet), ...sheet.terms.map((t) => termFrame(root, sheet, t))];
+    const terms = ownTerms(sheet);
+    const frames = [titleFrame(sheet), ...terms.map((t) => termFrame(root, sheet, t))];
     const rgba = renderFrames(chrome, page(frames), frames.length, work);
-    const bytes = encodeGif(rgba, [TITLE_DELAY_MS, ...sheet.terms.map(() => TERM_DELAY_MS)]);
+    const bytes = encodeGif(rgba, [TITLE_DELAY_MS, ...terms.map(() => TERM_DELAY_MS)]);
     writeFileSync(join(outDir, `${sheet.id}.gif`), bytes);
     console.log(`assets/previews/${sheet.id}.gif  ${frames.length} frames  ${(bytes.length / 1024).toFixed(0)} KB`);
   }

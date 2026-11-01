@@ -8,6 +8,6 @@
 <path d="M160 98 V106 M155 101 L160 107 L165 101" fill="none" stroke="#f59e0b" stroke-width="2"/>
 <g clip-path="url(#win)"><g class="sl"><use href="#cells" x="130" y="108"/></g></g>
 <rect x="130" y="108" width="60" height="60" fill="none" stroke="#38bdf8" stroke-width="3"/>
-<text class="s" x="200" y="142">one frame at a time</text>
+<text class="s" x="200" y="142">한 번에 한 칸씩</text>
 
 </svg>

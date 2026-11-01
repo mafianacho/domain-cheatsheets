@@ -16,6 +16,14 @@ export interface Term {
   confirm?: string;
   video?: string;
   image?: string;
+  /** Markdown links to the legal/official basis of numbers, deadlines and articles. */
+  source?: string;
+  /** YYYY-MM-DD the basis was last checked. */
+  verified?: string;
+  /** For a cross-reference entry: markdown link to the canonical term in another sheet. */
+  canonical?: string;
+  /** Parsed `canonical`: target sheet id and heading anchor. */
+  canonicalRef?: { domain: string; anchor: string };
   anchor: string;
 }
 
@@ -43,7 +51,13 @@ const FIELD_LABELS: Record<string, keyof Term> = {
   "관련": "related",
   "확인 질문": "confirm",
   "영상": "video",
+  "근거": "source",
+  "검증일": "verified",
+  "원본": "canonical",
 };
+
+/** Fields allowed on a cross-reference entry (one that points at the canonical term in another sheet). */
+export const REFERENCE_FIELDS = ["정의", "원본"] as const;
 
 export const REQUIRED_FIELDS = ["정의", "AI에게 이렇게"] as const;
 export const REQUIRED_META = ["id", "title", "title_en", "summary", "tags", "updated"] as const;
@@ -143,14 +157,29 @@ export function parseCheatsheet(markdown: string, file = "<memory>"): Cheatsheet
   let current: Term | null = null;
   let inFence = false;
 
+  const seenFields = new Set<string>();
   const finish = () => {
     if (!current) return;
-    for (const label of REQUIRED_FIELDS) {
-      const key = FIELD_LABELS[label]!;
-      if (!current[key]) throw new FormatError(`${file}: term '${current.names.join(" · ")}' is missing '- **${label}**:'`);
+    const label = current.names.join(" · ");
+    if (current.canonical) {
+      const m = /^\[[^\]]+\]\(([a-z0-9-]+)\.md#([^)\s]+)\)$/.exec(current.canonical);
+      if (!m) throw new FormatError(`${file}: term '${label}' '- **원본**:' must be one link like [모션 디자인 · Stagger](motion-design.md#anchor)`);
+      current.canonicalRef = { domain: m[1]!, anchor: decodeURIComponent(m[2]!) };
+      const extra = [...seenFields].filter((f) => !(REFERENCE_FIELDS as readonly string[]).includes(f));
+      if (extra.length) throw new FormatError(`${file}: cross-reference term '${label}' may only have 정의 and 원본 (found: ${extra.join(", ")})`);
+      if (current.image) throw new FormatError(`${file}: cross-reference term '${label}' must not have an image (the canonical term has it)`);
+      if (!current.definition) throw new FormatError(`${file}: term '${label}' is missing '- **정의**:'`);
+    } else {
+      for (const req of REQUIRED_FIELDS) {
+        const key = FIELD_LABELS[req]!;
+        if (!current[key]) throw new FormatError(`${file}: term '${label}' is missing '- **${req}**:'`);
+      }
     }
+    if (current.verified !== undefined && !/^\d{4}-\d{2}-\d{2}$/.test(current.verified)) throw new FormatError(`${file}: term '${label}' 검증일 must be YYYY-MM-DD`);
+    if ((current.source === undefined) !== (current.verified === undefined)) throw new FormatError(`${file}: term '${label}' needs both 근거 and 검증일`);
     terms.push(current);
     current = null;
+    seenFields.clear();
   };
 
   for (const line of stripOverview(body).split("\n")) {
@@ -178,6 +207,7 @@ export function parseCheatsheet(markdown: string, file = "<memory>"): Cheatsheet
     const field = /^- \*\*(.+?)\*\*:\s*(.*)$/.exec(line);
     if (field) {
       const key = FIELD_LABELS[field[1]!];
+      if (key) seenFields.add(field[1]!);
       if (!key) throw new FormatError(`${file}: unknown field '${field[1]}' in term '${current.names[0]}' (allowed: ${Object.keys(FIELD_LABELS).join(", ")})`);
       const value = field[2]!.trim();
       if (key === "related") current.related = value.split(",").map((s) => s.trim()).filter(Boolean);
@@ -242,6 +272,7 @@ export function searchTerms(sheets: Cheatsheet[], query: string, opts: { domain?
   for (const sheet of sheets) {
     if (opts.domain && sheet.id !== opts.domain) continue;
     for (const term of sheet.terms) {
+      if (term.canonical) continue; // cross-references point at a term that is already searchable
       let score = 0;
       const names = term.names.map(normalize);
       if (names.some((n) => n === q) || term.id === query.toLowerCase()) score += 100;
@@ -258,6 +289,9 @@ export function searchTerms(sheets: Cheatsheet[], query: string, opts: { domain?
   hits.sort((a, b) => b.score - a.score || a.domain.localeCompare(b.domain) || a.term.id.localeCompare(b.term.id));
   return hits.slice(0, opts.limit ?? 10);
 }
+
+/** Terms that are not cross-references. */
+export const ownTerms = (s: Cheatsheet) => s.terms.filter((t) => !t.canonical);
 
 export function findTerm(sheet: Cheatsheet, key: string): Term | undefined {
   const k = normalize(key);

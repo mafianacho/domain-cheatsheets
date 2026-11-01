@@ -33,13 +33,23 @@ async function exercise(client: Client) {
   assert.match(term, /- image: https:\/\/raw\.githubusercontent\.com\/mafianacho\/domain-cheatsheets\/main\/assets\/sample\/hero-section\.svg/);
   assert.match(term, /- page: https:\/\/github\.com\/mafianacho\/domain-cheatsheets\/blob\/main\/cheatsheets\/sample\.md#hero-section--/);
 
+  assert.match(domains, /\*\*ref\*\* — 참조 · Reference: .*\n  - terms: 1 ·/);
+  const once = textOf(await client.callTool({ name: "search_terms", arguments: { query: "히어로" } }));
+  assert.equal((once.match(/^- \*\*/gm) ?? []).length, 1, "cross-reference is not a second search hit");
+  assert.match(once, /`sample\/hero-section`/);
+  const viaRef = textOf(await client.callTool({ name: "get_term", arguments: { domain: "ref", term: "hero-banner" } }));
+  assert.match(viaRef, /원본으로 참조/);
+  assert.match(viaRef, /- domain: sample \(샘플 · Sample\)/);
+  const cited = textOf(await client.callTool({ name: "get_term", arguments: { domain: "ref", term: "이의신청 기간" } }));
+  assert.match(cited, /- 근거: \[민사소송법 제470조\]\(https:\/\/www\.law\.go\.kr\/법령\/민사소송법\/제470조\) \(검증일 2026-11-01\)/);
+
   const missing = (await client.callTool({ name: "get_term", arguments: { domain: "sample", term: "hero" } })) as TextResult;
   assert.equal(missing.isError, true);
   assert.match(textOf(missing), /Did you mean: hero-section/);
 
   const unknown = (await client.callTool({ name: "get_cheatsheet", arguments: { domain: "nope" } })) as TextResult;
   assert.equal(unknown.isError, true);
-  assert.match(textOf(unknown), /Available: sample/);
+  assert.match(textOf(unknown), /Available: ref, sample/);
 
   const sheet = textOf(await client.callTool({ name: "get_cheatsheet", arguments: { domain: "sample" } }));
   assert.ok(!sheet.includes("overview:start"), "generated HTML grid is stripped");
@@ -51,7 +61,7 @@ async function exercise(client: Client) {
   assert.ok(!part.includes("Hero Section"));
 
   const resources = await client.listResources();
-  assert.deepEqual(resources.resources.map((r) => r.uri), ["cheatsheet://sample"]);
+  assert.deepEqual(resources.resources.map((r) => r.uri), ["cheatsheet://ref", "cheatsheet://sample"]);
   const res = await client.readResource({ uri: "cheatsheet://sample" });
   assert.match(String((res.contents[0] as { text: string }).text), /# 샘플 치트시트/);
 
@@ -99,7 +109,7 @@ test("streamable HTTP transport serves the same tools (stateless)", async () => 
 
 test("HTTP edges: healthz, GET /mcp 405, bad JSON 400, unknown path 404", async () => {
   const health = await fetch(`${base}/healthz`);
-  assert.deepEqual(await health.json(), { ok: true, version: "0.1.0", sheets: 1, terms: 3 });
+  assert.deepEqual(await health.json(), { ok: true, version: "0.1.0", sheets: 2, terms: 5 });
   assert.equal((await fetch(`${base}/mcp`)).status, 405);
   const bad = await fetch(`${base}/mcp`, { method: "POST", headers: { "content-type": "application/json", accept: "application/json, text/event-stream" }, body: "{" });
   assert.equal(bad.status, 400);

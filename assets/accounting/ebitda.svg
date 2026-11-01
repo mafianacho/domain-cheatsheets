@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="영업이익 100에 감가상각비 30을 더하면 EBITDA는 130이다">
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="22" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">EBITDA = 영업이익 + 감가상각비</text>
+<rect x="30" y="44" width="160" height="28" rx="5" fill="#334155" stroke="#38bdf8" stroke-width="2"/>
+<text x="110" y="63" font-size="11" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">영업이익 100</text>
+<rect x="190" y="44" width="48" height="28" rx="5" fill="#1e293b" stroke="#475569" stroke-width="2"/>
+<text x="214" y="63" font-size="11" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">30</text>
+<text x="214" y="90" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">+ 감가상각비</text>
+<rect x="30" y="104" width="208" height="28" rx="5" fill="#334155" stroke="#f59e0b" stroke-width="2"/>
+<text x="134" y="123" font-size="12" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">EBITDA 130</text>
+<text x="160" y="160" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">이자·세금·감가상각비를 빼기 전의 영업 성과</text>
+<text x="160" y="180" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">실제로 쓸 수 있는 현금과는 다르다</text>
+</svg>

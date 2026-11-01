@@ -8,6 +8,6 @@
 <path d="M112 84 H280 M270 77 L280 84 L270 91" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-dasharray="1 0"/>
 <circle cx="24" cy="60" r="9" fill="#f59e0b"/><text class="s c" x="24" y="63" style="fill:#0f172a;font-weight:700">1</text>
 <circle cx="296" cy="60" r="9" fill="#38bdf8"/><text class="s c" x="296" y="63" style="fill:#0f172a;font-weight:700">2</text>
-<text class="s" x="24" y="166">1: a small move the opposite way, 2: the real move</text>
+<text class="s" x="24" y="166">1: 반대로 살짝 움직임, 2: 진짜 움직임</text>
 
 </svg>

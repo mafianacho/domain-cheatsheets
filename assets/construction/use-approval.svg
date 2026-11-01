@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200" role="img">
+<title>공사 완료부터 신청, 검사, 사용승인서까지의 순서</title>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="14" y="22" font-size="11" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">사용승인 · 공사가 끝난 뒤 순서</text>
+<rect x="15" y="44" width="62" height="48" fill="#1e293b" rx="6" stroke="#475569" stroke-width="1.5"/>
+<text x="46" y="67" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">공사 완료</text>
+<text x="46" y="79" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">다 지음</text>
+<line x1="77" y1="68" x2="87" y2="68" stroke="#38bdf8" stroke-width="1.5"/>
+<polygon points="91.0,68.0 86.5,70.2 86.5,65.8" fill="#38bdf8"/>
+<rect x="91" y="44" width="62" height="48" fill="#1e293b" rx="6" stroke="#475569" stroke-width="1.5"/>
+<text x="122" y="67" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">승인 신청</text>
+<text x="122" y="79" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">서류 첨부</text>
+<line x1="153" y1="68" x2="163" y2="68" stroke="#38bdf8" stroke-width="1.5"/>
+<polygon points="167.0,68.0 162.5,70.2 162.5,65.8" fill="#38bdf8"/>
+<rect x="167" y="44" width="62" height="48" fill="#1e293b" rx="6" stroke="#475569" stroke-width="1.5"/>
+<text x="198" y="67" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">관청 검사</text>
+<text x="198" y="79" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">도면대로?</text>
+<line x1="229" y1="68" x2="239" y2="68" stroke="#38bdf8" stroke-width="1.5"/>
+<polygon points="243.0,68.0 238.5,70.2 238.5,65.8" fill="#38bdf8"/>
+<rect x="243" y="44" width="62" height="48" fill="#1e293b" rx="6" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="274" y="67" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">사용승인서</text>
+<text x="274" y="79" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">교부</text>
+<rect x="14" y="108" width="292" height="38" fill="#f59e0b" rx="8" fill-opacity="0.12"/>
+<rect x="14" y="108" width="292" height="38" fill="none" rx="8" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="160" y="125" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="bold" font-family="system-ui, sans-serif">사용승인서를 받기 전에는 건물을 쓸 수 없음</text>
+<text x="160" y="139" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">(예외: 임시 사용승인 등)</text>
+<rect x="14" y="156" width="292" height="30" fill="#1e293b" rx="8" stroke="#475569" stroke-width="1"/>
+<text x="160" y="175" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">영업 인허가(식품 · 소방 등)는 따로 필요할 수 있음</text>
+</svg>

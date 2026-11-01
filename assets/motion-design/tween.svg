@@ -4,8 +4,8 @@
 
 <rect x="24" y="80" width="40" height="40" rx="2" fill="#f59e0b"/><circle cx="276" cy="100" r="20" fill="#38bdf8"/>
 <rect x="82" y="80" width="40" height="40" rx="6.5" fill="rgb(197, 165, 70)" opacity=".45" stroke-dasharray="3 2" stroke="#e2e8f0" stroke-opacity=".5"/><rect x="140" y="80" width="40" height="40" rx="11.0" fill="rgb(150, 173, 129)" opacity=".45" stroke-dasharray="3 2" stroke="#e2e8f0" stroke-opacity=".5"/><rect x="198" y="80" width="40" height="40" rx="15.5" fill="rgb(103, 181, 188)" opacity=".45" stroke-dasharray="3 2" stroke="#e2e8f0" stroke-opacity=".5"/>
-<text class="s c" x="44" y="146">A</text><text class="s c" x="276" y="146">B</text><text class="s c" x="160" y="146">in-between (tween)</text>
+<text class="s c" x="44" y="146">A</text><text class="s c" x="276" y="146">B</text><text class="s c" x="160" y="146">사이 장면 (tween)</text>
 <rect class="mv" x="24" y="40" width="40" height="22" rx="2" fill="#f59e0b"/>
-<text class="s" x="24" y="182">you set A and B, the computer fills the middle</text>
+<text class="s" x="24" y="182">A와 B만 정하면 컴퓨터가 중간을 채움</text>
 
 </svg>

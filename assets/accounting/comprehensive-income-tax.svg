@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="한 해 동안 번 소득을 합산해 다음 해 5월에 신고하고 이미 낸 세금을 빼서 더 낼 돈이나 돌려받을 돈을 정산한다">
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="22" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">종합소득세: 한 해 소득을 다음 해 5월에 정산</text>
+<rect x="14" y="40" width="168" height="44" rx="6" fill="#334155" stroke="#475569" stroke-width="2"/>
+<text x="98" y="58" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">귀속 연도 1월~12월</text>
+<text x="98" y="75" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">사업·근로·이자 등 소득 합산</text>
+<line x1="182" y1="62" x2="214" y2="62" stroke="#f59e0b" stroke-width="2"/>
+<line x1="214" y1="62" x2="207.9" y2="65.4" stroke="#f59e0b" stroke-width="2"/>
+<line x1="214" y1="62" x2="207.9" y2="58.6" stroke="#f59e0b" stroke-width="2"/>
+<rect x="214" y="40" width="92" height="44" rx="6" fill="#1e293b" stroke="#f59e0b" stroke-width="2"/>
+<text x="260" y="58" font-size="11" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">다음 해 5월</text>
+<text x="260" y="75" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">1일~31일 신고·납부</text>
+<text x="306" y="102" font-size="9" fill="#38bdf8" text-anchor="end" font-family="system-ui, sans-serif">성실신고확인서 제출자는 6월 30일까지</text>
+<rect x="14" y="118" width="292" height="66" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="160" y="140" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">계산한 세금 − 미리 낸 세금 (3.3% 등)</text>
+<text x="160" y="164" font-size="11" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">= 더 낼 돈 또는 돌려받을 돈</text>
+</svg>

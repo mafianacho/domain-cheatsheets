@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" font-family="system-ui, sans-serif" role="img"><title>동의는 필수와 선택을 나누어 항목별로 받고 선택 동의를 거부해도 서비스를 쓸 수 있어야 하며 14세 미만은 법정대리인 동의가 필요</title><defs><marker id="ma" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#f59e0b"/></marker><marker id="ms" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#38bdf8"/></marker><marker id="mg" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#94a3b8"/></marker></defs><rect width="320" height="200" rx="12" fill="#0f172a"/><text x="160" y="22" font-size="12" fill="#f59e0b" text-anchor="middle" font-weight="700">동의 = 항목별로 나눠서 받기</text>
+<rect x="12" y="32" width="296" height="64" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.2"/>
+<rect x="24" y="42" width="16" height="16" rx="3" fill="#334155" stroke="#f59e0b" stroke-width="1.5"/>
+<path d="M27 50 L31 54 L37 45" fill="none" stroke="#f59e0b" stroke-width="2.2"/>
+<rect x="48" y="42" width="36" height="16" rx="8" fill="#f59e0b"/>
+<text x="66" y="54" font-size="9" fill="#0f172a" text-anchor="middle" font-weight="700">필수</text>
+<text x="94" y="54" font-size="10" fill="#e2e8f0" text-anchor="start">서비스 제공을 위한 수집·이용</text>
+<rect x="24" y="68" width="16" height="16" rx="3" fill="#334155" stroke="#94a3b8" stroke-width="1.5"/>
+<rect x="48" y="68" width="36" height="16" rx="8" fill="#38bdf8"/>
+<text x="66" y="80" font-size="9" fill="#0f172a" text-anchor="middle" font-weight="700">선택</text>
+<text x="94" y="80" font-size="10" fill="#e2e8f0" text-anchor="start">마케팅 수신 (따로 받음)</text>
+<rect x="12" y="108" width="144" height="52" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2"/>
+<text x="84" y="126" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">선택을 거부해도</text>
+<text x="84" y="142" font-size="10" fill="#e2e8f0" text-anchor="middle">서비스는 이용 가능</text>
+<rect x="164" y="108" width="144" height="52" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.2"/>
+<text x="236" y="126" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700">만 14세 미만</text>
+<text x="236" y="142" font-size="10" fill="#e2e8f0" text-anchor="middle">법정대리인 동의 필요</text>
+<text x="160" y="182" font-size="10" fill="#94a3b8" text-anchor="middle">무엇을 · 왜 · 얼마나 쓰는지 먼저 알림</text></svg>

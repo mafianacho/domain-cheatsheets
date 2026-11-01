@@ -13,17 +13,17 @@ UI 디자인, 모션, 3D 모델링 같은 기술 분야부터 법, 패션, 건�
 <!-- index:start -->
 <!-- 이 구역은 자동 생성됩니다. `cd mcp-server && npm run generate` -->
 
-도메인 7개 · 용어 222개
+도메인 7개 · 용어 217개
 
 ### 기술 · 디자인
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="cheatsheets/3d-modeling.md"><img src="assets/previews/3d-modeling.gif" alt="3D 모델링 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/3d-modeling.md">3D 모델링 · 3D Modeling</a></b> <sub>용어 30개</sub><br><sub>3D 모델·캐릭터·소품을 AI나 3D 아티스트에게 주문하거나 검수할 때 쓰는 형태·표면·움직임·렌더·파일 용어</sub></td>
-<td width="50%" valign="top"><a href="cheatsheets/motion-design.md"><img src="assets/previews/motion-design.gif" alt="모션 디자인 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/motion-design.md">모션 디자인 · Motion Design</a></b> <sub>용어 28개</sub><br><sub>앱·웹·영상 인트로·로고에 움직임을 넣고 싶은데 뭐라고 말해야 할지 모를 때 펼치는 타이밍·이징·기법·형식 용어</sub></td>
+<td width="50%" valign="top"><a href="cheatsheets/3d-modeling.md"><img src="assets/previews/3d-modeling.gif" alt="3D 모델링 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/3d-modeling.md">3D 모델링 · 3D Modeling</a></b> <sub>용어 29개</sub><br><sub>3D 모델·캐릭터·소품을 AI나 3D 아티스트에게 주문하거나 검수할 때 쓰는 형태·표면·움직임·렌더·파일 용어</sub></td>
+<td width="50%" valign="top"><a href="cheatsheets/motion-design.md"><img src="assets/previews/motion-design.gif" alt="모션 디자인 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/motion-design.md">모션 디자인 · Motion Design</a></b> <sub>용어 26개</sub><br><sub>앱·웹·영상 인트로·로고에 움직임을 넣고 싶은데 뭐라고 말해야 할지 모를 때 펼치는 타이밍·이징·기법·형식 용어</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="cheatsheets/ui-design.md"><img src="assets/previews/ui-design.gif" alt="UI 디자인 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/ui-design.md">UI 디자인 · UI Design</a></b> <sub>용어 36개</sub><br><sub>화면의 레이아웃·내비게이션·컴포넌트·효과를 AI에게 말로 정확히 설명해야 할 때 펼치는 용어집</sub></td>
+<td width="50%" valign="top"><a href="cheatsheets/ui-design.md"><img src="assets/previews/ui-design.gif" alt="UI 디자인 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/ui-design.md">UI 디자인 · UI Design</a></b> <sub>용어 34개</sub><br><sub>화면의 레이아웃·내비게이션·컴포넌트·효과를 AI에게 말로 정확히 설명해야 할 때 펼치는 용어집</sub></td>
 </tr>
 </table>
 

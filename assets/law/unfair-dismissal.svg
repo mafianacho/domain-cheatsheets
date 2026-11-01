@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" font-family="system-ui, sans-serif" role="img"><title>해고 관련 규정이 상시 근로자 5명 이상 사업장과 5명 미만 사업장에서 어떻게 달라지는지 비교한 표</title><defs><marker id="ma" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#f59e0b"/></marker><marker id="ms" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#38bdf8"/></marker><marker id="mg" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#94a3b8"/></marker></defs><rect width="320" height="200" rx="12" fill="#0f172a"/><text x="160" y="22" font-size="12" fill="#f59e0b" text-anchor="middle" font-weight="700">해고 규정은 사업장 규모에 따라 다름</text>
+<text x="204" y="46" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700">5명 이상</text>
+<text x="272" y="46" font-size="10" fill="#38bdf8" text-anchor="middle" font-weight="700">5명 미만</text>
+<rect x="10" y="52" width="300" height="24" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<text x="18" y="68" font-size="10" fill="#e2e8f0" text-anchor="start">정당한 이유 필요</text>
+<text x="204" y="69" font-size="14" fill="#f59e0b" text-anchor="middle" font-weight="700">○</text>
+<text x="272" y="69" font-size="13" fill="#e2e8f0" text-anchor="middle" font-weight="700">✕</text>
+<rect x="10" y="79" width="300" height="24" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<text x="18" y="95" font-size="10" fill="#e2e8f0" text-anchor="start">해고사유 서면통지</text>
+<text x="204" y="96" font-size="14" fill="#f59e0b" text-anchor="middle" font-weight="700">○</text>
+<text x="272" y="96" font-size="13" fill="#e2e8f0" text-anchor="middle" font-weight="700">✕</text>
+<rect x="10" y="106" width="300" height="24" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<text x="18" y="122" font-size="10" fill="#e2e8f0" text-anchor="start">30일 전 해고예고</text>
+<text x="204" y="123" font-size="14" fill="#f59e0b" text-anchor="middle" font-weight="700">○</text>
+<text x="272" y="123" font-size="14" fill="#38bdf8" text-anchor="middle" font-weight="700">○</text>
+<rect x="10" y="133" width="300" height="24" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<text x="18" y="149" font-size="10" fill="#e2e8f0" text-anchor="start">노동위 구제신청(3개월)</text>
+<text x="204" y="150" font-size="14" fill="#f59e0b" text-anchor="middle" font-weight="700">○</text>
+<text x="272" y="150" font-size="13" fill="#e2e8f0" text-anchor="middle" font-weight="700">✕</text>
+<text x="160" y="172" font-size="10" fill="#e2e8f0" text-anchor="middle">해고예고는 규모와 관계없이 적용</text>
+<text x="160" y="187" font-size="9" fill="#e2e8f0" text-anchor="middle">(계속근로 3개월 미만 등은 예외)</text></svg>

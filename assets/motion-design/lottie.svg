@@ -6,11 +6,11 @@
 <text class="c" x="64" y="118" style="font-size:30px;font-weight:700;fill:#f59e0b">{ }</text>
 <text class="s c" x="64" y="142">.json</text>
 <path d="M114 100 H168 M158 92 L168 100 L158 108" fill="none" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"/>
-<text class="s c" x="140" y="90">player</text>
+<text class="s c" x="140" y="90">플레이어</text>
 <rect x="180" y="40" width="116" height="120" rx="10" fill="#1e293b" stroke="#475569" stroke-width="2"/>
 <circle cx="238" cy="100" r="28" fill="none" stroke="#334155" stroke-width="5"/><path d="M224 100 L234 110 L254 88" fill="none" stroke="#334155" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
 <circle class="dc" cx="238" cy="100" r="28" pathLength="1" fill="none" stroke="#38bdf8" stroke-width="5" stroke-linecap="round" transform="rotate(-90 238 100)"/>
 <path class="ck" d="M224 100 L234 110 L254 88" pathLength="1" fill="none" stroke="#f59e0b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<text class="s" x="24" y="180">a small file that describes a vector animation</text>
+<text class="s" x="24" y="180">작은 파일 하나로 벡터 애니메이션을 설명</text>
 
 </svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" font-family="system-ui, sans-serif" role="img"><title>개인정보는 살아 있는 사람을 알아볼 수 있는 정보이며 민감정보와 고유식별정보는 더 엄격히 다룸</title><defs><marker id="ma" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#f59e0b"/></marker><marker id="ms" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#38bdf8"/></marker><marker id="mg" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#94a3b8"/></marker></defs><rect width="320" height="200" rx="12" fill="#0f172a"/><text x="160" y="22" font-size="12" fill="#f59e0b" text-anchor="middle" font-weight="700">개인정보 = 사람을 알아볼 수 있는 정보</text>
+<rect x="10" y="34" width="156" height="21" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<text x="88" y="49" font-size="10" fill="#e2e8f0" text-anchor="middle">이름 · 생년월일</text>
+<line x1="166" y1="44" x2="190" y2="70" stroke="#38bdf8" stroke-width="1.2"/>
+<rect x="10" y="59" width="156" height="21" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<text x="88" y="74" font-size="10" fill="#e2e8f0" text-anchor="middle">전화번호 · 이메일 · ID</text>
+<line x1="166" y1="69" x2="190" y2="70" stroke="#38bdf8" stroke-width="1.2"/>
+<rect x="10" y="84" width="156" height="21" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<text x="88" y="99" font-size="10" fill="#e2e8f0" text-anchor="middle">얼굴 사진 · 영상</text>
+<line x1="166" y1="94" x2="190" y2="70" stroke="#38bdf8" stroke-width="1.2"/>
+<rect x="10" y="109" width="156" height="21" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<text x="88" y="124" font-size="9" fill="#e2e8f0" text-anchor="middle">다른 정보와 합치면 알 수 있는 것</text>
+<line x1="166" y1="119" x2="190" y2="70" stroke="#38bdf8" stroke-width="1.2"/>
+<circle cx="236" cy="70" r="44" fill="#334155" stroke="#f59e0b" stroke-width="2"/>
+<text x="236" y="66" font-size="13" fill="#f59e0b" text-anchor="middle" font-weight="700">개인정보</text>
+<text x="236" y="82" font-size="9" fill="#e2e8f0" text-anchor="middle">(살아 있는 사람)</text>
+<text x="160" y="144" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700">더 엄격하게 다루는 정보</text>
+<rect x="10" y="150" width="148" height="38" rx="6" fill="#1e293b" stroke="#f59e0b" stroke-width="1.2"/>
+<text x="84" y="166" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">민감정보</text>
+<text x="84" y="180" font-size="9" fill="#94a3b8" text-anchor="middle">건강 · 정치 성향 등</text>
+<rect x="162" y="150" width="148" height="38" rx="6" fill="#1e293b" stroke="#f59e0b" stroke-width="1.2"/>
+<text x="236" y="166" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">고유식별정보</text>
+<text x="236" y="180" font-size="9" fill="#94a3b8" text-anchor="middle">주민등록번호 등</text></svg>

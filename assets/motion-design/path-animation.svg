@@ -6,6 +6,6 @@
 <use href="#p" fill="none" stroke="#475569" stroke-width="2" stroke-dasharray="5 5"/>
 <circle cx="30" cy="150" r="5" fill="#f59e0b"/><circle cx="290" cy="60" r="8" fill="none" stroke="#38bdf8" stroke-width="2"/><circle cx="290" cy="60" r="3" fill="#38bdf8"/>
 <polygon points="-10,-7 10,0 -10,7" fill="#f59e0b"><animateMotion dur="3s" repeatCount="indefinite" rotate="auto"><mpath href="#p"/></animateMotion></polygon>
-<text class="s" x="22" y="182">the object follows a drawn path (and turns with it)</text>
+<text class="s" x="22" y="182">물체가 그려둔 경로를 따라 이동(방향도 함께 돎)</text>
 
 </svg>
