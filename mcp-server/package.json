@@ -18,7 +18,8 @@
     "generate": "npm run build && node dist/scripts/generate.js",
     "start": "node dist/src/stdio.js",
     "start:http": "node dist/src/http.js",
-    "previews": "npm run build && node dist/scripts/previews.js"
+    "previews": "npm run build && node dist/scripts/previews.js",
+    "gifs": "npm run build && node dist/scripts/gifs.js"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "1.32.2",

@@ -6,6 +6,7 @@ import { fileURLToPath } from "node:url";
 import { parseCheatsheet, githubAnchor, slugify, searchTerms, findTerm, FormatError, loadCheatsheets, ownTerms } from "../src/cheatsheets.js";
 import { renderOverview, applyOverview, renderIndex } from "../src/render.js";
 import { encodeGif, FRAME_W, FRAME_H } from "../scripts/previews.js";
+import { encodeFrames, GIF_W, GIF_H } from "../scripts/gifs.js";
 
 const here = dirname(fileURLToPath(import.meta.url));
 const fixtureRoot = resolve(here, "../../test/fixtures/repo");
@@ -104,6 +105,16 @@ test("rejects malformed cross-references and half-cited claims", () => {
 test("search does not return cross-reference entries twice", () => {
   const sheets = [parseCheatsheet(refMd), parseCheatsheet(sample)];
   assert.deepEqual(searchTerms(sheets, "히어로").map((h) => `${h.domain}/${h.term.id}`), ["sample/hero-section"]);
+});
+
+test("term GIF encoder merges identical consecutive frames into one longer frame", () => {
+  const f = (v: number) => Buffer.alloc(GIF_W * GIF_H * 4, v);
+  const bytes = Buffer.from(encodeFrames([f(10), f(10), f(10), f(200)], 100));
+  assert.equal(bytes.readUInt16LE(6), GIF_W);
+  assert.equal(bytes.readUInt16LE(8), GIF_H);
+  const gce = [...bytes.keys()].filter((i) => bytes[i] === 0x21 && bytes[i + 1] === 0xf9 && bytes[i + 2] === 0x04);
+  assert.equal(gce.length, 2, "two distinct frames");
+  assert.equal(bytes.readUInt16LE(gce[0]! + 4), 30, "first frame holds 3 x 100 ms (GIF delay unit is 10 ms)");
 });
 
 test("search ranks exact names first and handles Korean and spacing", () => {

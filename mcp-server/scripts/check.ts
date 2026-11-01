@@ -4,6 +4,7 @@ import { existsSync, readFileSync, readdirSync } from "node:fs";
 import { join, dirname, resolve, relative } from "node:path";
 import { defaultRepoRoot, loadCheatsheets, parseCheatsheet, normalize, type Cheatsheet } from "../src/cheatsheets.js";
 import { applyOverview, renderIndex, replaceBetween, previewPath, INDEX_START, INDEX_END } from "../src/render.js";
+import { GIF_W, GIF_H, GIF_MAX_BYTES } from "./gifs.js";
 
 const root = defaultRepoRoot();
 const only = process.argv[2];
@@ -46,7 +47,18 @@ for (const sheet of sheets) {
     if (t.video && !YOUTUBE.test(t.video)) errors.push(`${sheet.file}: term ${t.id} video must be a YouTube URL`);
     if (t.image) {
       if (!t.image.startsWith(`../assets/${sheet.id}/`)) errors.push(`${sheet.file}: term ${t.id} image must live in assets/${sheet.id}/`);
-      usedAssets.add(resolve(root, "cheatsheets", t.image));
+      const abs = resolve(root, "cheatsheets", t.image);
+      usedAssets.add(abs);
+      if (t.image.endsWith(".gif")) {
+        const src = abs.replace(/\.gif$/, ".svg");
+        usedAssets.add(src);
+        if (!existsSync(src)) errors.push(`${sheet.file}: term ${t.id} GIF needs its source ${relative(root, src)} (built by 'npm run gifs')`);
+        if (existsSync(abs)) {
+          const gif = readFileSync(abs);
+          if (gif.subarray(0, 6).toString("latin1") !== "GIF89a" || gif.readUInt16LE(6) !== GIF_W || gif.readUInt16LE(8) !== GIF_H) errors.push(`${relative(root, abs)}: must be a ${GIF_W}x${GIF_H} GIF89a`);
+          if (gif.length > GIF_MAX_BYTES) errors.push(`${relative(root, abs)}: ${(gif.length / 1024).toFixed(0)} KB is over the ${GIF_MAX_BYTES / 1024} KB budget`);
+        }
+      } else if (!t.image.endsWith(".svg")) errors.push(`${sheet.file}: term ${t.id} image must be .svg or .gif`);
     }
   }
 }
@@ -131,4 +143,4 @@ if (errors.length) {
   process.exit(1);
 }
 const total = sheets.reduce((n, s) => n + s.terms.length, 0);
-console.log(`✓ ${sheets.length} sheet(s), ${total} terms, ${usedAssets.size} images — all checks passed`);
+console.log(`✓ ${sheets.length} sheet(s), ${total} terms, ${sheets.reduce((n, s) => n + s.terms.filter((t) => t.image?.endsWith(".svg")).length, 0)} svg + ${sheets.reduce((n, s) => n + s.terms.filter((t) => t.image?.endsWith(".gif")).length, 0)} gif images — all checks passed`);
