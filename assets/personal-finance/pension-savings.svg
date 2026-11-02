@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="일하는 동안 연금저축에 돈을 넣고 세액공제를 받은 뒤 은퇴 후 나눠 받는 그림">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.ac{fill:#f59e0b}.sk{fill:#38bdf8}.mu{fill:#94a3b8}.b{font-weight:700}.fb{transform-box:fill-box}.ob{transform-box:fill-box;transform-origin:bottom}.ol{transform-box:fill-box;transform-origin:left}.oc{transform-box:fill-box;transform-origin:center}@keyframes pul{0%,100%{opacity:.3}50%{opacity:1}}@keyframes slx{0%,10%{transform:translateX(0)}55%,80%{transform:translateX(var(--d))}100%{transform:translateX(0)}}@keyframes sly{0%,10%{transform:translateY(0)}55%,80%{transform:translateY(var(--d))}100%{transform:translateY(0)}}@keyframes grw{0%,100%{transform:scaleY(.55)}50%{transform:scaleY(1)}}@keyframes grx{0%,100%{transform:scaleX(.5)}50%{transform:scaleX(1)}}@keyframes blk{0%,49%{opacity:1}50%,100%{opacity:.15}}@keyframes tilt{0%,100%{transform:rotate(-8deg)}50%{transform:rotate(8deg)}}.pul{animation:pul 3s ease-in-out infinite}.slx{animation:slx 3s ease-in-out infinite}.sly{animation:sly 3s ease-in-out infinite}.grw{animation:grw 3s ease-in-out infinite}.grx{animation:grx 3s ease-in-out infinite}.blk{animation:blk 1.5s steps(1) infinite}.d1{animation-delay:-.5s}.d2{animation-delay:-1s}.d3{animation-delay:-1.5s}.d4{animation-delay:-2s}.d5{animation-delay:-2.5s}@keyframes mv{0%,10%{transform:translate(0,0)}60%,80%{transform:translate(var(--dx),var(--dy))}100%{transform:translate(0,0)}}.mv{animation:mv 3s ease-in-out infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t" x="16" y="26">연금저축 · Pension Savings</text>
+<text class="s" x="16" y="188">지금 세금을 줄이고 나중에 나눠 받는다</text>
+<rect x="16" y="48" width="124" height="70" rx="8" fill="#1e293b" />
+<text class="c b" x="78" y="70" style="font-size:13px">납입</text>
+<text class="c s" x="78" y="90">일하는 동안</text>
+<rect x="180" y="48" width="124" height="70" rx="8" fill="#1e293b" />
+<text class="c b" x="242" y="70" style="font-size:13px">수령</text>
+<text class="c s" x="242" y="90">은퇴 후 나눠서</text>
+<polygon points="148,80 168,80 168,74 178,83 168,92 168,86 148,86" fill="#475569"/>
+<circle class="slx" cx="40" cy="104" r="6" fill="#f59e0b" style="--d:60px"/>
+<text class="m ac" x="16" y="140">연 600만원까지 세액공제 대상</text>
+<text class="m" x="16" y="160">받을 때는 연금소득으로 과세</text>
+</svg>

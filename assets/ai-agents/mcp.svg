@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="AI 앱이 MCP라는 하나의 표준 연결을 통해 파일, 캘린더, 데이터베이스 서버와 이어지는 모습">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:13px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.b{font-weight:700}.a{fill:#f59e0b}.sb{fill:#38bdf8}.k{fill:#0f172a}.f{transform-box:fill-box;transform-origin:center}@keyframes bl{0%,100%{opacity:1}50%{opacity:.25}}@keyframes pu{0%,100%{transform:scale(1)}50%{transform:scale(1.1)}}@keyframes mv{0%,8%{transform:translate(0,0);opacity:1}80%{transform:translate(var(--x),var(--y));opacity:1}92%,100%{transform:translate(var(--x),var(--y));opacity:0}}@keyframes hl{0%,30%{stroke:#f59e0b}38%,100%{stroke:#475569}}.bl{animation:bl 1.2s infinite}.pu{animation:pu 1.6s ease-in-out infinite}.dt{animation:mv 3s ease-in-out infinite}.hl{animation:hl 3s infinite}.m0{--x:46px;--y:-46px}.m1{--x:46px;--y:4px}.m2{--x:46px;--y:54px}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t c" x="160" y="26">MCP = AI 앱과 도구를 잇는 표준 규격</text>
+<rect class="" x="12" y="76" width="68" height="48" rx="8" fill="#334155" stroke="#f59e0b" stroke-width="1.5"/>
+<text class="c b a" x="46" y="98">AI 앱</text>
+<text class="c s" x="46" y="114">호스트</text>
+<line x1="80" y1="100" x2="115.0" y2="100.0" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/><polygon points="122,100 115.0,104.0 115.0,96.0" fill="#94a3b8"/>
+<rect class="" x="124" y="70" width="48" height="60" rx="8" fill="#f59e0b" stroke="#f59e0b" stroke-width="1.5"/>
+<text class="c b k" x="148" y="105">MCP</text>
+<line x1="172" y1="100" x2="224" y2="54" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<line x1="172" y1="100" x2="224" y2="104" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<line x1="172" y1="100" x2="224" y2="154" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<rect class="" x="226" y="40" width="82" height="28" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text class="c m" x="267" y="58">파일 서버</text>
+<rect class="" x="226" y="90" width="82" height="28" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text class="c m" x="267" y="108">캘린더</text>
+<rect class="" x="226" y="140" width="82" height="28" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text class="c m" x="267" y="158">데이터베이스</text>
+<circle class="dt m0" cx="176" cy="100" r="4" fill="#38bdf8"/>
+<circle class="dt m1" cx="176" cy="100" r="4" fill="#38bdf8" style="animation-delay:-1s"/>
+<circle class="dt m2" cx="176" cy="100" r="4" fill="#38bdf8" style="animation-delay:-2s"/>
+<text class="s c" x="160" y="188">USB-C처럼 한 규격으로 여러 도구를 꽂는다</text>
+</svg>

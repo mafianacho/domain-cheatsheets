@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="사용자 인터뷰: 진행자가 묻고 사용자의 경험과 이유를 들으며 말을 주고받는 조사">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,10%{opacity:0}14%,92%{opacity:1}100%{opacity:0}}.k1{animation:k1 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,36%{opacity:0}40%,92%{opacity:1}100%{opacity:0}}.k2{animation:k2 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,62%{opacity:0}66%,92%{opacity:1}100%{opacity:0}}.k3{animation:k3 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">User Interview · 사용자 인터뷰</text>
+<g><circle cx="36" cy="64" r="9" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<path d="M20.7 91.0 Q36 72.1 51.3 91.0 Z" fill="#334155" stroke="#38bdf8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="36" y="104" font-size="9" fill="#94a3b8" text-anchor="middle">진행자</text>
+<g><circle cx="284" cy="112" r="9" fill="#334155" stroke="#f59e0b" stroke-width="1.5"/>
+<path d="M268.7 139.0 Q284 120.1 299.3 139.0 Z" fill="#334155" stroke="#f59e0b" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="284" y="152" font-size="9" fill="#94a3b8" text-anchor="middle">사용자</text>
+<rect x="70" y="48" width="176" height="34" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.8" class="k1"/>
+<text x="158.0" y="69.0" font-size="11" fill="#e2e8f0" text-anchor="middle" class="k1">이 앱을 언제 쓰세요?</text>
+<rect x="74" y="94" width="176" height="34" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.8" class="k2"/>
+<text x="162.0" y="115.0" font-size="11" fill="#e2e8f0" text-anchor="middle" class="k2">출근길 지하철에서요</text>
+<rect x="70" y="138" width="176" height="28" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.8" class="k3"/>
+<text x="158.0" y="156.0" font-size="11" fill="#e2e8f0" text-anchor="middle" class="k3">그때 뭐가 불편했나요?</text>
+<text x="160" y="186" font-size="10" fill="#94a3b8" text-anchor="middle">묻고, 듣고, 이유를 되묻는다</text>
+</svg>

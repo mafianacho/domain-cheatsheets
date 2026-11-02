@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="파워 쿼리: 여러 파일을 불러와 정리하는 단계를 기록해 두고 새로고침으로 다시 실행한다">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:10px}.t{font-size:13px;font-weight:700}.s{font-size:9px}.m{font-size:10px}.l{font-size:12px}.b{font-weight:700}.c{text-anchor:middle}.e{text-anchor:end}.a{fill:#f59e0b}.k{fill:#38bdf8}.mu{fill:#94a3b8}.d{fill:#0f172a}.e1{animation:e1 4s linear infinite;}@keyframes e1{0%{transform:translateX(0);opacity:1}18%{transform:translateX(26px);opacity:1}22%,100%{transform:translateX(26px);opacity:0}}.e2{animation:e2 4s linear infinite;}@keyframes e2{0%,45%{transform:translateX(0);opacity:0}50%{transform:translateX(0);opacity:1}68%{transform:translateX(26px);opacity:1}72%,100%{transform:translateX(26px);opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="14" y="22" class="t">파워 쿼리: 가져와 정리하고 합치기</text>
+<rect x="14" y="36" width="76" height="84" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<rect x="22" y="46" width="60" height="20" rx="2" fill="#334155" stroke="#475569" stroke-width="1"/><text x="52.0" y="59.5" class="s c">1월.csv</text>
+<rect x="22" y="70" width="60" height="20" rx="2" fill="#334155" stroke="#475569" stroke-width="1"/><text x="52.0" y="83.5" class="s c">2월.csv</text>
+<rect x="22" y="94" width="60" height="20" rx="2" fill="#334155" stroke="#475569" stroke-width="1"/><text x="52.0" y="107.5" class="s c">3월.csv</text>
+<rect x="122" y="36" width="76" height="84" rx="6" fill="#1e293b" stroke="#f59e0b" stroke-width="1"/>
+<text x="160" y="52" class="s c b a">변환 단계</text>
+<text x="160" y="72" class="s c">1. 열 삭제</text>
+<text x="160" y="90" class="s c">2. 형식 바꾸기</text>
+<text x="160" y="108" class="s c">3. 합치기</text>
+<rect x="230" y="36" width="76" height="84" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+<text x="268" y="52" class="s c b k">합쳐진 표</text>
+<rect x="238" y="60" width="60" height="9" rx="2" fill="#334155"/>
+<rect x="238" y="72" width="60" height="9" rx="2" fill="#334155"/>
+<rect x="238" y="84" width="60" height="9" rx="2" fill="#334155"/>
+<rect x="238" y="96" width="60" height="9" rx="2" fill="#334155"/>
+<line x1="92" y1="78" x2="114" y2="78" stroke="#475569" stroke-width="2"/><path d="M114 74l6 4l-6 4z" fill="#475569"/>
+<line x1="200" y1="78" x2="222" y2="78" stroke="#475569" stroke-width="2"/><path d="M222 74l6 4l-6 4z" fill="#475569"/>
+<g class="e1"><circle cx="94" cy="78" r="4" fill="#f59e0b"/></g>
+<g class="e2"><circle cx="202" cy="78" r="4" fill="#f59e0b"/></g>
+<rect x="98" y="136" width="124" height="26" rx="8" fill="#f59e0b"/><text x="160" y="153" class="l b c d">⟳ 새로고침</text>
+<text x="14" y="178" class="s mu">새 파일이 와도 같은 단계를 다시 자동으로 적용</text>
+<text x="160" y="190" class="s c mu">Excel의 가져오기·변환 도구(Get &amp; Transform)</text>
+</svg>

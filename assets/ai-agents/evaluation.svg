@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="질문마다 기대하는 답과 결과의 통과 여부를 표시한 채점표">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:13px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.b{font-weight:700}.a{fill:#f59e0b}.sb{fill:#38bdf8}.k{fill:#0f172a}.f{transform-box:fill-box;transform-origin:center}@keyframes bl{0%,100%{opacity:1}50%{opacity:.25}}@keyframes pu{0%,100%{transform:scale(1)}50%{transform:scale(1.1)}}@keyframes mv{0%,8%{transform:translate(0,0);opacity:1}80%{transform:translate(var(--x),var(--y));opacity:1}92%,100%{transform:translate(var(--x),var(--y));opacity:0}}@keyframes hl{0%,30%{stroke:#f59e0b}38%,100%{stroke:#475569}}.bl{animation:bl 1.2s infinite}.pu{animation:pu 1.6s ease-in-out infinite}.dt{animation:mv 3s ease-in-out infinite}.hl{animation:hl 3s infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t c" x="160" y="26">평가(Eval) = 정해둔 시험지로 채점</text>
+<rect class="" x="24" y="38" width="272" height="20" rx="4" fill="#0f172a" stroke="#475569" stroke-width="1.5"/>
+<text class="m s" x="34" y="52">질문</text>
+<text class="m s" x="130" y="52">기대하는 답</text>
+<text class="m s" x="268" y="52">결과</text>
+<rect class="hl" x="24" y="62" width="272" height="22" rx="4" fill="#1e293b" stroke="#475569" stroke-width="2" style="animation-delay:0.0s"/>
+<text class="m" x="34" y="77">인사하기</text>
+<text class="m" x="130" y="77">존댓말</text>
+<text class="b sb" x="272" y="78">✓</text>
+<rect class="hl" x="24" y="88" width="272" height="22" rx="4" fill="#1e293b" stroke="#475569" stroke-width="2" style="animation-delay:-0.75s"/>
+<text class="m" x="34" y="103">가격 묻기</text>
+<text class="m" x="130" y="103">표 인용</text>
+<text class="b sb" x="272" y="104">✓</text>
+<rect class="hl" x="24" y="114" width="272" height="22" rx="4" fill="#1e293b" stroke="#475569" stroke-width="2" style="animation-delay:-1.5s"/>
+<text class="m" x="34" y="129">욕설 유도</text>
+<text class="m" x="130" y="129">거절</text>
+<text class="b a" x="272" y="130">✗</text>
+<rect class="hl" x="24" y="140" width="272" height="22" rx="4" fill="#1e293b" stroke="#475569" stroke-width="2" style="animation-delay:-2.25s"/>
+<text class="m" x="34" y="155">요약하기</text>
+<text class="m" x="130" y="155">세 줄 이내</text>
+<text class="b sb" x="272" y="156">✓</text>
+<text class="s" x="24" y="184">같은 시험지로 바꿀 때마다 다시 채점</text>
+<text class="b a e" x="296" y="186">점수 3/4</text>
+</svg>

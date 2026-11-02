@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="과제 성공률: 같은 과제를 시킨 사람 중 끝까지 해낸 사람의 비율">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,8%{opacity:0;transform:scale(.2)}14%{opacity:1;transform:scale(1.12)}18%{opacity:1;transform:scale(1)}92%{opacity:1;transform:scale(1)}100%{opacity:0;transform:scale(1)}}.k1{animation:k1 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,18%{opacity:0;transform:scale(.2)}24%{opacity:1;transform:scale(1.12)}28%{opacity:1;transform:scale(1)}92%{opacity:1;transform:scale(1)}100%{opacity:0;transform:scale(1)}}.k2{animation:k2 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,28%{opacity:0;transform:scale(.2)}34%{opacity:1;transform:scale(1.12)}38%{opacity:1;transform:scale(1)}92%{opacity:1;transform:scale(1)}100%{opacity:0;transform:scale(1)}}.k3{animation:k3 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,38%{opacity:0;transform:scale(.2)}44%{opacity:1;transform:scale(1.12)}48%{opacity:1;transform:scale(1)}92%{opacity:1;transform:scale(1)}100%{opacity:0;transform:scale(1)}}.k4{animation:k4 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,48%{opacity:0;transform:scale(.2)}54%{opacity:1;transform:scale(1.12)}58%{opacity:1;transform:scale(1)}92%{opacity:1;transform:scale(1)}100%{opacity:0;transform:scale(1)}}.k5{animation:k5 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k6{0%,62%{opacity:0}66%,92%{opacity:1}100%{opacity:0}}.k6{animation:k6 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k7{0%,62%{opacity:0}66%,92%{opacity:1}100%{opacity:0}}.k7{animation:k7 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Task Success Rate · 과제 성공률</text>
+<text x="160" y="54" font-size="10" fill="#94a3b8" text-anchor="middle">같은 과제를 5명에게</text>
+<g><circle cx="44" cy="76" r="8" fill="#334155" stroke="#94a3b8" stroke-width="1.5"/>
+<path d="M30.4 100.0 Q44 83.2 57.6 100.0 Z" fill="#334155" stroke="#94a3b8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<path d="M39 124 L43.4 128.4 L51.1 118.5" fill="none" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" class="k1"/>
+<g><circle cx="102" cy="76" r="8" fill="#334155" stroke="#94a3b8" stroke-width="1.5"/>
+<path d="M88.4 100.0 Q102 83.2 115.6 100.0 Z" fill="#334155" stroke="#94a3b8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<path d="M97 124 L101.4 128.4 L109.1 118.5" fill="none" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" class="k2"/>
+<g><circle cx="160" cy="76" r="8" fill="#334155" stroke="#94a3b8" stroke-width="1.5"/>
+<path d="M146.4 100.0 Q160 83.2 173.6 100.0 Z" fill="#334155" stroke="#94a3b8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<path d="M155 124 L159.4 128.4 L167.1 118.5" fill="none" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" class="k3"/>
+<g><circle cx="218" cy="76" r="8" fill="#334155" stroke="#94a3b8" stroke-width="1.5"/>
+<path d="M204.4 100.0 Q218 83.2 231.6 100.0 Z" fill="#334155" stroke="#94a3b8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<path d="M213 118 L222.9 127.9 M222.9 118 L213 127.9" fill="none" stroke="#f59e0b" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" class="k4"/>
+<g><circle cx="276" cy="76" r="8" fill="#334155" stroke="#94a3b8" stroke-width="1.5"/>
+<path d="M262.4 100.0 Q276 83.2 289.6 100.0 Z" fill="#334155" stroke="#94a3b8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<path d="M271 124 L275.4 128.4 L283.1 118.5" fill="none" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" class="k5"/>
+<rect x="40" y="148" width="240" height="32" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.8" class="k6"/>
+<text x="160" y="169" font-size="13" fill="#f59e0b" text-anchor="middle" font-weight="700" class="k7">성공 4명 ÷ 5명 = 80%</text>
+</svg>

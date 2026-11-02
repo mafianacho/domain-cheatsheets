@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="피드백: 사용자가 한 행동에 화면이 바로 보여주는 반응">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,26%{opacity:1}30%,100%{opacity:0}}.k1{animation:k1 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,26%{opacity:1}30%,100%{opacity:0}}.k2{animation:k2 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,24%{opacity:0}30%,54%{opacity:1}60%,100%{opacity:0}}.k3{animation:k3 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%{transform:rotate(0deg)}100%{transform:rotate(720deg)}}.k4{animation:k4 4.5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,62%{opacity:0}66%,92%{opacity:1}100%{opacity:0}}.k5{animation:k5 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k6{0%,2%{opacity:0}4%,30%{opacity:1}33%{opacity:0}100%{opacity:0}}.k6{animation:k6 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k7{0%,34%{opacity:0}36%,62%{opacity:1}65%{opacity:0}100%{opacity:0}}.k7{animation:k7 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k8{0%,66%{opacity:0}68%,94%{opacity:1}97%{opacity:0}100%{opacity:0}}.k8{animation:k8 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Feedback · 피드백</text>
+<rect x="96" y="66" width="128" height="48" rx="10" fill="#38bdf8" class="k1"/>
+<text x="160" y="96" font-size="14" fill="#0f172a" text-anchor="middle" font-weight="700" class="k2">저장</text>
+<g class="k3" opacity="0"><rect x="96" y="66" width="128" height="48" rx="10" fill="#334155" stroke="#38bdf8" stroke-width="2"/>
+<text x="172" y="96" font-size="13" fill="#e2e8f0" text-anchor="middle" font-weight="700">저장 중…</text>
+<circle cx="124" cy="90" r="8" fill="none" stroke="#38bdf8" stroke-width="3" stroke-dasharray="14 36" class="k4"/></g>
+<g class="k5" opacity="0"><rect x="96" y="66" width="128" height="48" rx="10" fill="#f59e0b"/>
+<text x="160" y="96" font-size="14" fill="#0f172a" text-anchor="middle" font-weight="700">저장됨 ✓</text></g>
+<circle cx="60" cy="146" r="5" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<circle cx="60" cy="146" r="5" fill="#f59e0b" class="k6"/>
+<text x="60" y="166" font-size="10" fill="#94a3b8" text-anchor="middle">누름</text>
+<line x1="70" y1="146" x2="150" y2="146" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3 3"/>
+<circle cx="160" cy="146" r="5" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<circle cx="160" cy="146" r="5" fill="#f59e0b" class="k7"/>
+<text x="160" y="166" font-size="10" fill="#94a3b8" text-anchor="middle">처리 중</text>
+<line x1="170" y1="146" x2="250" y2="146" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3 3"/>
+<circle cx="260" cy="146" r="5" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<circle cx="260" cy="146" r="5" fill="#f59e0b" class="k8"/>
+<text x="260" y="166" font-size="10" fill="#94a3b8" text-anchor="middle">완료</text>
+<text x="160" y="188" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">행동 → 바로 반응</text>
+</svg>

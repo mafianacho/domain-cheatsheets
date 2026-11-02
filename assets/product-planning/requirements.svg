@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="요구사항: 무엇을 할 수 있어야 하는 기능 요구와 얼마나 잘 돼야 하는 품질 요구">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,10%{opacity:0}14%,92%{opacity:1}100%{opacity:0}}.k1{animation:k1 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,10%{opacity:0}14%,92%{opacity:1}100%{opacity:0}}.k2{animation:k2 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,28%{opacity:0}32%,92%{opacity:1}100%{opacity:0}}.k3{animation:k3 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,28%{opacity:0}32%,92%{opacity:1}100%{opacity:0}}.k4{animation:k4 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,46%{opacity:0}50%,92%{opacity:1}100%{opacity:0}}.k5{animation:k5 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k6{0%,46%{opacity:0}50%,92%{opacity:1}100%{opacity:0}}.k6{animation:k6 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k7{0%,16%{opacity:0}20%,92%{opacity:1}100%{opacity:0}}.k7{animation:k7 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k8{0%,16%{opacity:0}20%,92%{opacity:1}100%{opacity:0}}.k8{animation:k8 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k9{0%,34%{opacity:0}38%,92%{opacity:1}100%{opacity:0}}.k9{animation:k9 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k10{0%,34%{opacity:0}38%,92%{opacity:1}100%{opacity:0}}.k10{animation:k10 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k11{0%,52%{opacity:0}56%,92%{opacity:1}100%{opacity:0}}.k11{animation:k11 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k12{0%,52%{opacity:0}56%,92%{opacity:1}100%{opacity:0}}.k12{animation:k12 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Requirements · 요구사항</text>
+<rect x="16" y="42" width="140" height="138" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="28" y="63" font-size="13" fill="#38bdf8" font-weight="700">기능</text>
+<text x="144" y="63" font-size="9" fill="#94a3b8" text-anchor="end">무엇을 할 수 있나</text>
+<rect x="26" y="80" width="120" height="24" rx="5" fill="#334155" class="k1"/>
+<text x="34" y="96" font-size="10" fill="#e2e8f0" class="k2">주문할 수 있다</text>
+<rect x="26" y="112" width="120" height="24" rx="5" fill="#334155" class="k3"/>
+<text x="34" y="128" font-size="10" fill="#e2e8f0" class="k4">결제할 수 있다</text>
+<rect x="26" y="144" width="120" height="24" rx="5" fill="#334155" class="k5"/>
+<text x="34" y="160" font-size="10" fill="#e2e8f0" class="k6">주문을 취소할 수 있다</text>
+<rect x="164" y="42" width="140" height="138" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="176" y="63" font-size="13" fill="#f59e0b" font-weight="700">품질</text>
+<text x="292" y="63" font-size="9" fill="#94a3b8" text-anchor="end">얼마나 잘 되나</text>
+<rect x="174" y="80" width="120" height="24" rx="5" fill="#334155" class="k7"/>
+<text x="182" y="96" font-size="10" fill="#e2e8f0" class="k8">2초 안에 열린다</text>
+<rect x="174" y="112" width="120" height="24" rx="5" fill="#334155" class="k9"/>
+<text x="182" y="128" font-size="10" fill="#e2e8f0" class="k10">개인정보를 보호한다</text>
+<rect x="174" y="144" width="120" height="24" rx="5" fill="#334155" class="k11"/>
+<text x="182" y="160" font-size="10" fill="#e2e8f0" class="k12">모바일에서도 보인다</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="우산 아래 지갑이 갑작스러운 지출 빗방울을 막아 주는 비상금 그림">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.ac{fill:#f59e0b}.sk{fill:#38bdf8}.mu{fill:#94a3b8}.b{font-weight:700}.fb{transform-box:fill-box}.ob{transform-box:fill-box;transform-origin:bottom}.ol{transform-box:fill-box;transform-origin:left}.oc{transform-box:fill-box;transform-origin:center}@keyframes pul{0%,100%{opacity:.3}50%{opacity:1}}@keyframes slx{0%,10%{transform:translateX(0)}55%,80%{transform:translateX(var(--d))}100%{transform:translateX(0)}}@keyframes sly{0%,10%{transform:translateY(0)}55%,80%{transform:translateY(var(--d))}100%{transform:translateY(0)}}@keyframes grw{0%,100%{transform:scaleY(.55)}50%{transform:scaleY(1)}}@keyframes grx{0%,100%{transform:scaleX(.5)}50%{transform:scaleX(1)}}@keyframes blk{0%,49%{opacity:1}50%,100%{opacity:.15}}@keyframes tilt{0%,100%{transform:rotate(-8deg)}50%{transform:rotate(8deg)}}.pul{animation:pul 3s ease-in-out infinite}.slx{animation:slx 3s ease-in-out infinite}.sly{animation:sly 3s ease-in-out infinite}.grw{animation:grw 3s ease-in-out infinite}.grx{animation:grx 3s ease-in-out infinite}.blk{animation:blk 1.5s steps(1) infinite}.d1{animation-delay:-.5s}.d2{animation-delay:-1s}.d3{animation-delay:-1.5s}.d4{animation-delay:-2s}.d5{animation-delay:-2.5s}@keyframes mv{0%,10%{transform:translate(0,0)}60%,80%{transform:translate(var(--dx),var(--dy))}100%{transform:translate(0,0)}}.mv{animation:mv 3s ease-in-out infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t" x="16" y="26">비상금 · Emergency Fund</text>
+<text class="s" x="16" y="188">갑작스러운 지출을 막아 주는 우산</text>
+<path d="M40 100 Q90 40 140 100 Z" fill="#f59e0b"/>
+<line x1="90" y1="100" x2="90" y2="128" stroke="#f59e0b" stroke-width="3" />
+<rect x="62" y="128" width="56" height="34" rx="6" fill="#38bdf8" />
+<text class="c m" x="90" y="150">지갑</text>
+<line class="sly d1" x1="166" y1="52" x2="162" y2="66" stroke="#38bdf8" stroke-width="2.5" style="--d:50px"/>
+<line class="sly d2" x1="196" y1="52" x2="192" y2="66" stroke="#38bdf8" stroke-width="2.5" style="--d:50px"/>
+<line class="sly d3" x1="226" y1="52" x2="222" y2="66" stroke="#38bdf8" stroke-width="2.5" style="--d:50px"/>
+<line class="sly d4" x1="256" y1="52" x2="252" y2="66" stroke="#38bdf8" stroke-width="2.5" style="--d:50px"/>
+<text class="m" x="166" y="138">병원비 · 수리비</text>
+<text class="m" x="166" y="156">갑작스러운 실직</text>
+</svg>

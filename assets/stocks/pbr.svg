@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="순자산 막대의 높이 선을 시가총액 막대가 넘나드는 PBR 1배 기준 그림">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.ac{fill:#f59e0b}.sk{fill:#38bdf8}.mu{fill:#94a3b8}.b{font-weight:700}.fb{transform-box:fill-box}.ob{transform-box:fill-box;transform-origin:bottom}.ol{transform-box:fill-box;transform-origin:left}.oc{transform-box:fill-box;transform-origin:center}@keyframes pul{0%,100%{opacity:.3}50%{opacity:1}}@keyframes slx{0%,10%{transform:translateX(0)}55%,80%{transform:translateX(var(--d))}100%{transform:translateX(0)}}@keyframes sly{0%,10%{transform:translateY(0)}55%,80%{transform:translateY(var(--d))}100%{transform:translateY(0)}}@keyframes grw{0%,100%{transform:scaleY(.55)}50%{transform:scaleY(1)}}@keyframes grx{0%,100%{transform:scaleX(.5)}50%{transform:scaleX(1)}}@keyframes blk{0%,49%{opacity:1}50%,100%{opacity:.15}}@keyframes tilt{0%,100%{transform:rotate(-8deg)}50%{transform:rotate(8deg)}}.pul{animation:pul 3s ease-in-out infinite}.slx{animation:slx 3s ease-in-out infinite}.sly{animation:sly 3s ease-in-out infinite}.grw{animation:grw 3s ease-in-out infinite}.grx{animation:grx 3s ease-in-out infinite}.blk{animation:blk 1.5s steps(1) infinite}.d1{animation-delay:-.5s}.d2{animation-delay:-1s}.d3{animation-delay:-1.5s}.d4{animation-delay:-2s}.d5{animation-delay:-2.5s}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t" x="16" y="26">PBR · 주가순자산비율</text>
+<text class="s" x="16" y="188">시가총액 ÷ 순자산(장부가치)</text>
+<rect x="60" y="78" width="60" height="80" rx="3" fill="#38bdf8" />
+<rect class="ob grw" x="190" y="48" width="60" height="110" rx="3" fill="#f59e0b" />
+<line x1="40" y1="78" x2="290" y2="78" stroke="#e2e8f0" stroke-width="1.5" stroke-dasharray="4 3" />
+<text class="s e" x="300" y="72">1배 선</text>
+<text class="c m sk" x="90" y="174">순자산</text>
+<text class="c m ac" x="220" y="174">시가총액</text>
+<line x1="40" y1="158" x2="290" y2="158" stroke="#475569" stroke-width="1.5" />
+</svg>

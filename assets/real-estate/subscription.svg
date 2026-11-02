@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="청약통장 준비, 입주자모집공고 확인, 청약홈 신청, 당첨자 발표와 계약으로 이어지는 분양 청약 순서">
+<defs><style>.a1{animation:k1 4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k1{0%,6%{transform:scale(1)}14%{transform:scale(1.07)}28%,100%{transform:scale(1)}}.a2{animation:k2 4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,26%{transform:scale(1)}34%{transform:scale(1.07)}48%,100%{transform:scale(1)}}.a3{animation:k3 4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,46%{transform:scale(1)}54%{transform:scale(1.07)}68%,100%{transform:scale(1)}}.a4{animation:k4 4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,66%{transform:scale(1)}74%{transform:scale(1.07)}88%,100%{transform:scale(1)}}.a5{animation:k5 4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,4%{transform:translate(0px,0px)}24%{transform:translate(76px,0px)}44%{transform:translate(152px,0px)}64%,90%{transform:translate(228px,0px)}100%{transform:translate(0px,0px)}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style></defs>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="22" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">청약: 분양 아파트 신청 절차</text>
+<g class="a1"><rect x="14" y="44" width="68" height="48" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/><text x="48" y="64" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">청약통장</text><text x="48" y="80" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">준비</text></g>
+<line x1="84" y1="68" x2="88" y2="68" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="88" y1="68" x2="81.9" y2="71.4" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="88" y1="68" x2="81.9" y2="64.6" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<g class="a2"><rect x="90" y="44" width="68" height="48" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/><text x="124" y="64" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">모집공고</text><text x="124" y="80" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">자격 확인</text></g>
+<line x1="160" y1="68" x2="164" y2="68" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="164" y1="68" x2="157.9" y2="71.4" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="164" y1="68" x2="157.9" y2="64.6" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<g class="a3"><rect x="166" y="44" width="68" height="48" rx="6" fill="#1e293b" stroke="#f59e0b" stroke-width="1.5"/><text x="200" y="64" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">청약 신청</text><text x="200" y="80" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">(청약홈)</text></g>
+<line x1="236" y1="68" x2="240" y2="68" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="240" y1="68" x2="233.9" y2="71.4" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="240" y1="68" x2="233.9" y2="64.6" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<g class="a4"><rect x="242" y="44" width="68" height="48" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/><text x="276" y="64" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">당첨 발표</text><text x="276" y="80" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">→ 계약</text></g>
+<g class="a5"><rect x="36" y="28" width="24" height="11" rx="3" fill="#f59e0b"/><text x="48" y="37" font-size="9" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">나</text></g>
+<text x="160" y="118" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">자격(무주택 여부·통장·소득 등)은 공고마다 다름</text>
+<text x="160" y="136" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">분양 조건·절차: 「주택공급에 관한 규칙」</text>
+<text x="160" y="160" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">분양 광고 면적은 공급면적 기준</text>
+<text x="160" y="178" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">(실제로 쓰는 전용면적과 다름)</text>
+</svg>

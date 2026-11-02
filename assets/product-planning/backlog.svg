@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="백로그: 앞으로 할 일을 우선순위 순서로 쌓아둔 목록">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,20%{transform:translate(0px,0px)}40%,92%{transform:translate(0px,28px)}100%{transform:translate(0px,0px)}}.k1{animation:k1 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,20%{transform:translate(0px,0px)}40%,92%{transform:translate(0px,28px)}100%{transform:translate(0px,0px)}}.k2{animation:k2 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,20%{transform:translate(0px,0px)}40%,92%{transform:translate(0px,-56px)}100%{transform:translate(0px,0px)}}.k3{animation:k3 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Backlog · 백로그</text>
+<rect x="16" y="40" width="196" height="24" rx="5" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="26" y="56" font-size="11" fill="#e2e8f0">1  로그인 개선</text>
+<g class="k1"><rect x="16" y="68" width="196" height="24" rx="5" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="26" y="84" font-size="11" fill="#e2e8f0">2  검색 추가</text></g>
+<g class="k2"><rect x="16" y="96" width="196" height="24" rx="5" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="26" y="112" font-size="11" fill="#e2e8f0">3  결제 오류 수정</text></g>
+<g class="k3"><rect x="16" y="124" width="196" height="24" rx="5" fill="#334155" stroke="#f59e0b" stroke-width="2"/>
+<text x="26" y="140" font-size="11" fill="#f59e0b" font-weight="700">4  알림 기능</text></g>
+<rect x="16" y="152" width="196" height="24" rx="5" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="26" y="168" font-size="11" fill="#e2e8f0">5  다크 모드</text>
+<path d="M240 170 L240 52 M243.0 57.2 L240 52 L237.0 57.2" fill="none" stroke="#94a3b8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="250" y="90" font-size="10" fill="#e2e8f0" font-weight="700">위쪽</text>
+<text x="250" y="106" font-size="10" fill="#94a3b8">= 먼저</text>
+<text x="228" y="186" font-size="9" fill="#94a3b8">우선순위 순서</text>
+</svg>

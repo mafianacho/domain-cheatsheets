@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="통합 문서는 파일 하나이고 시트는 그 안의 탭이다. 탭을 눌러 시트를 바꾼다">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:10px}.t{font-size:13px;font-weight:700}.s{font-size:9px}.m{font-size:10px}.l{font-size:12px}.b{font-weight:700}.c{text-anchor:middle}.e{text-anchor:end}.a{fill:#f59e0b}.k{fill:#38bdf8}.mu{fill:#94a3b8}.d{fill:#0f172a}.e1{animation:e1 4s linear infinite}@keyframes e1{0%,31%{opacity:1}32%,100%{opacity:0}}.e2{opacity:0;animation:e2 4s linear infinite}@keyframes e2{0%,32.9%{opacity:0}33%,64%{opacity:1}65%,100%{opacity:0}}.e3{opacity:0;animation:e3 4s linear infinite}@keyframes e3{0%,65.9%{opacity:0}66%,97%{opacity:1}98%,100%{opacity:0}}.e4{animation:e4 4s linear infinite}@keyframes e4{0%,31%{opacity:1}32%,100%{opacity:0}}.e5{opacity:0;animation:e5 4s linear infinite}@keyframes e5{0%,32.9%{opacity:0}33%,64%{opacity:1}65%,100%{opacity:0}}.e6{opacity:0;animation:e6 4s linear infinite}@keyframes e6{0%,65.9%{opacity:0}66%,97%{opacity:1}98%,100%{opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="14" y="22" class="t">통합 문서(파일) 안의 시트(탭)</text>
+<rect x="14" y="32" width="292" height="108" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<text x="24" y="48" class="m b mu">월별매출.xlsx</text>
+<rect x="24" y="58" width="68" height="16" rx="0" fill="#0f172a" stroke="#475569" stroke-width="1"/>
+<rect x="92" y="58" width="68" height="16" rx="0" fill="#0f172a" stroke="#475569" stroke-width="1"/>
+<rect x="160" y="58" width="68" height="16" rx="0" fill="#0f172a" stroke="#475569" stroke-width="1"/>
+<rect x="228" y="58" width="68" height="16" rx="0" fill="#0f172a" stroke="#475569" stroke-width="1"/>
+<rect x="24" y="74" width="68" height="16" rx="0" fill="#0f172a" stroke="#475569" stroke-width="1"/>
+<rect x="92" y="74" width="68" height="16" rx="0" fill="#0f172a" stroke="#475569" stroke-width="1"/>
+<rect x="160" y="74" width="68" height="16" rx="0" fill="#0f172a" stroke="#475569" stroke-width="1"/>
+<rect x="228" y="74" width="68" height="16" rx="0" fill="#0f172a" stroke="#475569" stroke-width="1"/>
+<rect x="24" y="90" width="68" height="16" rx="0" fill="#0f172a" stroke="#475569" stroke-width="1"/>
+<rect x="92" y="90" width="68" height="16" rx="0" fill="#0f172a" stroke="#475569" stroke-width="1"/>
+<rect x="160" y="90" width="68" height="16" rx="0" fill="#0f172a" stroke="#475569" stroke-width="1"/>
+<rect x="228" y="90" width="68" height="16" rx="0" fill="#0f172a" stroke="#475569" stroke-width="1"/>
+<g class="e1"><text x="160" y="118" class="l b a c">1월 시트</text><rect x="40" y="126" width="240" height="3" rx="1" fill="#f59e0b"/></g>
+<g class="e2"><text x="160" y="118" class="l b a c">2월 시트</text><rect x="40" y="126" width="240" height="3" rx="1" fill="#f59e0b"/></g>
+<g class="e3"><text x="160" y="118" class="l b a c">3월 시트</text><rect x="40" y="126" width="240" height="3" rx="1" fill="#f59e0b"/></g>
+<rect x="14" y="148" width="292" height="24" rx="4" fill="#334155" stroke="#475569" stroke-width="1"/>
+<rect x="20" y="151" width="58" height="18" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="49.0" y="163.5" class="m c">1월</text>
+<g class="e4"><rect x="20" y="151" width="58" height="18" rx="2" fill="#f59e0b" stroke="#f59e0b" stroke-width="1"/><text x="49.0" y="163.5" class="m c b d">1월</text></g>
+<rect x="84" y="151" width="58" height="18" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="113.0" y="163.5" class="m c">2월</text>
+<g class="e5"><rect x="84" y="151" width="58" height="18" rx="2" fill="#f59e0b" stroke="#f59e0b" stroke-width="1"/><text x="113.0" y="163.5" class="m c b d">2월</text></g>
+<rect x="148" y="151" width="58" height="18" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="177.0" y="163.5" class="m c">3월</text>
+<g class="e6"><rect x="148" y="151" width="58" height="18" rx="2" fill="#f59e0b" stroke="#f59e0b" stroke-width="1"/><text x="177.0" y="163.5" class="m c b d">3월</text></g>
+<text x="240" y="164" class="s mu">← 탭 = 시트</text>
+<text x="160" y="190" class="s c mu">파일 한 개(통합 문서) 안에 탭(시트)이 여러 장</text>
+</svg>

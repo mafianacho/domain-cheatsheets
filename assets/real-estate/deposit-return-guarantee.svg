@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="집주인이 보증금을 돌려주지 못하면 보증기관이 세입자에게 대신 지급하는 전세보증금반환보증 흐름">
+<defs><style>.a1{animation:k1 4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k1{0%,14%{opacity:1}24%{opacity:0.2}56%,100%{opacity:1}}.a2{animation:k2 4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,8%{opacity:0}14%{opacity:1}56%,92%{opacity:1}98%{opacity:0}100%{opacity:0}}.a3{animation:k3 4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,40%{transform:translate(0px,0px);opacity:0}44%{transform:translate(0px,0px);opacity:1}74%{transform:translate(-92px,0px);opacity:1}80%{transform:translate(-92px,0px);opacity:0}100%{transform:translate(0px,0px);opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style></defs>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="22" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">전세보증금반환보증: 대신 돌려주는 보증</text>
+<circle cx="44" cy="70" r="6" fill="#38bdf8"/>
+<path d="M34 90 Q34 79 44 79 Q54 79 54 90 Z" stroke="#38bdf8" stroke-width="1" fill="#38bdf8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="44" y="108" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">세입자</text>
+<path d="M146 52 L174 52 L174 70.7 Q174 80.9 160 86 Q146 80.9 146 70.7 Z" stroke="#38bdf8" stroke-width="1" fill="#38bdf8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="160" y="70" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">보증</text>
+<text x="160" y="108" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">보증기관(HUG 등)</text>
+<circle cx="276" cy="70" r="6" fill="#f59e0b"/>
+<path d="M266 90 Q266 79 276 79 Q286 79 286 90 Z" stroke="#f59e0b" stroke-width="1" fill="#f59e0b" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="276" y="108" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">집주인</text>
+<line x1="142" y1="76" x2="68" y2="76" stroke="#38bdf8" stroke-width="2" stroke-dasharray="4 4" stroke-linecap="round"/>
+<line x1="68" y1="76" x2="74.1" y2="72.6" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/>
+<line x1="68" y1="76" x2="74.1" y2="79.4" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/>
+<line x1="176" y1="76" x2="256" y2="76" stroke="#475569" stroke-width="2" stroke-dasharray="4 4" stroke-linecap="round"/>
+<g class="a1"><path d="M262 40 L271.9 49.9 M271.9 40 L262 49.9" stroke="#f59e0b" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="a2"><text x="276" y="36" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">못 돌려줌</text></g>
+<g class="a3"><circle cx="160" cy="76" r="8" fill="#f59e0b"/><circle cx="160" cy="76" r="5.5" fill="none" stroke="#0f172a" stroke-width="1"/></g>
+<text x="160" y="140" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">보증료를 내고 가입해 두면</text>
+<text x="160" y="158" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">집주인이 돌려주지 못할 때 보증기관이 지급</text>
+<text x="160" y="178" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">가입 조건·한도는 상품과 정책마다 다름</text>
+</svg>

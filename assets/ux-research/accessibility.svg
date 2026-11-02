@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="접근성: 시력, 청력, 손 사용 조건이 달라도 누구나 쓸 수 있게 만드는 것">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,40%{opacity:1}48%,94%{opacity:.35}100%{opacity:1}}.k1{animation:k1 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Accessibility · 접근성</text>
+<rect x="16" y="40" width="138" height="52" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="85" y="72" font-size="15" fill="#475569" text-anchor="middle" font-weight="700">가나다 글자</text>
+<rect x="166" y="40" width="138" height="52" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="235" y="72" font-size="15" fill="#e2e8f0" text-anchor="middle" font-weight="700">가나다 글자</text>
+<text x="85" y="108" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" class="k1">✗ 흐려서 읽기 어렵다</text>
+<text x="235" y="108" font-size="10" fill="#38bdf8" text-anchor="middle" font-weight="700">✓ 또렷해서 읽기 쉽다</text>
+<rect x="16" y="124" width="92" height="26" rx="6" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="62" y="141" font-size="10" fill="#e2e8f0" text-anchor="middle">키보드로 조작</text>
+<rect x="114" y="124" width="92" height="26" rx="6" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="160" y="141" font-size="10" fill="#e2e8f0" text-anchor="middle">화면 읽어주기</text>
+<rect x="212" y="124" width="92" height="26" rx="6" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="258" y="141" font-size="10" fill="#e2e8f0" text-anchor="middle">대체 텍스트</text>
+<text x="160" y="172" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">본문 글자는 배경과 명암비 4.5:1 이상</text>
+<text x="160" y="188" font-size="9" fill="#94a3b8" text-anchor="middle">WCAG 접근성 지침 기준</text>
+</svg>

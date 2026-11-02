@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="세입자가 큰 보증금을 집주인에게 맡기고 계약이 끝나면 그대로 돌려받는 전세 흐름">
+<defs><style>.a1{animation:k1 4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k1{0%,6%{transform:translate(0px,0px)}30%,50%{transform:translate(140px,0px)}80%,100%{transform:translate(0px,0px)}}.a2{animation:k2 4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,46%{opacity:1}52%,94%{opacity:.4}100%{opacity:1}}.a3{animation:k3 4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,50%{opacity:.4}58%,94%{opacity:1}100%{opacity:.4}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style></defs>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="22" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">전세: 큰 보증금만 맡기고 월세는 없음</text>
+<path d="M134 50 L160 36 L186 50 Z" stroke="#f59e0b" stroke-width="1.5" fill="#f59e0b" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="138" y="50" width="44" height="34" rx="3" fill="#334155"/>
+<rect x="155" y="69" width="10" height="15" rx="2" fill="#1e293b"/>
+<circle cx="44" cy="92" r="6" fill="#38bdf8"/>
+<path d="M34 112 Q34 101 44 101 Q54 101 54 112 Z" stroke="#38bdf8" stroke-width="1" fill="#38bdf8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="276" cy="92" r="6" fill="#f59e0b"/>
+<path d="M266 112 Q266 101 276 101 Q286 101 286 112 Z" stroke="#f59e0b" stroke-width="1" fill="#f59e0b" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="44" y="132" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">세입자</text>
+<text x="276" y="132" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">집주인</text>
+<line x1="74" y1="116" x2="248" y2="116" stroke="#475569" stroke-width="2" stroke-dasharray="5 4" stroke-linecap="round"/>
+<text x="160" y="100" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">보증금 (예: 3억 원)</text>
+<g class="a1"><rect x="76" y="109" width="26" height="14" rx="2" fill="#f59e0b"/><circle cx="89" cy="116" r="3.5" fill="#0f172a"/><rect x="80" y="105" width="26" height="14" rx="2" fill="#f59e0b"/><circle cx="93" cy="112" r="3.5" fill="#0f172a"/></g>
+<g class="a2"><text x="160" y="152" font-size="11" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">① 계약 때: 보증금을 맡긴다</text></g>
+<g class="a3"><text x="160" y="168" font-size="11" fill="#38bdf8" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">② 계약이 끝나면: 그대로 돌려받는다</text></g>
+<text x="160" y="186" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">월세 0원 · 집값 대비 보증금이 큰 편</text>
+</svg>

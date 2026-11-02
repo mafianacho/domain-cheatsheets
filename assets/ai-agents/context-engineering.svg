@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="여러 자료 중 필요한 것만 골라 AI의 작업 공간에 넣는 모습">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:13px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.b{font-weight:700}.a{fill:#f59e0b}.sb{fill:#38bdf8}.k{fill:#0f172a}.f{transform-box:fill-box;transform-origin:center}@keyframes bl{0%,100%{opacity:1}50%{opacity:.25}}@keyframes pu{0%,100%{transform:scale(1)}50%{transform:scale(1.1)}}@keyframes mv{0%,8%{transform:translate(0,0);opacity:1}80%{transform:translate(var(--x),var(--y));opacity:1}92%,100%{transform:translate(var(--x),var(--y));opacity:0}}@keyframes hl{0%,30%{stroke:#f59e0b}38%,100%{stroke:#475569}}.bl{animation:bl 1.2s infinite}.pu{animation:pu 1.6s ease-in-out infinite}.dt{animation:mv 3s ease-in-out infinite}.hl{animation:hl 3s infinite}.c0{--x:84px;--y:33px}.c1{--x:84px;--y:23px}.c2{--x:84px;--y:13px}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t c" x="160" y="26">컨텍스트 엔지니어링 = 무엇을 넣을지 고르기</text>
+<rect class="" x="12" y="40" width="104" height="22" rx="5" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<text class="c m" x="64" y="55">관련 문서</text>
+<rect class="" x="12" y="66" width="104" height="22" rx="5" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<text class="c m" x="64" y="81">오늘의 질문</text>
+<rect class="" x="12" y="92" width="104" height="22" rx="5" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<text class="c m" x="64" y="107">이전 대화 요약</text>
+<rect class="" x="12" y="118" width="104" height="22" rx="5" fill="#1e293b" stroke="#475569" stroke-width="1.5" style="opacity:.45"/>
+<text class="c m s" x="64" y="133" style="opacity:.6">잡담 기록</text>
+<rect class="" x="12" y="144" width="104" height="22" rx="5" fill="#1e293b" stroke="#475569" stroke-width="1.5" style="opacity:.45"/>
+<text class="c m s" x="64" y="159" style="opacity:.6">옛날 로그</text>
+<rect class="" x="204" y="54" width="104" height="90" rx="8" fill="#334155" stroke="#f59e0b" stroke-width="2"/>
+<text class="c m a" x="256" y="74">AI가 보는 내용</text>
+<rect class="" x="216" y="84" width="80" height="12" rx="3" fill="#475569" stroke="#475569" stroke-width="1.5"/>
+<rect class="" x="216" y="102" width="80" height="12" rx="3" fill="#475569" stroke="#475569" stroke-width="1.5"/>
+<rect class="" x="216" y="120" width="80" height="12" rx="3" fill="#475569" stroke="#475569" stroke-width="1.5"/>
+<line x1="116" y1="51" x2="204" y2="84" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="116" y1="77" x2="204" y2="100" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="116" y1="103" x2="204" y2="116" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<circle class="dt c0" cx="120" cy="51" r="4" fill="#38bdf8"/>
+<circle class="dt c1" cx="120" cy="77" r="4" fill="#38bdf8" style="animation-delay:-.6s"/>
+<circle class="dt c2" cx="120" cy="103" r="4" fill="#38bdf8" style="animation-delay:-1.2s"/>
+<text class="s c" x="160" y="188">많이 넣는 것보다 필요한 것만 넣는 쪽이 정확하다</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="스프린트: 계획, 개발, 리뷰, 회고를 정해진 짧은 기간 안에 돌고 다시 반복하는 작업 주기">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,4%{opacity:0}6%,20%{opacity:1}23%{opacity:0}100%{opacity:0}}.k1{animation:k1 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,26%{opacity:0}28%,42%{opacity:1}45%{opacity:0}100%{opacity:0}}.k2{animation:k2 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,48%{opacity:0}50%,64%{opacity:1}67%{opacity:0}100%{opacity:0}}.k3{animation:k3 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,70%{opacity:0}72%,86%{opacity:1}89%{opacity:0}100%{opacity:0}}.k4{animation:k4 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Sprint · 스프린트</text>
+<rect x="16" y="56" width="66" height="44" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="49" y="83" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700">계획</text>
+<rect x="16" y="56" width="66" height="44" rx="8" fill="none" stroke="#f59e0b" stroke-width="3" class="k1"/>
+<rect x="90" y="56" width="66" height="44" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="123" y="83" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700">개발</text>
+<rect x="90" y="56" width="66" height="44" rx="8" fill="none" stroke="#f59e0b" stroke-width="3" class="k2"/>
+<rect x="164" y="56" width="66" height="44" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="197" y="83" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700">리뷰</text>
+<rect x="164" y="56" width="66" height="44" rx="8" fill="none" stroke="#f59e0b" stroke-width="3" class="k3"/>
+<rect x="238" y="56" width="66" height="44" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="271" y="83" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700">회고</text>
+<rect x="238" y="56" width="66" height="44" rx="8" fill="none" stroke="#f59e0b" stroke-width="3" class="k4"/>
+<path d="M286 108 V130 H49 V112" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 4"/>
+<path d="M43 119 L49 111 L55 119" fill="none" stroke="#94a3b8" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="160" y="150" font-size="11" fill="#94a3b8" text-anchor="middle">다음 스프린트로 반복</text>
+<text x="160" y="176" font-size="10" fill="#e2e8f0" text-anchor="middle">기간은 고정하고, 담을 일은 조절한다</text>
+</svg>

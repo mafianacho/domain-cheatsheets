@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="차트 종류: 막대는 크기 비교, 선은 시간 흐름, 원은 비율을 보여준다">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:10px}.t{font-size:13px;font-weight:700}.s{font-size:9px}.m{font-size:10px}.l{font-size:12px}.b{font-weight:700}.c{text-anchor:middle}.e{text-anchor:end}.a{fill:#f59e0b}.k{fill:#38bdf8}.mu{fill:#94a3b8}.d{fill:#0f172a}.e1{transform-box:fill-box;transform-origin:50% 100%;animation:e1 4s linear infinite;}@keyframes e1{0%,5%{transform:scaleY(.05)}30%,100%{transform:scaleY(1)}}.e2{transform-box:fill-box;transform-origin:50% 100%;animation:e2 4s linear infinite;}@keyframes e2{0%,5%{transform:scaleY(.05)}38%,100%{transform:scaleY(1)}}.e3{transform-box:fill-box;transform-origin:50% 100%;animation:e3 4s linear infinite;}@keyframes e3{0%,5%{transform:scaleY(.05)}46%,100%{transform:scaleY(1)}}.e4{transform-box:fill-box;transform-origin:50% 100%;animation:e4 4s linear infinite;}@keyframes e4{0%,5%{transform:scaleY(.05)}54%,100%{transform:scaleY(1)}}.e5{animation:e5 4s linear infinite;}@keyframes e5{0%,8%{stroke-dashoffset:130}45%,100%{stroke-dashoffset:0}}.e6{animation:e6 4s linear infinite}@keyframes e6{0%,14.9%{opacity:0}15%,96%{opacity:1}98%,100%{opacity:0}}.e7{animation:e7 4s linear infinite}@keyframes e7{0%,36.9%{opacity:0}37%,96%{opacity:1}98%,100%{opacity:0}}.e8{animation:e8 4s linear infinite}@keyframes e8{0%,58.9%{opacity:0}59%,96%{opacity:1}98%,100%{opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="14" y="22" class="t">무엇을 보여줄지에 따라 차트 고르기</text>
+<rect x="14" y="34" width="92" height="110" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<rect x="114" y="34" width="92" height="110" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<rect x="214" y="34" width="92" height="110" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<g class="e1"><rect x="26" y="96" width="12" height="30" rx="1" fill="#38bdf8"/></g>
+<g class="e2"><rect x="44" y="74" width="12" height="52" rx="1" fill="#38bdf8"/></g>
+<g class="e3"><rect x="62" y="86" width="12" height="40" rx="1" fill="#38bdf8"/></g>
+<g class="e4"><rect x="80" y="60" width="12" height="66" rx="1" fill="#38bdf8"/></g>
+<line x1="22" y1="126" x2="98" y2="126" stroke="#475569" stroke-width="1.5"/>
+<text x="60" y="163" class="m c b k">막대</text><text x="60" y="176" class="s c mu">크기 비교</text>
+<line x1="122" y1="126" x2="198" y2="126" stroke="#475569" stroke-width="1.5"/>
+<g class="e5"><polyline points="124,112 144,90 164,100 186,62" fill="none" stroke="#f59e0b" stroke-width="3" stroke-linejoin="round" stroke-dasharray="130"/></g>
+<text x="160" y="163" class="m c b a">선</text><text x="160" y="176" class="s c mu">시간 흐름·추이</text>
+<g class="e6"><circle cx="260" cy="88" r="26" fill="none" stroke="#38bdf8" stroke-width="26" stroke-dasharray="81.7 163.4" transform="rotate(-90.0 260 88)"/></g>
+<g class="e7"><circle cx="260" cy="88" r="26" fill="none" stroke="#f59e0b" stroke-width="26" stroke-dasharray="49.0 163.4" transform="rotate(90.0 260 88)"/></g>
+<g class="e8"><circle cx="260" cy="88" r="26" fill="none" stroke="#94a3b8" stroke-width="26" stroke-dasharray="32.7 163.4" transform="rotate(198.0 260 88)"/></g>
+<text x="260" y="163" class="m c b">원</text><text x="260" y="176" class="s c mu">전체 중 비율</text>
+</svg>

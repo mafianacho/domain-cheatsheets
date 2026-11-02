@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="인지 부하: 화면을 이해하고 고르는 데 사용자의 머리가 한 번에 써야 하는 양">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,6%{opacity:0}10%,94%{opacity:1}100%{opacity:0}}.k1{animation:k1 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,10%{opacity:0}14%,94%{opacity:1}100%{opacity:0}}.k2{animation:k2 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,14%{opacity:0}18%,94%{opacity:1}100%{opacity:0}}.k3{animation:k3 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,18%{opacity:0}22%,94%{opacity:1}100%{opacity:0}}.k4{animation:k4 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,22%{opacity:0}26%,94%{opacity:1}100%{opacity:0}}.k5{animation:k5 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k6{0%,26%{opacity:0}30%,94%{opacity:1}100%{opacity:0}}.k6{animation:k6 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k7{0%,30%{opacity:0}34%,94%{opacity:1}100%{opacity:0}}.k7{animation:k7 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k8{0%,34%{opacity:0}38%,94%{opacity:1}100%{opacity:0}}.k8{animation:k8 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k9{0%,38%{opacity:0}42%,94%{opacity:1}100%{opacity:0}}.k9{animation:k9 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k10{0%,10%{transform:scaleX(0)}24%,92%{transform:scaleX(1)}100%{transform:scaleX(0)}}.k10{animation:k10 5s ease-in-out infinite;transform-box:fill-box;transform-origin:0% 50%}@keyframes k11{0%,12%{transform:scaleX(0)}40%,92%{transform:scaleX(1)}100%{transform:scaleX(0)}}.k11{animation:k11 5s ease-in-out infinite;transform-box:fill-box;transform-origin:0% 50%}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Cognitive Load · 인지 부하</text>
+<rect x="16" y="42" width="132" height="112" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<rect x="172" y="42" width="132" height="112" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="82" y="60" font-size="10" fill="#38bdf8" text-anchor="middle" font-weight="700">선택지 3개</text>
+<text x="238" y="60" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700">선택지 9개</text>
+<rect x="30" y="70" width="104" height="14" rx="4" fill="#334155"/>
+<rect x="30" y="90" width="104" height="14" rx="4" fill="#334155"/>
+<rect x="30" y="110" width="104" height="14" rx="4" fill="#334155"/>
+<rect x="182" y="70" width="34" height="14" rx="4" fill="#334155" class="k1"/>
+<rect x="222" y="70" width="34" height="14" rx="4" fill="#334155" class="k2"/>
+<rect x="262" y="70" width="34" height="14" rx="4" fill="#334155" class="k3"/>
+<rect x="182" y="90" width="34" height="14" rx="4" fill="#334155" class="k4"/>
+<rect x="222" y="90" width="34" height="14" rx="4" fill="#334155" class="k5"/>
+<rect x="262" y="90" width="34" height="14" rx="4" fill="#334155" class="k6"/>
+<rect x="182" y="110" width="34" height="14" rx="4" fill="#334155" class="k7"/>
+<rect x="222" y="110" width="34" height="14" rx="4" fill="#334155" class="k8"/>
+<rect x="262" y="110" width="34" height="14" rx="4" fill="#334155" class="k9"/>
+<rect x="30" y="134" width="104" height="10" rx="5" fill="#334155"/>
+<rect x="30" y="134" width="30" height="10" rx="5" fill="#38bdf8" class="k10"/>
+<rect x="186" y="134" width="104" height="10" rx="5" fill="#334155"/>
+<rect x="186" y="134" width="100" height="10" rx="5" fill="#f59e0b" class="k11"/>
+<text x="82" y="172" font-size="10" fill="#38bdf8" text-anchor="middle" font-weight="700">머리가 편하다</text>
+<text x="238" y="172" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700">머리가 복잡하다</text>
+</svg>

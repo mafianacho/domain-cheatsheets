@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="매크로와 VBA: 반복하는 클릭을 녹화해 버튼 한 번으로 다시 실행한다">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:10px}.t{font-size:13px;font-weight:700}.s{font-size:9px}.m{font-size:10px}.l{font-size:12px}.b{font-weight:700}.c{text-anchor:middle}.e{text-anchor:end}.a{fill:#f59e0b}.k{fill:#38bdf8}.mu{fill:#94a3b8}.d{fill:#0f172a}.e1{animation:e1 4s linear infinite}@keyframes e1{0%,27.9%{opacity:0}28%,96%{opacity:1}98%,100%{opacity:0}}.e2{animation:e2 4s linear infinite}@keyframes e2{0%,45.9%{opacity:0}46%,96%{opacity:1}98%,100%{opacity:0}}.e3{animation:e3 4s linear infinite}@keyframes e3{0%,63.9%{opacity:0}64%,96%{opacity:1}98%,100%{opacity:0}}.e4{transform-box:fill-box;transform-origin:center;animation:e4 4s linear infinite;}@keyframes e4{0%,10%,70%,100%{transform:scale(1)}80%{transform:scale(.95)}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="14" y="22" class="t">매크로: 반복 작업을 녹화해 재생</text>
+<rect x="14" y="34" width="156" height="108" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<circle cx="28" cy="50" r="5" fill="#f59e0b"/><text x="38" y="54" class="m b">녹화한 동작</text>
+<rect x="24" y="64" width="136" height="20" rx="2" fill="#334155" stroke="#475569" stroke-width="1"/><text x="92.0" y="77.5" class="m c">1. 서식 적용</text>
+<g class="e1"><text x="152" y="78" class="m b a e">✓</text></g>
+<rect x="24" y="88" width="136" height="20" rx="2" fill="#334155" stroke="#475569" stroke-width="1"/><text x="92.0" y="101.5" class="m c">2. 금액 합계 넣기</text>
+<g class="e2"><text x="152" y="102" class="m b a e">✓</text></g>
+<rect x="24" y="112" width="136" height="20" rx="2" fill="#334155" stroke="#475569" stroke-width="1"/><text x="92.0" y="125.5" class="m c">3. 정렬하고 저장</text>
+<g class="e3"><text x="152" y="126" class="m b a e">✓</text></g>
+<rect x="182" y="34" width="124" height="46" rx="8" fill="#f59e0b"/>
+<g class="e4"><rect x="182" y="34" width="124" height="46" rx="8" fill="#f59e0b"/><text x="244" y="62" class="l b c d">▶ 매크로 실행</text></g>
+<rect x="182" y="90" width="124" height="52" rx="6" fill="#0f172a" stroke="#475569" stroke-width="1"/>
+<text x="192" y="106" class="s b k">Sub 정리()</text><text x="192" y="120" class="s mu">    …동작을 코드로…</text><text x="192" y="134" class="s b k">End Sub</text>
+<text x="14" y="162" class="m mu">VBA = 매크로가 저장된 코드 · 파일은 .xlsm</text>
+<text x="160" y="190" class="s c mu">Excel 전용: 구글 시트는 앱스 스크립트를 씀</text>
+</svg>

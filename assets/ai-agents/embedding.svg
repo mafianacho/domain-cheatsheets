@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="뜻이 비슷한 단어는 가깝게, 다른 단어는 멀게 놓인 좌표 지도와 질문 위치">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:13px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.b{font-weight:700}.a{fill:#f59e0b}.sb{fill:#38bdf8}.k{fill:#0f172a}.f{transform-box:fill-box;transform-origin:center}@keyframes bl{0%,100%{opacity:1}50%{opacity:.25}}@keyframes pu{0%,100%{transform:scale(1)}50%{transform:scale(1.1)}}@keyframes mv{0%,8%{transform:translate(0,0);opacity:1}80%{transform:translate(var(--x),var(--y));opacity:1}92%,100%{transform:translate(var(--x),var(--y));opacity:0}}@keyframes hl{0%,30%{stroke:#f59e0b}38%,100%{stroke:#475569}}.bl{animation:bl 1.2s infinite}.pu{animation:pu 1.6s ease-in-out infinite}.dt{animation:mv 3s ease-in-out infinite}.hl{animation:hl 3s infinite}.ring{transform-box:fill-box;transform-origin:center;animation:rg 2.6s ease-out infinite}@keyframes rg{0%{transform:scale(.6);opacity:.9}100%{transform:scale(1.6);opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t c" x="160" y="26">임베딩 = 뜻을 숫자 좌표로 바꾼 것</text>
+<circle cx="92" cy="86" r="46" fill="none" stroke="#475569" stroke-width="1.5" stroke-dasharray="4 4"/>
+<circle cx="238" cy="88" r="42" fill="none" stroke="#475569" stroke-width="1.5" stroke-dasharray="4 4"/>
+<circle class="" cx="66" cy="70" r="5" fill="#38bdf8"/>
+<text class="m" x="75" y="74">강아지</text>
+<circle class="" cx="66" cy="102" r="5" fill="#38bdf8"/>
+<text class="m" x="75" y="106">고양이</text>
+<circle class="" cx="116" cy="86" r="5" fill="#38bdf8"/>
+<text class="m" x="124" y="76">햄스터</text>
+<circle class="" cx="220" cy="70" r="5" fill="#475569"/>
+<text class="m" x="228" y="74">자동차</text>
+<circle class="" cx="244" cy="108" r="5" fill="#475569"/>
+<text class="m" x="252" y="112">버스</text>
+<line x1="130" y1="126" x2="118" y2="91" stroke="#f59e0b" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3 3"/>
+<circle class="ring" cx="132" cy="130" r="14" fill="none" stroke="#f59e0b" stroke-width="2"/>
+<circle class="" cx="132" cy="130" r="6" fill="#f59e0b"/>
+<text class="m a" x="160" y="134">반려견 추천</text>
+<text class="s c" x="160" y="176">실제로는 수백~수천 개의 숫자로 뜻의 위치를 나타낸다</text>
+</svg>
