@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="길고 꼬인 문장이 짧고 쉬운 한 문장으로 바뀌는 쉬운 글쓰기 비교">
+<style>.tb{transform-box:fill-box;transform-origin:center}.tl{transform-box:fill-box;transform-origin:left center}@keyframes k1{0%,58%{opacity:1}60%,62.0%{opacity:0}65.0%,100%{opacity:1}}.k1{animation:k1 4s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="22" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">쉬운 글쓰기 · Plain Language</text>
+<rect x="20" y="32" width="280" height="52" rx="8" fill="#334155"/>
+<text x="30" y="47" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">Before</text>
+<text x="160" y="62" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">회원님께서는 본 서비스를 이용하시기 위해서는</text>
+<text x="160" y="76" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">가입 절차를 먼저 완료하셔야 하겠습니다</text>
+<line x1="160" y1="90" x2="160" y2="108" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/>
+<polygon points="160.0,108.0 157.1,102.7 162.9,102.7" fill="#38bdf8"/>
+<g class="k1">
+<rect x="20" y="114" width="280" height="54" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="30" y="129" font-size="9" fill="#f59e0b" text-anchor="start" font-family="system-ui, sans-serif">After</text>
+<text x="160" y="156" font-size="14" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">먼저 가입해 주세요.</text>
+</g>
+<text x="160" y="187" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">한 문장에 한 가지, 아는 말로, 할 일을 앞에</text>
+</svg>

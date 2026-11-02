@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="호칭·문체·가격 표기·금지 표현을 정해 두고 하나씩 확인하는 스타일 가이드 목록">
+<style>.tb{transform-box:fill-box;transform-origin:center}.tl{transform-box:fill-box;transform-origin:left center}@keyframes k1{0%,58%{opacity:1}60%,62.0%{opacity:0}65.0%,100%{opacity:1}}.k1{animation:k1 4s linear infinite}@keyframes k2{0%,58%{opacity:1}60%,70.0%{opacity:0}73.0%,100%{opacity:1}}.k2{animation:k2 4s linear infinite}@keyframes k3{0%,58%{opacity:1}60%,78.0%{opacity:0}81.0%,100%{opacity:1}}.k3{animation:k3 4s linear infinite}@keyframes k4{0%,58%{opacity:1}60%,86.0%{opacity:0}89.0%,100%{opacity:1}}.k4{animation:k4 4s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="22" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">스타일 가이드 · Style Guide</text>
+<rect x="20" y="32" width="280" height="120" rx="10" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<g class="k1">
+<text x="34" y="56" font-size="10" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">호칭</text>
+<text x="100" y="56" font-size="10" fill="#e2e8f0" text-anchor="start" font-weight="700" font-family="system-ui, sans-serif">고객님</text>
+<path d="M278,51 l4,4 l8,-9" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="k2">
+<text x="34" y="80" font-size="10" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">문체</text>
+<text x="100" y="80" font-size="10" fill="#e2e8f0" text-anchor="start" font-weight="700" font-family="system-ui, sans-serif">~해요 체로 통일</text>
+<path d="M278,75 l4,4 l8,-9" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="k3">
+<text x="34" y="104" font-size="10" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">가격 표기</text>
+<text x="100" y="104" font-size="10" fill="#e2e8f0" text-anchor="start" font-weight="700" font-family="system-ui, sans-serif">10,000원 (콤마·원 붙임)</text>
+<path d="M278,99 l4,4 l8,-9" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="k4">
+<text x="34" y="128" font-size="10" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">금지 표현</text>
+<text x="100" y="128" font-size="10" fill="#e2e8f0" text-anchor="start" font-weight="700" font-family="system-ui, sans-serif">'최고' '1위'는 근거 확인 뒤에</text>
+<path d="M278,123 l4,4 l8,-9" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<text x="160" y="176" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">AI에게 한 번 건네 두면 매번 같은 말투</text>
+</svg>

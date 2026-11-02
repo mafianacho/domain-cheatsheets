@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="썸네일 아래 유튜브 제목과 100자 한도를 채우는 글자 수 막대">
+<style>.tb{transform-box:fill-box;transform-origin:center}.tl{transform-box:fill-box;transform-origin:left center}@keyframes k1{0%,100%{transform:scale(1)}50%{transform:scale(1.2)}}.k1{animation:k1 4s ease-in-out infinite}@keyframes k2{0%{transform:scaleX(0)}60%,92%{transform:scaleX(1)}100%{transform:scaleX(0)}}.k2{animation:k2 4s ease-out infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="22" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">유튜브 제목 · YouTube Title</text>
+<rect x="20" y="34" width="130" height="84" rx="8" fill="#334155"/>
+<text x="85" y="66" font-size="14" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">10분 완성</text>
+<text x="85" y="88" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">김치볶음밥</text>
+<circle cx="36" cy="102" r="7" fill="#e2e8f0"/>
+<polygon points="34,98 34,106 40,102" fill="#0f172a" class="k1 tb"/>
+<text x="160" y="52" font-size="12" fill="#f59e0b" text-anchor="start" font-weight="700" font-family="system-ui, sans-serif">100자 이내</text>
+<text x="160" y="74" font-size="10" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">핵심 단어는 앞쪽에</text>
+<text x="160" y="94" font-size="10" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">썸네일 글자와 다른 말로</text>
+<text x="160" y="112" font-size="10" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">같은 말 반복은 피하기</text>
+<text x="20" y="138" font-size="11" fill="#e2e8f0" text-anchor="start" font-weight="700" font-family="system-ui, sans-serif">초보도 10분 완성! 김치볶음밥 레시피</text>
+<rect x="20" y="150" width="200" height="8" rx="4" fill="#334155"/>
+<rect x="20" y="150" width="42" height="8" rx="4" fill="#38bdf8" class="k2 tl"/>
+<text x="228" y="158" font-size="10" fill="#e2e8f0" text-anchor="start" font-weight="700" font-family="system-ui, sans-serif">21 / 100자</text>
+<text x="160" y="184" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">제목에 들어간 글자를 세어 한도 안에서 쓰기</text>
+</svg>

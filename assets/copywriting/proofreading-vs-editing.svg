@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="글자와 맞춤법을 고치는 교정과 문장 순서와 사실을 다듬는 교열을 나란히 보여 주는 그림">
+<style>.tb{transform-box:fill-box;transform-origin:center}.tl{transform-box:fill-box;transform-origin:left center}@keyframes k1{0%{transform:scaleX(0)}30%,90%{transform:scaleX(1)}100%{transform:scaleX(0)}}.k1{animation:k1 4s ease-out infinite}@keyframes k2{0%,25%{transform:translate(0,0)}40%{transform:translate(34px,15px)}55%,80%{transform:translate(0,30px)}90%{transform:translate(34px,15px)}100%{transform:translate(0,0)}}.k2{animation:k2 4s ease-in-out infinite}@keyframes k3{0%,25%{transform:translate(0,0)}40%{transform:translate(-34px,-15px)}55%,80%{transform:translate(0,-30px)}90%{transform:translate(-34px,-15px)}100%{transform:translate(0,0)}}.k3{animation:k3 4s ease-in-out infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="22" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">교정과 교열 · Proofreading vs Editing</text>
+<rect x="16" y="32" width="142" height="120" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<text x="87" y="50" font-size="11" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">교정</text>
+<text x="87" y="65" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">글자·맞춤법 바로잡기</text>
+<text x="87" y="94" font-size="12" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">않되요</text>
+<rect x="68.0" y="90" width="38.0" height="2" rx="1" fill="#f59e0b" class="k1 tl"/>
+<line x1="87" y1="102" x2="87" y2="118" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/>
+<polygon points="87.0,118.0 84.1,112.7 89.9,112.7" fill="#38bdf8"/>
+<text x="87" y="138" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">안 돼요</text>
+<rect x="162" y="32" width="142" height="120" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<text x="233" y="50" font-size="11" fill="#38bdf8" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">교열</text>
+<text x="233" y="65" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">문장·사실·순서 다듬기</text>
+<g class="k2">
+<rect x="203" y="82" width="60" height="20" rx="6" fill="#334155"/>
+<text x="233.0" y="95.5" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">결론</text>
+</g>
+<g class="k3">
+<rect x="203" y="112" width="60" height="20" rx="6" fill="#f59e0b"/>
+<text x="233.0" y="125.5" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">도입</text>
+</g>
+<text x="233" y="146" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">순서·사실·중복 점검</text>
+<text x="160" y="176" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">교정 = 오타·띄어쓰기 / 교열 = 문장·사실·순서</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="사 년에 걸쳐 해마다 25퍼센트씩 지분이 확정되는 계단식 막대 그림">
+<style>@keyframes grYcenter_60_120{0%,10.91%{transform:scaleY(0)}21.82%,94%{transform:scaleY(1)}97%,100%{transform:scaleY(0)}}.grYcenter_60_120{transform-box:fill-box;transform-origin:center bottom;animation:grYcenter_60_120 5.0s linear infinite}@keyframes rv_120{0%,21.82%{opacity:0}24.82%,94%{opacity:1}97%,100%{opacity:0}}.rv_120{animation:rv_120 5.0s linear infinite}@keyframes grYcenter_150_210{0%,27.27%{transform:scaleY(0)}38.18%,94%{transform:scaleY(1)}97%,100%{transform:scaleY(0)}}.grYcenter_150_210{transform-box:fill-box;transform-origin:center bottom;animation:grYcenter_150_210 5.0s linear infinite}@keyframes rv_210{0%,38.18%{opacity:0}41.18%,94%{opacity:1}97%,100%{opacity:0}}.rv_210{animation:rv_210 5.0s linear infinite}@keyframes grYcenter_240_300{0%,43.64%{transform:scaleY(0)}54.55%,94%{transform:scaleY(1)}97%,100%{transform:scaleY(0)}}.grYcenter_240_300{transform-box:fill-box;transform-origin:center bottom;animation:grYcenter_240_300 5.0s linear infinite}@keyframes rv_300{0%,54.55%{opacity:0}57.55%,94%{opacity:1}97%,100%{opacity:0}}.rv_300{animation:rv_300 5.0s linear infinite}@keyframes grYcenter_330_390{0%,60.0%{transform:scaleY(0)}70.91%,94%{transform:scaleY(1)}97%,100%{transform:scaleY(0)}}.grYcenter_330_390{transform-box:fill-box;transform-origin:center bottom;animation:grYcenter_330_390 5.0s linear infinite}@keyframes rv_390{0%,70.91%{opacity:0}73.91%,94%{opacity:1}97%,100%{opacity:0}}.rv_390{animation:rv_390 5.0s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="24" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">베스팅: 시간이 지나야 내 지분</text>
+<line x1="36" y1="140" x2="290" y2="140" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<rect x="52" y="120" width="44" height="20" rx="3" fill="#334155"/>
+<g class="grYcenter_60_120"><rect x="52" y="120" width="44" height="20" rx="3" fill="#f59e0b"/></g>
+<g class="rv_120"><text x="74" y="114" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">25%</text></g>
+<text x="74" y="155" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">1년차</text>
+<rect x="110" y="100" width="44" height="40" rx="3" fill="#334155"/>
+<g class="grYcenter_150_210"><rect x="110" y="100" width="44" height="40" rx="3" fill="#f59e0b"/></g>
+<g class="rv_210"><text x="132" y="94" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">50%</text></g>
+<text x="132" y="155" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">2년차</text>
+<rect x="168" y="80" width="44" height="60" rx="3" fill="#334155"/>
+<g class="grYcenter_240_300"><rect x="168" y="80" width="44" height="60" rx="3" fill="#f59e0b"/></g>
+<g class="rv_300"><text x="190" y="74" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">75%</text></g>
+<text x="190" y="155" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">3년차</text>
+<rect x="226" y="60" width="44" height="80" rx="3" fill="#334155"/>
+<g class="grYcenter_330_390"><rect x="226" y="60" width="44" height="80" rx="3" fill="#f59e0b"/></g>
+<g class="rv_390"><text x="248" y="54" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">100%</text></g>
+<text x="248" y="155" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">4년차</text>
+<text x="160" y="180" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">예시: 4년 동안 매년 25%씩 내 몫으로 확정</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="선발, 보육과 멘토링, 투자, 데모데이 네 단계를 차례로 밝혀 보여주는 흐름 그림">
+<style>@keyframes wn_30_150{0%,5.0%{opacity:0}7.0%,25.0%{opacity:1}27.0%,100%{opacity:0}}.wn_30_150{animation:wn_30_150 5.0s linear infinite}@keyframes wn_160_280{0%,26.67%{opacity:0}28.67%,46.67%{opacity:1}48.67%,100%{opacity:0}}.wn_160_280{animation:wn_160_280 5.0s linear infinite}@keyframes wn_290_410{0%,48.33%{opacity:0}50.33%,68.33%{opacity:1}70.33%,100%{opacity:0}}.wn_290_410{animation:wn_290_410 5.0s linear infinite}@keyframes wn_420_540{0%,70.0%{opacity:0}72.0%,90.0%{opacity:1}92.0%,100%{opacity:0}}.wn_420_540{animation:wn_420_540 5.0s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="24" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">액셀러레이터(창업기획자)</text>
+<rect x="14" y="62" width="64" height="44" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="46" y="88" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">선발</text>
+<line x1="80" y1="84" x2="88" y2="84" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/><path d="M82.6,86.6 L88,84 L82.6,81.4" fill="none" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="wn_30_150" opacity="0"><rect x="14" y="62" width="64" height="44" rx="6" fill="#f59e0b"/><text x="46" y="88" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">선발</text></g>
+<rect x="90" y="62" width="64" height="44" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="122" y="88" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">보육·멘토링</text>
+<line x1="156" y1="84" x2="164" y2="84" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/><path d="M158.6,86.6 L164,84 L158.6,81.4" fill="none" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="wn_160_280" opacity="0"><rect x="90" y="62" width="64" height="44" rx="6" fill="#f59e0b"/><text x="122" y="88" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">보육·멘토링</text></g>
+<rect x="166" y="62" width="64" height="44" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="198" y="88" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">투자</text>
+<line x1="232" y1="84" x2="240" y2="84" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/><path d="M234.6,86.6 L240,84 L234.6,81.4" fill="none" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="wn_290_410" opacity="0"><rect x="166" y="62" width="64" height="44" rx="6" fill="#f59e0b"/><text x="198" y="88" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">투자</text></g>
+<rect x="242" y="62" width="64" height="44" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="274" y="88" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">데모데이</text>
+<g class="wn_420_540" opacity="0"><rect x="242" y="62" width="64" height="44" rx="6" fill="#f59e0b"/><text x="274" y="88" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">데모데이</text></g>
+<text x="160" y="140" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">초기 팀을 뽑아 몇 달 키우고 투자까지 연결한다</text>
+<text x="160" y="160" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">벤처투자법의 "창업기획자"로 등록한 법인이 이 일을 한다</text>
+<text x="160" y="178" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">프로그램마다 지분 요구 여부와 조건이 다르다</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="지금의 불편 Before에서 달라진 모습 After로 다리 Bridge가 이어지는 그림">
+<style>.tb{transform-box:fill-box;transform-origin:center}.tl{transform-box:fill-box;transform-origin:left center}@keyframes k1{0%{transform:translateX(0);opacity:1}70%{transform:translateX(36px);opacity:1}85%,100%{transform:translateX(36px);opacity:0}}.k1{animation:k1 4s ease-in-out infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="22" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">BAB · Before-After-Bridge</text>
+<rect x="16" y="38" width="120" height="84" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<text x="76" y="58" font-size="10" fill="#94a3b8" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">Before</text>
+<text x="76" y="84" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">매일 밤 11시</text>
+<text x="76" y="102" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">장부 정리</text>
+<rect x="184" y="38" width="120" height="84" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="244" y="58" font-size="10" fill="#38bdf8" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">After</text>
+<text x="244" y="84" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">퇴근은 6시</text>
+<text x="244" y="102" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">정산은 자동</text>
+<text x="160" y="70" font-size="9" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">Bridge</text>
+<line x1="140" y1="82" x2="180" y2="82" stroke="#475569" stroke-width="3" stroke-linecap="round"/>
+<circle cx="142" cy="82" r="4" fill="#f59e0b" class="k1"/>
+<text x="160" y="104" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">정산 앱</text>
+<rect x="20" y="138" width="280" height="48" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<text x="160" y="158" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">지금의 불편 → 달라진 모습</text>
+<text x="160" y="175" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">그 사이 다리가 바로 우리 상품</text>
+</svg>

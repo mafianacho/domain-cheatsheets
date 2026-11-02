@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="받은편지함에서 이메일 제목과 미리보기 문구가 함께 보이는 그림">
+<style>.tb{transform-box:fill-box;transform-origin:center}.tl{transform-box:fill-box;transform-origin:left center}@keyframes k1{0%,48.5%{opacity:1}50.0%,100%{opacity:.2}}.k1{animation:k1 4s linear infinite}@keyframes k2{0%,48.5%{opacity:.2}50.0%,98.5%{opacity:1}100%{opacity:.2}}.k2{animation:k2 4s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="22" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">이메일 제목과 미리보기 · Subject Line</text>
+<rect x="16" y="32" width="288" height="104" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<rect x="24" y="38" width="272" height="52" rx="6" fill="#334155"/>
+<circle cx="34" cy="49" r="3" fill="#38bdf8"/>
+<text x="44" y="52" font-size="9" fill="#e2e8f0" text-anchor="start" font-weight="700" font-family="system-ui, sans-serif">달콤빵집</text>
+<text x="36" y="66" font-size="10" fill="#e2e8f0" text-anchor="start" font-weight="700" font-family="system-ui, sans-serif">[예약 오픈] 크리스마스 케이크</text>
+<text x="36" y="81" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">선착순 예약은 이번 주 금요일까지예요</text>
+<rect x="24" y="96" width="272" height="34" rx="6" fill="#334155" opacity="0.5"/>
+<rect x="34" y="102" width="40" height="4" rx="2" fill="#475569"/>
+<rect x="34" y="111" width="150" height="4" rx="2" fill="#475569"/>
+<rect x="34" y="119" width="120" height="3" rx="2" fill="#475569"/>
+<rect x="31" y="55" width="202" height="14" rx="4" fill="none" stroke="#f59e0b" stroke-width="1.5" class="k1"/>
+<rect x="31" y="72" width="208" height="13" rx="4" fill="none" stroke="#38bdf8" stroke-width="1.5" class="k2"/>
+<rect x="20" y="144" width="136" height="22" rx="6" fill="#f59e0b"/>
+<text x="88.0" y="158.5" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">제목 · 핵심 한 줄</text>
+<rect x="164" y="144" width="136" height="22" rx="6" fill="#38bdf8"/>
+<text x="232.0" y="158.5" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">미리보기 · 제목 보충</text>
+<text x="160" y="186" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">제목은 짧게 (권장: 9단어·60자 이내)</text>
+</svg>

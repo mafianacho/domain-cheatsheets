@@ -13,7 +13,7 @@ UI 디자인, 모션, 3D 모델링 같은 기술 분야부터 법, 패션, 건�
 <!-- index:start -->
 <!-- 이 구역은 자동 생성됩니다. `cd mcp-server && npm run generate` -->
 
-도메인 19개 · 용어 527개
+도메인 24개 · 용어 709개
 
 ### 기술 · 디자인
 
@@ -23,19 +23,22 @@ UI 디자인, 모션, 3D 모델링 같은 기술 분야부터 법, 패션, 건�
 <td width="50%" valign="top"><a href="cheatsheets/ai-agents.md"><img src="assets/previews/ai-agents.gif" alt="AI · 에이전트 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/ai-agents.md">AI · 에이전트 · AI &amp; Agents</a></b> <sub>용어 27개</sub><br><sub>ChatGPT·Claude·Cursor 같은 AI와 에이전트에게 정확히 일을 시키기 위한 모델·프롬프트·RAG·MCP·안전 용어</sub></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><a href="cheatsheets/audio-production.md"><img src="assets/previews/audio-production.gif" alt="음향 · 음악 제작 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/audio-production.md">음향 · 음악 제작 · Audio &amp; Music Production</a></b> <sub>용어 38개</sub><br><sub>합주실·집 녹음·팟캐스트에서 믹서, 마이크, 모니터, 앰프, 믹스와 마스터링을 AI에게 정확히 묻고 설정하기 위한 소리 장비·제작 용어</sub></td>
 <td width="50%" valign="top"><a href="cheatsheets/backend.md"><img src="assets/previews/backend.gif" alt="백엔드 개발 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/backend.md">백엔드 개발 · Backend Development</a></b> <sub>용어 27개</sub><br><sub>AI에게 서버·API·데이터베이스·배포를 시킬 때 필요한 백엔드 개발 기본 용어</sub></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><a href="cheatsheets/graphic-branding.md"><img src="assets/previews/graphic-branding.gif" alt="그래픽 · 브랜딩 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/graphic-branding.md">그래픽 · 브랜딩 · Graphic Design &amp; Branding</a></b> <sub>용어 28개</sub><br><sub>로고·브랜드·포스터·인쇄물을 AI나 디자이너에게 맡길 때 쓰는 브랜드·색·글자·파일·인쇄 용어</sub></td>
-</tr>
-<tr>
 <td width="50%" valign="top"><a href="cheatsheets/motion-design.md"><img src="assets/previews/motion-design.gif" alt="모션 디자인 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/motion-design.md">모션 디자인 · Motion Design</a></b> <sub>용어 26개</sub><br><sub>앱·웹·영상 인트로·로고에 움직임을 넣고 싶은데 뭐라고 말해야 할지 모를 때 펼치는 타이밍·이징·기법·형식 용어</sub></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><a href="cheatsheets/photography.md"><img src="assets/previews/photography.gif" alt="사진 촬영 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/photography.md">사진 촬영 · Photography</a></b> <sub>용어 27개</sub><br><sub>제품·가게·작품 사진을 찍거나 AI에게 사진 느낌의 이미지를 주문할 때 쓰는 노출·렌즈·빛·구도·보정 용어</sub></td>
-</tr>
-<tr>
 <td width="50%" valign="top"><a href="cheatsheets/spreadsheet.md"><img src="assets/previews/spreadsheet.gif" alt="엑셀 · 스프레드시트 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/spreadsheet.md">엑셀 · 스프레드시트 · Excel &amp; Spreadsheets</a></b> <sub>용어 28개</sub><br><sub>엑셀·구글 시트 파일을 AI에게 만들게 하거나 고치게 할 때 쓰는 수식·정리·분석·자동화 용어</sub></td>
-<td width="50%" valign="top"><a href="cheatsheets/ui-design.md"><img src="assets/previews/ui-design.gif" alt="UI 디자인 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/ui-design.md">UI 디자인 · UI Design</a></b> <sub>용어 34개</sub><br><sub>화면의 레이아웃·내비게이션·컴포넌트·효과를 AI에게 말로 정확히 설명해야 할 때 펼치는 용어집</sub></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><a href="cheatsheets/ui-design.md"><img src="assets/previews/ui-design.gif" alt="UI 디자인 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/ui-design.md">UI 디자인 · UI Design</a></b> <sub>용어 34개</sub><br><sub>화면의 레이아웃·내비게이션·컴포넌트·효과를 AI에게 말로 정확히 설명해야 할 때 펼치는 용어집</sub></td>
 <td width="50%" valign="top"><a href="cheatsheets/ux-research.md"><img src="assets/previews/ux-research.gif" alt="UX 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/ux-research.md">UX · UX Research &amp; Design</a></b> <sub>용어 22개</sub><br><sub>사용자를 조사하고, 흐름과 구조를 설계하고, 써 보게 해서 평가할 때 AI와 맞춰 쓰는 UX 리서치·설계 용어</sub></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><a href="cheatsheets/video-production.md"><img src="assets/previews/video-production.gif" alt="영상 촬영 · 편집 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/video-production.md">영상 촬영 · 편집 · Video Production</a></b> <sub>용어 28개</sub><br><sub>유튜브 영상·쇼츠를 찍고 자르고 내보낼 때 AI나 편집자에게 샷·카메라 움직임·컷·색·소리·내보내기 설정을 정확히 말하기 위한 용어</sub></td>
 </tr>
 </table>
@@ -44,8 +47,15 @@ UI 디자인, 모션, 3D 모델링 같은 기술 분야부터 법, 패션, 건�
 
 <table>
 <tr>
+<td width="50%" valign="top"><a href="cheatsheets/copywriting.md"><img src="assets/previews/copywriting.gif" alt="글쓰기 · 카피라이팅 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/copywriting.md">글쓰기 · 카피라이팅 · Writing &amp; Copywriting</a></b> <sub>용어 36개</sub><br><sub>광고·상세페이지·뉴스레터·보도자료·유튜브 제목을 AI와 함께 쓸 때 필요한 구성·공식·말투·설득·검수 용어</sub></td>
 <td width="50%" valign="top"><a href="cheatsheets/marketing.md"><img src="assets/previews/marketing.gif" alt="마케팅 · 광고 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/marketing.md">마케팅 · 광고 · Marketing &amp; Advertising</a></b> <sub>용어 27개</sub><br><sub>광고·SNS·뉴스레터·랜딩 페이지를 AI와 함께 돌릴 때 필요한 전략·지표·운영·채널·광고 규칙 용어</sub></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><a href="cheatsheets/product-planning.md"><img src="assets/previews/product-planning.gif" alt="기획 (PM) 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/product-planning.md">기획 (PM) · Product Planning</a></b> <sub>용어 22개</sub><br><sub>아이디어를 문서·우선순위·실행·지표로 풀어 AI와 개발자에게 정확히 전달할 때 쓰는 기획·프로덕트 매니지먼트 용어</sub></td>
+<td width="50%" valign="top"><a href="cheatsheets/seo.md"><img src="assets/previews/seo.gif" alt="SEO · 검색 노출 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/seo.md">SEO · 검색 노출 · SEO &amp; Search Visibility</a></b> <sub>용어 37개</sub><br><sub>구글·네이버·AI 검색에 내 사이트가 나오게 하려고 AI에게 일을 시킬 때 쓰는 검색 노출 용어</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="cheatsheets/startup-funding.md"><img src="assets/previews/startup-funding.gif" alt="창업 · 투자 유치 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/startup-funding.md">창업 · 투자 유치 · Startup &amp; Fundraising</a></b> <sub>용어 36개</sub><br><sub>시드 투자를 받으며 엔젤·VC·액셀러레이터와 말이 통하고, AI에게 지분표·텀싯·IR 자료를 시킬 때 쓰는 창업·투자 용어</sub></td>
 </tr>
 </table>
 
@@ -70,6 +80,9 @@ UI 디자인, 모션, 3D 모델링 같은 기술 분야부터 법, 패션, 건�
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="cheatsheets/fashion.md"><img src="assets/previews/fashion.gif" alt="패션 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/fashion.md">패션 · Fashion</a></b> <sub>용어 32개</sub><br><sub>옷을 AI 이미지 생성기·스타일리스트·봉제 공장에 정확히 설명해야 할 때 쓰는 실루엣·디테일·소재·무늬·생산 용어</sub></td>
+<td width="50%" valign="top"><a href="cheatsheets/labor-hr.md"><img src="assets/previews/labor-hr.gif" alt="노무 · 채용 실무 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/labor-hr.md">노무 · 채용 실무 · Labor &amp; HR Practice</a></b> <sub>용어 35개</sub><br><sub>직원·알바를 뽑고 급여를 줄 때 AI에게 근로계약서·주휴수당·연장수당·연차·임금명세서를 시키려고 쓰는 노무 용어 (5명 미만 사업장 기준 포함)</sub></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><a href="cheatsheets/law.md"><img src="assets/previews/law.gif" alt="법률 기초 치트시트 미리보기" width="100%"></a><br><b><a href="cheatsheets/law.md">법률 기초 · Law Basics</a></b> <sub>용어 30개</sub><br><sub>계약·분쟁·지식재산·개인정보·사업 관련 법률 용어를 모를 때, AI나 변호사에게 정확히 말하기 위해 여는 시트</sub></td>
 </tr>
 </table>

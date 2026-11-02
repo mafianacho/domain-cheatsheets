@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="출석 주식 60퍼센트 중 찬성 35퍼센트라 출석의 과반이고 발행주식 총수의 4분의 1 이상이라 보통결의가 통과되는 막대 그림">
+<style>@keyframes grXleft_50_140{0%,8.33%{transform:scaleX(0)}23.33%,94%{transform:scaleX(1)}97%,100%{transform:scaleX(0)}}.grXleft_50_140{transform-box:fill-box;transform-origin:left center;animation:grXleft_50_140 5.0s linear infinite}@keyframes rv_140{0%,23.33%{opacity:0}26.33%,94%{opacity:1}97%,100%{opacity:0}}.rv_140{animation:rv_140 5.0s linear infinite}@keyframes grXleft_160_250{0%,26.67%{transform:scaleX(0)}41.67%,94%{transform:scaleX(1)}97%,100%{transform:scaleX(0)}}.grXleft_160_250{transform-box:fill-box;transform-origin:left center;animation:grXleft_160_250 5.0s linear infinite}@keyframes rv_250{0%,41.67%{opacity:0}44.67%,94%{opacity:1}97%,100%{opacity:0}}.rv_250{animation:rv_250 5.0s linear infinite}@keyframes rv_300{0%,50.0%{opacity:0}53.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_300{animation:rv_300 5.0s linear infinite}@keyframes rv_390{0%,65.0%{opacity:0}68.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_390{animation:rv_390 5.0s linear infinite}@keyframes rv_480{0%,80.0%{opacity:0}83.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_480{animation:rv_480 5.0s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="24" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">보통결의: 출석 과반 + 총수의 4분의 1</text>
+<text x="30" y="50" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">발행주식 총수 100%</text>
+<rect x="30" y="56" width="260" height="24" rx="3" fill="#334155"/>
+<g class="grXleft_50_140"><rect x="30" y="56" width="156.0" height="24" rx="3" fill="#38bdf8"/></g>
+<g class="rv_140"><text x="108.0" y="72" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">출석 60%</text></g>
+<text x="30" y="102" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">그중 찬성한 주식</text>
+<rect x="30" y="108" width="260" height="24" rx="3" fill="#334155"/>
+<g class="grXleft_160_250"><rect x="30" y="108" width="91.0" height="24" rx="3" fill="#f59e0b"/></g>
+<g class="rv_250"><text x="75.5" y="124" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">찬성 35%</text></g>
+<g class="rv_300"><text x="30" y="150" font-size="10" fill="#e2e8f0" text-anchor="start" font-weight="700" font-family="system-ui, sans-serif">찬성 ÷ 출석 = 58% &gt; 과반 ✓</text></g>
+<g class="rv_390"><text x="30" y="165" font-size="10" fill="#e2e8f0" text-anchor="start" font-weight="700" font-family="system-ui, sans-serif">찬성 35% ≥ 총수의 1/4 ✓</text></g>
+<g class="rv_480"><text x="30" y="180" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">예: 이사 선임, 재무제표 승인 (정관에 다른 정함 없을 때)</text></g>
+</svg>

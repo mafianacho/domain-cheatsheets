@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="평범한 일상에서 문제를 만나 해결로 올라가는 이야기 곡선">
+<style>.tb{transform-box:fill-box;transform-origin:center}.tl{transform-box:fill-box;transform-origin:left center}@keyframes k1{0%{stroke-dashoffset:1}60%,92%{stroke-dashoffset:0}100%{stroke-dashoffset:1}}.k1{animation:k1 4s ease-in-out infinite}@keyframes k2{0%,58%{opacity:1}60%,62.0%{opacity:0}65.0%,100%{opacity:1}}.k2{animation:k2 4s linear infinite}@keyframes k3{0%,58%{opacity:1}60%,70.0%{opacity:0}73.0%,100%{opacity:1}}.k3{animation:k3 4s linear infinite}@keyframes k4{0%,58%{opacity:1}60%,78.0%{opacity:0}81.0%,100%{opacity:1}}.k4{animation:k4 4s linear infinite}@keyframes k5{0%,58%{opacity:1}60%,86.0%{opacity:0}89.0%,100%{opacity:1}}.k5{animation:k5 4s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="22" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">스토리텔링 · Storytelling</text>
+<text x="160" y="46" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">고객이 주인공, 브랜드는 조력자</text>
+<path d="M40,120 L130,148 L220,92 L286,66" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="k1" pathLength="1" stroke-dasharray="1" stroke-dashoffset="0"/>
+<g class="k2">
+<circle cx="40" cy="120" r="6" fill="#334155" stroke="#f59e0b" stroke-width="2"/>
+<text x="40" y="176" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">일상</text>
+</g>
+<g class="k3">
+<circle cx="130" cy="148" r="6" fill="#334155" stroke="#f59e0b" stroke-width="2"/>
+<text x="130" y="176" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">문제</text>
+</g>
+<g class="k4">
+<circle cx="220" cy="92" r="6" fill="#334155" stroke="#f59e0b" stroke-width="2"/>
+<text x="220" y="176" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">해결</text>
+</g>
+<g class="k5">
+<circle cx="286" cy="66" r="6" fill="#f59e0b"/>
+<text x="286" y="176" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">변화</text>
+</g>
+</svg>

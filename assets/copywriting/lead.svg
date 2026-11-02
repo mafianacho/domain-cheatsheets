@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="글 첫 문단 리드에 누가·언제·어디서·무엇을·왜를 몰아 쓰는 그림">
+<style>.tb{transform-box:fill-box;transform-origin:center}.tl{transform-box:fill-box;transform-origin:left center}@keyframes k1{0%,18.5%{fill:#f59e0b}20.0%,100%{fill:#334155}}.k1{animation:k1 4s linear infinite}@keyframes k2{0%,18.5%{fill:#0f172a}20.0%,100%{fill:#e2e8f0}}.k2{animation:k2 4s linear infinite}@keyframes k3{0%,18.5%{fill:#334155}20.0%,38.5%{fill:#f59e0b}40.0%,100%{fill:#334155}}.k3{animation:k3 4s linear infinite}@keyframes k4{0%,18.5%{fill:#e2e8f0}20.0%,38.5%{fill:#0f172a}40.0%,100%{fill:#e2e8f0}}.k4{animation:k4 4s linear infinite}@keyframes k5{0%,38.5%{fill:#334155}40.0%,58.5%{fill:#f59e0b}60.0%,100%{fill:#334155}}.k5{animation:k5 4s linear infinite}@keyframes k6{0%,38.5%{fill:#e2e8f0}40.0%,58.5%{fill:#0f172a}60.0%,100%{fill:#e2e8f0}}.k6{animation:k6 4s linear infinite}@keyframes k7{0%,58.5%{fill:#334155}60.0%,78.5%{fill:#f59e0b}80.0%,100%{fill:#334155}}.k7{animation:k7 4s linear infinite}@keyframes k8{0%,58.5%{fill:#e2e8f0}60.0%,78.5%{fill:#0f172a}80.0%,100%{fill:#e2e8f0}}.k8{animation:k8 4s linear infinite}@keyframes k9{0%,78.5%{fill:#334155}80.0%,98.5%{fill:#f59e0b}100%{fill:#334155}}.k9{animation:k9 4s linear infinite}@keyframes k10{0%,78.5%{fill:#e2e8f0}80.0%,98.5%{fill:#0f172a}100%{fill:#e2e8f0}}.k10{animation:k10 4s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="22" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">리드 · Lead</text>
+<rect x="24" y="32" width="272" height="144" rx="10" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<rect x="38" y="42" width="170" height="8" rx="3" fill="#f59e0b"/>
+<rect x="34" y="58" width="252" height="54" rx="8" fill="#0f172a" stroke="#f59e0b" stroke-width="1" stroke-dasharray="4 3"/>
+<rect x="42" y="64" width="38" height="18" rx="6" fill="#334155" class="k1"/>
+<text x="61.0" y="76.15" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif" class="k2">누가</text>
+<rect x="86" y="64" width="38" height="18" rx="6" fill="#334155" class="k3"/>
+<text x="105.0" y="76.15" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif" class="k4">언제</text>
+<rect x="130" y="64" width="46" height="18" rx="6" fill="#334155" class="k5"/>
+<text x="153.0" y="76.15" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif" class="k6">어디서</text>
+<rect x="182" y="64" width="46" height="18" rx="6" fill="#334155" class="k7"/>
+<text x="205.0" y="76.15" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif" class="k8">무엇을</text>
+<rect x="234" y="64" width="36" height="18" rx="6" fill="#334155" class="k9"/>
+<text x="252.0" y="76.15" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif" class="k10">왜</text>
+<rect x="42" y="92" width="236" height="4" rx="2" fill="#475569"/>
+<rect x="42" y="100" width="165.2" height="4" rx="2" fill="#475569"/>
+<rect x="38" y="124" width="244" height="4" rx="2" fill="#475569"/>
+<rect x="38" y="133" width="244" height="4" rx="2" fill="#475569"/>
+<rect x="38" y="142" width="244" height="4" rx="2" fill="#475569"/>
+<rect x="38" y="151" width="244" height="4" rx="2" fill="#475569"/>
+<rect x="38" y="160" width="122.0" height="4" rx="2" fill="#475569"/>
+<text x="160" y="190" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">리드: 첫 문단에 핵심을 몰아서</text>
+</svg>
