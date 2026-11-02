@@ -16,7 +16,7 @@ export const FRAME_H = 240;
 const TERM_DELAY_MS = 1100;
 const TITLE_DELAY_MS = 1800;
 
-function findChrome(): string {
+export function findChrome(): string {
   if (process.env.CHROME_BIN) return process.env.CHROME_BIN;
   for (const name of ["chromium", "chromium-browser", "google-chrome", "google-chrome-stable"]) {
     try {
@@ -38,7 +38,8 @@ function findChrome(): string {
 const esc = (s: string) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
 function svgDataUri(root: string, sheet: Cheatsheet, image: string): string {
-  const file = resolve(root, "cheatsheets", image);
+  // a GIF term image is built from the SVG next to it; the preview uses that source
+  const file = resolve(root, "cheatsheets", image.replace(/\.gif$/, ".svg"));
   return `data:image/svg+xml;base64,${readFileSync(file).toString("base64")}`;
 }
 

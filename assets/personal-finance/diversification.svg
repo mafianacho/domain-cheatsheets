@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="한 바구니에 달걀을 모두 담았을 때와 여러 바구니에 나눠 담았을 때 충격에 깨지는 정도를 비교하는 그림">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.ac{fill:#f59e0b}.sk{fill:#38bdf8}.mu{fill:#94a3b8}.b{font-weight:700}.fb{transform-box:fill-box}.ob{transform-box:fill-box;transform-origin:bottom}.ol{transform-box:fill-box;transform-origin:left}.oc{transform-box:fill-box;transform-origin:center}@keyframes pul{0%,100%{opacity:.3}50%{opacity:1}}@keyframes slx{0%,10%{transform:translateX(0)}55%,80%{transform:translateX(var(--d))}100%{transform:translateX(0)}}@keyframes sly{0%,10%{transform:translateY(0)}55%,80%{transform:translateY(var(--d))}100%{transform:translateY(0)}}@keyframes grw{0%,100%{transform:scaleY(.55)}50%{transform:scaleY(1)}}@keyframes grx{0%,100%{transform:scaleX(.5)}50%{transform:scaleX(1)}}@keyframes blk{0%,49%{opacity:1}50%,100%{opacity:.15}}@keyframes tilt{0%,100%{transform:rotate(-8deg)}50%{transform:rotate(8deg)}}.pul{animation:pul 3s ease-in-out infinite}.slx{animation:slx 3s ease-in-out infinite}.sly{animation:sly 3s ease-in-out infinite}.grw{animation:grw 3s ease-in-out infinite}.grx{animation:grx 3s ease-in-out infinite}.blk{animation:blk 1.5s steps(1) infinite}.d1{animation-delay:-.5s}.d2{animation-delay:-1s}.d3{animation-delay:-1.5s}.d4{animation-delay:-2s}.d5{animation-delay:-2.5s}@keyframes mv{0%,10%{transform:translate(0,0)}60%,80%{transform:translate(var(--dx),var(--dy))}100%{transform:translate(0,0)}}.mv{animation:mv 3s ease-in-out infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t" x="16" y="26">분산투자 · Diversification</text>
+<text class="s" x="16" y="188">달걀을 한 바구니에 담지 않는다</text>
+<rect x="16" y="40" width="136" height="112" rx="8" fill="#1e293b" />
+<rect x="168" y="40" width="136" height="112" rx="8" fill="#1e293b" />
+<rect x="40" y="100" width="88" height="34" rx="6" fill="none" stroke="#475569" stroke-width="1.5" />
+<circle class="blk" cx="50" cy="94" r="7" fill="#f59e0b" />
+<circle class="blk" cx="67" cy="94" r="7" fill="#f59e0b" />
+<circle class="blk" cx="84" cy="94" r="7" fill="#f59e0b" />
+<circle class="blk" cx="101" cy="94" r="7" fill="#f59e0b" />
+<circle class="blk" cx="118" cy="94" r="7" fill="#f59e0b" />
+<rect x="180" y="112" width="20" height="22" rx="4" fill="none" stroke="#475569" stroke-width="1.5" />
+<circle cx="190" cy="106" r="7" fill="#f59e0b" />
+<rect x="204" y="112" width="20" height="22" rx="4" fill="none" stroke="#475569" stroke-width="1.5" />
+<circle cx="214" cy="106" r="7" fill="#f59e0b" />
+<rect x="228" y="112" width="20" height="22" rx="4" fill="none" stroke="#475569" stroke-width="1.5" />
+<circle class="blk" cx="238" cy="106" r="7" fill="#f59e0b" />
+<rect x="252" y="112" width="20" height="22" rx="4" fill="none" stroke="#475569" stroke-width="1.5" />
+<circle cx="262" cy="106" r="7" fill="#f59e0b" />
+<rect x="276" y="112" width="20" height="22" rx="4" fill="none" stroke="#475569" stroke-width="1.5" />
+<circle cx="286" cy="106" r="7" fill="#f59e0b" />
+<text class="c m" x="84" y="70">한 곳에 몰아서</text>
+<text class="c m" x="236" y="70">여러 곳에 나눠서</text>
+<text class="c s" x="160" y="172">한 곳에 충격이 와도 전체가 흔들리지 않는다</text>
+</svg>

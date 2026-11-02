@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="AI가 파일 삭제를 요청하면 사람이 승인을 눌러야 실행되는 모습">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:13px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.b{font-weight:700}.a{fill:#f59e0b}.sb{fill:#38bdf8}.k{fill:#0f172a}.f{transform-box:fill-box;transform-origin:center}@keyframes bl{0%,100%{opacity:1}50%{opacity:.25}}@keyframes pu{0%,100%{transform:scale(1)}50%{transform:scale(1.1)}}@keyframes mv{0%,8%{transform:translate(0,0);opacity:1}80%{transform:translate(var(--x),var(--y));opacity:1}92%,100%{transform:translate(var(--x),var(--y));opacity:0}}@keyframes hl{0%,30%{stroke:#f59e0b}38%,100%{stroke:#475569}}.bl{animation:bl 1.2s infinite}.pu{animation:pu 1.6s ease-in-out infinite}.dt{animation:mv 3s ease-in-out infinite}.hl{animation:hl 3s infinite}.ap{animation:pu 2.4s ease-in-out infinite}.go{--x:44px;--y:0px;animation-duration:2.4s}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t c" x="160" y="26">사람 확인 = 위험한 일은 승인받고 실행</text>
+<rect class="" x="12" y="66" width="92" height="56" rx="8" fill="#334155" stroke="#f59e0b" stroke-width="1.5"/>
+<text class="c m a" x="58" y="90">AI의 요청</text>
+<text class="c m" x="58" y="108">파일 12개 삭제</text>
+<line x1="104" y1="94" x2="117.0" y2="94.0" stroke="#f59e0b" stroke-width="1.5" stroke-linecap="round"/><polygon points="124,94 117.0,98.0 117.0,90.0" fill="#f59e0b"/>
+<circle cx="160" cy="68" r="11" fill="#475569"/>
+<path d="M140 100 Q140 82 160 82 Q180 82 180 100 Z" fill="#475569"/>
+<rect class="ap" x="126" y="108" width="34" height="22" rx="5" fill="#38bdf8" stroke="#38bdf8" stroke-width="1"/>
+<text class="c m k b" x="143" y="123">승인</text>
+<rect class="" x="164" y="108" width="34" height="22" rx="5" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text class="c m" x="181" y="123">거부</text>
+<line x1="200" y1="94" x2="225.0" y2="94.0" stroke="#38bdf8" stroke-width="1.5" stroke-linecap="round"/><polygon points="232,94 225.0,98.0 225.0,90.0" fill="#38bdf8"/>
+<rect class="" x="234" y="66" width="74" height="56" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text class="c sb b" x="271" y="98">실행</text>
+<circle class="dt go" cx="205" cy="94" r="4" fill="#38bdf8"/>
+<text class="s c" x="160" y="168">되돌리기 어려운 일은 사람이 마지막에 확인한다</text>
+</svg>

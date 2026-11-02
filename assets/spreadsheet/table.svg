@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="표: 범위를 표로 바꾸면 머리글 필터와 줄무늬가 생기고 줄을 추가해도 표가 따라 늘어난다">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:10px}.t{font-size:13px;font-weight:700}.s{font-size:9px}.m{font-size:10px}.l{font-size:12px}.b{font-weight:700}.c{text-anchor:middle}.e{text-anchor:end}.a{fill:#f59e0b}.k{fill:#38bdf8}.mu{fill:#94a3b8}.d{fill:#0f172a}.e1{animation:e1 4s linear infinite}@keyframes e1{0%,19.9%{opacity:0}20%,96%{opacity:1}98%,100%{opacity:0}}.e2{animation:e2 4s linear infinite}@keyframes e2{0%,19.9%{opacity:0}20%,96%{opacity:1}98%,100%{opacity:0}}.e3{animation:e3 4s linear infinite}@keyframes e3{0%,14.9%{opacity:0}15%,96%{opacity:1}98%,100%{opacity:0}}.e4{animation:e4 4s linear infinite}@keyframes e4{0%,14.9%{opacity:0}15%,96%{opacity:1}98%,100%{opacity:0}}.e5{animation:e5 4s linear infinite}@keyframes e5{0%,61.9%{opacity:0}62%,96%{opacity:1}98%,100%{opacity:0}}.e6{animation:e6 4s linear infinite}@keyframes e6{0%,39.9%{opacity:0}40%,96%{opacity:1}98%,100%{opacity:0}}.e7{animation:e7 4s linear infinite}@keyframes e7{0%,61.9%{opacity:0}62%,96%{opacity:1}98%,100%{opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="14" y="22" class="t">일반 범위 → 표(테이블)</text>
+<rect x="14" y="34" width="80" height="22" rx="2" fill="#334155" stroke="#475569" stroke-width="1"/><text x="54.0" y="48.5" class="m c b">품목</text><rect x="94" y="34" width="60" height="22" rx="2" fill="#334155" stroke="#475569" stroke-width="1"/><text x="124.0" y="48.5" class="m c b">수량</text><rect x="154" y="34" width="80" height="22" rx="2" fill="#334155" stroke="#475569" stroke-width="1"/><text x="194.0" y="48.5" class="m c b">금액</text>
+<rect x="14" y="56" width="80" height="22" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="54.0" y="70.5" class="m c">커피</text><rect x="94" y="56" width="60" height="22" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="124.0" y="70.5" class="m c">2</text><rect x="154" y="56" width="80" height="22" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="194.0" y="70.5" class="m c">9,000</text>
+<rect x="14" y="78" width="80" height="22" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="54.0" y="92.5" class="m c">케이크</text><rect x="94" y="78" width="60" height="22" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="124.0" y="92.5" class="m c">1</text><rect x="154" y="78" width="80" height="22" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="194.0" y="92.5" class="m c">6,000</text>
+<rect x="14" y="100" width="80" height="22" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="54.0" y="114.5" class="m c">쿠키</text><rect x="94" y="100" width="60" height="22" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="124.0" y="114.5" class="m c">4</text><rect x="154" y="100" width="80" height="22" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="194.0" y="114.5" class="m c">8,000</text>
+<g class="e1"><rect x="14" y="56" width="220" height="22" rx="0" fill="#334155" stroke="#475569" stroke-width="1" fill-opacity=".7"/></g>
+<g class="e2"><rect x="14" y="100" width="220" height="22" rx="0" fill="#334155" stroke="#475569" stroke-width="1" fill-opacity=".7"/></g>
+<g class="e3"><rect x="14" y="34" width="220" height="22" rx="0" fill="#f59e0b" stroke="#f59e0b" stroke-width="1"/></g>
+<g class="e4"><text x="54" y="49" class="m c b d">품목</text><text x="144" y="49" class="m c b d">수량</text><text x="204" y="49" class="m c b d">금액</text><text x="86" y="49" class="s d">▼</text><text x="166" y="49" class="s d">▼</text><text x="226" y="49" class="s d">▼</text></g>
+<text x="54.0" y="71" class="m c">커피</text>
+<text x="124.0" y="71" class="m c">2</text>
+<text x="194.0" y="71" class="m c">9,000</text>
+<text x="54.0" y="93" class="m c">케이크</text>
+<text x="124.0" y="93" class="m c">1</text>
+<text x="194.0" y="93" class="m c">6,000</text>
+<text x="54.0" y="115" class="m c">쿠키</text>
+<text x="124.0" y="115" class="m c">4</text>
+<text x="194.0" y="115" class="m c">8,000</text>
+<g class="e5"><rect x="14" y="122" width="80" height="22" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="54.0" y="136.5" class="m c">라떼</text><rect x="94" y="122" width="60" height="22" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="124.0" y="136.5" class="m c">3</text><rect x="154" y="122" width="80" height="22" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="194.0" y="136.5" class="m c">13,500</text><rect x="14" y="122" width="220" height="22" rx="0" fill="#1e293b" stroke="#38bdf8" stroke-width="2"/></g>
+<g class="e6"><rect x="246" y="34" width="60" height="50" rx="5" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/><text x="276" y="52" class="s c mu">표 이름</text><text x="276" y="72" class="m c b k">매출표</text></g>
+<g class="e7"><text x="276" y="108" class="s c a">새 줄이</text><text x="276" y="121" class="s c a">표에 포함</text></g>
+<text x="160" y="190" class="s c mu">범위를 표로 바꾸면 줄을 더해도 수식·차트가 따라 늘어남</text>
+</svg>

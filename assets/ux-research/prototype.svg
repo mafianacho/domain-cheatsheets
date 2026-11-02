@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="프로토타입: 실제처럼 눌러 보며 화면이 이어지는 모습을 확인하는 시제품">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,24%{transform:scale(1)}30%{transform:scale(.92)}38%{transform:scale(1)}100%{transform:scale(1)}}.k1{animation:k1 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,100%{opacity:1}50%{opacity:0.3}}.k2{animation:k2 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,44%{opacity:0}48%,92%{opacity:1}100%{opacity:0}}.k3{animation:k3 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,6%{transform:translate(24px,18px);opacity:0}14%{transform:translate(-6px,-26px);opacity:1}30%{transform:translate(-6px,-26px);opacity:1}40%{transform:translate(-6px,-26px);opacity:1}48%{transform:translate(-6px,-26px);opacity:0}100%{transform:translate(24px,18px);opacity:0}}.k4{animation:k4 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Prototype · 프로토타입</text>
+<rect x="16" y="42" width="112" height="110" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<rect x="26" y="52" width="92" height="30" rx="4" fill="#334155"/>
+<text x="72" y="72" font-size="10" fill="#e2e8f0" text-anchor="middle">환영합니다</text>
+<rect x="36" y="108" width="72" height="26" rx="13" fill="#f59e0b" class="k1"/>
+<text x="72" y="125" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700">시작하기</text>
+<path d="M136 98 L184 98 M178.8 101.0 L184 98 L178.8 95.0" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="k2"/>
+<rect x="192" y="42" width="112" height="110" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<circle cx="248" cy="84" r="20" fill="#38bdf8" class="k3"/>
+<path d="M238 85 L244.0 91.0 L254.5 77.5" fill="none" stroke="#0f172a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" class="k3"/>
+<text x="248" y="128" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" class="k3">주문 완료</text>
+<g transform="translate(76 150)"><path d="M0 0 L0 15 L4 11.5 L7.5 18 L10 16.8 L6.8 10.5 L12 10 Z" fill="#e2e8f0" stroke="#0f172a" stroke-width="1" opacity="0" class="k4"/></g>
+<text x="160" y="180" font-size="10" fill="#94a3b8" text-anchor="middle">눌러 보면 다음 화면으로 이어진다</text>
+</svg>

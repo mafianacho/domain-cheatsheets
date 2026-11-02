@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="예시 데이터가 위에서 떨어져 기본 모델을 내 용도에 맞는 모델로 바꾸는 모습">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:13px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.b{font-weight:700}.a{fill:#f59e0b}.sb{fill:#38bdf8}.k{fill:#0f172a}.f{transform-box:fill-box;transform-origin:center}@keyframes bl{0%,100%{opacity:1}50%{opacity:.25}}@keyframes pu{0%,100%{transform:scale(1)}50%{transform:scale(1.1)}}@keyframes mv{0%,8%{transform:translate(0,0);opacity:1}80%{transform:translate(var(--x),var(--y));opacity:1}92%,100%{transform:translate(var(--x),var(--y));opacity:0}}@keyframes hl{0%,30%{stroke:#f59e0b}38%,100%{stroke:#475569}}.bl{animation:bl 1.2s infinite}.pu{animation:pu 1.6s ease-in-out infinite}.dt{animation:mv 3s ease-in-out infinite}.hl{animation:hl 3s infinite}.ex{animation:ex 3.2s ease-in infinite}@keyframes ex{0%,10%{transform:translateY(0);opacity:1}70%{transform:translateY(30px);opacity:1}85%,100%{transform:translateY(30px);opacity:0}}.nm{animation:pu 3.2s ease-in-out infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t c" x="160" y="26">파인튜닝 = 예시로 모델을 추가 학습</text>
+<g class="ex">
+<rect class="" x="80" y="44" width="48" height="24" rx="5" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<text class="c s" x="104" y="60">예시 1</text>
+</g>
+<g class="ex" style="animation-delay:-.4s">
+<rect class="" x="136" y="44" width="48" height="24" rx="5" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<text class="c s" x="160" y="60">예시 2</text>
+</g>
+<g class="ex" style="animation-delay:-.8s">
+<rect class="" x="192" y="44" width="48" height="24" rx="5" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<text class="c s" x="216" y="60">예시 3</text>
+</g>
+<rect class="" x="12" y="100" width="78" height="52" rx="6" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text class="c" x="51" y="130">기본 모델</text>
+<line x1="94" y1="126" x2="217.0" y2="126.0" stroke="#f59e0b" stroke-width="2" stroke-linecap="round"/><polygon points="224,126 217.0,130.0 217.0,122.0" fill="#f59e0b"/>
+<text class="c m a" x="160" y="118">추가 학습</text>
+<rect class="nm" x="230" y="100" width="78" height="52" rx="8" fill="#334155" stroke="#f59e0b" stroke-width="2.5"/>
+<text class="c a b" x="269" y="130">맞춤 모델</text>
+<text class="s c" x="160" y="178">말투·형식·정해진 일 처리를 몸에 익히게 할 때 쓴다</text>
+</svg>

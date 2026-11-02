@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="완료의 정의: 팀이 모든 작업에 똑같이 쓰는 '다 끝났다' 체크리스트">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,100%{opacity:1}50%{opacity:0.3}}.k1{animation:k1 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,14%{opacity:0}18%,92%{opacity:1}100%{opacity:0}}.k2{animation:k2 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,32%{opacity:0}36%,92%{opacity:1}100%{opacity:0}}.k3{animation:k3 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,50%{opacity:0}54%,92%{opacity:1}100%{opacity:0}}.k4{animation:k4 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,70%{opacity:0}74%,92%{opacity:1}100%{opacity:0}}.k5{animation:k5 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k6{0%,70%{opacity:0}74%,92%{opacity:1}100%{opacity:0}}.k6{animation:k6 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Definition of Done · 완료의 정의</text>
+<rect x="16" y="70" width="70" height="44" rx="8" fill="#334155" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="51" y="96" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">작업 카드</text>
+<path d="M90 92 L112 92 M106.8 95.0 L112 92 L106.8 89.0" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="k1"/>
+<rect x="118" y="42" width="186" height="108" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="130" y="62" font-size="10" fill="#94a3b8">팀 공통 체크리스트</text>
+<rect x="130" y="72" width="18" height="18" rx="4" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="158" y="85" font-size="11" fill="#e2e8f0">코드 리뷰 끝</text>
+<path d="M134 81 L137.6 84.6 L143.9 76.5" fill="none" stroke="#38bdf8" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" class="k2"/>
+<rect x="130" y="96" width="18" height="18" rx="4" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="158" y="109" font-size="11" fill="#e2e8f0">테스트 통과</text>
+<path d="M134 105 L137.6 108.6 L143.9 100.5" fill="none" stroke="#38bdf8" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" class="k3"/>
+<rect x="130" y="120" width="18" height="18" rx="4" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="158" y="133" font-size="11" fill="#e2e8f0">설명서 갱신</text>
+<path d="M134 129 L137.6 132.6 L143.9 124.5" fill="none" stroke="#38bdf8" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" class="k4"/>
+<rect x="118" y="158" width="186" height="28" rx="8" fill="#f59e0b" class="k5"/>
+<text x="211" y="177" font-size="11" fill="#0f172a" text-anchor="middle" font-weight="700" class="k6">모두 ✓ → 완료(Done)</text>
+</svg>

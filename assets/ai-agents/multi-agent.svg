@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="총괄 에이전트가 조사, 코딩, 검토 에이전트에게 일을 나눠 주고 결과를 모으는 모습">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:13px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.b{font-weight:700}.a{fill:#f59e0b}.sb{fill:#38bdf8}.k{fill:#0f172a}.f{transform-box:fill-box;transform-origin:center}@keyframes bl{0%,100%{opacity:1}50%{opacity:.25}}@keyframes pu{0%,100%{transform:scale(1)}50%{transform:scale(1.1)}}@keyframes mv{0%,8%{transform:translate(0,0);opacity:1}80%{transform:translate(var(--x),var(--y));opacity:1}92%,100%{transform:translate(var(--x),var(--y));opacity:0}}@keyframes hl{0%,30%{stroke:#f59e0b}38%,100%{stroke:#475569}}.bl{animation:bl 1.2s infinite}.pu{animation:pu 1.6s ease-in-out infinite}.dt{animation:mv 3s ease-in-out infinite}.hl{animation:hl 3s infinite}.o0{--x:0px;--y:30px;animation-duration:3s}.o1{--x:0px;--y:30px;animation-duration:3s}.o2{--x:0px;--y:30px;animation-duration:3s}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t c" x="160" y="26">멀티 에이전트 = 역할을 나눈 여러 에이전트</text>
+<rect class="" x="108" y="40" width="104" height="32" rx="8" fill="#334155" stroke="#f59e0b" stroke-width="1.5"/>
+<text class="c b a" x="160" y="61">총괄</text>
+<line x1="160" y1="72" x2="160" y2="94" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<line x1="56" y1="94" x2="264" y2="94" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<line x1="56" y1="94" x2="56" y2="116" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<line x1="160" y1="94" x2="160" y2="116" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<line x1="264" y1="94" x2="264" y2="116" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<rect class="" x="16" y="116" width="80" height="34" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text class="c sb" x="56" y="138">조사</text>
+<rect class="" x="120" y="116" width="80" height="34" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text class="c sb" x="160" y="138">코딩</text>
+<rect class="" x="224" y="116" width="80" height="34" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text class="c sb" x="264" y="138">검토</text>
+<circle class="dt o0" cx="56" cy="80" r="4" fill="#f59e0b" style="--x:0px;--y:30px"/>
+<circle class="dt o1" cx="160" cy="80" r="4" fill="#f59e0b" style="--x:0px;--y:30px;animation-delay:-.4s"/>
+<circle class="dt o2" cx="264" cy="80" r="4" fill="#f59e0b" style="--x:0px;--y:30px;animation-delay:-.8s"/>
+<text class="s c" x="160" y="176">총괄이 일을 나눠 맡기고 결과를 모아 정리한다</text>
+</svg>

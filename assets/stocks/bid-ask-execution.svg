@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="왼쪽 매도 잔량과 오른쪽 매수 잔량이 가운데 가격에서 만나 체결되는 호가창 그림">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.ac{fill:#f59e0b}.sk{fill:#38bdf8}.mu{fill:#94a3b8}.b{font-weight:700}.fb{transform-box:fill-box}.ob{transform-box:fill-box;transform-origin:bottom}.ol{transform-box:fill-box;transform-origin:left}.oc{transform-box:fill-box;transform-origin:center}@keyframes pul{0%,100%{opacity:.3}50%{opacity:1}}@keyframes slx{0%,10%{transform:translateX(0)}55%,80%{transform:translateX(var(--d))}100%{transform:translateX(0)}}@keyframes sly{0%,10%{transform:translateY(0)}55%,80%{transform:translateY(var(--d))}100%{transform:translateY(0)}}@keyframes grw{0%,100%{transform:scaleY(.55)}50%{transform:scaleY(1)}}@keyframes grx{0%,100%{transform:scaleX(.5)}50%{transform:scaleX(1)}}@keyframes blk{0%,49%{opacity:1}50%,100%{opacity:.15}}@keyframes tilt{0%,100%{transform:rotate(-8deg)}50%{transform:rotate(8deg)}}.pul{animation:pul 3s ease-in-out infinite}.slx{animation:slx 3s ease-in-out infinite}.sly{animation:sly 3s ease-in-out infinite}.grw{animation:grw 3s ease-in-out infinite}.grx{animation:grx 3s ease-in-out infinite}.blk{animation:blk 1.5s steps(1) infinite}.d1{animation-delay:-.5s}.d2{animation-delay:-1s}.d3{animation-delay:-1.5s}.d4{animation-delay:-2s}.d5{animation-delay:-2.5s}.fl{animation:blk 1.5s steps(1) infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t" x="16" y="26">호가 · 체결</text>
+<text class="s" x="16" y="188">팔겠다는 값과 사겠다는 값이 맞으면 체결</text>
+<text class="c s sk" x="60" y="48">매도호가</text>
+<text class="c s" x="160" y="48">가격</text>
+<text class="c s ac" x="260" y="48">매수호가</text>
+<rect x="130" y="56" width="60" height="20" rx="3" fill="#334155" />
+<text class="c m" x="160" y="70">10,100</text>
+<rect class="ol grx d0" x="52" y="59" width="70" height="14" rx="3" fill="#38bdf8" />
+<rect x="130" y="80" width="60" height="20" rx="3" fill="#334155" />
+<text class="c m" x="160" y="94">10,050</text>
+<rect class="ol grx d1" x="78" y="83" width="44" height="14" rx="3" fill="#38bdf8" />
+<rect x="130" y="104" width="60" height="20" rx="3" fill="#334155" />
+<text class="c m" x="160" y="118">10,000</text>
+<rect class="ol grx d2" x="198" y="107" width="60" height="14" rx="3" fill="#f59e0b" />
+<rect x="130" y="128" width="60" height="20" rx="3" fill="#334155" />
+<text class="c m" x="160" y="142">9,950</text>
+<rect class="ol grx d3" x="198" y="131" width="84" height="14" rx="3" fill="#f59e0b" />
+<line x1="122" y1="102" x2="198" y2="102" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="3 2" />
+<text class="c b ac fl" x="160" y="174" style="font-size:13px">체결!</text>
+</svg>

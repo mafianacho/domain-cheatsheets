@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="자신 있게 답했지만 실제로는 없는 논문과 링크를 말하는 AI 말풍선과 확인 필요 표시">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:13px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.b{font-weight:700}.a{fill:#f59e0b}.sb{fill:#38bdf8}.k{fill:#0f172a}.f{transform-box:fill-box;transform-origin:center}@keyframes bl{0%,100%{opacity:1}50%{opacity:.25}}@keyframes pu{0%,100%{transform:scale(1)}50%{transform:scale(1.1)}}@keyframes mv{0%,8%{transform:translate(0,0);opacity:1}80%{transform:translate(var(--x),var(--y));opacity:1}92%,100%{transform:translate(var(--x),var(--y));opacity:0}}@keyframes hl{0%,30%{stroke:#f59e0b}38%,100%{stroke:#475569}}.bl{animation:bl 1.2s infinite}.pu{animation:pu 1.6s ease-in-out infinite}.dt{animation:mv 3s ease-in-out infinite}.hl{animation:hl 3s infinite}.st{animation:bl 2s ease-in-out infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t c" x="160" y="26">환각 = 그럴듯하지만 사실이 아닌 답</text>
+<rect class="" x="150" y="38" width="158" height="24" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text class="c m" x="229" y="54">그 논문 링크 줘</text>
+<rect class="" x="12" y="70" width="250" height="62" rx="8" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text class="m" x="24" y="88">물론이죠! 김하늘(2019)의</text>
+<text class="m" x="24" y="104">「가상의 연구」 논문입니다.</text>
+<text class="m sb" x="24" y="120">링크: https://…/9921</text>
+<rect class="st" x="176" y="140" width="132" height="26" rx="6" fill="#0f172a" stroke="#f59e0b" stroke-width="2"/>
+<text class="c m a" x="242" y="157">실제로는 없는 정보</text>
+<line x1="242" y1="140" x2="242.0" y2="141.0" stroke="#f59e0b" stroke-width="1.5" stroke-linecap="round"/><polygon points="242,134 246.0,141.0 238.0,141.0" fill="#f59e0b"/>
+<text class="s c" x="160" y="186">자신 있게 말해도 틀릴 수 있다 → 출처로 확인</text>
+</svg>

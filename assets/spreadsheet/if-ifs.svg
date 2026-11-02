@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="IF: 조건이 맞으면 한 값, 아니면 다른 값을 돌려준다. IFS는 조건 여러 개를 차례로 본다">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:10px}.t{font-size:13px;font-weight:700}.s{font-size:9px}.m{font-size:10px}.l{font-size:12px}.b{font-weight:700}.c{text-anchor:middle}.e{text-anchor:end}.a{fill:#f59e0b}.k{fill:#38bdf8}.mu{fill:#94a3b8}.d{fill:#0f172a}.e1{animation:e1 4s linear infinite}@keyframes e1{0%,14.9%{opacity:0}15%,96%{opacity:1}98%,100%{opacity:0}}.e2{animation:e2 4s linear infinite}@keyframes e2{0%,32.9%{opacity:0}33%,96%{opacity:1}98%,100%{opacity:0}}.e3{animation:e3 4s linear infinite}@keyframes e3{0%,50.9%{opacity:0}51%,96%{opacity:1}98%,100%{opacity:0}}.e4{animation:e4 4s linear infinite}@keyframes e4{0%,68.9%{opacity:0}69%,96%{opacity:1}98%,100%{opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="14" y="22" class="t">IF: 조건에 따라 다른 값</text>
+<rect x="14" y="30" width="292" height="22" rx="5" fill="#1e293b" stroke="#f59e0b" stroke-width="1"/>
+<text x="160" y="45" class="m c b a">=IF(B2&gt;=80, "합격", "재시험")</text>
+<rect x="14" y="60" width="64" height="20" rx="2" fill="#334155" stroke="#475569" stroke-width="1"/><text x="46.0" y="73.5" class="m c b">이름</text><rect x="78" y="60" width="50" height="20" rx="2" fill="#334155" stroke="#475569" stroke-width="1"/><text x="103.0" y="73.5" class="m c b">점수</text><rect x="128" y="60" width="70" height="20" rx="2" fill="#334155" stroke="#475569" stroke-width="1"/><text x="163.0" y="73.5" class="m c b">결과</text>
+<rect x="14" y="80" width="64" height="22" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="46.0" y="94.5" class="m c">지민</text><rect x="78" y="80" width="50" height="22" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="103.0" y="94.5" class="m c">92</text>
+<g class="e1"><rect x="128" y="80" width="70" height="22" rx="2" fill="#334155" stroke="#f59e0b" stroke-width="1"/><text x="163.0" y="94.5" class="m c b a">합격</text></g>
+<rect x="14" y="102" width="64" height="22" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="46.0" y="116.5" class="m c">수아</text><rect x="78" y="102" width="50" height="22" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="103.0" y="116.5" class="m c">74</text>
+<g class="e2"><rect x="128" y="102" width="70" height="22" rx="2" fill="#334155" stroke="#475569" stroke-width="1"/><text x="163.0" y="116.5" class="m c b">재시험</text></g>
+<rect x="14" y="124" width="64" height="22" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="46.0" y="138.5" class="m c">도윤</text><rect x="78" y="124" width="50" height="22" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="103.0" y="138.5" class="m c">85</text>
+<g class="e3"><rect x="128" y="124" width="70" height="22" rx="2" fill="#334155" stroke="#f59e0b" stroke-width="1"/><text x="163.0" y="138.5" class="m c b a">합격</text></g>
+<rect x="14" y="146" width="64" height="22" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="46.0" y="160.5" class="m c">하준</text><rect x="78" y="146" width="50" height="22" rx="2" fill="#1e293b" stroke="#475569" stroke-width="1"/><text x="103.0" y="160.5" class="m c">61</text>
+<g class="e4"><rect x="128" y="146" width="70" height="22" rx="2" fill="#334155" stroke="#475569" stroke-width="1"/><text x="163.0" y="160.5" class="m c b">재시험</text></g>
+<rect x="210" y="60" width="96" height="108" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+<text x="258" y="77" class="m c b k">IFS 예시</text><text x="258" y="98" class="m c">90 이상 → A</text><text x="258" y="116" class="m c">80 이상 → B</text><text x="258" y="134" class="m c">나머지 → C</text>
+<text x="258" y="156" class="s c mu">조건을 차례로 검사</text>
+<text x="160" y="190" class="s c mu">맞으면 앞의 값, 아니면 뒤의 값</text>
+</svg>

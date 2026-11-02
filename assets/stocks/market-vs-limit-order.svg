@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="시장가 주문은 가장 싼 매도호가에 바로 체결되고 지정가 주문은 원하는 가격에서 기다리는 그림">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.ac{fill:#f59e0b}.sk{fill:#38bdf8}.mu{fill:#94a3b8}.b{font-weight:700}.fb{transform-box:fill-box}.ob{transform-box:fill-box;transform-origin:bottom}.ol{transform-box:fill-box;transform-origin:left}.oc{transform-box:fill-box;transform-origin:center}@keyframes pul{0%,100%{opacity:.3}50%{opacity:1}}@keyframes slx{0%,10%{transform:translateX(0)}55%,80%{transform:translateX(var(--d))}100%{transform:translateX(0)}}@keyframes sly{0%,10%{transform:translateY(0)}55%,80%{transform:translateY(var(--d))}100%{transform:translateY(0)}}@keyframes grw{0%,100%{transform:scaleY(.55)}50%{transform:scaleY(1)}}@keyframes grx{0%,100%{transform:scaleX(.5)}50%{transform:scaleX(1)}}@keyframes blk{0%,49%{opacity:1}50%,100%{opacity:.15}}@keyframes tilt{0%,100%{transform:rotate(-8deg)}50%{transform:rotate(8deg)}}.pul{animation:pul 3s ease-in-out infinite}.slx{animation:slx 3s ease-in-out infinite}.sly{animation:sly 3s ease-in-out infinite}.grw{animation:grw 3s ease-in-out infinite}.grx{animation:grx 3s ease-in-out infinite}.blk{animation:blk 1.5s steps(1) infinite}.d1{animation-delay:-.5s}.d2{animation-delay:-1s}.d3{animation-delay:-1.5s}.d4{animation-delay:-2s}.d5{animation-delay:-2.5s}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t" x="16" y="26">시장가 · 지정가</text>
+<text class="s" x="16" y="188">시장가는 바로, 지정가는 내가 정한 가격에</text>
+<rect x="150" y="44" width="150" height="20" rx="4" fill="#334155" />
+<text class="m" x="160" y="58">10,200</text>
+<text class="m sk e" x="290" y="58">매도</text>
+<rect x="150" y="68" width="150" height="20" rx="4" fill="#334155" />
+<text class="m" x="160" y="82">10,100</text>
+<text class="m sk e" x="290" y="82">매도</text>
+<rect x="150" y="92" width="150" height="20" rx="4" fill="#334155" />
+<text class="m" x="160" y="106">10,050</text>
+<text class="m sk e" x="290" y="106">매도</text>
+<rect x="150" y="120" width="150" height="22" rx="4" fill="#1e293b" />
+<rect class="blk" x="150" y="120" width="150" height="22" rx="4" fill="none" stroke="#38bdf8" stroke-width="1.5" />
+<text class="m sk" x="160" y="135">10,000 · 내 지정가 대기</text>
+<path class="slx" d="M20 86 L52 86" fill="none" stroke="#f59e0b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" style="--d:78px"/>
+<polygon class="slx" style="--d:78px" points="52,79 66,86 52,93" fill="#f59e0b"/>
+<text class="m b ac" x="16" y="70">시장가</text>
+<text class="m b sk" x="16" y="136">지정가</text>
+<text class="s" x="16" y="156">싸게 사려다 안 팔리면</text>
+<text class="s" x="16" y="168">체결이 안 될 수 있다</text>
+</svg>

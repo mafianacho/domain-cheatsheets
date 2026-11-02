@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="OKR: 방향을 말하는 목표(O)와 달성 여부를 재는 핵심 결과(KR)를 짝으로 세우는 방법">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,10%{transform:scaleX(0)}40%,92%{transform:scaleX(1)}100%{transform:scaleX(0)}}.k1{animation:k1 5s ease-in-out infinite;transform-box:fill-box;transform-origin:0% 50%}@keyframes k2{0%,24%{transform:scaleX(0)}54%,92%{transform:scaleX(1)}100%{transform:scaleX(0)}}.k2{animation:k2 5s ease-in-out infinite;transform-box:fill-box;transform-origin:0% 50%}@keyframes k3{0%,38%{transform:scaleX(0)}68%,92%{transform:scaleX(1)}100%{transform:scaleX(0)}}.k3{animation:k3 5s ease-in-out infinite;transform-box:fill-box;transform-origin:0% 50%}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">OKR · 목표와 핵심 결과</text>
+<rect x="16" y="40" width="288" height="34" rx="8" fill="#334155" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="28" y="62" font-size="11" fill="#e2e8f0" font-weight="700">O  첫 사용 경험을 쉽게 만든다</text>
+<text x="16" y="103" font-size="10" fill="#e2e8f0">KR1 가입 완료율 상승</text>
+<rect x="176" y="90" width="128" height="14" rx="5" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<rect x="176" y="90" width="128.0" height="14" rx="5" fill="#38bdf8" class="k1"/>
+<text x="16" y="133" font-size="10" fill="#e2e8f0">KR2 첫 주문 전환 상승</text>
+<rect x="176" y="120" width="128" height="14" rx="5" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<rect x="176" y="120" width="89.60000000000001" height="14" rx="5" fill="#38bdf8" class="k2"/>
+<text x="16" y="163" font-size="10" fill="#e2e8f0">KR3 문의 건수 감소</text>
+<rect x="176" y="150" width="128" height="14" rx="5" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<rect x="176" y="150" width="56.32" height="14" rx="5" fill="#38bdf8" class="k3"/>
+<text x="160" y="186" font-size="10" fill="#94a3b8" text-anchor="middle">목표는 방향, 핵심 결과는 숫자</text>
+</svg>

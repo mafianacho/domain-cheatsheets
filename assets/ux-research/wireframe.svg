@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="와이어프레임: 색과 꾸밈 없이 화면에 무엇이 어디 놓이는지만 그린 설계도">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,6%{opacity:0;transform:translateY(-10px)}12%,92%{opacity:1;transform:translateY(0)}100%{opacity:0;transform:translateY(0)}}.k1{animation:k1 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,22%{opacity:0;transform:translateY(-10px)}28%,92%{opacity:1;transform:translateY(0)}100%{opacity:0;transform:translateY(0)}}.k2{animation:k2 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,38%{opacity:0;transform:translateY(-10px)}44%,92%{opacity:1;transform:translateY(0)}100%{opacity:0;transform:translateY(0)}}.k3{animation:k3 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,54%{opacity:0;transform:translateY(-10px)}60%,92%{opacity:1;transform:translateY(0)}100%{opacity:0;transform:translateY(0)}}.k4{animation:k4 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Wireframe · 와이어프레임</text>
+<rect x="100" y="38" width="120" height="148" rx="8" fill="#1e293b" stroke="#94a3b8" stroke-width="1.5"/>
+<g class="k1"><rect x="108" y="46" width="104" height="16" rx="3" fill="none" stroke="#94a3b8" stroke-width="1.5"/></g>
+<g class="k2"><rect x="108" y="70" width="104" height="44" rx="3" fill="none" stroke="#94a3b8" stroke-width="1.5"/><line x1="108" y1="70" x2="212" y2="114" stroke="#94a3b8" stroke-width="1.2" stroke-linecap="round"/><line x1="212" y1="70" x2="108" y2="114" stroke="#94a3b8" stroke-width="1.2" stroke-linecap="round"/></g>
+<g class="k3"><line x1="108" y1="128" x2="188" y2="128" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/><line x1="108" y1="140" x2="152" y2="140" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/></g>
+<g class="k4"><rect x="108" y="154" width="104" height="22" rx="4" fill="none" stroke="#94a3b8" stroke-width="1.5"/></g>
+<text x="16" y="58" font-size="10" fill="#94a3b8">메뉴</text>
+<line x1="48" y1="54" x2="100" y2="54" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3 3"/>
+<text x="16" y="96" font-size="10" fill="#94a3b8">이미지</text>
+<line x1="56" y1="92" x2="100" y2="92" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3 3"/>
+<text x="232" y="132" font-size="10" fill="#94a3b8">제목·설명</text>
+<line x1="190" y1="130" x2="228" y2="130" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3 3"/>
+<text x="232" y="168" font-size="10" fill="#94a3b8">버튼</text>
+<line x1="214" y1="165" x2="228" y2="165" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3 3"/>
+</svg>

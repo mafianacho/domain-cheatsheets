@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="한 번 답하고 끝나는 챗봇과 여러 단계를 도구로 진행해 목표에 이르는 에이전트 비교">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:13px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.b{font-weight:700}.a{fill:#f59e0b}.sb{fill:#38bdf8}.k{fill:#0f172a}.f{transform-box:fill-box;transform-origin:center}@keyframes bl{0%,100%{opacity:1}50%{opacity:.25}}@keyframes pu{0%,100%{transform:scale(1)}50%{transform:scale(1.1)}}@keyframes mv{0%,8%{transform:translate(0,0);opacity:1}80%{transform:translate(var(--x),var(--y));opacity:1}92%,100%{transform:translate(var(--x),var(--y));opacity:0}}@keyframes hl{0%,30%{stroke:#f59e0b}38%,100%{stroke:#475569}}.bl{animation:bl 1.2s infinite}.pu{animation:pu 1.6s ease-in-out infinite}.dt{animation:mv 3s ease-in-out infinite}.hl{animation:hl 3s infinite}.p1{--x:28px;--y:0px;animation-duration:2.4s}.p2{--x:119px;--y:0px;animation-duration:3.6s}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t c" x="160" y="26">에이전트 = 도구를 써서 목표까지 가는 AI</text>
+<text class="m b" x="12" y="56">챗봇</text>
+<rect class="" x="66" y="38" width="52" height="28" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text class="c m" x="92" y="56">질문</text>
+<line x1="118" y1="52" x2="143.0" y2="52.0" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/><polygon points="150,52 143.0,56.0 143.0,48.0" fill="#94a3b8"/>
+<rect class="" x="152" y="38" width="52" height="28" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text class="c m" x="178" y="56">답 한 번</text>
+<circle class="dt p1" cx="122" cy="52" r="4" fill="#f59e0b"/>
+<line x1="12" y1="90" x2="308" y2="90" stroke="#475569" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3"/>
+<text class="m b a" x="12" y="128">에이전트</text>
+<rect class="" x="78" y="110" width="48" height="28" rx="6" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<rect class="" x="136" y="110" width="48" height="28" rx="6" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<rect class="" x="194" y="110" width="48" height="28" rx="6" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<rect class="" x="252" y="110" width="48" height="28" rx="6" fill="#1e293b" stroke="#f59e0b" stroke-width="1.5"/>
+<text class="c m" x="102" y="128">목표</text>
+<text class="c m" x="160" y="128">검색</text>
+<text class="c m" x="218" y="128">수정</text>
+<text class="c m" x="276" y="128">완료</text>
+<line x1="126" y1="124" x2="129.0" y2="124.0" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/><polygon points="136,124 129.0,128.0 129.0,120.0" fill="#475569"/>
+<line x1="184" y1="124" x2="187.0" y2="124.0" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/><polygon points="194,124 187.0,128.0 187.0,120.0" fill="#475569"/>
+<line x1="242" y1="124" x2="245.0" y2="124.0" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/><polygon points="252,124 245.0,128.0 245.0,120.0" fill="#475569"/>
+<circle class="dt p2" cx="131" cy="124" r="4" fill="#f59e0b"/>
+<text class="s c" x="160" y="170">한 번 답하고 끝 vs 여러 단계를 스스로 진행</text>
+</svg>

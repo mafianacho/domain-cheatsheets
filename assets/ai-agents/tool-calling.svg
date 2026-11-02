@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="AI가 도구를 이 값으로 써 달라고 요청하고 앱이 실행한 결과가 돌아와 답이 되는 모습">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:13px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.b{font-weight:700}.a{fill:#f59e0b}.sb{fill:#38bdf8}.k{fill:#0f172a}.f{transform-box:fill-box;transform-origin:center}@keyframes bl{0%,100%{opacity:1}50%{opacity:.25}}@keyframes pu{0%,100%{transform:scale(1)}50%{transform:scale(1.1)}}@keyframes mv{0%,8%{transform:translate(0,0);opacity:1}80%{transform:translate(var(--x),var(--y));opacity:1}92%,100%{transform:translate(var(--x),var(--y));opacity:0}}@keyframes hl{0%,30%{stroke:#f59e0b}38%,100%{stroke:#475569}}.bl{animation:bl 1.2s infinite}.pu{animation:pu 1.6s ease-in-out infinite}.dt{animation:mv 3s ease-in-out infinite}.hl{animation:hl 3s infinite}.r{--x:140px;--y:0px}.q{--x:-140px;--y:0px}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t c" x="160" y="26">툴 콜링 = AI가 도구 사용을 요청</text>
+<rect class="" x="12" y="56" width="70" height="76" rx="8" fill="#334155" stroke="#f59e0b" stroke-width="1.5"/>
+<text class="c b a" x="47" y="98">AI</text>
+<rect class="" x="238" y="56" width="70" height="76" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text class="c sb" x="273" y="90">도구</text>
+<text class="c s" x="273" y="106">날씨 조회</text>
+<text class="c m a" x="160" y="76">get_weather("서울")</text>
+<line x1="88" y1="84" x2="225.0" y2="84.0" stroke="#f59e0b" stroke-width="2" stroke-linecap="round"/><polygon points="232,84 225.0,88.0 225.0,80.0" fill="#f59e0b"/>
+<text class="c s" x="160" y="104">앱이 대신 실행</text>
+<line x1="232" y1="124" x2="95.0" y2="124.0" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/><polygon points="88,124 95.0,120.0 95.0,128.0" fill="#38bdf8"/>
+<text class="c m sb" x="160" y="142">결과: 맑음 · 18도</text>
+<circle class="dt r" cx="92" cy="84" r="4" fill="#f59e0b"/>
+<circle class="dt q" cx="228" cy="124" r="4" fill="#38bdf8" style="animation-delay:-1.6s"/>
+<text class="s c" x="160" y="176">AI는 요청서만 쓰고, 실행은 앱(또는 서비스)이 한다</text>
+</svg>

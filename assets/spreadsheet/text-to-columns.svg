@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="텍스트 나누기: 한 칸에 몰린 글자를 쉼표 같은 구분 기호 기준으로 여러 칸으로 쪼갠다">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:10px}.t{font-size:13px;font-weight:700}.s{font-size:9px}.m{font-size:10px}.l{font-size:12px}.b{font-weight:700}.c{text-anchor:middle}.e{text-anchor:end}.a{fill:#f59e0b}.k{fill:#38bdf8}.mu{fill:#94a3b8}.d{fill:#0f172a}.e1{animation:e1 4s linear infinite}@keyframes e1{0%,34.9%{opacity:0}35%,96%{opacity:1}98%,100%{opacity:0}}.e2{animation:e2 4s linear infinite}@keyframes e2{0%,49.9%{opacity:0}50%,96%{opacity:1}98%,100%{opacity:0}}.e3{animation:e3 4s linear infinite}@keyframes e3{0%,64.9%{opacity:0}65%,96%{opacity:1}98%,100%{opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="14" y="22" class="t">텍스트 나누기: 한 칸 → 여러 칸</text>
+<rect x="14" y="34" width="292" height="30" rx="4" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<text x="30" y="55" class="l b">홍길동<tspan class="a">,</tspan>서울<tspan class="a">,</tspan>1988</text>
+<text x="160" y="84" class="m c a b">구분 기호 , (쉼표) 기준</text>
+<path d="M160 90v14M154 98l6 8l6-8" fill="none" stroke="#f59e0b" stroke-width="2"/>
+<g class="e1"><rect x="14" y="112" width="96" height="20" rx="2" fill="#334155" stroke="#475569" stroke-width="1"/><text x="62.0" y="125.5" class="m c b mu">이름</text><rect x="14" y="132" width="96" height="24" rx="2" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/><text x="62.0" y="147.5" class="l c b">홍길동</text></g>
+<g class="e2"><rect x="112" y="112" width="96" height="20" rx="2" fill="#334155" stroke="#475569" stroke-width="1"/><text x="160.0" y="125.5" class="m c b mu">지역</text><rect x="112" y="132" width="96" height="24" rx="2" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/><text x="160.0" y="147.5" class="l c b">서울</text></g>
+<g class="e3"><rect x="210" y="112" width="96" height="20" rx="2" fill="#334155" stroke="#475569" stroke-width="1"/><text x="258.0" y="125.5" class="m c b mu">출생연도</text><rect x="210" y="132" width="96" height="24" rx="2" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/><text x="258.0" y="147.5" class="l c b">1988</text></g>
+<text x="160" y="190" class="s c mu">구글 시트: 데이터 &gt; 텍스트를 열로 분할</text>
+</svg>

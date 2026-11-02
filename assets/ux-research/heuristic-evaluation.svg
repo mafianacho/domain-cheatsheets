@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="휴리스틱 평가: 전문가가 사용성 원칙 목록에 비추어 화면의 문제를 찾아내는 평가">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,28%{opacity:0}32%,92%{opacity:1}100%{opacity:0}}.k1{animation:k1 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,28%{opacity:0}32%,92%{opacity:1}100%{opacity:0}}.k2{animation:k2 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,60%{opacity:0}64%,92%{opacity:1}100%{opacity:0}}.k3{animation:k3 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,60%{opacity:0}64%,92%{opacity:1}100%{opacity:0}}.k4{animation:k4 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,4%{opacity:0}6%,20%{opacity:1}23%{opacity:0}100%{opacity:0}}.k5{animation:k5 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k6{0%,26%{opacity:0}28%,42%{opacity:1}45%{opacity:0}100%{opacity:0}}.k6{animation:k6 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k7{0%,48%{opacity:0}50%,64%{opacity:1}67%{opacity:0}100%{opacity:0}}.k7{animation:k7 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k8{0%,70%{opacity:0}72%,86%{opacity:1}89%{opacity:0}100%{opacity:0}}.k8{animation:k8 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Heuristic Evaluation · 휴리스틱 평가</text>
+<rect x="16" y="40" width="142" height="136" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<rect x="24" y="48" width="126" height="16" rx="3" fill="#334155"/>
+<rect x="24" y="72" width="126" height="40" rx="3" fill="#334155"/>
+<rect x="24" y="120" width="80" height="8" rx="3" fill="#475569"/>
+<rect x="24" y="136" width="56" height="24" rx="12" fill="#f59e0b"/>
+<rect x="88" y="136" width="56" height="24" rx="12" fill="#334155"/>
+<circle cx="86" cy="76" r="9" fill="#f59e0b" stroke="#0f172a" stroke-width="1.5" class="k1"/>
+<text x="86" y="80" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700" class="k2">1</text>
+<circle cx="150" cy="142" r="9" fill="#f59e0b" stroke="#0f172a" stroke-width="1.5" class="k3"/>
+<text x="150" y="146" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700" class="k4">2</text>
+<rect x="168" y="40" width="136" height="136" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="236" y="58" font-size="10" fill="#38bdf8" text-anchor="middle" font-weight="700">사용성 10원칙 점검</text>
+<rect x="176" y="70" width="120" height="22" rx="4" fill="#334155" stroke="#f59e0b" stroke-width="1.8" class="k5"/>
+<text x="186" y="85" font-size="10" fill="#e2e8f0">상태를 알려주나?</text>
+<rect x="176" y="96" width="120" height="22" rx="4" fill="#334155" stroke="#f59e0b" stroke-width="1.8" class="k6"/>
+<text x="186" y="111" font-size="10" fill="#e2e8f0">되돌릴 수 있나?</text>
+<rect x="176" y="122" width="120" height="22" rx="4" fill="#334155" stroke="#f59e0b" stroke-width="1.8" class="k7"/>
+<text x="186" y="137" font-size="10" fill="#e2e8f0">일관적인가?</text>
+<rect x="176" y="148" width="120" height="22" rx="4" fill="#334155" stroke="#f59e0b" stroke-width="1.8" class="k8"/>
+<text x="186" y="163" font-size="10" fill="#e2e8f0">실수를 막아주나?</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="주택 공시가격 합계에서 9억 또는 1세대 1주택 12억을 공제한 초과분에 종합부동산세가 과세된다는 막대 그림">
+<defs><style>.a1{animation:k1 4s ease-in-out infinite;transform-box:fill-box;transform-origin:center bottom}@keyframes k1{0%,6%{transform:scaleY(0)}40%{transform:scaleY(1)}84%,94%{transform:scaleY(1)}100%{transform:scaleY(0)}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style></defs>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="22" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">종합부동산세: 공시가격 합계가 크면 과세</text>
+<line x1="24" y1="140" x2="296" y2="140" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<line x1="30" y1="62" x2="290" y2="62" stroke="#f59e0b" stroke-width="1.2" stroke-dasharray="4 3" stroke-linecap="round"/>
+<line x1="30" y1="81.5" x2="290" y2="81.5" stroke="#38bdf8" stroke-width="1.2" stroke-dasharray="4 3" stroke-linecap="round"/>
+<text x="290" y="58" font-size="10" fill="#f59e0b" text-anchor="end" font-family="system-ui, sans-serif">12억 (1세대 1주택)</text>
+<text x="290" y="94.5" font-size="10" fill="#38bdf8" text-anchor="end" font-family="system-ui, sans-serif">9억 (그 외)</text>
+<rect x="60" y="81.5" width="56" height="58.5" rx="2" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<g class="a1"><rect x="60" y="44" width="56" height="37.5" rx="3" fill="#f59e0b"/></g>
+<text x="88" y="122" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">공시가격</text>
+<text x="88" y="134" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">합계</text>
+<text x="88" y="38" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">과세 대상</text>
+<text x="160" y="160" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">공시가격 합계에서 공제금액을 뺀 뒤</text>
+<text x="160" y="176" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">공정시장가액비율을 곱해 과세표준 계산</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="앱스 스크립트: 구글 시트 안에서 자바스크립트로 메뉴·자동 실행·시트 조작을 만든다">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:10px}.t{font-size:13px;font-weight:700}.s{font-size:9px}.m{font-size:10px}.l{font-size:12px}.b{font-weight:700}.c{text-anchor:middle}.e{text-anchor:end}.a{fill:#f59e0b}.k{fill:#38bdf8}.mu{fill:#94a3b8}.d{fill:#0f172a}.e1{animation:e1 4s linear infinite}@keyframes e1{0%,7.9%{opacity:0}8%,96%{opacity:1}98%,100%{opacity:0}}.e2{animation:e2 4s linear infinite}@keyframes e2{0%,19.9%{opacity:0}20%,96%{opacity:1}98%,100%{opacity:0}}.e3{animation:e3 4s linear infinite}@keyframes e3{0%,31.9%{opacity:0}32%,96%{opacity:1}98%,100%{opacity:0}}.e4{animation:e4 4s linear infinite}@keyframes e4{0%,43.9%{opacity:0}44%,96%{opacity:1}98%,100%{opacity:0}}.e5{transform-box:view-box;transform-origin:236px 62px;animation:e5 4s linear infinite;}@keyframes e5{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}.e6{animation:e6 4s linear infinite}@keyframes e6{0%,54.9%{opacity:0}55%,96%{opacity:1}98%,100%{opacity:0}}.e7{animation:e7 4s linear infinite}@keyframes e7{0%,66.9%{opacity:0}67%,96%{opacity:1}98%,100%{opacity:0}}.e8{animation:e8 4s linear infinite}@keyframes e8{0%,78.9%{opacity:0}79%,96%{opacity:1}98%,100%{opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="14" y="22" class="t">앱스 스크립트: 구글 시트 자동화</text>
+<rect x="14" y="34" width="156" height="92" rx="6" fill="#0f172a" stroke="#475569" stroke-width="1"/>
+<g class="e1"><text x="24" y="54" class="m b k">function 정리() {</text></g>
+<g class="e2"><text x="24" y="70" class="m">  시트를 정렬하고</text></g>
+<g class="e3"><text x="24" y="86" class="m">  결과를 채운다</text></g>
+<g class="e4"><text x="24" y="102" class="m b k">}</text></g>
+<circle cx="236" cy="62" r="24" fill="#1e293b" stroke="#f59e0b" stroke-width="2"/>
+<g class="e5"><line x1="236" y1="62" x2="236" y2="46" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round"/></g>
+<circle cx="236" cy="62" r="2.5" fill="#e2e8f0"/>
+<text x="236" y="100" class="m c b a">트리거</text><text x="236" y="113" class="s c mu">정해진 때 자동 실행</text>
+<path d="M172 80h40" stroke="#475569" stroke-width="1.5" stroke-dasharray="3 3"/>
+<g class="e6"><rect x="14" y="138" width="50" height="20" rx="2" fill="#334155" stroke="#38bdf8" stroke-width="1"/><text x="39.0" y="151.5" class="m c">정렬 끝</text></g>
+<g class="e7"><rect x="66" y="138" width="50" height="20" rx="2" fill="#334155" stroke="#38bdf8" stroke-width="1"/><text x="91.0" y="151.5" class="m c">합계</text></g>
+<g class="e8"><rect x="118" y="138" width="50" height="20" rx="2" fill="#334155" stroke="#38bdf8" stroke-width="1"/><text x="143.0" y="151.5" class="m c">완료</text></g>
+<text x="14" y="176" class="s mu">메뉴 추가 · 새 함수 · 메일 · 다른 구글 서비스 연결</text>
+<text x="160" y="190" class="s c mu">Excel의 VBA 매크로에 해당하는 구글 쪽 도구</text>
+</svg>

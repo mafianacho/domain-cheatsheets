@@ -6,6 +6,8 @@ export const INDEX_END = "<!-- index:end -->";
 
 export const GROUP_LABELS: Record<string, string> = {
   tech: "기술 · 디자인",
+  business: "기획 · 비즈니스",
+  money: "돈 · 자산",
   profession: "전문 분야",
 };
 

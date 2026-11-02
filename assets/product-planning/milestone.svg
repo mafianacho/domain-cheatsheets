@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="마일스톤: 프로젝트 중간중간 '여기까지 되면 한 단계 끝'이라고 표시한 이정표">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,8%{transform:scaleX(0)}80%,90%{transform:scaleX(1)}100%{transform:scaleX(0)}}.k1{animation:k1 5s ease-in-out infinite;transform-box:fill-box;transform-origin:0% 50%}@keyframes k2{0%,8%{opacity:0}12%,92%{opacity:1}100%{opacity:0}}.k2{animation:k2 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,30%{opacity:0}34%,92%{opacity:1}100%{opacity:0}}.k3{animation:k3 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,52%{opacity:0}56%,92%{opacity:1}100%{opacity:0}}.k4{animation:k4 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,74%{opacity:0}78%,92%{opacity:1}100%{opacity:0}}.k5{animation:k5 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Milestone · 마일스톤</text>
+<line x1="36" y1="104" x2="284" y2="104" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<line x1="36" y1="104" x2="284" y2="104" stroke="#f59e0b" stroke-width="4" stroke-linecap="round" class="k1"/>
+<path d="M52 92 L64 104 L52 116 L40 104 Z" fill="#334155" stroke="#1e293b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M52 92 L64 104 L52 116 L40 104 Z" fill="#f59e0b" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="k2"/>
+<text x="52" y="80" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">기획 확정</text>
+<path d="M124 92 L136 104 L124 116 L112 104 Z" fill="#334155" stroke="#1e293b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M124 92 L136 104 L124 116 L112 104 Z" fill="#f59e0b" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="k3"/>
+<text x="124" y="80" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">시안 완료</text>
+<path d="M196 92 L208 104 L196 116 L184 104 Z" fill="#334155" stroke="#1e293b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M196 92 L208 104 L196 116 L184 104 Z" fill="#f59e0b" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="k4"/>
+<text x="196" y="80" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">베타 공개</text>
+<path d="M268 92 L280 104 L268 116 L256 104 Z" fill="#334155" stroke="#1e293b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M268 92 L280 104 L268 116 L256 104 Z" fill="#f59e0b" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="k5"/>
+<text x="268" y="80" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">정식 출시</text>
+<text x="160" y="150" font-size="10" fill="#94a3b8" text-anchor="middle">큰 일정을 단계별로 나누는 표지판</text>
+</svg>

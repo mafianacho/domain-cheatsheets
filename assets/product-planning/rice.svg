@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="RICE: 도달 × 영향 × 확신 ÷ 노력으로 아이디어 점수를 매겨 큰 순서로 하는 방법">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,12%{transform:scaleX(0)}34%,92%{transform:scaleX(1)}100%{transform:scaleX(0)}}.k1{animation:k1 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:0% 50%}@keyframes k2{0%,34%{opacity:0}38%,92%{opacity:1}100%{opacity:0}}.k2{animation:k2 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,34%{transform:scaleX(0)}56%,92%{transform:scaleX(1)}100%{transform:scaleX(0)}}.k3{animation:k3 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:0% 50%}@keyframes k4{0%,56%{opacity:0}60%,92%{opacity:1}100%{opacity:0}}.k4{animation:k4 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,66%{opacity:0}70%,92%{opacity:1}100%{opacity:0}}.k5{animation:k5 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k6{0%,66%{opacity:0}70%,92%{opacity:1}100%{opacity:0}}.k6{animation:k6 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">RICE · 우선순위 점수</text>
+<text x="304" y="28" font-size="9" fill="#94a3b8" text-anchor="end">숫자는 예시</text>
+<rect x="16" y="40" width="288" height="26" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="160" y="58" font-size="12" fill="#38bdf8" text-anchor="middle" font-weight="700">도달 × 영향 × 확신 ÷ 노력 = 점수</text>
+<text x="16" y="95" font-size="10" fill="#e2e8f0">아이디어 A</text>
+<rect x="90" y="80" width="200" height="22" rx="5" fill="#1e293b"/>
+<rect x="90" y="80" width="85" height="22" rx="5" fill="#38bdf8" class="k1"/>
+<text x="181" y="95" font-size="11" fill="#e2e8f0" font-weight="700" class="k2">800</text>
+<text x="16" y="131" font-size="10" fill="#e2e8f0">아이디어 B</text>
+<rect x="90" y="116" width="200" height="22" rx="5" fill="#1e293b"/>
+<rect x="90" y="116" width="160" height="22" rx="5" fill="#f59e0b" class="k3"/>
+<text x="256" y="131" font-size="11" fill="#e2e8f0" font-weight="700" class="k4">1500</text>
+<rect x="16" y="154" width="288" height="28" rx="8" fill="#334155" stroke="#f59e0b" stroke-width="1.5" class="k5"/>
+<text x="160" y="172" font-size="11" fill="#f59e0b" text-anchor="middle" font-weight="700" class="k6">점수가 큰 B부터 만든다</text>
+</svg>

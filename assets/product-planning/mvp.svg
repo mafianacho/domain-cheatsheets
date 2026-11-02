@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="최소 기능 제품: 많은 기능 중 핵심만 먼저 만들어 내놓는 것">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,30%{opacity:1}38%,92%{opacity:.22}100%{opacity:1}}.k1{animation:k1 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,30%{opacity:1}38%,92%{opacity:.22}100%{opacity:1}}.k2{animation:k2 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,30%{opacity:1}38%,92%{opacity:.22}100%{opacity:1}}.k3{animation:k3 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,30%{opacity:1}38%,92%{opacity:.22}100%{opacity:1}}.k4{animation:k4 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,30%{opacity:0}38%,92%{opacity:1}100%{opacity:0}}.k5{animation:k5 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k6{0%,30%{opacity:.25}38%,92%{opacity:1}100%{opacity:.25}}.k6{animation:k6 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">MVP · 최소 기능 제품</text>
+<g class="k1"><rect x="16" y="52" width="54" height="38" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="43" y="76" font-size="10" fill="#94a3b8" text-anchor="middle">로그인</text></g>
+<rect x="76" y="52" width="54" height="38" rx="6" fill="#334155" stroke="#f59e0b" stroke-width="2"/>
+<text x="103" y="76" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">주문</text>
+<rect x="136" y="52" width="54" height="38" rx="6" fill="#334155" stroke="#f59e0b" stroke-width="2"/>
+<text x="163" y="76" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">결제</text>
+<g class="k2"><rect x="16" y="100" width="54" height="38" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="43" y="124" font-size="10" fill="#94a3b8" text-anchor="middle">리뷰</text></g>
+<g class="k3"><rect x="76" y="100" width="54" height="38" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="103" y="124" font-size="10" fill="#94a3b8" text-anchor="middle">쿠폰</text></g>
+<g class="k4"><rect x="136" y="100" width="54" height="38" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="163" y="124" font-size="10" fill="#94a3b8" text-anchor="middle">채팅</text></g>
+<text x="96" y="154" font-size="10" fill="#94a3b8" text-anchor="middle">전체 아이디어</text>
+<path d="M200 90 L220 90 M214.8 93.0 L220 90 L214.8 87.0" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="k5"/>
+<rect x="226" y="52" width="78" height="86" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="2" class="k6"/>
+<text x="265" y="72" font-size="12" fill="#f59e0b" text-anchor="middle" font-weight="700">MVP</text>
+<rect x="238" y="80" width="54" height="22" rx="5" fill="#334155" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="265" y="95" font-size="10" fill="#e2e8f0" text-anchor="middle">주문</text>
+<rect x="238" y="108" width="54" height="22" rx="5" fill="#334155" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="265" y="123" font-size="10" fill="#e2e8f0" text-anchor="middle">결제</text>
+<text x="265" y="154" font-size="9" fill="#94a3b8" text-anchor="middle">먼저 내놓고 배운다</text>
+</svg>

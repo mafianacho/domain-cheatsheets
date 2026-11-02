@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="temperature가 낮으면 한 후보가 압도적이고 높으면 후보가 고르게 퍼지는 막대 그림">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:13px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.b{font-weight:700}.a{fill:#f59e0b}.sb{fill:#38bdf8}.k{fill:#0f172a}.f{transform-box:fill-box;transform-origin:center}@keyframes bl{0%,100%{opacity:1}50%{opacity:.25}}@keyframes pu{0%,100%{transform:scale(1)}50%{transform:scale(1.1)}}@keyframes mv{0%,8%{transform:translate(0,0);opacity:1}80%{transform:translate(var(--x),var(--y));opacity:1}92%,100%{transform:translate(var(--x),var(--y));opacity:0}}@keyframes hl{0%,30%{stroke:#f59e0b}38%,100%{stroke:#475569}}.bl{animation:bl 1.2s infinite}.pu{animation:pu 1.6s ease-in-out infinite}.dt{animation:mv 3s ease-in-out infinite}.hl{animation:hl 3s infinite}.lo{animation:lo 4s infinite}.hi{opacity:0;animation:hi 4s infinite}@keyframes lo{0%,40%{opacity:1}50%,90%{opacity:0}100%{opacity:1}}@keyframes hi{0%,40%{opacity:0}50%,90%{opacity:1}100%{opacity:0}}.b0{transform-box:fill-box;transform-origin:center bottom;transform:scaleY(1.0);animation:k0 4s ease-in-out infinite}@keyframes k0{0%,35%{transform:scaleY(1.0)}55%,85%{transform:scaleY(0.55)}100%{transform:scaleY(1.0)}}.b1{transform-box:fill-box;transform-origin:center bottom;transform:scaleY(0.33);animation:k1 4s ease-in-out infinite}@keyframes k1{0%,35%{transform:scaleY(0.33)}55%,85%{transform:scaleY(0.5)}100%{transform:scaleY(0.33)}}.b2{transform-box:fill-box;transform-origin:center bottom;transform:scaleY(0.2);animation:k2 4s ease-in-out infinite}@keyframes k2{0%,35%{transform:scaleY(0.2)}55%,85%{transform:scaleY(0.47)}100%{transform:scaleY(0.2)}}.b3{transform-box:fill-box;transform-origin:center bottom;transform:scaleY(0.11);animation:k3 4s ease-in-out infinite}@keyframes k3{0%,35%{transform:scaleY(0.11)}55%,85%{transform:scaleY(0.42)}100%{transform:scaleY(0.11)}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t c" x="160" y="26">Temperature = 답의 다양성 조절</text>
+<line x1="50" y1="140" x2="260" y2="140" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<rect class="b0" x="60" y="56" width="36" height="84" rx="4" fill="#38bdf8" stroke="#38bdf8" stroke-width="1"/>
+<text class="c s" x="78" y="156">맑아요</text>
+<rect class="b1" x="110" y="56" width="36" height="84" rx="4" fill="#475569" stroke="#475569" stroke-width="1"/>
+<text class="c s" x="128" y="156">흐려요</text>
+<rect class="b2" x="160" y="56" width="36" height="84" rx="4" fill="#475569" stroke="#475569" stroke-width="1"/>
+<text class="c s" x="178" y="156">추워요</text>
+<rect class="b3" x="210" y="56" width="36" height="84" rx="4" fill="#475569" stroke="#475569" stroke-width="1"/>
+<text class="c s" x="228" y="156">눈이요</text>
+<text class="c m sb lo" x="160" y="46">낮음 → 매번 비슷한 답</text>
+<text class="c m a hi" x="160" y="46">높음 → 매번 다른 답</text>
+<text class="s c" x="160" y="180">사실 확인·요약은 낮게, 아이디어는 높게(모델에 따라 고정도 있음)</text>
+</svg>
