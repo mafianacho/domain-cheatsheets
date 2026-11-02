@@ -128,7 +128,8 @@ test("every real sheet is reachable through the MCP tools", async () => {
     const list = textOf(await client.callTool({ name: "list_domains", arguments: {} }));
     for (const s of sheets) {
       assert.ok(list.includes(`**${s.id}**`), s.id);
-      const first = s.terms[0]!;
+      // first own term: a 원본 cross-reference resolves to another sheet's card
+      const first = s.terms.find((t) => !t.canonical)!;
       const card = textOf(await client.callTool({ name: "get_term", arguments: { domain: s.id, term: first.id } }));
       assert.ok(card.includes(first.definition), `${s.id}/${first.id}`);
       const hit = textOf(await client.callTool({ name: "search_terms", arguments: { query: first.names[0]!, domain: s.id } }));

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="고객이 망설이는 질문마다 미리 답을 붙여 두는 반론 처리 그림">
+<style>.tb{transform-box:fill-box;transform-origin:center}.tl{transform-box:fill-box;transform-origin:left center}@keyframes k1{0%,58%{opacity:1}60%,62.0%{opacity:0}65.0%,100%{opacity:1}}.k1{animation:k1 4s linear infinite}@keyframes k2{0%,58%{opacity:1}60%,72.7%{opacity:0}75.7%,100%{opacity:1}}.k2{animation:k2 4s linear infinite}@keyframes k3{0%,58%{opacity:1}60%,83.3%{opacity:0}86.3%,100%{opacity:1}}.k3{animation:k3 4s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="22" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">반론 처리 · Objection Handling</text>
+<g class="k1">
+<rect x="16" y="34" width="134" height="30" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+<text x="83" y="53" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">배송이 늦으면?</text>
+<path d="M154,43 l6,6 l-6,6" fill="none" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="170" y="34" width="134" height="30" rx="8" fill="#f59e0b"/>
+<text x="237" y="53" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">오늘 출발, 내일 도착</text>
+</g>
+<g class="k2">
+<rect x="16" y="74" width="134" height="30" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+<text x="83" y="93" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">사이즈가 안 맞으면?</text>
+<path d="M154,83 l6,6 l-6,6" fill="none" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="170" y="74" width="134" height="30" rx="8" fill="#f59e0b"/>
+<text x="237" y="93" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">사이즈 교환은 무료</text>
+</g>
+<g class="k3">
+<rect x="16" y="114" width="134" height="30" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+<text x="83" y="133" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">진짜 효과 있어?</text>
+<path d="M154,123 l6,6 l-6,6" fill="none" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="170" y="114" width="134" height="30" rx="8" fill="#f59e0b"/>
+<text x="237" y="133" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">후기 1,284개 (예시)</text>
+</g>
+<text x="160" y="170" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">망설이는 이유를 미리 답해 두면 이탈이 줄어요</text>
+</svg>

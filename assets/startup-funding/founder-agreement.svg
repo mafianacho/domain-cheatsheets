@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="공동창업자 계약서에 미리 적어 둘 다섯 가지를 체크리스트로 하나씩 표시하는 그림">
+<style>@keyframes rv_50{0%,9.09%{opacity:0}12.09%,94%{opacity:1}97%,100%{opacity:0}}.rv_50{animation:rv_50 5.0s linear infinite}@keyframes rv_130{0%,23.64%{opacity:0}26.64%,94%{opacity:1}97%,100%{opacity:0}}.rv_130{animation:rv_130 5.0s linear infinite}@keyframes rv_210{0%,38.18%{opacity:0}41.18%,94%{opacity:1}97%,100%{opacity:0}}.rv_210{animation:rv_210 5.0s linear infinite}@keyframes rv_290{0%,52.73%{opacity:0}55.73%,94%{opacity:1}97%,100%{opacity:0}}.rv_290{animation:rv_290 5.0s linear infinite}@keyframes rv_370{0%,67.27%{opacity:0}70.27%,94%{opacity:1}97%,100%{opacity:0}}.rv_370{animation:rv_370 5.0s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="24" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">공동창업자 계약: 처음에 정할 것</text>
+<rect x="24" y="34" width="272" height="126" rx="4" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<rect x="36" y="48" width="13" height="13" rx="3" fill="#0f172a" stroke="#475569" stroke-width="1.5"/>
+<text x="60" y="59" font-size="10" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">역할과 책임 (누가 무엇을)</text>
+<g class="rv_50"><rect x="36" y="48" width="13" height="13" rx="3" fill="#f59e0b"/><path d="M39,55 l3,3.5 l6,-7.5" fill="none" stroke="#0f172a" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="36" y="69" width="13" height="13" rx="3" fill="#0f172a" stroke="#475569" stroke-width="1.5"/>
+<text x="60" y="80" font-size="10" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">지분 비율</text>
+<g class="rv_130"><rect x="36" y="69" width="13" height="13" rx="3" fill="#f59e0b"/><path d="M39,76 l3,3.5 l6,-7.5" fill="none" stroke="#0f172a" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="36" y="90" width="13" height="13" rx="3" fill="#0f172a" stroke="#475569" stroke-width="1.5"/>
+<text x="60" y="101" font-size="10" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">베스팅 (시간에 따라 나눠 받기)</text>
+<g class="rv_210"><rect x="36" y="90" width="13" height="13" rx="3" fill="#f59e0b"/><path d="M39,97 l3,3.5 l6,-7.5" fill="none" stroke="#0f172a" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="36" y="111" width="13" height="13" rx="3" fill="#0f172a" stroke="#475569" stroke-width="1.5"/>
+<text x="60" y="122" font-size="10" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">한 명이 떠날 때 지분 처리</text>
+<g class="rv_290"><rect x="36" y="111" width="13" height="13" rx="3" fill="#f59e0b"/><path d="M39,118 l3,3.5 l6,-7.5" fill="none" stroke="#0f172a" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="36" y="132" width="13" height="13" rx="3" fill="#0f172a" stroke="#475569" stroke-width="1.5"/>
+<text x="60" y="143" font-size="10" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">만든 결과물(IP)은 회사 것</text>
+<g class="rv_370"><rect x="36" y="132" width="13" height="13" rx="3" fill="#f59e0b"/><path d="M39,139 l3,3.5 l6,-7.5" fill="none" stroke="#0f172a" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="160" y="182" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">서면으로 남겨 두면 나중에 다투지 않는다</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="출처를 숨기는 표절과 허락 없이 이용하는 저작권 침해가 겹치기도 하고 다르기도 하다는 벤 다이어그램">
+<style>.tb{transform-box:fill-box;transform-origin:center}.tl{transform-box:fill-box;transform-origin:left center}@keyframes k1{0%,100%{opacity:1}50%{opacity:.5}}.k1{animation:k1 4s ease-in-out infinite}@keyframes k2{0%,100%{opacity:.5}50%{opacity:1}}.k2{animation:k2 4s ease-in-out infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="22" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">표절과 저작권 침해 · Plagiarism vs Infringement</text>
+<circle cx="120" cy="102" r="54" fill="none" stroke="#f59e0b" stroke-width="3" class="k1"/>
+<circle cx="200" cy="102" r="54" fill="none" stroke="#38bdf8" stroke-width="3" class="k2"/>
+<text x="96" y="40" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">표절 · 윤리</text>
+<text x="224" y="40" font-size="10" fill="#38bdf8" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">침해 · 법</text>
+<text x="96" y="98" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">출처 없이</text>
+<text x="96" y="112" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">내 글처럼</text>
+<text x="224" y="98" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">허락 없이</text>
+<text x="224" y="112" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">가져다 씀</text>
+<text x="160" y="106" font-size="9" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">겹침</text>
+<text x="160" y="172" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">정당한 인용 + 출처 표시는 허용될 수 있어요</text>
+<text x="160" y="186" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">가져오기 전 출처와 사용 허락부터 확인</text>
+</svg>

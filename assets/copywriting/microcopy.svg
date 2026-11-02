@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="입력칸 안내와 오류 문구, 버튼 글자 같은 작은 글자가 가입 화면을 이끄는 그림">
+<style>.tb{transform-box:fill-box;transform-origin:center}.tl{transform-box:fill-box;transform-origin:left center}@keyframes k1{0%,45%{opacity:1}50%,95%{opacity:0}100%{opacity:1}}.k1{animation:k1 4s linear infinite}@keyframes k2{0%,58%{opacity:1}60%,62.0%{opacity:0}65.0%,100%{opacity:1}}.k2{animation:k2 4s linear infinite}@keyframes k3{0%,100%{transform:scale(1)}50%{transform:scale(1.04)}}.k3{animation:k3 4s ease-in-out infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="22" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">마이크로카피 · Microcopy</text>
+<rect x="50" y="32" width="220" height="128" rx="10" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<text x="64" y="52" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">이메일</text>
+<rect x="64" y="58" width="192" height="24" rx="6" fill="#0f172a" stroke="#f59e0b" stroke-width="1"/>
+<text x="72" y="74" font-size="10" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">mina@</text>
+<rect x="104" y="64" width="1.5" height="12" rx="0" fill="#e2e8f0" class="k1"/>
+<g class="k2">
+<text x="64" y="96" font-size="9" fill="#f59e0b" text-anchor="start" font-family="system-ui, sans-serif">이메일에 @ 뒤 주소가 빠졌어요</text>
+</g>
+<rect x="64" y="110" width="192" height="30" rx="8" fill="#334155" class="k3 tb"/>
+<text x="160" y="130" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">가입하기</text>
+<text x="160" y="182" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">안내 · 오류 · 버튼 글자가 모두 마이크로카피</text>
+</svg>

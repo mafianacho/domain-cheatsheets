@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="운영사 투자 2억 원 이상 위에 정부 연구개발비 최대 8억 원이 매칭되는 쌓기 막대 그림. 2026년 일반 트랙 기준">
+<style>@keyframes grYcenter_60_140{0%,10.91%{transform:scaleY(0)}25.45%,94%{transform:scaleY(1)}97%,100%{transform:scaleY(0)}}.grYcenter_60_140{transform-box:fill-box;transform-origin:center bottom;animation:grYcenter_60_140 5.0s linear infinite}@keyframes grYcenter_160_280{0%,29.09%{transform:scaleY(0)}50.91%,94%{transform:scaleY(1)}97%,100%{transform:scaleY(0)}}.grYcenter_160_280{transform-box:fill-box;transform-origin:center bottom;animation:grYcenter_160_280 5.0s linear infinite}@keyframes rv_140{0%,25.45%{opacity:0}28.45%,94%{opacity:1}97%,100%{opacity:0}}.rv_140{animation:rv_140 5.0s linear infinite}@keyframes rv_280{0%,50.91%{opacity:0}53.91%,94%{opacity:1}97%,100%{opacity:0}}.rv_280{animation:rv_280 5.0s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="24" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">TIPS(팁스): 민간 투자에 정부 R&amp;D 매칭</text>
+<line x1="96" y1="150" x2="190" y2="150" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<rect x="110" y="130" width="66" height="20" rx="3" fill="#334155"/>
+<rect x="110" y="50" width="66" height="80" rx="3" fill="#334155"/>
+<g class="grYcenter_60_140"><rect x="110" y="130" width="66" height="20" rx="3" fill="#f59e0b"/></g>
+<g class="grYcenter_160_280"><rect x="110" y="50" width="66" height="80" rx="3" fill="#38bdf8"/></g>
+<g class="rv_140"><text x="198" y="136" font-size="10" fill="#f59e0b" text-anchor="start" font-weight="700" font-family="system-ui, sans-serif">운영사 투자</text><text x="198" y="149" font-size="10" fill="#f59e0b" text-anchor="start" font-family="system-ui, sans-serif">2억원 이상</text></g>
+<g class="rv_280"><text x="198" y="86" font-size="10" fill="#38bdf8" text-anchor="start" font-weight="700" font-family="system-ui, sans-serif">정부 R&amp;D 매칭</text><text x="198" y="99" font-size="10" fill="#38bdf8" text-anchor="start" font-family="system-ui, sans-serif">최대 8억원</text></g>
+<text x="20" y="70" font-size="9" fill="#e2e8f0" text-anchor="start" font-weight="700" font-family="system-ui, sans-serif">2026년 일반 트랙</text>
+<text x="20" y="84" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">연구개발 최대 2년</text>
+<text x="20" y="98" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">창업 7년 이내</text>
+<text x="160" y="172" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">운영사가 먼저 투자하고, 정부가 R&amp;D를 매칭한다</text>
+<text x="160" y="188" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">공고마다 조건이 바뀐다 — 최신 공고 확인</text>
+</svg>

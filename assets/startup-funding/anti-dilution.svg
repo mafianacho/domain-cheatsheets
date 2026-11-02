@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="전환가격이 오천 원에서 사천 원으로 조정되면 같은 투자금 1억 원으로 전환되는 주식이 이만 주에서 이만 오천 주로 늘어나는 비교">
+<style>@keyframes rv_120{0%,21.82%{opacity:0}24.82%,94%{opacity:1}97%,100%{opacity:0}}.rv_120{animation:rv_120 5.0s linear infinite}@keyframes rv_160{0%,29.09%{opacity:0}32.09%,94%{opacity:1}97%,100%{opacity:0}}.rv_160{animation:rv_160 5.0s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="24" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">희석 방지: 전환가격 조정</text>
+<rect x="16" y="40" width="130" height="84" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="81" y="58" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">처음 조건</text>
+<text x="81" y="76" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">전환가격 5,000원</text>
+<text x="81" y="92" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">1억 ÷ 5,000원</text>
+<text x="81" y="112" font-size="12" fill="#38bdf8" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">20,000주</text>
+<g class="rv_120"><line x1="150" y1="82" x2="170" y2="82" stroke="#f59e0b" stroke-width="2" stroke-linecap="round"/><path d="M164.6,84.6 L170,82 L164.6,79.4" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="rv_160"><rect x="174" y="40" width="130" height="84" rx="6" fill="#1e293b" stroke="#f59e0b" stroke-width="1.5"/><text x="239" y="58" font-size="9" fill="#f59e0b" text-anchor="middle" font-family="system-ui, sans-serif">다음 투자가 더 싸면</text><text x="239" y="76" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">전환가격 4,000원</text><text x="239" y="92" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">1억 ÷ 4,000원</text><text x="239" y="112" font-size="12" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">25,000주</text></g>
+<text x="160" y="148" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">다음 라운드 가격이 더 낮으면 전환가격을 내려 준다</text>
+<text x="160" y="168" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">투자금 1억 원 기준 예시 · 조정 방식은 계약마다 다름</text>
+</svg>

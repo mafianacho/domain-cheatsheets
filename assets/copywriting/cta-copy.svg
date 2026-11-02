@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="행동과 얻는 것이 담긴 버튼 글자와 망설임을 덜어 주는 한 줄을 세트로 보여 주는 그림">
+<style>.tb{transform-box:fill-box;transform-origin:center}.tl{transform-box:fill-box;transform-origin:left center}@keyframes k1{0%,100%{transform:scale(1)}50%{transform:scale(1.05)}}.k1{animation:k1 4s ease-in-out infinite}@keyframes k2{0%,58%{opacity:1}60%,62.0%{opacity:0}65.0%,100%{opacity:1}}.k2{animation:k2 4s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="22" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">CTA 문구 · CTA Copy</text>
+<text x="160" y="46" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">1  행동 + 얻는 것</text>
+<rect x="56" y="56" width="208" height="40" rx="10" fill="#f59e0b" class="k1 tb"/>
+<text x="160" y="81" font-size="13" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">오늘 주문하고 내일 받기</text>
+<g class="k2">
+<text x="160" y="114" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">카드 등록 없이 · 언제든 해지 가능</text>
+</g>
+<text x="160" y="134" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">2  망설임을 덜어 주는 한마디</text>
+<rect x="24" y="148" width="272" height="36" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+<text x="160" y="170" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">버튼 글자와 버튼 밑 한 줄은 한 세트</text>
+</svg>

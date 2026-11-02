@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="처음엔 돈을 빌려주는 사채로 시작해 전환권을 행사하면 주식이 되는 세 단계 그림">
+<style>@keyframes wn_30_190{0%,5.0%{opacity:0}7.0%,31.67%{opacity:1}33.67%,100%{opacity:0}}.wn_30_190{animation:wn_30_190 5.0s linear infinite}@keyframes wn_190_350{0%,31.67%{opacity:0}33.67%,58.33%{opacity:1}60.33%,100%{opacity:0}}.wn_190_350{animation:wn_190_350 5.0s linear infinite}@keyframes wn_350_510{0%,58.33%{opacity:0}60.33%,85.0%{opacity:1}87.0%,100%{opacity:0}}.wn_350_510{animation:wn_350_510 5.0s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="24" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">전환사채(CB): 빚으로 시작해 주식으로</text>
+<rect x="14" y="56" width="88" height="46" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="58" y="76" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">① 빌려줌</text>
+<text x="58" y="92" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">(사채)</text>
+<line x1="104" y1="79" x2="114" y2="79" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/><path d="M108.6,81.6 L114,79 L108.6,76.4" fill="none" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="wn_30_190" opacity="0"><rect x="14" y="56" width="88" height="46" rx="6" fill="#f59e0b"/><text x="58" y="76" font-size="11" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">① 빌려줌</text><text x="58" y="92" font-size="9" fill="#0f172a" text-anchor="middle" font-family="system-ui, sans-serif">(사채)</text></g>
+<rect x="116" y="56" width="88" height="46" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="160" y="76" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">② 전환권</text>
+<text x="160" y="92" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">조건 충족 시</text>
+<line x1="206" y1="79" x2="216" y2="79" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/><path d="M210.6,81.6 L216,79 L210.6,76.4" fill="none" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="wn_190_350" opacity="0"><rect x="116" y="56" width="88" height="46" rx="6" fill="#f59e0b"/><text x="160" y="76" font-size="11" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">② 전환권</text><text x="160" y="92" font-size="9" fill="#0f172a" text-anchor="middle" font-family="system-ui, sans-serif">조건 충족 시</text></g>
+<rect x="218" y="56" width="88" height="46" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="262" y="76" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">③ 주식</text>
+<text x="262" y="92" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">주주가 됨</text>
+<g class="wn_350_510" opacity="0"><rect x="218" y="56" width="88" height="46" rx="6" fill="#38bdf8"/><text x="262" y="76" font-size="11" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">③ 주식</text><text x="262" y="92" font-size="9" fill="#0f172a" text-anchor="middle" font-family="system-ui, sans-serif">주주가 됨</text></g>
+<text x="160" y="134" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">처음엔 빚(이자·만기), 전환하면 주주</text>
+<text x="160" y="156" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">상법 제513조 · 전환 조건은 발행할 때 정해 둔다</text>
+<text x="160" y="174" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">누가 어떤 기준으로 정하는지는 정관·회사 상황에 따라 다름</text>
+</svg>
