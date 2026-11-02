@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="사용자는 리버스 프록시 하나만 보고 접속하고, 프록시가 경로에 따라 웹 서버와 API 서버로 요청을 나눠 전달하는 그림">
+<style>@keyframes mv_30_44_100_90_104_100{0%,6.0%{opacity:0;transform:translate(44px,100px)}6.4%{opacity:1;transform:translate(44px,100px)}18.0%{opacity:1;transform:translate(104px,100px)}18.8%,100%{opacity:0;transform:translate(104px,100px)}}.mv_30_44_100_90_104_100{animation:mv_30_44_100_90_104_100 5.0s linear infinite}@keyframes mv_90_176_100_180_226_68{0%,18.0%{opacity:0;transform:translate(176px,100px)}18.4%{opacity:1;transform:translate(176px,100px)}36.0%{opacity:1;transform:translate(226px,68px)}36.8%,100%{opacity:0;transform:translate(226px,68px)}}.mv_90_176_100_180_226_68{animation:mv_90_176_100_180_226_68 5.0s linear infinite}@keyframes mv_260_44_100_320_104_100{0%,52.0%{opacity:0;transform:translate(44px,100px)}52.4%{opacity:1;transform:translate(44px,100px)}64.0%{opacity:1;transform:translate(104px,100px)}64.8%,100%{opacity:0;transform:translate(104px,100px)}}.mv_260_44_100_320_104_100{animation:mv_260_44_100_320_104_100 5.0s linear infinite}@keyframes mv_320_176_100_410_226_134{0%,64.0%{opacity:0;transform:translate(176px,100px)}64.4%{opacity:1;transform:translate(176px,100px)}82.0%{opacity:1;transform:translate(226px,134px)}82.8%,100%{opacity:0;transform:translate(226px,134px)}}.mv_320_176_100_410_226_134{animation:mv_320_176_100_410_226_134 5.0s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="24" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">리버스 프록시</text>
+<circle cx="28" cy="91" r="4.5" fill="#94a3b8"/><path d="M20,108 Q20,98 28,98 Q36,98 36,108 Z" fill="#94a3b8" stroke="#94a3b8" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="28" y="128" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">사용자</text>
+<line x1="44" y1="100" x2="104" y2="100" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<rect x="104" y="74" width="72" height="52" rx="8" fill="#334155" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="140" y="96" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">리버스</text>
+<text x="140" y="110" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">프록시</text>
+<rect x="214" y="38" width="96" height="126" rx="8" fill="none" stroke="#475569" stroke-width="1.5" stroke-dasharray="4 3"/>
+<rect x="226" y="50" width="72" height="36" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="262" y="65" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">웹 서버</text>
+<text x="262" y="79" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">/</text>
+<rect x="226" y="116" width="72" height="36" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="262" y="131" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">API 서버</text>
+<text x="262" y="145" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">/api</text>
+<line x1="176" y1="100" x2="226" y2="68" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="176" y1="100" x2="226" y2="134" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="-5.0" y="-5.0" width="10" height="10" rx="2" fill="#f59e0b" class="mv_30_44_100_90_104_100" opacity="0" transform="translate(44,100)"/>
+<rect x="-5.0" y="-5.0" width="10" height="10" rx="2" fill="#f59e0b" class="mv_90_176_100_180_226_68" opacity="0" transform="translate(176,100)"/>
+<rect x="-5.0" y="-5.0" width="10" height="10" rx="2" fill="#38bdf8" class="mv_260_44_100_320_104_100" opacity="0" transform="translate(44,100)"/>
+<rect x="-5.0" y="-5.0" width="10" height="10" rx="2" fill="#38bdf8" class="mv_320_176_100_410_226_134" opacity="0" transform="translate(176,100)"/>
+<text x="262" y="177" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">밖에서 안 보임</text>
+<text x="100" y="160" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">주소는 하나</text>
+</svg>

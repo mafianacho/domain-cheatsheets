@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="비례(등신): 머리 하나의 높이를 한 칸으로 삼아 몸 전체 높이를 센다. 7등신과 3등신 비교">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,2%{opacity:0}6%,92%{opacity:1}100%{opacity:0}}.k1{animation:k1 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,10%{opacity:0}14%,92%{opacity:1}100%{opacity:0}}.k2{animation:k2 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,10%{opacity:0}14%,92%{opacity:1}100%{opacity:0}}.k3{animation:k3 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,18%{opacity:0}22%,92%{opacity:1}100%{opacity:0}}.k4{animation:k4 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,18%{opacity:0}22%,92%{opacity:1}100%{opacity:0}}.k5{animation:k5 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k6{0%,26%{opacity:0}30%,92%{opacity:1}100%{opacity:0}}.k6{animation:k6 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k7{0%,26%{opacity:0}30%,92%{opacity:1}100%{opacity:0}}.k7{animation:k7 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k8{0%,34%{opacity:0}38%,92%{opacity:1}100%{opacity:0}}.k8{animation:k8 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k9{0%,34%{opacity:0}38%,92%{opacity:1}100%{opacity:0}}.k9{animation:k9 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k10{0%,42%{opacity:0}46%,92%{opacity:1}100%{opacity:0}}.k10{animation:k10 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k11{0%,42%{opacity:0}46%,92%{opacity:1}100%{opacity:0}}.k11{animation:k11 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k12{0%,50%{opacity:0}54%,92%{opacity:1}100%{opacity:0}}.k12{animation:k12 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k13{0%,50%{opacity:0}54%,92%{opacity:1}100%{opacity:0}}.k13{animation:k13 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k14{0%,58%{opacity:0}62%,92%{opacity:1}100%{opacity:0}}.k14{animation:k14 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k15{0%,10%{opacity:0}14%,92%{opacity:1}100%{opacity:0}}.k15{animation:k15 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k16{0%,24%{opacity:0}28%,92%{opacity:1}100%{opacity:0}}.k16{animation:k16 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k17{0%,38%{opacity:0}42%,92%{opacity:1}100%{opacity:0}}.k17{animation:k17 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">비례 · 등신</text>
+<text x="304" y="28" font-size="9" fill="#94a3b8" text-anchor="end">머리 높이 = 1칸</text>
+<line x1="52" y1="46" x2="132" y2="46" stroke="#475569" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3"/>
+<text x="44" y="58" font-size="9" fill="#94a3b8" text-anchor="end" class="k1">1</text>
+<line x1="52" y1="63" x2="132" y2="63" stroke="#475569" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3" class="k2"/>
+<text x="44" y="75" font-size="9" fill="#94a3b8" text-anchor="end" class="k3">2</text>
+<line x1="52" y1="80" x2="132" y2="80" stroke="#475569" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3" class="k4"/>
+<text x="44" y="92" font-size="9" fill="#94a3b8" text-anchor="end" class="k5">3</text>
+<line x1="52" y1="97" x2="132" y2="97" stroke="#475569" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3" class="k6"/>
+<text x="44" y="109" font-size="9" fill="#94a3b8" text-anchor="end" class="k7">4</text>
+<line x1="52" y1="114" x2="132" y2="114" stroke="#475569" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3" class="k8"/>
+<text x="44" y="126" font-size="9" fill="#94a3b8" text-anchor="end" class="k9">5</text>
+<line x1="52" y1="131" x2="132" y2="131" stroke="#475569" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3" class="k10"/>
+<text x="44" y="143" font-size="9" fill="#94a3b8" text-anchor="end" class="k11">6</text>
+<line x1="52" y1="148" x2="132" y2="148" stroke="#475569" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3" class="k12"/>
+<text x="44" y="160" font-size="9" fill="#94a3b8" text-anchor="end" class="k13">7</text>
+<line x1="52" y1="165" x2="132" y2="165" stroke="#475569" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3" class="k14"/>
+<ellipse cx="92" cy="54.5" rx="9" ry="8.5" fill="#334155" stroke="#e2e8f0" stroke-width="2"/>
+<path d="M82 68 L102 68 L100 107.2 L84 107.2 Z" fill="#e2e8f0" stroke="#334155" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M82 70 L70 100.4" fill="none" stroke="#e2e8f0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M102 70 L114 100.4" fill="none" stroke="#e2e8f0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M86 107.2 L84 165" fill="none" stroke="#e2e8f0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M98 107.2 L100 165" fill="none" stroke="#e2e8f0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="204" y1="57" x2="284" y2="57" stroke="#475569" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3"/>
+<text x="196" y="79" font-size="9" fill="#94a3b8" text-anchor="end" class="k15">1</text>
+<line x1="204" y1="93" x2="284" y2="93" stroke="#475569" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3"/>
+<text x="196" y="115" font-size="9" fill="#94a3b8" text-anchor="end" class="k16">2</text>
+<line x1="204" y1="129" x2="284" y2="129" stroke="#475569" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3"/>
+<text x="196" y="151" font-size="9" fill="#94a3b8" text-anchor="end" class="k17">3</text>
+<line x1="204" y1="165" x2="284" y2="165" stroke="#475569" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3"/>
+<circle cx="244" cy="75" r="17" fill="#334155" stroke="#f59e0b" stroke-width="2.5"/>
+<path d="M230 97 L258 97 L260 133 L228 133 Z" fill="#f59e0b" stroke="#334155" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M234 133 L234 165" fill="none" stroke="#f59e0b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M254 133 L254 165" fill="none" stroke="#f59e0b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="186" font-size="10" fill="#94a3b8" text-anchor="middle">7등신 · 현실 비례</text>
+<text x="244" y="186" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700">3등신 · 귀여운 SD</text>
+</svg>

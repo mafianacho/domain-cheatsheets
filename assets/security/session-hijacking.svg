@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="내 기기가 쓰는 세션 표를 낯선 기기가 같이 쓰려 하면 서버가 다시 로그인을 요구하는 방어 그림">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.ac{fill:#f59e0b}.sk{fill:#38bdf8}.mu{fill:#94a3b8}.b{font-weight:700}.dk{fill:#0f172a}@keyframes a1{0%{opacity:0;transform:translate(70px,85px)}8%{opacity:0;transform:translate(70px,85px)}11%{opacity:1;transform:translate(70px,85px)}30%{opacity:1;transform:translate(246px,98px)}33%{opacity:0;transform:translate(246px,98px)}100%{opacity:0;transform:translate(246px,98px)}}.a1{opacity:0;animation:a1 5s ease-in-out infinite}@keyframes a2{0%{opacity:0}32%{opacity:0}35%{opacity:1}50%{opacity:1}53%{opacity:0}100%{opacity:0}}.a2{opacity:0;animation:a2 5s linear infinite}@keyframes a3{0%{opacity:0;transform:translate(70px,140px)}50%{opacity:0;transform:translate(70px,140px)}53%{opacity:1;transform:translate(70px,140px)}68%{opacity:1;transform:translate(246px,112px)}71%{opacity:0;transform:translate(246px,112px)}100%{opacity:0;transform:translate(246px,112px)}}.a3{opacity:0;animation:a3 5s ease-in-out infinite}@keyframes a4{0%{opacity:0}70%{opacity:0}73%{opacity:1}96%{opacity:1}99%{opacity:0}100%{opacity:0}}.a4{opacity:0;animation:a4 5s linear infinite}@keyframes a5{0%{opacity:1}38%{opacity:1}41%{opacity:0}100%{opacity:0}}.a5{opacity:0;animation:a5 5s linear infinite}@keyframes a6{0%{opacity:0}40%{opacity:0}43%{opacity:1}66%{opacity:1}69%{opacity:0}100%{opacity:0}}.a6{opacity:0;animation:a6 5s linear infinite}@keyframes a7{0%{opacity:0}68%{opacity:0}71%{opacity:1}96%{opacity:1}99%{opacity:0}100%{opacity:0}}.a7{opacity:0;animation:a7 5s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t" x="16" y="26">세션 하이재킹</text>
+<rect x="24.0" y="68.0" width="32.0" height="20.0" rx="3" fill="#334155" stroke="#94a3b8" stroke-width="1.5"/><path d="M20.0 88.0 H60.0 L57.0 93.0 H23.0 Z" fill="#94a3b8"/>
+<text class="c s" x="40" y="108">내 기기</text>
+<rect x="25.6" y="129.2" width="28.8" height="18.0" rx="3" fill="#334155" stroke="#94a3b8" stroke-width="1.5"/><path d="M22.0 147.2 H58.0 L55.3 151.7 H24.7 Z" fill="#94a3b8"/>
+<text class="c s" x="40" y="166">낯선 기기</text>
+<rect x="258.4" y="80.2" width="35.2" height="12.100000000000001" rx="3" fill="#334155" stroke="#475569" stroke-width="1"/><circle cx="285.9" cy="86.25" r="1.7600000000000002" fill="#38bdf8"/><rect x="258.4" y="94.5" width="35.2" height="12.100000000000001" rx="3" fill="#334155" stroke="#475569" stroke-width="1"/><circle cx="285.9" cy="100.55" r="1.7600000000000002" fill="#38bdf8"/><rect x="258.4" y="108.80000000000001" width="35.2" height="12.100000000000001" rx="3" fill="#334155" stroke="#475569" stroke-width="1"/><circle cx="285.9" cy="114.85000000000001" r="1.7600000000000002" fill="#38bdf8"/>
+<line x1="66" y1="84" x2="250" y2="98" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 3" />
+<line x1="66" y1="140" x2="250" y2="112" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 3" />
+<g class="a1" ><rect x="-8" y="-5" width="16" height="10" rx="2" fill="#f59e0b"/></g>
+<g class="a2" ><path d="M269.5 138 L274.05 143.2 L283.8 131.5" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="a3" ><rect x="-8" y="-5" width="16" height="10" rx="2" fill="#f59e0b"/></g>
+<g class="a4" ><path d="M276 125.0 L286.0 129.0 V138.0 Q286.0 146.0 276 150.0 Q266.0 146.0 266.0 138.0 V129.0 Z" fill="#38bdf8"/></g>
+<text class="c s ac a4" x="276" y="160">다시 로그인</text>
+<text class="m c a5" x="160" y="186">로그인하면 서버가 세션 표를 준다</text>
+<text class="m c a6" x="160" y="186">같은 표를 낯선 기기가 쓰려 한다</text>
+<text class="m c a7" x="160" y="186">표 만료는 짧게, 이상하면 재확인</text>
+</svg>

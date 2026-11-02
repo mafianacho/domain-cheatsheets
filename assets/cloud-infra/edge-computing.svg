@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="사용자 바로 옆의 엣지 서버가 가까워서 빠르게 응답하는 길과, 멀리 있는 중앙 서버까지 가서 느린 긴 길을 비교하는 그림">
+<style>@keyframes mv_30_62_114_90_98_114_110_98_114_170_64_114{0%,6.0%{opacity:0;transform:translate(62px,114px)}6.4%{opacity:1;transform:translate(62px,114px)}18.0%{opacity:1;transform:translate(98px,114px)}22.0%{opacity:1;transform:translate(98px,114px)}34.0%{opacity:1;transform:translate(64px,114px)}34.8%,100%{opacity:0;transform:translate(64px,114px)}}.mv_30_62_114_90_98_114_110_98_114_170_64_114{animation:mv_30_62_114_90_98_114_110_98_114_170_64_114 5.0s linear infinite}@keyframes mv_220_62_100_420_234_66{0%,44.0%{opacity:0;transform:translate(62px,100px)}44.4%{opacity:1;transform:translate(62px,100px)}84.0%{opacity:1;transform:translate(234px,66px)}84.8%,100%{opacity:0;transform:translate(234px,66px)}}.mv_220_62_100_420_234_66{animation:mv_220_62_100_420_234_66 5.0s linear infinite}@keyframes wn_30_190{0%,6.0%{opacity:0}8.0%,38.0%{opacity:1}40.0%,100%{opacity:0}}.wn_30_190{animation:wn_30_190 5.0s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="24" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">엣지 컴퓨팅</text>
+<circle cx="40" cy="103" r="4.5" fill="#94a3b8"/><path d="M32,120 Q32,110 40,110 Q48,110 48,120 Z" fill="#94a3b8" stroke="#94a3b8" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="40" y="140" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">사용자</text>
+<line x1="62" y1="100" x2="236" y2="66" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 3"/>
+<line x1="62" y1="114" x2="100" y2="114" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="100" y="98" width="52" height="32" rx="6" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="126" y="118" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">엣지</text>
+<rect x="236" y="54" width="66" height="40" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="269" y="78" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">중앙 서버</text>
+<text x="126" y="148" font-size="9" fill="#38bdf8" text-anchor="middle" font-family="system-ui, sans-serif">가까워서 빠름</text>
+<text x="190" y="56" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">멀어서 느림</text>
+<rect x="-5.0" y="-5.0" width="10" height="10" rx="2" fill="#f59e0b" class="mv_30_62_114_90_98_114_110_98_114_170_64_114" opacity="0" transform="translate(62,114)"/>
+<rect x="-5.0" y="-5.0" width="10" height="10" rx="2" fill="#38bdf8" class="mv_220_62_100_420_234_66" opacity="0" transform="translate(62,100)"/>
+<rect x="100" y="98" width="52" height="32" rx="6" fill="none" stroke="#f59e0b" stroke-width="2" class="wn_30_190" opacity="0"/>
+<text x="160" y="182" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">사용자 가까이에서 처리해 지연을 줄인다</text>
+</svg>

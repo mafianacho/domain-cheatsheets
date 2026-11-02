@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="로그인을 여러 번 틀리면 틀린 횟수가 쌓이다가 계정이 잠시 잠기고 알림이 가는 방어 그림">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.ac{fill:#f59e0b}.sk{fill:#38bdf8}.mu{fill:#94a3b8}.b{font-weight:700}.dk{fill:#0f172a}@keyframes a1{0%{transform:translateX(0)}8%{transform:translateX(0)}16.67%{transform:translateX(2.5px)}25.33%{transform:translateX(-2.5px)}34%{transform:translateX(2.5px)}42.67%{transform:translateX(-2.5px)}51.33%{transform:translateX(2.5px)}60%{transform:translateX(-2.5px)}61%{transform:translateX(0)}100%{transform:translateX(0)}}.a1{animation:a1 5s linear infinite}@keyframes a2{0%{opacity:0}10%{opacity:0}14%{opacity:1}95%{opacity:1}99%{opacity:0}100%{opacity:0}}.a2{animation:a2 5s linear infinite}@keyframes a3{0%{opacity:0}21%{opacity:0}25%{opacity:1}95%{opacity:1}99%{opacity:0}100%{opacity:0}}.a3{animation:a3 5s linear infinite}@keyframes a4{0%{opacity:0}32%{opacity:0}36%{opacity:1}95%{opacity:1}99%{opacity:0}100%{opacity:0}}.a4{animation:a4 5s linear infinite}@keyframes a5{0%{opacity:0}43%{opacity:0}47%{opacity:1}95%{opacity:1}99%{opacity:0}100%{opacity:0}}.a5{animation:a5 5s linear infinite}@keyframes a6{0%{opacity:0}54%{opacity:0}58%{opacity:1}95%{opacity:1}99%{opacity:0}100%{opacity:0}}.a6{animation:a6 5s linear infinite}@keyframes a7{0%{opacity:0}70%{opacity:0}74%{opacity:1}95%{opacity:1}99%{opacity:0}100%{opacity:0}}.a7{animation:a7 5s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t" x="16" y="26">무차별 대입과 잠금</text>
+<g class="a1" ><rect x="16" y="44" width="130" height="100" rx="8" fill="#1e293b"/><text class="m b" x="30" y="64">로그인</text><rect x="30" y="72" width="100" height="14" rx="3" fill="#334155"/><rect x="30" y="94" width="100" height="14" rx="3" fill="#334155"/><rect x="30" y="118" width="100" height="16" rx="4" fill="#475569"/></g>
+<text class="c s" x="232" y="56">틀린 시도</text>
+<circle cx="184" cy="76" r="8" fill="#334155" stroke="#475569" stroke-width="1" />
+<circle class="a2" cx="184" cy="76" r="8" fill="#f59e0b" />
+<g class="a2" ><path d="M180.5 72.5 L187.5 79.5 M187.5 72.5 L180.5 79.5" fill="none" stroke="#0f172a" stroke-width="2" stroke-linecap="round"/></g>
+<circle cx="208" cy="76" r="8" fill="#334155" stroke="#475569" stroke-width="1" />
+<circle class="a3" cx="208" cy="76" r="8" fill="#f59e0b" />
+<g class="a3" ><path d="M204.5 72.5 L211.5 79.5 M211.5 72.5 L204.5 79.5" fill="none" stroke="#0f172a" stroke-width="2" stroke-linecap="round"/></g>
+<circle cx="232" cy="76" r="8" fill="#334155" stroke="#475569" stroke-width="1" />
+<circle class="a4" cx="232" cy="76" r="8" fill="#f59e0b" />
+<g class="a4" ><path d="M228.5 72.5 L235.5 79.5 M235.5 72.5 L228.5 79.5" fill="none" stroke="#0f172a" stroke-width="2" stroke-linecap="round"/></g>
+<circle cx="256" cy="76" r="8" fill="#334155" stroke="#475569" stroke-width="1" />
+<circle class="a5" cx="256" cy="76" r="8" fill="#f59e0b" />
+<g class="a5" ><path d="M252.5 72.5 L259.5 79.5 M259.5 72.5 L252.5 79.5" fill="none" stroke="#0f172a" stroke-width="2" stroke-linecap="round"/></g>
+<circle cx="280" cy="76" r="8" fill="#334155" stroke="#475569" stroke-width="1" />
+<circle class="a6" cx="280" cy="76" r="8" fill="#f59e0b" />
+<g class="a6" ><path d="M276.5 72.5 L283.5 79.5 M283.5 72.5 L276.5 79.5" fill="none" stroke="#0f172a" stroke-width="2" stroke-linecap="round"/></g>
+<g class="a7" ><path d="M224.0 114.8 V108.4 a8.0 8.0 0 0 1 16.0 0 V114.8" fill="none" stroke="#f59e0b" stroke-width="3.2" stroke-linecap="round"/><rect x="219.2" y="114.8" width="25.6" height="19.200000000000003" rx="3.2" fill="#f59e0b"/></g>
+<text class="c m b ac a7" x="232" y="152">잠시 잠금 + 알림</text>
+<text class="c s" x="160" y="180">여러 번 틀리면 잠그고 알린다 (요청 제한과 함께)</text>
+</svg>

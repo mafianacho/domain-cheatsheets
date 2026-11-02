@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="인터넷 주소가 없는 비공개 서버가 NAT를 거쳐 하나의 대표 주소로 바깥에 나갔다 돌아오지만, 바깥에서 먼저 들어오는 접속은 NAT에서 막히는 그림">
+<style>@keyframes mv_30_104_100_80_130_100{0%,6.0%{opacity:0;transform:translate(104px,100px)}6.4%{opacity:1;transform:translate(104px,100px)}16.0%{opacity:1;transform:translate(130px,100px)}16.8%,100%{opacity:0;transform:translate(130px,100px)}}.mv_30_104_100_80_130_100{animation:mv_30_104_100_80_130_100 5.0s linear infinite}@keyframes mv_100_190_100_160_226_100{0%,20.0%{opacity:0;transform:translate(190px,100px)}20.4%{opacity:1;transform:translate(190px,100px)}32.0%{opacity:1;transform:translate(226px,100px)}32.8%,100%{opacity:0;transform:translate(226px,100px)}}.mv_100_190_100_160_226_100{animation:mv_100_190_100_160_226_100 5.0s linear infinite}@keyframes mv_190_226_100_250_190_100{0%,38.0%{opacity:0;transform:translate(226px,100px)}38.4%{opacity:1;transform:translate(226px,100px)}50.0%{opacity:1;transform:translate(190px,100px)}50.8%,100%{opacity:0;transform:translate(190px,100px)}}.mv_190_226_100_250_190_100{animation:mv_190_226_100_250_190_100 5.0s linear infinite}@keyframes mv_270_130_100_310_104_100{0%,54.0%{opacity:0;transform:translate(130px,100px)}54.4%{opacity:1;transform:translate(130px,100px)}62.0%{opacity:1;transform:translate(104px,100px)}62.8%,100%{opacity:0;transform:translate(104px,100px)}}.mv_270_130_100_310_104_100{animation:mv_270_130_100_310_104_100 5.0s linear infinite}@keyframes mv_350_226_100_410_196_100{0%,70.0%{opacity:0;transform:translate(226px,100px)}70.4%{opacity:1;transform:translate(226px,100px)}82.0%{opacity:1;transform:translate(196px,100px)}82.8%,100%{opacity:0;transform:translate(196px,100px)}}.mv_350_226_100_410_196_100{animation:mv_350_226_100_410_196_100 5.0s linear infinite}@keyframes wn_410_490{0%,82.0%{opacity:0}84.0%,98.0%{opacity:1}100.0%,100%{opacity:0}}.wn_410_490{animation:wn_410_490 5.0s linear infinite}@keyframes wn_350_490{0%,70.0%{opacity:0}72.0%,98.0%{opacity:1}100.0%,100%{opacity:0}}.wn_350_490{animation:wn_350_490 5.0s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="24" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">NAT</text>
+<rect x="14" y="52" width="90" height="94" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="59" y="68" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">비공개 서버</text>
+<rect x="24" y="78" width="70" height="24" rx="4" fill="#334155"/>
+<text x="59" y="94" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">서버 A</text>
+<rect x="24" y="110" width="70" height="24" rx="4" fill="#334155"/>
+<text x="59" y="126" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">서버 B</text>
+<line x1="104" y1="100" x2="130" y2="100" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<line x1="190" y1="100" x2="226" y2="100" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<rect x="130" y="84" width="60" height="32" rx="6" fill="#334155" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="160" y="105" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">NAT</text>
+<path d="M-24,10 C-34,10 -34,-4 -24,-4 C-24,-16 -6,-20 0,-10 C6,-22 28,-16 26,-2 C36,-2 36,10 26,10 Z" fill="#334155" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(262,100) scale(1.0)"/>
+<text x="262" y="126" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">인터넷</text>
+<rect x="-5.0" y="-5.0" width="10" height="10" rx="2" fill="#38bdf8" class="mv_30_104_100_80_130_100" opacity="0" transform="translate(104,100)"/>
+<rect x="-5.0" y="-5.0" width="10" height="10" rx="2" fill="#38bdf8" class="mv_100_190_100_160_226_100" opacity="0" transform="translate(190,100)"/>
+<rect x="-5.0" y="-5.0" width="10" height="10" rx="2" fill="#38bdf8" class="mv_190_226_100_250_190_100" opacity="0" transform="translate(226,100)"/>
+<rect x="-5.0" y="-5.0" width="10" height="10" rx="2" fill="#38bdf8" class="mv_270_130_100_310_104_100" opacity="0" transform="translate(130,100)"/>
+<rect x="-5.0" y="-5.0" width="10" height="10" rx="2" fill="#f59e0b" class="mv_350_226_100_410_196_100" opacity="0" transform="translate(226,100)"/>
+<g class="wn_410_490" opacity="0"><line x1="188" y1="94" x2="200" y2="106" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"/><line x1="188" y1="106" x2="200" y2="94" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"/></g>
+<text x="160" y="142" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">대표 주소 하나로 외출</text>
+<text x="160" y="160" font-size="9" fill="#f59e0b" text-anchor="middle" font-family="system-ui, sans-serif" class="wn_350_490" opacity="0">밖에서 먼저 들어오는 접속은 차단</text>
+<text x="160" y="182" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">안에서 밖으로는 되고, 밖에서 안으로는 안 된다</text>
+</svg>

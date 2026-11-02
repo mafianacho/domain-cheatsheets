@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="스테이징: 보는 사람의 눈이 한 곳(주인공)으로 가도록 화면을 정리해서 보여 주는 연출">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0%,38%{opacity:1;transform:scale(1)}50%,88%{opacity:.3;transform:scale(.55)}100%{opacity:1;transform:scale(1)}}.k1{animation:k1 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,38%{opacity:1;transform:scale(1)}50%,88%{opacity:.3;transform:scale(.55)}100%{opacity:1;transform:scale(1)}}.k2{animation:k2 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,38%{opacity:1}46%,100%{opacity:0}}.k3{animation:k3 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,38%{opacity:0;transform:translate(0px,0px) scale(1)}50%,88%{opacity:1;transform:translate(0px,22px) scale(2)}100%{opacity:0;transform:translate(0px,0px) scale(1)}}.k4{animation:k4 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,38%{opacity:1;transform:scale(1)}50%,88%{opacity:.3;transform:scale(.55)}100%{opacity:1;transform:scale(1)}}.k5{animation:k5 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k6{0%,38%{opacity:1;transform:scale(1)}50%,88%{opacity:.3;transform:scale(.55)}100%{opacity:1;transform:scale(1)}}.k6{animation:k6 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k7{0%,38%{opacity:1}46%,100%{opacity:0}}.k7{animation:k7 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k8{0%,44%{opacity:0}52%,90%{opacity:1}100%{opacity:0}}.k8{animation:k8 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Staging · 스테이징</text>
+<rect x="16" y="40" width="288" height="108" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<circle cx="60" cy="80" r="14" fill="#334155" stroke="#94a3b8" stroke-width="1.5" class="k1"/>
+<circle cx="110" cy="118" r="14" fill="#334155" stroke="#94a3b8" stroke-width="1.5" class="k2"/>
+<circle cx="160" cy="84" r="14" fill="#334155" stroke="#94a3b8" stroke-width="1.5" class="k3"/>
+<circle cx="160" cy="84" r="14" fill="#f59e0b" opacity="0" class="k4"/>
+<circle cx="210" cy="118" r="14" fill="#334155" stroke="#94a3b8" stroke-width="1.5" class="k5"/>
+<circle cx="260" cy="80" r="14" fill="#334155" stroke="#94a3b8" stroke-width="1.5" class="k6"/>
+<text x="160" y="176" font-size="10" fill="#94a3b8" text-anchor="middle" class="k7">다 비슷한 크기 → 어디를 봐야 할지 모름</text>
+<text x="160" y="176" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" opacity="0" class="k8">주인공만 크고 밝게 → 시선이 모인다</text>
+</svg>

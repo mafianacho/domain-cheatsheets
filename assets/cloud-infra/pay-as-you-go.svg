@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="서버 켠 시간, 저장 용량, 요청 횟수, 밖으로 나간 데이터 네 가지 사용량이 쌓이면 청구서 항목이 하나씩 채워지는 그림">
+<style>@keyframes grXleft_40_120{0%,8.0%{transform:scaleX(0)}24.0%,94%{transform:scaleX(1)}97%,100%{transform:scaleX(0)}}.grXleft_40_120{transform-box:fill-box;transform-origin:left center;animation:grXleft_40_120 5.0s linear infinite}@keyframes grXleft_110_190{0%,22.0%{transform:scaleX(0)}38.0%,94%{transform:scaleX(1)}97%,100%{transform:scaleX(0)}}.grXleft_110_190{transform-box:fill-box;transform-origin:left center;animation:grXleft_110_190 5.0s linear infinite}@keyframes grXleft_180_260{0%,36.0%{transform:scaleX(0)}52.0%,94%{transform:scaleX(1)}97%,100%{transform:scaleX(0)}}.grXleft_180_260{transform-box:fill-box;transform-origin:left center;animation:grXleft_180_260 5.0s linear infinite}@keyframes grXleft_250_330{0%,50.0%{transform:scaleX(0)}66.0%,94%{transform:scaleX(1)}97%,100%{transform:scaleX(0)}}.grXleft_250_330{transform-box:fill-box;transform-origin:left center;animation:grXleft_250_330 5.0s linear infinite}@keyframes rv_120{0%,24.0%{opacity:0}27.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_120{animation:rv_120 5.0s linear infinite}@keyframes rv_190{0%,38.0%{opacity:0}41.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_190{animation:rv_190 5.0s linear infinite}@keyframes rv_260{0%,52.0%{opacity:0}55.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_260{animation:rv_260 5.0s linear infinite}@keyframes rv_330{0%,66.0%{opacity:0}69.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_330{animation:rv_330 5.0s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="24" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">종량제 과금</text>
+<text x="16" y="64" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">서버 켠 시간</text>
+<rect x="104" y="52" width="120" height="16" rx="3" fill="#334155"/>
+<g class="grXleft_40_120"><rect x="104" y="52" width="90" height="16" rx="3" fill="#38bdf8"/></g>
+<text x="16" y="92" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">저장한 용량</text>
+<rect x="104" y="80" width="120" height="16" rx="3" fill="#334155"/>
+<g class="grXleft_110_190"><rect x="104" y="80" width="56" height="16" rx="3" fill="#38bdf8"/></g>
+<text x="16" y="120" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">요청 횟수</text>
+<rect x="104" y="108" width="120" height="16" rx="3" fill="#334155"/>
+<g class="grXleft_180_260"><rect x="104" y="108" width="104" height="16" rx="3" fill="#38bdf8"/></g>
+<text x="16" y="148" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">나간 데이터</text>
+<rect x="104" y="136" width="120" height="16" rx="3" fill="#334155"/>
+<g class="grXleft_250_330"><rect x="104" y="136" width="40" height="16" rx="3" fill="#38bdf8"/></g>
+<rect x="238" y="42" width="70" height="116" rx="6" fill="#1e293b" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="273" y="58" font-size="9" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">청구서</text>
+<rect x="246" y="68" width="54" height="12" rx="2" fill="#334155"/>
+<g class="rv_120"><rect x="246" y="68" width="54" height="12" rx="2" fill="#f59e0b"/></g>
+<rect x="246" y="88" width="54" height="12" rx="2" fill="#334155"/>
+<g class="rv_190"><rect x="246" y="88" width="54" height="12" rx="2" fill="#f59e0b"/></g>
+<rect x="246" y="108" width="54" height="12" rx="2" fill="#334155"/>
+<g class="rv_260"><rect x="246" y="108" width="54" height="12" rx="2" fill="#f59e0b"/></g>
+<rect x="246" y="128" width="54" height="12" rx="2" fill="#334155"/>
+<g class="rv_330"><rect x="246" y="128" width="54" height="12" rx="2" fill="#f59e0b"/></g>
+<text x="160" y="180" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">쓴 만큼 항목별로 쌓여 청구된다</text>
+</svg>

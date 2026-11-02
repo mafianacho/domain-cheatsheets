@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="성장 구조: 단계가 오를 때마다 새 능력과 지역이 열리는 계단">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0%,6%{opacity:0}10%,92%{opacity:1}100%{opacity:0}}.k1{animation:k1 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,26%{opacity:0}30%,92%{opacity:1}100%{opacity:0}}.k2{animation:k2 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,46%{opacity:0}50%,92%{opacity:1}100%{opacity:0}}.k3{animation:k3 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,66%{opacity:0}70%,92%{opacity:1}100%{opacity:0}}.k4{animation:k4 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,4%{opacity:0;transform:translate(0px,0px)}6%{opacity:1;transform:translate(0px,0px)}18%{opacity:1;transform:translate(0px,0px)}28%{opacity:1;transform:translate(70px,-22px)}46%{opacity:1;transform:translate(70px,-22px)}54%{opacity:1;transform:translate(140px,-44px)}70%{opacity:1;transform:translate(140px,-44px)}78%{opacity:1;transform:translate(210px,-66px)}90%{opacity:1;transform:translate(210px,-66px)}92%{opacity:0;transform:translate(210px,-66px)}100%{opacity:0;transform:translate(0px,0px)}}.k5{animation:k5 5s linear infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-family="system-ui, sans-serif" font-size="13" fill="#e2e8f0" font-weight="700">Progression · 성장 구조</text>
+<text x="16" y="52" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">단계가 오를수록 새 요소가 열린다</text>
+<rect x="20" y="140" width="68" height="32" rx="4" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="54" y="160" font-family="system-ui, sans-serif" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700" class="k1">기본 공격</text>
+<rect x="90" y="118" width="68" height="54" rx="4" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="124" y="138" font-family="system-ui, sans-serif" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700" class="k2">대시</text>
+<rect x="160" y="96" width="68" height="76" rx="4" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="194" y="116" font-family="system-ui, sans-serif" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700" class="k3">새 지역</text>
+<rect x="230" y="74" width="68" height="98" rx="4" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="264" y="94" font-family="system-ui, sans-serif" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700" class="k4">보스 방</text>
+<circle cx="54" cy="134" r="5" fill="#f59e0b" opacity="0" class="k5"/>
+</svg>

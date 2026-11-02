@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="레벨 디자인: 배우기, 시험, 쉬어가기, 보스 순서로 코스를 짜는 일">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0%,4%{opacity:0;transform:translate(0px,0px)}6%{opacity:1;transform:translate(0px,0px)}16%{opacity:1;transform:translate(54px,0px)}22%{opacity:1;transform:translate(80px,-14px)}30%{opacity:1;transform:translate(114px,-34px)}38%{opacity:1;transform:translate(138px,-12px)}50%{opacity:1;transform:translate(166px,0px)}58%{opacity:1;transform:translate(192px,0px)}64%{opacity:1;transform:translate(216px,-24px)}76%{opacity:1;transform:translate(228px,-24px)}88%{opacity:1;transform:translate(228px,-24px)}90%{opacity:0;transform:translate(228px,-24px)}100%{opacity:0;transform:translate(0px,0px)}}.k1{animation:k1 5s linear infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-family="system-ui, sans-serif" font-size="13" fill="#e2e8f0" font-weight="700">Level Design · 레벨 디자인</text>
+<text x="160" y="52" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">어디서 배우고, 시험하고, 쉬게 할까?</text>
+<rect x="16" y="130" width="76" height="40" rx="4" fill="#334155"/>
+<rect x="100" y="118" width="76" height="52" rx="4" fill="#334155"/>
+<rect x="184" y="130" width="46" height="40" rx="4" fill="#334155"/>
+<rect x="238" y="106" width="66" height="64" rx="4" fill="#334155"/>
+<path d="M130 118 L136 107 L142 118 Z" fill="#f59e0b"/>
+<path d="M150 118 L156 107 L162 118 Z" fill="#f59e0b"/>
+<rect x="205" y="108" width="4" height="14" rx="1" fill="#38bdf8"/>
+<rect x="200" y="113" width="14" height="4" rx="1" fill="#38bdf8"/>
+<rect x="270" y="84" width="22" height="22" rx="4" fill="#f59e0b"/>
+<text x="54" y="186" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">배우기</text>
+<text x="138" y="186" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">시험</text>
+<text x="207" y="186" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">쉬어가기</text>
+<text x="271" y="186" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">보스</text>
+<circle cx="30" cy="124" r="6" fill="#38bdf8" opacity="0" class="k1"/>
+</svg>

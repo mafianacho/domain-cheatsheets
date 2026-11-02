@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="게임 디자인 문서: 게임의 한 줄 소개, 핵심 반복, 조작, 승패, 수익을 적은 설계 문서">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0%,8%{transform:scaleX(0)}20%,92%{transform:scaleX(1)}100%{transform:scaleX(0)}}.k1{animation:k1 5s ease-in-out infinite;transform-box:fill-box;transform-origin:0% 50%}@keyframes k2{0%,20%{transform:scaleX(0)}32%,92%{transform:scaleX(1)}100%{transform:scaleX(0)}}.k2{animation:k2 5s ease-in-out infinite;transform-box:fill-box;transform-origin:0% 50%}@keyframes k3{0%,32%{transform:scaleX(0)}44%,92%{transform:scaleX(1)}100%{transform:scaleX(0)}}.k3{animation:k3 5s ease-in-out infinite;transform-box:fill-box;transform-origin:0% 50%}@keyframes k4{0%,44%{transform:scaleX(0)}56%,92%{transform:scaleX(1)}100%{transform:scaleX(0)}}.k4{animation:k4 5s ease-in-out infinite;transform-box:fill-box;transform-origin:0% 50%}@keyframes k5{0%,56%{transform:scaleX(0)}68%,92%{transform:scaleX(1)}100%{transform:scaleX(0)}}.k5{animation:k5 5s ease-in-out infinite;transform-box:fill-box;transform-origin:0% 50%}@keyframes k6{0%,68%{transform:scaleX(0)}80%,92%{transform:scaleX(1)}100%{transform:scaleX(0)}}.k6{animation:k6 5s ease-in-out infinite;transform-box:fill-box;transform-origin:0% 50%}@keyframes k7{0%,100%{opacity:1}50%{opacity:0.3}}.k7{animation:k7 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-family="system-ui, sans-serif" font-size="13" fill="#e2e8f0" font-weight="700">GDD · 게임 디자인 문서</text>
+<rect x="16" y="40" width="200" height="148" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<rect x="24" y="48" width="58" height="19" rx="5" fill="#334155"/>
+<text x="53" y="61" font-family="system-ui, sans-serif" font-size="9" fill="#e2e8f0" text-anchor="middle" font-weight="700">한 줄 소개</text>
+<rect x="90" y="51" width="112" height="5" rx="2.5" fill="#38bdf8" class="k1"/>
+<rect x="90" y="59" width="76" height="4" rx="2" fill="#475569" class="k1"/>
+<rect x="24" y="71" width="58" height="19" rx="5" fill="#334155"/>
+<text x="53" y="84" font-family="system-ui, sans-serif" font-size="9" fill="#e2e8f0" text-anchor="middle" font-weight="700">핵심 반복</text>
+<rect x="90" y="74" width="112" height="5" rx="2.5" fill="#38bdf8" class="k2"/>
+<rect x="90" y="82" width="76" height="4" rx="2" fill="#475569" class="k2"/>
+<rect x="24" y="94" width="58" height="19" rx="5" fill="#334155"/>
+<text x="53" y="107" font-family="system-ui, sans-serif" font-size="9" fill="#e2e8f0" text-anchor="middle" font-weight="700">조작</text>
+<rect x="90" y="97" width="112" height="5" rx="2.5" fill="#38bdf8" class="k3"/>
+<rect x="90" y="105" width="76" height="4" rx="2" fill="#475569" class="k3"/>
+<rect x="24" y="117" width="58" height="19" rx="5" fill="#334155"/>
+<text x="53" y="130" font-family="system-ui, sans-serif" font-size="9" fill="#e2e8f0" text-anchor="middle" font-weight="700">승패 조건</text>
+<rect x="90" y="120" width="112" height="5" rx="2.5" fill="#38bdf8" class="k4"/>
+<rect x="90" y="128" width="76" height="4" rx="2" fill="#475569" class="k4"/>
+<rect x="24" y="140" width="58" height="19" rx="5" fill="#334155"/>
+<text x="53" y="153" font-family="system-ui, sans-serif" font-size="9" fill="#e2e8f0" text-anchor="middle" font-weight="700">레벨</text>
+<rect x="90" y="143" width="112" height="5" rx="2.5" fill="#38bdf8" class="k5"/>
+<rect x="90" y="151" width="76" height="4" rx="2" fill="#475569" class="k5"/>
+<rect x="24" y="163" width="58" height="19" rx="5" fill="#334155"/>
+<text x="53" y="176" font-family="system-ui, sans-serif" font-size="9" fill="#e2e8f0" text-anchor="middle" font-weight="700">수익화</text>
+<rect x="90" y="166" width="112" height="5" rx="2.5" fill="#38bdf8" class="k6"/>
+<rect x="90" y="174" width="76" height="4" rx="2" fill="#475569" class="k6"/>
+<rect x="232" y="76" width="72" height="64" rx="8" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="268" y="100" font-family="system-ui, sans-serif" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700">AI·팀원</text>
+<text x="268" y="118" font-family="system-ui, sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">읽고 만든다</text>
+<path d="M218 108 L230 108 M224.8 111.0 L230 108 L224.8 105.0" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="k7"/>
+</svg>

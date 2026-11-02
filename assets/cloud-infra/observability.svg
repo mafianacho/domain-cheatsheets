@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="로그, 지표, 추적 세 종류의 신호가 대시보드로 모이고 선 그래프가 그려지는 그림">
+<style>@keyframes dr_160_360{0%,32.0%{stroke-dashoffset:1}72.0%,94%{stroke-dashoffset:0}97%,100%{stroke-dashoffset:1}}.dr_160_360{stroke-dasharray:1;animation:dr_160_360 5.0s linear infinite}@keyframes mv_30_60_82_100_60_110{0%,6.0%{opacity:0;transform:translate(60px,82px)}6.4%{opacity:1;transform:translate(60px,82px)}20.0%{opacity:1;transform:translate(60px,110px)}20.8%,100%{opacity:0;transform:translate(60px,110px)}}.mv_30_60_82_100_60_110{animation:mv_30_60_82_100_60_110 5.0s linear infinite}@keyframes mv_70_160_82_140_160_110{0%,14.0%{opacity:0;transform:translate(160px,82px)}14.4%{opacity:1;transform:translate(160px,82px)}28.0%{opacity:1;transform:translate(160px,110px)}28.8%,100%{opacity:0;transform:translate(160px,110px)}}.mv_70_160_82_140_160_110{animation:mv_70_160_82_140_160_110 5.0s linear infinite}@keyframes mv_110_260_82_180_260_110{0%,22.0%{opacity:0;transform:translate(260px,82px)}22.4%{opacity:1;transform:translate(260px,82px)}36.0%{opacity:1;transform:translate(260px,110px)}36.8%,100%{opacity:0;transform:translate(260px,110px)}}.mv_110_260_82_180_260_110{animation:mv_110_260_82_180_260_110 5.0s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="24" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">관측 가능성</text>
+<rect x="16" y="36" width="88" height="46" rx="6" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="60" y="54" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">로그</text>
+<text x="60" y="71" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">무슨 일이 있었나</text>
+<line x1="60" y1="82" x2="60" y2="110" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="116" y="36" width="88" height="46" rx="6" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="160" y="54" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">지표</text>
+<text x="160" y="71" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">수치로 본 상태</text>
+<line x1="160" y1="82" x2="160" y2="110" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="216" y="36" width="88" height="46" rx="6" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="260" y="54" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">추적</text>
+<text x="260" y="71" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">요청이 지난 길</text>
+<line x1="260" y1="82" x2="260" y2="110" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="30" y="110" width="260" height="60" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="42" y="124" font-size="9" fill="#f59e0b" text-anchor="start" font-weight="700" font-family="system-ui, sans-serif">대시보드</text>
+<path d="M60,160 L100,148 L130,153 L170,136 L210,142 L250,130" fill="none" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="dr_160_360" pathLength="1"/>
+<rect x="-4.0" y="-4.0" width="8" height="8" rx="2" fill="#f59e0b" class="mv_30_60_82_100_60_110" opacity="0" transform="translate(60,82)"/>
+<rect x="-4.0" y="-4.0" width="8" height="8" rx="2" fill="#f59e0b" class="mv_70_160_82_140_160_110" opacity="0" transform="translate(160,82)"/>
+<rect x="-4.0" y="-4.0" width="8" height="8" rx="2" fill="#f59e0b" class="mv_110_260_82_180_260_110" opacity="0" transform="translate(260,82)"/>
+<text x="160" y="184" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">밖에서 보고 왜 느린지·어디가 깨졌는지 알아낸다</text>
+</svg>

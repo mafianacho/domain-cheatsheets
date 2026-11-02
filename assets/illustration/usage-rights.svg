@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="사용 범위(이용권): 그림의 저작권은 보통 작가에게 있고, 의뢰인은 합의한 용도·기간 안에서 쓸 권리를 얻는다">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,10%{opacity:0}14%,92%{opacity:1}100%{opacity:0}}.k1{animation:k1 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,28%{opacity:0}32%,92%{opacity:1}100%{opacity:0}}.k2{animation:k2 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,46%{opacity:0}50%,92%{opacity:1}100%{opacity:0}}.k3{animation:k3 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,64%{opacity:0}68%,92%{opacity:1}100%{opacity:0}}.k4{animation:k4 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,70%{opacity:0}74%,92%{opacity:1}100%{opacity:0}}.k5{animation:k5 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">사용 범위 · 이용권</text>
+<text x="304" y="28" font-size="9" fill="#94a3b8" text-anchor="end">쓰는 권리는 합의한 만큼</text>
+<rect x="16" y="44" width="100" height="100" rx="8" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<path d="M24.0 136.0 L56.0 84.0 L88.0 136.0 Z" fill="#475569"/>
+<path d="M66.0 136.0 L96.0 70.0 L110.0 136.0 Z" fill="#475569"/>
+<circle cx="98" cy="62" r="8" fill="#f59e0b"/>
+<text x="66" y="162" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">그림 = 작가의 것</text>
+<rect x="132" y="44" width="172" height="22" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="144" y="59" font-size="10" fill="#e2e8f0">용도 · 어디에 쓰나</text>
+<g class="k1"><path d="M282 57 L285.6 60.6 L291.9 52.5" fill="none" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="132" y="70" width="172" height="22" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="144" y="85" font-size="10" fill="#e2e8f0">기간 · 얼마나 오래</text>
+<g class="k2"><path d="M282 83 L285.6 86.6 L291.9 78.5" fill="none" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="132" y="96" width="172" height="22" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="144" y="111" font-size="10" fill="#e2e8f0">독점 · 나만 쓰나</text>
+<g class="k3"><path d="M282 109 L285.6 112.6 L291.9 104.5" fill="none" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="132" y="122" width="172" height="22" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="144" y="137" font-size="10" fill="#e2e8f0">수정 · 고쳐 써도 되나</text>
+<g class="k4"><path d="M282 135 L285.6 138.6 L291.9 130.5" fill="none" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="218" y="160" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" class="k5">범위 밖은 다시 허락받기</text>
+<text x="160" y="184" font-size="9" fill="#94a3b8" text-anchor="middle">적어 둘수록 분쟁이 줄어듦</text>
+</svg>

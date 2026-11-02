@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="수상한 메시지를 받으면 멈추고 다른 경로로 확인한 뒤 신고하는 네 단계가 차례로 강조되는 그림">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.ac{fill:#f59e0b}.sk{fill:#38bdf8}.mu{fill:#94a3b8}.b{font-weight:700}.dk{fill:#0f172a}@keyframes a1{0%{opacity:1}24%{opacity:1}27%{opacity:0}100%{opacity:0}}.a1{opacity:0;animation:a1 5s linear infinite}@keyframes a2{0%{opacity:0}25%{opacity:0}28%{opacity:1}48%{opacity:1}51%{opacity:0}100%{opacity:0}}.a2{opacity:0;animation:a2 5s linear infinite}@keyframes a3{0%{opacity:0}49%{opacity:0}52%{opacity:1}72%{opacity:1}75%{opacity:0}100%{opacity:0}}.a3{opacity:0;animation:a3 5s linear infinite}@keyframes a4{0%{opacity:0}73%{opacity:0}76%{opacity:1}96%{opacity:1}99%{opacity:0}100%{opacity:0}}.a4{opacity:0;animation:a4 5s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t" x="16" y="26">보안 인식</text>
+<rect x="16" y="66" width="66" height="40" rx="8" fill="#1e293b" />
+<text class="c b" x="49" y="91">받음</text>
+<text class="c s" x="49" y="124">수상한 메시지</text>
+<circle cx="49" cy="54" r="7" fill="#334155" />
+<text class="c s" x="49" y="57.5">1</text>
+<path d="M85.5 82.4 L90 86 L85.5 89.6 Z" fill="#94a3b8"/>
+<line x1="82" y1="86" x2="86" y2="86" stroke="#94a3b8" stroke-width="1.5" stroke-linecap="round" />
+<rect x="90" y="66" width="66" height="40" rx="8" fill="#1e293b" />
+<text class="c b" x="123" y="91">멈춤</text>
+<text class="c s" x="123" y="124">서두르지 말고</text>
+<circle cx="123" cy="54" r="7" fill="#334155" />
+<text class="c s" x="123" y="57.5">2</text>
+<path d="M159.5 82.4 L164 86 L159.5 89.6 Z" fill="#94a3b8"/>
+<line x1="156" y1="86" x2="160" y2="86" stroke="#94a3b8" stroke-width="1.5" stroke-linecap="round" />
+<rect x="164" y="66" width="66" height="40" rx="8" fill="#1e293b" />
+<text class="c b" x="197" y="91">확인</text>
+<text class="c s" x="197" y="124">다른 경로로</text>
+<circle cx="197" cy="54" r="7" fill="#334155" />
+<text class="c s" x="197" y="57.5">3</text>
+<path d="M233.5 82.4 L238 86 L233.5 89.6 Z" fill="#94a3b8"/>
+<line x1="230" y1="86" x2="234" y2="86" stroke="#94a3b8" stroke-width="1.5" stroke-linecap="round" />
+<rect x="238" y="66" width="66" height="40" rx="8" fill="#1e293b" />
+<text class="c b" x="271" y="91">신고</text>
+<text class="c s" x="271" y="124">담당자에게</text>
+<circle cx="271" cy="54" r="7" fill="#334155" />
+<text class="c s" x="271" y="57.5">4</text>
+<rect class="a1" x="16" y="66" width="66" height="40" rx="8" fill="#f59e0b" />
+<text class="c b dk a1" x="49" y="91">받음</text>
+<rect class="a2" x="90" y="66" width="66" height="40" rx="8" fill="#f59e0b" />
+<text class="c b dk a2" x="123" y="91">멈춤</text>
+<rect class="a3" x="164" y="66" width="66" height="40" rx="8" fill="#f59e0b" />
+<text class="c b dk a3" x="197" y="91">확인</text>
+<rect class="a4" x="238" y="66" width="66" height="40" rx="8" fill="#f59e0b" />
+<text class="c b dk a4" x="271" y="91">신고</text>
+<text class="c m" x="160" y="160">누르기 전에 한 번 멈추고, 혼자 판단하지 않는다</text>
+</svg>

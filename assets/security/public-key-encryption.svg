@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="누구나 쓸 수 있는 공개 자물쇠로 메시지를 잠그면 받는 사람만 가진 개인 열쇠로 열 수 있는 그림">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.ac{fill:#f59e0b}.sk{fill:#38bdf8}.mu{fill:#94a3b8}.b{font-weight:700}.dk{fill:#0f172a}@keyframes a1{0%{opacity:0;transform:translate(66px,108px)}6%{opacity:0;transform:translate(66px,108px)}9%{opacity:1;transform:translate(66px,108px)}30%{opacity:1;transform:translate(130px,108px)}33%{opacity:0;transform:translate(130px,108px)}100%{opacity:0;transform:translate(130px,108px)}}.a1{opacity:0;animation:a1 5s ease-in-out infinite}@keyframes a2{0%{transform:scale(1)}32%{transform:scale(1)}39%{transform:scale(1.25)}46%{transform:scale(1)}100%{transform:scale(1)}}.a2{transform-box:fill-box;transform-origin:center;animation:a2 5s ease-in-out infinite}@keyframes a3{0%{opacity:0;transform:translate(150px,108px)}36%{opacity:0;transform:translate(150px,108px)}39%{opacity:1;transform:translate(150px,108px)}62%{opacity:1;transform:translate(224px,108px)}65%{opacity:0;transform:translate(224px,108px)}100%{opacity:0;transform:translate(224px,108px)}}.a3{opacity:0;animation:a3 5s ease-in-out infinite}@keyframes a4{0%{opacity:0}70%{opacity:0}74%{opacity:1}95%{opacity:1}99%{opacity:0}100%{opacity:0}}.a4{animation:a4 5s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t" x="16" y="26">공개키 암호</text>
+<path d="M154.5 41.8 V37.4 a5.5 5.5 0 0 1 11.0 0 V41.8" fill="none" stroke="#f59e0b" stroke-width="2.2" stroke-linecap="round"/><rect x="151.2" y="41.8" width="17.6" height="13.200000000000001" rx="2.2" fill="#f59e0b"/>
+<text class="c s" x="160" y="72">공개키: 누구나 쓰는 자물쇠</text>
+<circle cx="38" cy="99.2" r="5.5" fill="#94a3b8"/><path d="M27.0 121.2 Q27.0 106.9 38 106.9 Q49.0 106.9 49.0 121.2 Z" fill="#94a3b8"/>
+<text class="c s" x="38" y="134">보내는 사람</text>
+<rect x="246" y="82" width="58" height="56" rx="8" fill="#1e293b" />
+<circle cx="267.4" cy="106" r="4.95" fill="none" stroke="#f59e0b" stroke-width="2.2"/><path d="M272.35 106 H283.9 M279.5 106 V110.4 M283.9 106 V111.5" fill="none" stroke="#f59e0b" stroke-width="2.2" stroke-linecap="round"/>
+<text class="c s" x="275" y="126">개인키</text>
+<text class="c s" x="275" y="152">받는 사람</text>
+<line x1="60" y1="108" x2="246" y2="108" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 3" />
+<g class="a1" ><rect x="-7.0" y="-9.0" width="14" height="18" rx="2" fill="#94a3b8"/><path d="M-4.0 -4 H4.0 M-4.0 1 H4.0 M-4.0 6 H1.0" stroke="#0f172a" stroke-width="1.5"/></g>
+<circle class="a2" cx="160" cy="44" r="14" fill="none" stroke="#f59e0b" stroke-width="2" />
+<g class="a3" ><rect x="-7.0" y="-9.0" width="14" height="18" rx="2" fill="#94a3b8"/><path d="M-4.0 -4 H4.0 M-4.0 1 H4.0 M-4.0 6 H1.0" stroke="#0f172a" stroke-width="1.5"/><path d="M2.0 4.8 V2.4000000000000004 a3.0 3.0 0 0 1 6.0 0 V4.8" fill="none" stroke="#f59e0b" stroke-width="1.2" stroke-linecap="round"/><rect x="0.20000000000000018" y="4.8" width="9.6" height="7.199999999999999" rx="1.2" fill="#f59e0b"/></g>
+<g class="a4" ><path d="M270.0 94 L273.5 98.0 L281.0 89.0" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text class="c s" x="160" y="182">공개키로 잠그고, 개인키로만 연다</text>
+
+</svg>

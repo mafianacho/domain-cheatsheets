@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="립싱크: 대사의 소리에 맞춰 입 모양 그림을 바꿔 캐릭터가 말하는 것처럼 보이게 하는 작업">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0%,7.99%{opacity:1}8%,100%{opacity:0}}.k1{animation:k1 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,7.99%{opacity:0}8%,27.99%{opacity:1}28%,100%{opacity:0}}.k2{animation:k2 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,27.99%{opacity:0}28%,45.99%{opacity:1}46%,100%{opacity:0}}.k3{animation:k3 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,45.99%{opacity:0}46%,63.99%{opacity:1}64%,100%{opacity:0}}.k4{animation:k4 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,63.99%{opacity:0}64%,79.99%{opacity:1}80%,100%{opacity:0}}.k5{animation:k5 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k6{0%,79.99%{opacity:0}80%,91.99%{opacity:1}92%,100%{opacity:0}}.k6{animation:k6 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k7{0%,91.99%{opacity:0}92%,99.99%{opacity:1}}.k7{animation:k7 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k8{0%,7.99%{opacity:0}8%,27.99%{opacity:1}28%,100%{opacity:0}}.k8{animation:k8 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k9{0%,27.99%{opacity:0}28%,45.99%{opacity:1}46%,100%{opacity:0}}.k9{animation:k9 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k10{0%,45.99%{opacity:0}46%,63.99%{opacity:1}64%,100%{opacity:0}}.k10{animation:k10 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k11{0%,63.99%{opacity:0}64%,79.99%{opacity:1}80%,100%{opacity:0}}.k11{animation:k11 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k12{0%,79.99%{opacity:0}80%,91.99%{opacity:1}92%,100%{opacity:0}}.k12{animation:k12 5s linear infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Lip Sync · 립싱크</text>
+<circle cx="84" cy="104" r="42" fill="#334155" stroke="#38bdf8" stroke-width="2.5"/>
+<circle cx="69" cy="92" r="4" fill="#e2e8f0"/>
+<circle cx="99" cy="92" r="4" fill="#e2e8f0"/>
+<g class="k1"><path d="M75 124 Q84 126 93 124" fill="none" stroke="#e2e8f0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="k2" opacity="0"><ellipse cx="84" cy="124" rx="11" ry="8" fill="#0f172a" stroke="#e2e8f0" stroke-width="2"/>
+<ellipse cx="84" cy="128" rx="6" ry="3" fill="#f59e0b"/></g>
+<g class="k3" opacity="0"><ellipse cx="84" cy="124" rx="11" ry="4" fill="#0f172a" stroke="#e2e8f0" stroke-width="2"/>
+<rect x="76" y="121" width="16" height="3" rx="1" fill="#e2e8f0"/></g>
+<g class="k4" opacity="0"><ellipse cx="84" cy="124" rx="11" ry="8" fill="#0f172a" stroke="#e2e8f0" stroke-width="2"/>
+<ellipse cx="84" cy="128" rx="6" ry="3" fill="#f59e0b"/></g>
+<g class="k5" opacity="0"><ellipse cx="84" cy="124" rx="11" ry="4" fill="#0f172a" stroke="#e2e8f0" stroke-width="2"/>
+<rect x="76" y="121" width="16" height="3" rx="1" fill="#e2e8f0"/></g>
+<g class="k6" opacity="0"><ellipse cx="84" cy="124" rx="6" ry="8" fill="#0f172a" stroke="#e2e8f0" stroke-width="2"/></g>
+<g class="k7" opacity="0"><path d="M75 124 Q84 126 93 124" fill="none" stroke="#e2e8f0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="84" y="164" font-size="10" fill="#94a3b8" text-anchor="middle">입 모양 (그림 교체)</text>
+<text x="228" y="62" font-size="10" fill="#94a3b8" text-anchor="middle">소리 (대사)</text>
+<rect x="156" y="72" width="26" height="30" rx="5" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="169" y="93" font-size="13" fill="#e2e8f0" text-anchor="middle" font-weight="700">안</text>
+<rect x="186" y="72" width="26" height="30" rx="5" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="199" y="93" font-size="13" fill="#e2e8f0" text-anchor="middle" font-weight="700">녕</text>
+<rect x="216" y="72" width="26" height="30" rx="5" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="229" y="93" font-size="13" fill="#e2e8f0" text-anchor="middle" font-weight="700">하</text>
+<rect x="246" y="72" width="26" height="30" rx="5" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="259" y="93" font-size="13" fill="#e2e8f0" text-anchor="middle" font-weight="700">세</text>
+<rect x="276" y="72" width="26" height="30" rx="5" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="289" y="93" font-size="13" fill="#e2e8f0" text-anchor="middle" font-weight="700">요</text>
+<rect x="156" y="72" width="26" height="30" rx="5" fill="#f59e0b" opacity="0" class="k8"/>
+<text x="169" y="93" font-size="13" fill="#0f172a" text-anchor="middle" font-weight="700" opacity="0" class="k8">안</text>
+<rect x="186" y="72" width="26" height="30" rx="5" fill="#f59e0b" opacity="0" class="k9"/>
+<text x="199" y="93" font-size="13" fill="#0f172a" text-anchor="middle" font-weight="700" opacity="0" class="k9">녕</text>
+<rect x="216" y="72" width="26" height="30" rx="5" fill="#f59e0b" opacity="0" class="k10"/>
+<text x="229" y="93" font-size="13" fill="#0f172a" text-anchor="middle" font-weight="700" opacity="0" class="k10">하</text>
+<rect x="246" y="72" width="26" height="30" rx="5" fill="#f59e0b" opacity="0" class="k11"/>
+<text x="259" y="93" font-size="13" fill="#0f172a" text-anchor="middle" font-weight="700" opacity="0" class="k11">세</text>
+<rect x="276" y="72" width="26" height="30" rx="5" fill="#f59e0b" opacity="0" class="k12"/>
+<text x="289" y="93" font-size="13" fill="#0f172a" text-anchor="middle" font-weight="700" opacity="0" class="k12">요</text>
+<rect x="159" y="131.0" width="5" height="6" rx="2" fill="#38bdf8"/>
+<rect x="167" y="128.5" width="5" height="11" rx="2" fill="#38bdf8"/>
+<rect x="175" y="126.0" width="5" height="16" rx="2" fill="#38bdf8"/>
+<rect x="189" y="127.5" width="5" height="13" rx="2" fill="#38bdf8"/>
+<rect x="197" y="130.5" width="5" height="7" rx="2" fill="#38bdf8"/>
+<rect x="205" y="128.0" width="5" height="12" rx="2" fill="#38bdf8"/>
+<rect x="219" y="129.5" width="5" height="9" rx="2" fill="#38bdf8"/>
+<rect x="227" y="127.0" width="5" height="14" rx="2" fill="#38bdf8"/>
+<rect x="235" y="130.0" width="5" height="8" rx="2" fill="#38bdf8"/>
+<rect x="249" y="126.0" width="5" height="16" rx="2" fill="#38bdf8"/>
+<rect x="257" y="129.0" width="5" height="10" rx="2" fill="#38bdf8"/>
+<rect x="265" y="126.5" width="5" height="15" rx="2" fill="#38bdf8"/>
+<rect x="279" y="128.0" width="5" height="12" rx="2" fill="#38bdf8"/>
+<rect x="287" y="131.0" width="5" height="6" rx="2" fill="#38bdf8"/>
+<rect x="295" y="128.5" width="5" height="11" rx="2" fill="#38bdf8"/>
+<text x="228" y="156" font-size="9" fill="#94a3b8" text-anchor="middle">소리 높낮이 막대</text>
+<path d="M228 108 L228 118 M225.0 112.8 L228 118 L231.0 112.8" fill="none" stroke="#94a3b8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

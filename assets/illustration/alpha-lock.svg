@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="알파 잠금: 레이어의 투명한 부분을 잠가서, 이미 그려진 부분 안에만 색이 칠해지게 하는 기능">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,34%{opacity:0}36%,84%{opacity:1}87%{opacity:0}100%{opacity:0}}.k1{animation:k1 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,34%{opacity:0}36%,84%{opacity:1}87%{opacity:0}100%{opacity:0}}.k2{animation:k2 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">알파 잠금</text>
+<text x="304" y="28" font-size="9" fill="#94a3b8" text-anchor="end">투명한 곳은 잠그고 칠하기</text>
+<defs><pattern id="ck" width="12" height="12" patternUnits="userSpaceOnUse"><rect width="12" height="12" fill="#1e293b"/><rect width="6" height="6" fill="#334155"/><rect x="6" y="6" width="6" height="6" fill="#334155"/></pattern></defs>
+<rect x="16" y="46" width="136" height="90" rx="8" fill="url(#ck)" stroke="#475569" stroke-width="1.5"/>
+<defs><clipPath id="al0"><circle cx="84" cy="91" r="28"/></clipPath></defs>
+<circle cx="84" cy="91" r="28" fill="#f59e0b"/>
+<rect x="18" y="48" width="132" height="86" rx="7" fill="#38bdf8" opacity="0" class="k1"/>
+<text x="84" y="156" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700">알파 잠금 OFF</text>
+<text x="84" y="172" font-size="9" fill="#94a3b8" text-anchor="middle">투명한 곳까지 다 칠해짐</text>
+<rect x="168" y="46" width="136" height="90" rx="8" fill="url(#ck)" stroke="#475569" stroke-width="1.5"/>
+<defs><clipPath id="al1"><circle cx="236" cy="91" r="28"/></clipPath></defs>
+<circle cx="236" cy="91" r="28" fill="#f59e0b"/>
+<g clip-path="url(#al1)"><rect x="168" y="46" width="136" height="90" fill="#38bdf8" opacity="0" class="k2"/></g>
+<text x="236" y="156" font-size="11" fill="#f59e0b" text-anchor="middle" font-weight="700">알파 잠금 ON</text>
+<text x="236" y="172" font-size="9" fill="#94a3b8" text-anchor="middle">그려진 부분만 칠해짐</text>
+<rect x="282" y="52" width="14" height="10" rx="2" fill="#f59e0b"/>
+<path d="M285 52 Q289 44 293 52" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

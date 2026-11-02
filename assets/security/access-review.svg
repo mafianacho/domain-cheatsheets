@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="계정 목록을 정기적으로 훑어 퇴사자와 계약이 끝난 외주 계정을 찾아 권한을 회수하는 그림">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.ac{fill:#f59e0b}.sk{fill:#38bdf8}.mu{fill:#94a3b8}.b{font-weight:700}.dk{fill:#0f172a}@keyframes a1{0%{opacity:0}52%{opacity:0}55%{opacity:1}96%{opacity:1}99%{opacity:0}100%{opacity:0}}.a1{opacity:0;animation:a1 5s linear infinite}@keyframes a2{0%{opacity:0}56%{opacity:0}60%{opacity:1}95%{opacity:1}99%{opacity:0}100%{opacity:0}}.a2{animation:a2 5s linear infinite}@keyframes a3{0%{opacity:0}64%{opacity:0}67%{opacity:1}96%{opacity:1}99%{opacity:0}100%{opacity:0}}.a3{opacity:0;animation:a3 5s linear infinite}@keyframes a4{0%{opacity:0}68%{opacity:0}72%{opacity:1}95%{opacity:1}99%{opacity:0}100%{opacity:0}}.a4{animation:a4 5s linear infinite}@keyframes a5{0%{transform:translate(0px,0px)}8%{transform:translate(0px,0px)}50%{transform:translate(0px,114px)}98%{transform:translate(0px,114px)}100%{transform:translate(0px,0px)}}.a5{animation:a5 5s ease-in-out infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t" x="16" y="26">접근 권한 점검</text>
+<rect x="16" y="40" width="200" height="21" rx="5" fill="#1e293b" />
+<text class="m" x="26" y="54.5">대표 계정</text>
+<text class="s e" x="206" y="54.5">어제 사용</text>
+<rect x="16" y="65" width="200" height="21" rx="5" fill="#1e293b" />
+<text class="m" x="26" y="79.5">마케팅 팀원</text>
+<text class="s e" x="206" y="79.5">이번 주</text>
+<rect x="16" y="90" width="200" height="21" rx="5" fill="#1e293b" />
+<text class="m" x="26" y="104.5">퇴사자 계정</text>
+<text class="s e" x="206" y="104.5">오래 전</text>
+<rect x="16" y="115" width="200" height="21" rx="5" fill="#1e293b" />
+<text class="m" x="26" y="129.5">종료된 외주</text>
+<text class="s e" x="206" y="129.5">계약 끝남</text>
+<rect x="16" y="140" width="200" height="21" rx="5" fill="#1e293b" />
+<text class="m" x="26" y="154.5">개발 팀원</text>
+<text class="s e" x="206" y="154.5">오늘</text>
+<rect class="a1" x="14" y="89" width="204" height="23" rx="6" fill="none" stroke="#f59e0b" stroke-width="2" />
+<rect class="a2" x="228" y="92" width="66" height="17" rx="4" fill="#f59e0b" />
+<text class="c s dk a2" x="261" y="104">권한 회수</text>
+<rect class="a3" x="14" y="114" width="204" height="23" rx="6" fill="none" stroke="#f59e0b" stroke-width="2" />
+<rect class="a4" x="228" y="117" width="66" height="17" rx="4" fill="#f59e0b" />
+<text class="c s dk a4" x="261" y="129">권한 회수</text>
+<rect class="a5" x="16" y="36" width="200" height="3" rx="1" fill="#38bdf8" />
+<text class="c s" x="160" y="184">주기적으로 훑어 안 쓰는 권한을 걷어 낸다</text>
+</svg>

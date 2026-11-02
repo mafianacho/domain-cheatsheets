@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="뉴스레터 발송 목적에 필요한 이메일과 이름만 남기고 주민번호 주소 취미 항목은 받지 않는 그림">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.ac{fill:#f59e0b}.sk{fill:#38bdf8}.mu{fill:#94a3b8}.b{font-weight:700}.dk{fill:#0f172a}@keyframes a1{0%{opacity:0}30%{opacity:0}33%{opacity:1}96%{opacity:1}99%{opacity:0}100%{opacity:0}}.a1{opacity:0;animation:a1 5s linear infinite}@keyframes a2{0%{opacity:0}44%{opacity:0}47%{opacity:1}96%{opacity:1}99%{opacity:0}100%{opacity:0}}.a2{opacity:0;animation:a2 5s linear infinite}@keyframes a3{0%{opacity:0}58%{opacity:0}61%{opacity:1}96%{opacity:1}99%{opacity:0}100%{opacity:0}}.a3{opacity:0;animation:a3 5s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t" x="16" y="26">개인정보 최소 수집</text>
+<rect x="16" y="40" width="172" height="126" rx="8" fill="#1e293b" />
+<rect x="26" y="48" width="152" height="18" rx="4" fill="#334155" />
+<text class="s" x="34" y="61">이메일</text>
+<rect x="26" y="71" width="152" height="18" rx="4" fill="#334155" />
+<text class="s" x="34" y="84">이름</text>
+<rect x="26" y="94" width="152" height="18" rx="4" fill="#334155" />
+<text class="s" x="34" y="107">주민등록번호</text>
+<rect class="a1" x="26" y="94" width="152" height="18" rx="4" fill="#0f172a" stroke="#475569" stroke-width="1" stroke-dasharray="3 3"/>
+<text class="s mu a1" x="34" y="107">주민등록번호</text>
+<line class="a1" x1="32" y1="103" x2="92" y2="103" stroke="#94a3b8" stroke-width="1.2" stroke-linecap="round" />
+<text class="s e ac a1" x="172" y="107">받지 않음</text>
+<rect x="26" y="117" width="152" height="18" rx="4" fill="#334155" />
+<text class="s" x="34" y="130">집 주소</text>
+<rect class="a2" x="26" y="117" width="152" height="18" rx="4" fill="#0f172a" stroke="#475569" stroke-width="1" stroke-dasharray="3 3"/>
+<text class="s mu a2" x="34" y="130">집 주소</text>
+<line class="a2" x1="32" y1="126" x2="74" y2="126" stroke="#94a3b8" stroke-width="1.2" stroke-linecap="round" />
+<text class="s e ac a2" x="172" y="130">받지 않음</text>
+<rect x="26" y="140" width="152" height="18" rx="4" fill="#334155" />
+<text class="s" x="34" y="153">취미</text>
+<rect class="a3" x="26" y="140" width="152" height="18" rx="4" fill="#0f172a" stroke="#475569" stroke-width="1" stroke-dasharray="3 3"/>
+<text class="s mu a3" x="34" y="153">취미</text>
+<line class="a3" x1="32" y1="149" x2="56" y2="149" stroke="#94a3b8" stroke-width="1.2" stroke-linecap="round" />
+<text class="s e ac a3" x="172" y="153">받지 않음</text>
+<text class="c s mu" x="251" y="60">목적</text>
+<text class="c m b" x="251" y="76">뉴스레터 발송</text>
+<text class="c s" x="251" y="102">목적에 필요한</text>
+<text class="c s" x="251" y="114">항목만 받는다</text>
+<text class="c s ac" x="251" y="138">끝나면 보관도</text>
+<text class="c s ac" x="251" y="150">지운다</text>
+</svg>

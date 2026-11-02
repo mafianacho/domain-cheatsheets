@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="매니저가 여러 서버(노드) 위의 파드를 관리하다가 한 파드가 죽으면 자동으로 다른 노드에 새 파드를 띄우는 그림">
+<style>@keyframes wn_140_280{0%,28.0%{opacity:0}30.0%,56.0%{opacity:1}58.0%,100%{opacity:0}}.wn_140_280{animation:wn_140_280 5.0s linear infinite}@keyframes wn_300_460{0%,60.0%{opacity:0}62.0%,92.0%{opacity:1}94.0%,100%{opacity:0}}.wn_300_460{animation:wn_300_460 5.0s linear infinite}@keyframes wn_160_460{0%,32.0%{opacity:0}34.0%,92.0%{opacity:1}94.0%,100%{opacity:0}}.wn_160_460{animation:wn_160_460 5.0s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="24" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">쿠버네티스 (오케스트레이션)</text>
+<rect x="110" y="34" width="100" height="24" rx="6" fill="#334155" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="160" y="50" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">쿠버네티스</text>
+<line x1="160" y1="58" x2="66" y2="82" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="24" y="82" width="84" height="58" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="66" y="96" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">노드(서버)</text>
+<line x1="160" y1="58" x2="160" y2="82" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="118" y="82" width="84" height="58" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="160" y="96" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">노드(서버)</text>
+<line x1="160" y1="58" x2="254" y2="82" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="212" y="82" width="84" height="58" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="254" y="96" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">노드(서버)</text>
+<rect x="32" y="106" width="28" height="22" rx="4" fill="#38bdf8"/>
+<text x="46" y="121" font-size="9" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">Pod</text>
+<rect x="66" y="106" width="28" height="22" rx="4" fill="#38bdf8"/>
+<text x="80" y="121" font-size="9" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">Pod</text>
+<rect x="126" y="106" width="28" height="22" rx="4" fill="#38bdf8"/>
+<text x="140" y="121" font-size="9" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">Pod</text>
+<rect x="160" y="106" width="28" height="22" rx="4" fill="#38bdf8"/>
+<text x="174" y="121" font-size="9" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">Pod</text>
+<rect x="220" y="106" width="28" height="22" rx="4" fill="#38bdf8"/>
+<text x="234" y="121" font-size="9" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">Pod</text>
+<rect x="252" y="106" width="28" height="22" rx="4" fill="none" stroke="#475569" stroke-width="1.5" stroke-dasharray="4 3"/>
+<g class="wn_140_280" opacity="0"><rect x="66" y="106" width="28" height="22" rx="4" fill="#111827" stroke="#475569" stroke-width="1.5"/><line x1="74" y1="111" x2="86" y2="123" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round"/><line x1="74" y1="123" x2="86" y2="111" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round"/></g>
+<g class="wn_300_460" opacity="0"><rect x="252" y="106" width="28" height="22" rx="4" fill="#f59e0b"/><text x="266" y="121" font-size="9" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">Pod</text></g>
+<text x="160" y="160" font-size="9" fill="#f59e0b" text-anchor="middle" font-family="system-ui, sans-serif" class="wn_160_460" opacity="0">죽은 파드를 자동으로 다시 띄움</text>
+<text x="160" y="182" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">컨테이너를 알아서 배치하고 복구하는 관리자</text>
+</svg>

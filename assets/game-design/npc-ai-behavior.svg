@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="NPC 행동 AI: 적이 순찰하다가 플레이어를 발견하면 추격하고 가까워지면 공격한다">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0.0%{opacity:0}2.99%{opacity:0}4.5%{opacity:1}28.0%{opacity:1}29.5%{opacity:0}100.0%{opacity:0}}.k1{animation:k1 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0.0%{opacity:0}33.99%{opacity:0}35.5%{opacity:1}59.0%{opacity:1}60.5%{opacity:0}100.0%{opacity:0}}.k2{animation:k2 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0.0%{opacity:0}64.99%{opacity:0}66.5%{opacity:1}90.0%{opacity:1}91.5%{opacity:0}100.0%{opacity:0}}.k3{animation:k3 5s linear infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-family="system-ui, sans-serif" font-size="13" fill="#e2e8f0" font-weight="700">NPC AI · 적의 행동 규칙</text>
+<text x="160" y="52" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">상태마다 하는 일이 정해져 있다</text>
+<circle cx="56" cy="96" r="26" fill="#1e293b" stroke="#475569" stroke-width="2"/>
+<text x="56" y="100" font-family="system-ui, sans-serif" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700">순찰</text>
+<circle cx="160" cy="96" r="26" fill="#1e293b" stroke="#475569" stroke-width="2"/>
+<text x="160" y="100" font-family="system-ui, sans-serif" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700">추격</text>
+<circle cx="264" cy="96" r="26" fill="#1e293b" stroke="#475569" stroke-width="2"/>
+<text x="264" y="100" font-family="system-ui, sans-serif" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700">공격</text>
+<path d="M84 96 L132 96 M126.8 99.0 L132 96 L126.8 93.0" fill="none" stroke="#94a3b8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M188 96 L236 96 M230.8 99.0 L236 96 L230.8 93.0" fill="none" stroke="#94a3b8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="108" y="84" font-family="system-ui, sans-serif" font-size="10" fill="#38bdf8" text-anchor="middle" font-weight="700">발견!</text>
+<text x="212" y="84" font-family="system-ui, sans-serif" font-size="10" fill="#38bdf8" text-anchor="middle" font-weight="700">가까이</text>
+<path d="M264 122 Q160 186 56 122" fill="none" stroke="#94a3b8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M66.4 128.4 L56 122 M62.0 122.2 L56 122 L58.9 127.3" fill="none" stroke="#94a3b8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="160" y="178" font-family="system-ui, sans-serif" font-size="9.5" fill="#94a3b8" text-anchor="middle">놓치면 순찰로 복귀</text>
+<g class="k1" opacity="0"><circle cx="56" cy="96" r="26" fill="#f59e0b"/>
+<text x="56" y="100" font-family="system-ui, sans-serif" font-size="12" fill="#0f172a" text-anchor="middle" font-weight="700">순찰</text></g>
+<g class="k2" opacity="0"><circle cx="160" cy="96" r="26" fill="#f59e0b"/>
+<text x="160" y="100" font-family="system-ui, sans-serif" font-size="12" fill="#0f172a" text-anchor="middle" font-weight="700">추격</text></g>
+<g class="k3" opacity="0"><circle cx="264" cy="96" r="26" fill="#f59e0b"/>
+<text x="264" y="100" font-family="system-ui, sans-serif" font-size="12" fill="#0f172a" text-anchor="middle" font-weight="700">공격</text></g>
+</svg>

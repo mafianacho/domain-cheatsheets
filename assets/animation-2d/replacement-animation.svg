@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="교체 애니메이션: 눈·입·손 같은 부분을 미리 그린 여러 그림으로 갈아 끼우는 방식">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0%,39.99%{opacity:1}40%,100%{opacity:0}}.k1{animation:k1 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,39.99%{opacity:0}40%,47.99%{opacity:1}48%,100%{opacity:0}}.k2{animation:k2 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,47.99%{opacity:0}48%,59.99%{opacity:1}60%,100%{opacity:0}}.k3{animation:k3 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,59.99%{opacity:0}60%,67.99%{opacity:1}68%,100%{opacity:0}}.k4{animation:k4 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,67.99%{opacity:0}68%,99.99%{opacity:1}}.k5{animation:k5 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k6{0%,39.99%{opacity:1}40%,100%{opacity:0}}.k6{animation:k6 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k7{0%,67.99%{opacity:0}68%,99.99%{opacity:1}}.k7{animation:k7 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k8{0%,39.99%{opacity:0}40%,47.99%{opacity:1}48%,100%{opacity:0}}.k8{animation:k8 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k9{0%,59.99%{opacity:0}60%,67.99%{opacity:1}68%,100%{opacity:0}}.k9{animation:k9 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k10{0%,47.99%{opacity:0}48%,59.99%{opacity:1}60%,100%{opacity:0}}.k10{animation:k10 5s linear infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Replacement Animation · 교체 애니메이션</text>
+<circle cx="90" cy="104" r="46" fill="#334155" stroke="#38bdf8" stroke-width="2.5"/>
+<g class="k1"><circle cx="74" cy="96" r="6" fill="#e2e8f0"/>
+<circle cx="74" cy="96" r="2.5" fill="#0f172a"/>
+<circle cx="106" cy="96" r="6" fill="#e2e8f0"/>
+<circle cx="106" cy="96" r="2.5" fill="#0f172a"/></g>
+<g class="k2" opacity="0"><ellipse cx="74" cy="98" rx="6" ry="3" fill="#e2e8f0"/>
+<ellipse cx="106" cy="98" rx="6" ry="3" fill="#e2e8f0"/></g>
+<g class="k3" opacity="0"><path d="M68 98 Q74 102 80 98" fill="none" stroke="#e2e8f0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100 98 Q106 102 112 98" fill="none" stroke="#e2e8f0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="k4" opacity="0"><ellipse cx="74" cy="98" rx="6" ry="3" fill="#e2e8f0"/>
+<ellipse cx="106" cy="98" rx="6" ry="3" fill="#e2e8f0"/></g>
+<g class="k5" opacity="0"><circle cx="74" cy="96" r="6" fill="#e2e8f0"/>
+<circle cx="74" cy="96" r="2.5" fill="#0f172a"/>
+<circle cx="106" cy="96" r="6" fill="#e2e8f0"/>
+<circle cx="106" cy="96" r="2.5" fill="#0f172a"/></g>
+<path d="M80 126 Q90 132 100 126" fill="none" stroke="#e2e8f0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="90" y="168" font-size="10" fill="#94a3b8" text-anchor="middle">머리는 그대로, 눈만 교체</text>
+<text x="236" y="56" font-size="10" fill="#94a3b8" text-anchor="middle">눈 그림 서랍</text>
+<rect x="190" y="66" width="92" height="32" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<g><circle cx="222" cy="80" r="6" fill="#e2e8f0"/>
+<circle cx="222" cy="80" r="2.5" fill="#0f172a"/>
+<circle cx="250" cy="80" r="6" fill="#e2e8f0"/>
+<circle cx="250" cy="80" r="2.5" fill="#0f172a"/></g>
+<rect x="188" y="64" width="96" height="36" rx="6" fill="none" stroke="#f59e0b" stroke-width="2.5" class="k6"/>
+<rect x="188" y="64" width="96" height="36" rx="6" fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0" class="k7"/>
+<rect x="190" y="104" width="92" height="32" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<g><ellipse cx="222" cy="120" rx="6" ry="3" fill="#e2e8f0"/>
+<ellipse cx="250" cy="120" rx="6" ry="3" fill="#e2e8f0"/></g>
+<rect x="188" y="102" width="96" height="36" rx="6" fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0" class="k8"/>
+<rect x="188" y="102" width="96" height="36" rx="6" fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0" class="k9"/>
+<rect x="190" y="142" width="92" height="32" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<g><path d="M216 158 Q222 162 228 158" fill="none" stroke="#e2e8f0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M244 158 Q250 162 256 158" fill="none" stroke="#e2e8f0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="188" y="140" width="96" height="36" rx="6" fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0" class="k10"/>
+</svg>

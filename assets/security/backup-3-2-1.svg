@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="원본과 외장 디스크 사본과 멀리 둔 클라우드 사본으로 3개 사본 2종 매체 1곳은 다른 장소를 지키는 그림">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.ac{fill:#f59e0b}.sk{fill:#38bdf8}.mu{fill:#94a3b8}.b{font-weight:700}.dk{fill:#0f172a}@keyframes a1{0%{opacity:0;transform:translate(106px,74px)}6%{opacity:0;transform:translate(106px,74px)}9%{opacity:1;transform:translate(106px,74px)}20%{opacity:1;transform:translate(112px,74px)}23%{opacity:0;transform:translate(112px,74px)}100%{opacity:0;transform:translate(112px,74px)}}.a1{opacity:0;animation:a1 5s ease-in-out infinite}@keyframes a2{0%{opacity:0;transform:translate(58px,100px)}24%{opacity:0;transform:translate(58px,100px)}27%{opacity:1;transform:translate(58px,100px)}28%{opacity:1;transform:translate(58px,116px)}48%{opacity:1;transform:translate(262px,116px)}52%{opacity:1;transform:translate(262px,102px)}55%{opacity:0;transform:translate(262px,102px)}100%{opacity:0;transform:translate(262px,102px)}}.a2{opacity:0;animation:a2 5s ease-in-out infinite}@keyframes a3{0%{opacity:0}56%{opacity:0}59%{opacity:1}70%{opacity:1}73%{opacity:0}100%{opacity:0}}.a3{opacity:0;animation:a3 5s linear infinite}@keyframes a4{0%{opacity:0}69%{opacity:0}72%{opacity:1}83%{opacity:1}86%{opacity:0}100%{opacity:0}}.a4{opacity:0;animation:a4 5s linear infinite}@keyframes a5{0%{opacity:0}82%{opacity:0}85%{opacity:1}96%{opacity:1}99%{opacity:0}100%{opacity:0}}.a5{opacity:0;animation:a5 5s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t" x="16" y="26">백업 3-2-1</text>
+<rect x="16" y="52" width="84" height="44" rx="8" fill="#1e293b" />
+<text class="c m b" x="58" y="71">원본</text>
+<text class="c s" x="58" y="86">내 컴퓨터</text>
+<rect x="118" y="52" width="84" height="44" rx="8" fill="#1e293b" />
+<text class="c m b" x="160" y="71">사본 1</text>
+<text class="c s" x="160" y="86">외장 디스크</text>
+<rect x="220" y="52" width="84" height="44" rx="8" fill="#1e293b" />
+<text class="c m b" x="262" y="71">사본 2</text>
+<text class="c s" x="262" y="86">클라우드 등</text>
+<line x1="210" y1="44" x2="210" y2="112" stroke="#94a3b8" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3" />
+<text class="c s" x="110" y="46">같은 장소</text>
+<text class="c s" x="262" y="46">다른 장소</text>
+<line x1="100" y1="74" x2="118" y2="74" stroke="#475569" stroke-width="1.5" stroke-linecap="round" />
+<path d="M113.5 70.4 L118 74 L113.5 77.6 Z" fill="#475569"/>
+<path d="M58 96 V116 H262 V96" fill="none" stroke="#475569" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 3"/>
+<path d="M258.4 100.5 L262 96 L265.6 100.5 Z" fill="#475569"/>
+<g class="a1" ><rect x="-5" y="-4" width="10" height="8" rx="2" fill="#f59e0b"/></g>
+<g class="a2" ><rect x="-5" y="-4" width="10" height="8" rx="2" fill="#f59e0b"/></g>
+<rect x="16" y="132" width="92" height="26" rx="7" fill="#1e293b" />
+<text class="c s b" x="62" y="149">3개 사본</text>
+<rect class="a3" x="16" y="132" width="92" height="26" rx="7" fill="#f59e0b" />
+<text class="c s b dk a3" x="62" y="149">3개 사본</text>
+<rect x="114" y="132" width="92" height="26" rx="7" fill="#1e293b" />
+<text class="c s b" x="160" y="149">2종 저장 매체</text>
+<rect class="a4" x="114" y="132" width="92" height="26" rx="7" fill="#f59e0b" />
+<text class="c s b dk a4" x="160" y="149">2종 저장 매체</text>
+<rect x="212" y="132" width="92" height="26" rx="7" fill="#1e293b" />
+<text class="c s b" x="258" y="149">1개는 멀리</text>
+<rect class="a5" x="212" y="132" width="92" height="26" rx="7" fill="#f59e0b" />
+<text class="c s b dk a5" x="258" y="149">1개는 멀리</text>
+<text class="c s" x="160" y="178">랜섬웨어에 대비해 하나는 네트워크와 분리해 둔다</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="인터넷 바깥과 점선으로 나뉜 나만의 가상 네트워크 안에 웹 서버와 데이터베이스가 있고, 출입구를 통해서만 드나드는 그림">
+<style>@keyframes mv_30_70_100_130_98_100{0%,6.0%{opacity:0;transform:translate(70px,100px)}6.4%{opacity:1;transform:translate(70px,100px)}26.0%{opacity:1;transform:translate(98px,100px)}26.8%,100%{opacity:0;transform:translate(98px,100px)}}.mv_30_70_100_130_98_100{animation:mv_30_70_100_130_98_100 5.0s linear infinite}@keyframes mv_150_112_100_210_142_100{0%,30.0%{opacity:0;transform:translate(112px,100px)}30.4%{opacity:1;transform:translate(112px,100px)}42.0%{opacity:1;transform:translate(142px,100px)}42.8%,100%{opacity:0;transform:translate(142px,100px)}}.mv_150_112_100_210_142_100{animation:mv_150_112_100_210_142_100 5.0s linear infinite}@keyframes mv_280_208_96_340_226_96{0%,56.0%{opacity:0;transform:translate(208px,96px)}56.4%{opacity:1;transform:translate(208px,96px)}68.0%{opacity:1;transform:translate(226px,96px)}68.8%,100%{opacity:0;transform:translate(226px,96px)}}.mv_280_208_96_340_226_96{animation:mv_280_208_96_340_226_96 5.0s linear infinite}@keyframes wn_280_460{0%,56.0%{opacity:0}58.0%,92.0%{opacity:1}94.0%,100%{opacity:0}}.wn_280_460{animation:wn_280_460 5.0s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="24" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">VPC (가상 사설 네트워크)</text>
+<path d="M-24,10 C-34,10 -34,-4 -24,-4 C-24,-16 -6,-20 0,-10 C6,-22 28,-16 26,-2 C36,-2 36,10 26,10 Z" fill="#334155" stroke="#475569" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round" transform="translate(40,100) scale(0.9)"/>
+<text x="40" y="126" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">인터넷</text>
+<rect x="104" y="40" width="202" height="120" rx="6" fill="none" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="118" y="56" font-size="9" fill="#f59e0b" text-anchor="start" font-weight="700" font-family="system-ui, sans-serif">VPC · 내 전용 네트워크</text>
+<rect x="98" y="86" width="14" height="28" rx="3" fill="#f59e0b"/>
+<text x="124" y="130" font-size="9" fill="#f59e0b" text-anchor="start" font-family="system-ui, sans-serif">출입구</text>
+<rect x="142" y="78" width="66" height="36" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="175" y="100" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">웹 서버</text>
+<rect x="226" y="78" width="66" height="36" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="259" y="100" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">DB</text>
+<line x1="208" y1="96" x2="226" y2="96" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<line x1="70" y1="100" x2="98" y2="100" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<line x1="112" y1="100" x2="142" y2="100" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<rect x="-5.0" y="-5.0" width="10" height="10" rx="2" fill="#38bdf8" class="mv_30_70_100_130_98_100" opacity="0" transform="translate(70,100)"/>
+<rect x="-5.0" y="-5.0" width="10" height="10" rx="2" fill="#38bdf8" class="mv_150_112_100_210_142_100" opacity="0" transform="translate(112,100)"/>
+<rect x="-5.0" y="-5.0" width="10" height="10" rx="2" fill="#f59e0b" class="mv_280_208_96_340_226_96" opacity="0" transform="translate(208,96)"/>
+<text x="205" y="150" font-size="9" fill="#f59e0b" text-anchor="middle" font-family="system-ui, sans-serif" class="wn_280_460" opacity="0">안쪽 서버끼리는 자유롭게 통신</text>
+<text x="160" y="182" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">내 서비스만 모아 둔 가상의 전용 구역</text>
+</svg>

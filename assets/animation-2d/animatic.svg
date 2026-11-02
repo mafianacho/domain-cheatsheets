@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="애니매틱: 스토리보드 컷을 소리와 함께 시간에 맞춰 이어 붙인 거친 영상">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0%,27.79%{opacity:1}27.8%,100%{opacity:0}}.k1{animation:k1 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,27.79%{opacity:0}27.8%,47.19%{opacity:1}47.2%,100%{opacity:0}}.k2{animation:k2 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,47.19%{opacity:0}47.2%,99.99%{opacity:1}}.k3{animation:k3 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%{transform:translateX(0px)}100%{transform:translateX(264px)}}.k4{animation:k4 5s linear infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Animatic · 애니매틱</text>
+<rect x="16" y="40" width="90" height="50" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<rect x="115" y="40" width="90" height="50" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<rect x="214" y="40" width="90" height="50" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<circle cx="61" cy="62" r="10" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<line x1="61" y1="72" x2="61" y2="82" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/>
+<circle cx="160" cy="65" r="14" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<circle cx="155" cy="62" r="2" fill="#e2e8f0"/>
+<circle cx="165" cy="62" r="2" fill="#e2e8f0"/>
+<circle cx="259" cy="66" r="5" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<path d="M272 66 L296 66 M290.8 69.0 L296 66 L290.8 63.0" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="16" y="108" width="78" height="28" rx="5" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="30" y="126" font-size="10" fill="#e2e8f0" font-weight="700">컷 1</text>
+<rect x="96" y="108" width="54" height="28" rx="5" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="110" y="126" font-size="10" fill="#e2e8f0" font-weight="700">컷 2</text>
+<rect x="152" y="108" width="150" height="28" rx="5" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="166" y="126" font-size="10" fill="#e2e8f0" font-weight="700">컷 3</text>
+<rect x="16" y="146" width="272" height="22" rx="5" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<rect x="24" y="155.0" width="4" height="4.0" rx="1.5" fill="#38bdf8"/>
+<rect x="32" y="151.1767114453486" width="4" height="11.646577109302841" rx="1.5" fill="#38bdf8"/>
+<rect x="40" y="150.5838969056955" width="4" height="12.832206188609028" rx="1.5" fill="#38bdf8"/>
+<rect x="48" y="153.2927947600413" width="4" height="7.414410479917445" rx="1.5" fill="#38bdf8"/>
+<rect x="56" y="153.53437640233696" width="4" height="6.931247195326104" rx="1.5" fill="#38bdf8"/>
+<rect x="64" y="152.5053557796643" width="4" height="8.989288440671398" rx="1.5" fill="#38bdf8"/>
+<rect x="72" y="152.5171288380499" width="4" height="8.965742323900198" rx="1.5" fill="#38bdf8"/>
+<rect x="80" y="154.93425827720753" width="4" height="4.1314834455849105" rx="1.5" fill="#38bdf8"/>
+<rect x="88" y="151.45029121792928" width="4" height="11.099417564141472" rx="1.5" fill="#38bdf8"/>
+<rect x="96" y="150.29888248846825" width="4" height="13.40223502306351" rx="1.5" fill="#38bdf8"/>
+<rect x="104" y="152.94029862518957" width="4" height="8.119402749620878" rx="1.5" fill="#38bdf8"/>
+<rect x="112" y="152.7532763023015" width="4" height="8.493447395397007" rx="1.5" fill="#38bdf8"/>
+<rect x="120" y="150.494230298343" width="4" height="13.011539403313968" rx="1.5" fill="#38bdf8"/>
+<rect x="128" y="151.8936808935925" width="4" height="10.212638212815037" rx="1.5" fill="#38bdf8"/>
+<rect x="136" y="154.88535871448346" width="4" height="4.229282571033104" rx="1.5" fill="#38bdf8"/>
+<rect x="144" y="152.86525202097164" width="4" height="8.269495958056737" rx="1.5" fill="#38bdf8"/>
+<rect x="152" y="151.9941764156442" width="4" height="10.011647168711601" rx="1.5" fill="#38bdf8"/>
+<rect x="160" y="153.4832998597293" width="4" height="7.0334002805414135" rx="1.5" fill="#38bdf8"/>
+<rect x="168" y="152.9180525107017" width="4" height="8.16389497859658" rx="1.5" fill="#38bdf8"/>
+<rect x="176" y="150.2674017273235" width="4" height="13.465196545353002" rx="1.5" fill="#38bdf8"/>
+<rect x="184" y="151.25155586873197" width="4" height="11.496888262536075" rx="1.5" fill="#38bdf8"/>
+<rect x="192" y="154.75111517196356" width="4" height="4.497769656072876" rx="1.5" fill="#38bdf8"/>
+<rect x="200" y="151.21775559674296" width="4" height="11.564488806514053" rx="1.5" fill="#38bdf8"/>
+<rect x="208" y="151.00551450907113" width="4" height="11.98897098185775" rx="1.5" fill="#38bdf8"/>
+<rect x="216" y="153.66347131261034" width="4" height="6.673057374779337" rx="1.5" fill="#38bdf8"/>
+<rect x="224" y="153.65564880541262" width="4" height="6.688702389174756" rx="1.5" fill="#38bdf8"/>
+<rect x="232" y="152.027992380732" width="4" height="9.944015238535984" rx="1.5" fill="#38bdf8"/>
+<rect x="240" y="152.23799805461374" width="4" height="9.524003890772534" rx="1.5" fill="#38bdf8"/>
+<rect x="248" y="154.7084449259485" width="4" height="4.583110148102987" rx="1.5" fill="#38bdf8"/>
+<rect x="256" y="151.07483486372206" width="4" height="11.850330272555883" rx="1.5" fill="#38bdf8"/>
+<rect x="264" y="150.23670913694826" width="4" height="13.526581726103483" rx="1.5" fill="#38bdf8"/>
+<rect x="272" y="153.18737276860026" width="4" height="7.625254462799475" rx="1.5" fill="#38bdf8"/>
+<rect x="280" y="152.64176188148485" width="4" height="8.7164762370303" rx="1.5" fill="#38bdf8"/>
+<rect x="288" y="150.81211672349596" width="4" height="12.375766553008104" rx="1.5" fill="#38bdf8"/>
+<text x="16" y="184" font-size="9" fill="#94a3b8">아래 막대 = 소리(대사·음악)</text>
+<rect x="14" y="38" width="94" height="54" rx="6" fill="none" stroke="#f59e0b" stroke-width="2.5" class="k1"/>
+<rect x="113" y="38" width="94" height="54" rx="6" fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0" class="k2"/>
+<rect x="212" y="38" width="94" height="54" rx="6" fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0" class="k3"/>
+<line x1="22" y1="98" x2="22" y2="172" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round" class="k4"/>
+</svg>

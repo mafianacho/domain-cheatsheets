@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="수상한 문자나 메일의 보낸 곳과 링크를 살피고 누르지 않은 채 공식 경로로 확인하는 점검표 그림">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.ac{fill:#f59e0b}.sk{fill:#38bdf8}.mu{fill:#94a3b8}.b{font-weight:700}.dk{fill:#0f172a}@keyframes a1{0%{opacity:0}30%{opacity:0}34%{opacity:1}95%{opacity:1}99%{opacity:0}100%{opacity:0}}.a1{animation:a1 5s linear infinite}@keyframes a2{0%{opacity:0}46%{opacity:0}50%{opacity:1}95%{opacity:1}99%{opacity:0}100%{opacity:0}}.a2{animation:a2 5s linear infinite}@keyframes a3{0%{opacity:0}62%{opacity:0}66%{opacity:1}95%{opacity:1}99%{opacity:0}100%{opacity:0}}.a3{animation:a3 5s linear infinite}@keyframes a4{0%{opacity:0}78%{opacity:0}82%{opacity:1}95%{opacity:1}99%{opacity:0}100%{opacity:0}}.a4{animation:a4 5s linear infinite}@keyframes a5{0%{opacity:0;transform:translate(150px,52px)}6%{opacity:0;transform:translate(150px,52px)}9%{opacity:1;transform:translate(150px,52px)}20%{opacity:1;transform:translate(150px,52px)}26%{opacity:1;transform:translate(80px,62px)}32%{opacity:1;transform:translate(80px,62px)}40%{opacity:1;transform:translate(110px,114px)}43%{opacity:0;transform:translate(110px,114px)}100%{opacity:0;transform:translate(110px,114px)}}.a5{opacity:0;animation:a5 5s ease-in-out infinite}@keyframes a6{0%{opacity:0}42%{opacity:0}45%{opacity:1}96%{opacity:1}99%{opacity:0}100%{opacity:0}}.a6{opacity:0;animation:a6 5s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t" x="16" y="26">피싱 · 스미싱</text>
+<rect x="16" y="40" width="142" height="104" rx="8" fill="#1e293b" />
+<text class="s" x="26" y="58">발신: 알 수 없는 번호</text>
+<rect x="26" y="66" width="122" height="5" rx="2" fill="#334155" />
+<rect x="26" y="76" width="98" height="5" rx="2" fill="#334155" />
+<rect x="26" y="86" width="112" height="5" rx="2" fill="#334155" />
+<rect x="26" y="104" width="80" height="18" rx="5" fill="#334155" />
+<text class="c s" x="66" y="116.5">확인하기 링크</text>
+<line x1="26" y1="110" x2="26" y2="110" stroke="#475569" stroke-width="1.5" stroke-linecap="round" />
+<circle cx="178" cy="52.5" r="8" fill="#334155" />
+<g class="a1" ><path d="M174.0 52.5 L176.8 55.7 L182.8 48.5" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text class="m" x="192" y="56">보낸 곳 먼저 확인</text>
+<circle cx="178" cy="78.5" r="8" fill="#334155" />
+<g class="a2" ><path d="M174.0 78.5 L176.8 81.7 L182.8 74.5" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text class="m" x="192" y="82">링크는 누르지 않기</text>
+<circle cx="178" cy="104.5" r="8" fill="#334155" />
+<g class="a3" ><path d="M174.0 104.5 L176.8 107.7 L182.8 100.5" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text class="m" x="192" y="108">공식 앱으로 직접 들어가기</text>
+<circle cx="178" cy="130.5" r="8" fill="#334155" />
+<g class="a4" ><path d="M174.0 130.5 L176.8 133.7 L182.8 126.5" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text class="m" x="192" y="134">신고하고 지우기</text>
+<g class="a5" ><circle cx="-3" cy="-3" r="6.0" fill="none" stroke="#38bdf8" stroke-width="2.0"/><path d="M1.5 1.5 L7.0 7.0" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round"/></g>
+<rect class="a6" x="24" y="100" width="84" height="26" rx="6" fill="none" stroke="#f59e0b" stroke-width="2" />
+<text class="c s" x="160" y="172">의심되면 누르기 전에 멈추고 공식 경로로 확인</text>
+</svg>

@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="달리기 사이클: 걷기와 달리 두 발이 모두 공중에 뜨는 자세가 들어가는 반복 동작">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0%{transform:translateX(0px)}100%{transform:translateX(-60px)}}.k1{animation:k1 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0.0%,12.49%{opacity:1}12.5%,100%{opacity:0}}.k2{animation:k2 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,49.99%{opacity:0}50.0%,62.49%{opacity:1}62.5%,100%{opacity:0}}.k3{animation:k3 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,12.49%{opacity:0}12.5%,24.99%{opacity:1}25.0%,100%{opacity:0}}.k4{animation:k4 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,62.49%{opacity:0}62.5%,74.99%{opacity:1}75.0%,100%{opacity:0}}.k5{animation:k5 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k6{0%,24.99%{opacity:0}25.0%,37.49%{opacity:1}37.5%,100%{opacity:0}}.k6{animation:k6 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k7{0%,74.99%{opacity:0}75.0%,87.49%{opacity:1}87.5%,100%{opacity:0}}.k7{animation:k7 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k8{0%,37.49%{opacity:0}37.5%,49.99%{opacity:1}50.0%,100%{opacity:0}}.k8{animation:k8 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k9{0%,87.49%{opacity:0}87.5%,99.99%{opacity:1}}.k9{animation:k9 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k10{0.0%,12.49%{opacity:1}12.5%,100%{opacity:0}}.k10{animation:k10 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k11{0%,12.49%{opacity:0}12.5%,24.99%{opacity:1}25.0%,100%{opacity:0}}.k11{animation:k11 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k12{0%,24.99%{opacity:0}25.0%,37.49%{opacity:1}37.5%,100%{opacity:0}}.k12{animation:k12 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k13{0%,37.49%{opacity:0}37.5%,49.99%{opacity:1}50.0%,100%{opacity:0}}.k13{animation:k13 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k14{0%,49.99%{opacity:0}50.0%,62.49%{opacity:1}62.5%,100%{opacity:0}}.k14{animation:k14 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k15{0%,62.49%{opacity:0}62.5%,74.99%{opacity:1}75.0%,100%{opacity:0}}.k15{animation:k15 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k16{0%,74.99%{opacity:0}75.0%,87.49%{opacity:1}87.5%,100%{opacity:0}}.k16{animation:k16 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k17{0%,87.49%{opacity:0}87.5%,99.99%{opacity:1}}.k17{animation:k17 5s linear infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Run Cycle · 달리기 사이클</text>
+<rect x="16" y="40" width="288" height="128" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<line x1="24" y1="154" x2="296" y2="154" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<clipPath id="gc"><rect x="20" y="156" width="280" height="10"/></clipPath>
+<g clip-path="url(#gc)"><g class="k1"><line x1="30" y1="158" x2="30" y2="164" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+<line x1="50" y1="158" x2="50" y2="164" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+<line x1="70" y1="158" x2="70" y2="164" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+<line x1="90" y1="158" x2="90" y2="164" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+<line x1="110" y1="158" x2="110" y2="164" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+<line x1="130" y1="158" x2="130" y2="164" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+<line x1="150" y1="158" x2="150" y2="164" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+<line x1="170" y1="158" x2="170" y2="164" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+<line x1="190" y1="158" x2="190" y2="164" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+<line x1="210" y1="158" x2="210" y2="164" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+<line x1="230" y1="158" x2="230" y2="164" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+<line x1="250" y1="158" x2="250" y2="164" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+<line x1="270" y1="158" x2="270" y2="164" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+<line x1="290" y1="158" x2="290" y2="164" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="158" x2="310" y2="164" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+<line x1="330" y1="158" x2="330" y2="164" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+<line x1="350" y1="158" x2="350" y2="164" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+<line x1="370" y1="158" x2="370" y2="164" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/></g></g>
+<rect x="54" y="44" width="44" height="34" rx="5" fill="#334155" stroke="#475569" stroke-width="1"/>
+<g transform="translate(76,47) scale(.25) translate(-160,-48)"><path d="M160.0 108.0 L150.0 130.0 L134.0 126.0" fill="none" stroke="#94a3b8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160.0 108.0 L178.0 126.0 L190.0 150.0" fill="none" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="168" y1="84" x2="160" y2="108" stroke="#38bdf8" stroke-width="4.5" stroke-linecap="round"/>
+<path d="M168.0 84.0 L182.0 90.0 L190.0 80.0" fill="none" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M168.0 84.0 L156.0 96.0 L146.0 90.0" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="172" cy="70" r="8" fill="#334155" stroke="#38bdf8" stroke-width="2"/></g>
+<rect x="53" y="43" width="46" height="36" rx="5" fill="none" stroke="#f59e0b" stroke-width="2.5" class="k2"/>
+<rect x="53" y="43" width="46" height="36" rx="5" fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0" class="k3"/>
+<rect x="106" y="44" width="44" height="34" rx="5" fill="#334155" stroke="#475569" stroke-width="1"/>
+<g transform="translate(128,47) scale(.25) translate(-160,-48)"><path d="M160.0 114.0 L152.0 130.0 L136.0 122.0" fill="none" stroke="#94a3b8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160.0 114.0 L170.0 134.0 L168.0 152.0" fill="none" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="168" y1="90" x2="160" y2="114" stroke="#38bdf8" stroke-width="4.5" stroke-linecap="round"/>
+<path d="M168.0 90.0 L178.0 100.0 L186.0 92.0" fill="none" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M168.0 90.0 L158.0 104.0 L152.0 96.0" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="172" cy="76" r="8" fill="#334155" stroke="#38bdf8" stroke-width="2"/></g>
+<rect x="105" y="43" width="46" height="36" rx="5" fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0" class="k4"/>
+<rect x="105" y="43" width="46" height="36" rx="5" fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0" class="k5"/>
+<rect x="158" y="44" width="44" height="34" rx="5" fill="#334155" stroke="#475569" stroke-width="1"/>
+<g transform="translate(180,47) scale(.25) translate(-160,-48)"><path d="M160.0 102.0 L176.0 118.0 L160.0 124.0" fill="none" stroke="#94a3b8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160.0 102.0 L162.0 128.0 L160.0 152.0" fill="none" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="168" y1="78" x2="160" y2="102" stroke="#38bdf8" stroke-width="4.5" stroke-linecap="round"/>
+<path d="M168.0 78.0 L180.0 86.0 L188.0 78.0" fill="none" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M168.0 78.0 L160.0 90.0 L152.0 84.0" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="172" cy="64" r="8" fill="#334155" stroke="#38bdf8" stroke-width="2"/></g>
+<rect x="157" y="43" width="46" height="36" rx="5" fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0" class="k6"/>
+<rect x="157" y="43" width="46" height="36" rx="5" fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0" class="k7"/>
+<rect x="210" y="44" width="44" height="34" rx="5" fill="#334155" stroke="#475569" stroke-width="1"/>
+<g transform="translate(232,47) scale(.25) translate(-160,-48)"><path d="M160.0 94.0 L148.0 114.0 L130.0 120.0" fill="none" stroke="#94a3b8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160.0 94.0 L182.0 110.0 L192.0 126.0" fill="none" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="168" y1="70" x2="160" y2="94" stroke="#38bdf8" stroke-width="4.5" stroke-linecap="round"/>
+<path d="M168.0 70.0 L182.0 76.0 L190.0 66.0" fill="none" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M168.0 70.0 L158.0 84.0 L148.0 78.0" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="172" cy="56" r="8" fill="#334155" stroke="#38bdf8" stroke-width="2"/></g>
+<rect x="209" y="43" width="46" height="36" rx="5" fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0" class="k8"/>
+<rect x="209" y="43" width="46" height="36" rx="5" fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0" class="k9"/>
+<g transform="translate(160,152) scale(.7) translate(-160,-152)"><g class="k10"><path d="M160.0 108.0 L150.0 130.0 L134.0 126.0" fill="none" stroke="#94a3b8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160.0 108.0 L178.0 126.0 L190.0 150.0" fill="none" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="168" y1="84" x2="160" y2="108" stroke="#38bdf8" stroke-width="4.5" stroke-linecap="round"/>
+<path d="M168.0 84.0 L182.0 90.0 L190.0 80.0" fill="none" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M168.0 84.0 L156.0 96.0 L146.0 90.0" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="172" cy="70" r="8" fill="#334155" stroke="#38bdf8" stroke-width="2"/></g></g>
+<text x="160" y="188" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" class="k10">접촉</text>
+<g transform="translate(160,152) scale(.7) translate(-160,-152)"><g class="k11" opacity="0"><path d="M160.0 114.0 L152.0 130.0 L136.0 122.0" fill="none" stroke="#94a3b8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160.0 114.0 L170.0 134.0 L168.0 152.0" fill="none" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="168" y1="90" x2="160" y2="114" stroke="#38bdf8" stroke-width="4.5" stroke-linecap="round"/>
+<path d="M168.0 90.0 L178.0 100.0 L186.0 92.0" fill="none" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M168.0 90.0 L158.0 104.0 L152.0 96.0" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="172" cy="76" r="8" fill="#334155" stroke="#38bdf8" stroke-width="2"/></g></g>
+<text x="160" y="188" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" opacity="0" class="k11">내려감</text>
+<g transform="translate(160,152) scale(.7) translate(-160,-152)"><g class="k12" opacity="0"><path d="M160.0 102.0 L176.0 118.0 L160.0 124.0" fill="none" stroke="#94a3b8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160.0 102.0 L162.0 128.0 L160.0 152.0" fill="none" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="168" y1="78" x2="160" y2="102" stroke="#38bdf8" stroke-width="4.5" stroke-linecap="round"/>
+<path d="M168.0 78.0 L180.0 86.0 L188.0 78.0" fill="none" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M168.0 78.0 L160.0 90.0 L152.0 84.0" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="172" cy="64" r="8" fill="#334155" stroke="#38bdf8" stroke-width="2"/></g></g>
+<text x="160" y="188" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" opacity="0" class="k12">올라감</text>
+<g transform="translate(160,152) scale(.7) translate(-160,-152)"><g class="k13" opacity="0"><path d="M160.0 94.0 L148.0 114.0 L130.0 120.0" fill="none" stroke="#94a3b8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160.0 94.0 L182.0 110.0 L192.0 126.0" fill="none" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="168" y1="70" x2="160" y2="94" stroke="#38bdf8" stroke-width="4.5" stroke-linecap="round"/>
+<path d="M168.0 70.0 L182.0 76.0 L190.0 66.0" fill="none" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M168.0 70.0 L158.0 84.0 L148.0 78.0" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="172" cy="56" r="8" fill="#334155" stroke="#38bdf8" stroke-width="2"/></g></g>
+<text x="160" y="188" font-size="11" fill="#f59e0b" text-anchor="middle" font-weight="700" opacity="0" class="k13">공중</text>
+<g transform="translate(160,152) scale(.7) translate(-160,-152)"><g transform="translate(320,0) scale(-1,1)"><g class="k14" opacity="0"><path d="M160.0 108.0 L150.0 130.0 L134.0 126.0" fill="none" stroke="#94a3b8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160.0 108.0 L178.0 126.0 L190.0 150.0" fill="none" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="168" y1="84" x2="160" y2="108" stroke="#38bdf8" stroke-width="4.5" stroke-linecap="round"/>
+<path d="M168.0 84.0 L182.0 90.0 L190.0 80.0" fill="none" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M168.0 84.0 L156.0 96.0 L146.0 90.0" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="172" cy="70" r="8" fill="#334155" stroke="#38bdf8" stroke-width="2"/></g></g></g>
+<text x="160" y="188" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" opacity="0" class="k14">접촉</text>
+<g transform="translate(160,152) scale(.7) translate(-160,-152)"><g transform="translate(320,0) scale(-1,1)"><g class="k15" opacity="0"><path d="M160.0 114.0 L152.0 130.0 L136.0 122.0" fill="none" stroke="#94a3b8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160.0 114.0 L170.0 134.0 L168.0 152.0" fill="none" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="168" y1="90" x2="160" y2="114" stroke="#38bdf8" stroke-width="4.5" stroke-linecap="round"/>
+<path d="M168.0 90.0 L178.0 100.0 L186.0 92.0" fill="none" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M168.0 90.0 L158.0 104.0 L152.0 96.0" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="172" cy="76" r="8" fill="#334155" stroke="#38bdf8" stroke-width="2"/></g></g></g>
+<text x="160" y="188" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" opacity="0" class="k15">내려감</text>
+<g transform="translate(160,152) scale(.7) translate(-160,-152)"><g transform="translate(320,0) scale(-1,1)"><g class="k16" opacity="0"><path d="M160.0 102.0 L176.0 118.0 L160.0 124.0" fill="none" stroke="#94a3b8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160.0 102.0 L162.0 128.0 L160.0 152.0" fill="none" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="168" y1="78" x2="160" y2="102" stroke="#38bdf8" stroke-width="4.5" stroke-linecap="round"/>
+<path d="M168.0 78.0 L180.0 86.0 L188.0 78.0" fill="none" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M168.0 78.0 L160.0 90.0 L152.0 84.0" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="172" cy="64" r="8" fill="#334155" stroke="#38bdf8" stroke-width="2"/></g></g></g>
+<text x="160" y="188" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" opacity="0" class="k16">올라감</text>
+<g transform="translate(160,152) scale(.7) translate(-160,-152)"><g transform="translate(320,0) scale(-1,1)"><g class="k17" opacity="0"><path d="M160.0 94.0 L148.0 114.0 L130.0 120.0" fill="none" stroke="#94a3b8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160.0 94.0 L182.0 110.0 L192.0 126.0" fill="none" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="168" y1="70" x2="160" y2="94" stroke="#38bdf8" stroke-width="4.5" stroke-linecap="round"/>
+<path d="M168.0 70.0 L182.0 76.0 L190.0 66.0" fill="none" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M168.0 70.0 L158.0 84.0 L148.0 78.0" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="172" cy="56" r="8" fill="#334155" stroke="#38bdf8" stroke-width="2"/></g></g></g>
+<text x="160" y="188" font-size="11" fill="#f59e0b" text-anchor="middle" font-weight="700" opacity="0" class="k17">공중</text>
+</svg>

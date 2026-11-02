@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="위쪽은 서버가 한 대라 멈추면 서비스가 중단되고, 아래쪽은 서버가 두 대라 하나가 멈춰도 서비스가 계속되는 비교 그림">
+<style>@keyframes wn_160_460{0%,32.0%{opacity:0}34.0%,92.0%{opacity:1}94.0%,100%{opacity:0}}.wn_160_460{animation:wn_160_460 5.0s linear infinite}@keyframes wn_180_460{0%,36.0%{opacity:0}38.0%,92.0%{opacity:1}94.0%,100%{opacity:0}}.wn_180_460{animation:wn_180_460 5.0s linear infinite}@keyframes mv_220_70_133_280_100_133_340_130_148{0%,44.0%{opacity:0;transform:translate(70px,133px)}44.4%{opacity:1;transform:translate(70px,133px)}56.0%{opacity:1;transform:translate(100px,133px)}68.0%{opacity:1;transform:translate(130px,148px)}68.8%,100%{opacity:0;transform:translate(130px,148px)}}.mv_220_70_133_280_100_133_340_130_148{animation:mv_220_70_133_280_100_133_340_130_148 5.0s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="24" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">고가용성</text>
+<rect x="14" y="52" width="56" height="30" rx="6" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="42" y="71" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">사용자</text>
+<rect x="14" y="118" width="56" height="30" rx="6" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="42" y="137" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">사용자</text>
+<line x1="70" y1="67" x2="130" y2="67" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<line x1="70" y1="133" x2="100" y2="133" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<line x1="100" y1="133" x2="130" y2="118" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<line x1="100" y1="133" x2="130" y2="148" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<rect x="130" y="52" width="80" height="30" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="170" y="71" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">서버 1대</text>
+<rect x="130" y="104" width="80" height="28" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="170" y="122" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">서버 A</text>
+<rect x="130" y="138" width="80" height="28" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="170" y="156" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">서버 B</text>
+<g class="wn_160_460" opacity="0"><rect x="130" y="52" width="80" height="30" rx="6" fill="#111827" stroke="#475569" stroke-width="1.5"/><text x="170" y="71" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">서버 1대</text><line x1="217" y1="62" x2="227" y2="72" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round"/><line x1="217" y1="72" x2="227" y2="62" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round"/></g>
+<g class="wn_160_460" opacity="0"><rect x="130" y="104" width="80" height="28" rx="6" fill="#111827" stroke="#475569" stroke-width="1.5"/><text x="170" y="122" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">서버 A</text><line x1="217" y1="113" x2="227" y2="123" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round"/><line x1="217" y1="123" x2="227" y2="113" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round"/></g>
+<text x="266" y="71" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif" class="wn_180_460" opacity="0">서비스 중단</text>
+<text x="266" y="140" font-size="10" fill="#38bdf8" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif" class="wn_180_460" opacity="0">서비스 계속</text>
+<rect x="-5.0" y="-5.0" width="10" height="10" rx="2" fill="#38bdf8" class="mv_220_70_133_280_100_133_340_130_148" opacity="0" transform="translate(70,133)"/>
+<text x="160" y="182" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">하나가 멈춰도 서비스는 계속되게 이중으로 둔다</text>
+</svg>

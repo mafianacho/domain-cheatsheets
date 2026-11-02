@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="스토리보드: 컷마다 그림과 대사·지시를 적어 이야기 순서대로 늘어놓은 설계도">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0.0%,33.29%{opacity:1}33.3%,100%{opacity:0}}.k1{animation:k1 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,33.29%{opacity:0}33.3%,66.59%{opacity:1}66.6%,100%{opacity:0}}.k2{animation:k2 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,66.59%{opacity:0}66.6%,99.99%{opacity:1}}.k3{animation:k3 5s linear infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Storyboard · 콘티</text>
+<rect x="16" y="42" width="90" height="66" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<line x1="22" y1="94" x2="100" y2="94" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="115" y="42" width="90" height="66" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<line x1="121" y1="94" x2="199" y2="94" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="214" y="42" width="90" height="66" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<line x1="220" y1="94" x2="298" y2="94" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="30" y="70" width="26" height="24" rx="2" fill="#334155" stroke="#94a3b8" stroke-width="1.5"/>
+<path d="M28 70 L43 58 L58 70 Z" fill="#334155" stroke="#94a3b8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="78" cy="80" r="4" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<line x1="78" y1="84" x2="78" y2="94" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/>
+<circle cx="160" cy="74" r="20" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<circle cx="153" cy="70" r="2.5" fill="#e2e8f0"/>
+<circle cx="167" cy="70" r="2.5" fill="#e2e8f0"/>
+<path d="M152 80 Q160 88 168 80" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="244" cy="78" r="4" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<line x1="244" y1="82" x2="244" y2="94" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/>
+<path d="M256 78 L296 78 M290.8 81.0 L296 78 L290.8 75.0" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="61" y="124" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">컷 1 · 전체 샷</text>
+<rect x="20" y="134" width="82" height="5" rx="2.5" fill="#475569"/>
+<rect x="20" y="145" width="54" height="5" rx="2.5" fill="#475569"/>
+<text x="160" y="124" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">컷 2 · 클로즈업</text>
+<rect x="119" y="134" width="82" height="5" rx="2.5" fill="#475569"/>
+<rect x="119" y="145" width="54" height="5" rx="2.5" fill="#475569"/>
+<text x="259" y="124" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">컷 3 · 달려 나감</text>
+<rect x="218" y="134" width="82" height="5" rx="2.5" fill="#475569"/>
+<rect x="218" y="145" width="54" height="5" rx="2.5" fill="#475569"/>
+<text x="160" y="176" font-size="10" fill="#94a3b8" text-anchor="middle">이야기 순서대로 컷을 나열 → 대사·카메라 지시는 아래에</text>
+<rect x="14" y="40" width="94" height="70" rx="6" fill="none" stroke="#f59e0b" stroke-width="2.5" class="k1"/>
+<rect x="113" y="40" width="94" height="70" rx="6" fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0" class="k2"/>
+<rect x="212" y="40" width="94" height="70" rx="6" fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0" class="k3"/>
+</svg>

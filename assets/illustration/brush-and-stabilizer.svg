@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="브러시와 손떨림 보정: 브러시는 선의 모양·크기·진하기를 정하고, 보정은 손이 떨려도 선이 부드럽게 이어지게 한다">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,4%{stroke-dashoffset:1;opacity:0}5%,5%{stroke-dashoffset:1;opacity:1}36%,92%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:1;opacity:0}}.k1{animation:k1 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,40%{stroke-dashoffset:1;opacity:0}41%,41%{stroke-dashoffset:1;opacity:1}72%,92%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:1;opacity:0}}.k2{animation:k2 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,30%{transform:translateX(0px)}72%,92%{transform:translateX(150px)}100%{transform:translateX(0px)}}.k3{animation:k3 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">브러시 · 손떨림 보정</text>
+<text x="304" y="28" font-size="9" fill="#94a3b8" text-anchor="end">선의 모양 + 선을 매끈하게</text>
+<rect x="16" y="40" width="288" height="62" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<rect x="16" y="106" width="288" height="62" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="24" y="56" font-size="10" fill="#94a3b8">보정 약함</text>
+<path d="M40 78.0 L50 83.1 L60 76.5 L70 73.7 L80 80.0 L90 82.6 L100 73.8 L110 75.8 L120 81.3 L130 81.1 L140 72.0 L150 78.6 L160 81.6 L170 79.0 L180 71.5 L190 81.5 L200 80.5 L210 77.0 L220 72.3 L230 84.0 L240 78.4 L250 75.8 L260 74.1 L270 85.4 L280 75.7 L290 75.6 L300 76.4" pathLength="1" stroke-dasharray="1" stroke-dashoffset="0" fill="none" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="k1"/>
+<text x="24" y="122" font-size="10" fill="#38bdf8" font-weight="700">보정 강함</text>
+<path d="M40 146 Q170 128 300 146" pathLength="1" stroke-dasharray="1" stroke-dashoffset="0" fill="none" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" class="k2"/>
+<rect x="120" y="176" width="164" height="6" rx="3" fill="#334155"/>
+<circle cx="128" cy="179" r="6" fill="#f59e0b" class="k3"/>
+<text x="24" y="183" font-size="9" fill="#94a3b8">보정 강도</text>
+</svg>

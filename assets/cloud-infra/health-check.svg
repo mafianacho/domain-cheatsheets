@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="로드 밸런서가 서버들에게 살아 있는지 주기적으로 물어보고, 응답이 없는 서버 2는 목록에서 제외해 나머지에만 요청을 보내는 그림">
+<style>@keyframes mv_30_100_100_110_220_56{0%,6.0%{opacity:0;transform:translate(100px,100px)}6.4%{opacity:1;transform:translate(100px,100px)}22.0%{opacity:1;transform:translate(220px,56px)}22.8%,100%{opacity:0;transform:translate(220px,56px)}}.mv_30_100_100_110_220_56{animation:mv_30_100_100_110_220_56 5.0s linear infinite}@keyframes mv_45_100_100_125_220_100{0%,9.0%{opacity:0;transform:translate(100px,100px)}9.4%{opacity:1;transform:translate(100px,100px)}25.0%{opacity:1;transform:translate(220px,100px)}25.8%,100%{opacity:0;transform:translate(220px,100px)}}.mv_45_100_100_125_220_100{animation:mv_45_100_100_125_220_100 5.0s linear infinite}@keyframes mv_60_100_100_140_220_144{0%,12.0%{opacity:0;transform:translate(100px,100px)}12.4%{opacity:1;transform:translate(100px,100px)}28.0%{opacity:1;transform:translate(220px,144px)}28.8%,100%{opacity:0;transform:translate(220px,144px)}}.mv_60_100_100_140_220_144{animation:mv_60_100_100_140_220_144 5.0s linear infinite}@keyframes wn_180_480{0%,36.0%{opacity:0}38.0%,96.0%{opacity:1}98.0%,100%{opacity:0}}.wn_180_480{animation:wn_180_480 5.0s linear infinite}@keyframes wn_240_480{0%,48.0%{opacity:0}50.0%,96.0%{opacity:1}98.0%,100%{opacity:0}}.wn_240_480{animation:wn_240_480 5.0s linear infinite}@keyframes mv_300_100_100_380_220_56{0%,60.0%{opacity:0;transform:translate(100px,100px)}60.4%{opacity:1;transform:translate(100px,100px)}76.0%{opacity:1;transform:translate(220px,56px)}76.8%,100%{opacity:0;transform:translate(220px,56px)}}.mv_300_100_100_380_220_56{animation:mv_300_100_100_380_220_56 5.0s linear infinite}@keyframes mv_330_100_100_410_220_144{0%,66.0%{opacity:0;transform:translate(100px,100px)}66.4%{opacity:1;transform:translate(100px,100px)}82.0%{opacity:1;transform:translate(220px,144px)}82.8%,100%{opacity:0;transform:translate(220px,144px)}}.mv_330_100_100_410_220_144{animation:mv_330_100_100_410_220_144 5.0s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="24" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">헬스 체크</text>
+<rect x="30" y="76" width="70" height="48" rx="8" fill="#334155" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="65" y="97" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">로드</text>
+<text x="65" y="111" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">밸런서</text>
+<line x1="100" y1="100" x2="220" y2="56" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="220" y="42" width="86" height="28" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="244" y="60" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">서버 1</text>
+<circle cx="292" cy="56" r="5" fill="#38bdf8"/>
+<line x1="100" y1="100" x2="220" y2="100" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="220" y="86" width="86" height="28" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="244" y="104" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">서버 2</text>
+<circle cx="292" cy="100" r="5" fill="#38bdf8"/>
+<line x1="100" y1="100" x2="220" y2="144" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="220" y="130" width="86" height="28" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="244" y="148" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">서버 3</text>
+<circle cx="292" cy="144" r="5" fill="#38bdf8"/>
+<rect x="-4.0" y="-4.0" width="8" height="8" rx="2" fill="#38bdf8" class="mv_30_100_100_110_220_56" opacity="0" transform="translate(100,100)"/>
+<rect x="-4.0" y="-4.0" width="8" height="8" rx="2" fill="#38bdf8" class="mv_45_100_100_125_220_100" opacity="0" transform="translate(100,100)"/>
+<rect x="-4.0" y="-4.0" width="8" height="8" rx="2" fill="#38bdf8" class="mv_60_100_100_140_220_144" opacity="0" transform="translate(100,100)"/>
+<g class="wn_180_480" opacity="0"><rect x="220" y="86" width="86" height="28" rx="6" fill="#111827" stroke="#475569" stroke-width="1.5"/><text x="244" y="104" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">서버 2</text><line x1="287" y1="95" x2="297" y2="105" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round"/><line x1="287" y1="105" x2="297" y2="95" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round"/></g>
+<text x="263" y="126" font-size="9" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif" class="wn_180_480" opacity="0">응답 없음</text>
+<text x="160" y="168" font-size="9" fill="#38bdf8" text-anchor="middle" font-family="system-ui, sans-serif" class="wn_240_480" opacity="0">문제 서버는 빼고 나머지에만 보낸다</text>
+<rect x="-5.0" y="-5.0" width="10" height="10" rx="2" fill="#f59e0b" class="mv_300_100_100_380_220_56" opacity="0" transform="translate(100,100)"/>
+<rect x="-5.0" y="-5.0" width="10" height="10" rx="2" fill="#f59e0b" class="mv_330_100_100_410_220_144" opacity="0" transform="translate(100,100)"/>
+<text x="160" y="184" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">"살아 있니?" 하고 주기적으로 묻는다</text>
+</svg>

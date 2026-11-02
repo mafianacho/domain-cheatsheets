@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="커미션(의뢰): 일러스트 작가에게 비용을 내고 그림을 맡기는 일. 의뢰서 → 러프 확인 → 선화·채색 → 납품 순서">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,4%{opacity:0}6%,26%{opacity:1}29%{opacity:0}100%{opacity:0}}.k1{animation:k1 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,28%{opacity:0}30%,50%{opacity:1}53%{opacity:0}100%{opacity:0}}.k2{animation:k2 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,52%{opacity:0}54%,74%{opacity:1}77%{opacity:0}100%{opacity:0}}.k3{animation:k3 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,76%{opacity:0}78%,96%{opacity:1}99%{opacity:0}100%{opacity:0}}.k4{animation:k4 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,22%{opacity:1;transform:translateX(0px)}28%,48%{opacity:1;transform:translateX(76px)}52%,70%{opacity:1;transform:translateX(152px)}76%,92%{opacity:1;transform:translateX(228px)}100%{opacity:0;transform:translateX(228px)}}.k5{animation:k5 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">커미션 · 의뢰</text>
+<text x="304" y="28" font-size="9" fill="#94a3b8" text-anchor="end">맡기는 순서</text>
+<rect x="16" y="80" width="64" height="44" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="48" y="106" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700">의뢰서</text>
+<text x="48" y="144" font-size="9" fill="#94a3b8" text-anchor="middle">범위 · 마감</text>
+<path d="M82 102 L90 102 M86.5 104.0 L90 102 L86.5 100.0" fill="none" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="k1" opacity="0"><rect x="16" y="80" width="64" height="44" rx="8" fill="#f59e0b"/>
+<text x="48" y="106" font-size="11" fill="#0f172a" text-anchor="middle" font-weight="700">의뢰서</text></g>
+<rect x="92" y="80" width="64" height="44" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="124" y="106" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700">러프</text>
+<text x="124" y="144" font-size="9" fill="#94a3b8" text-anchor="middle">방향 확인</text>
+<path d="M158 102 L166 102 M162.5 104.0 L166 102 L162.5 100.0" fill="none" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="k2" opacity="0"><rect x="92" y="80" width="64" height="44" rx="8" fill="#f59e0b"/>
+<text x="124" y="106" font-size="11" fill="#0f172a" text-anchor="middle" font-weight="700">러프</text></g>
+<rect x="168" y="80" width="64" height="44" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="200" y="106" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">선화·채색</text>
+<text x="200" y="144" font-size="9" fill="#94a3b8" text-anchor="middle">수정 횟수</text>
+<path d="M234 102 L242 102 M238.5 104.0 L242 102 L238.5 100.0" fill="none" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="k3" opacity="0"><rect x="168" y="80" width="64" height="44" rx="8" fill="#f59e0b"/>
+<text x="200" y="106" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700">선화·채색</text></g>
+<rect x="244" y="80" width="64" height="44" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="276" y="106" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700">납품</text>
+<text x="276" y="144" font-size="9" fill="#94a3b8" text-anchor="middle">파일 · 대금</text>
+<g class="k4" opacity="0"><rect x="244" y="80" width="64" height="44" rx="8" fill="#f59e0b"/>
+<text x="276" y="106" font-size="11" fill="#0f172a" text-anchor="middle" font-weight="700">납품</text></g>
+<circle cx="48" cy="62" r="6" fill="#f59e0b" opacity="0" class="k5"/>
+<text x="160" y="176" font-size="10" fill="#94a3b8" text-anchor="middle">수정 횟수 · 마감 · 사용 범위를 먼저 합의</text>
+</svg>

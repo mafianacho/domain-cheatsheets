@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="형태 그림자와 캐스트 섀도: 물체 자체의 어두운 면과, 물체가 바닥 등에 드리운 그림자">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,6%{opacity:0}8%,44%{opacity:1}47%{opacity:0}100%{opacity:0}}.k1{animation:k1 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,52%{opacity:0}54%,92%{opacity:1}95%{opacity:0}100%{opacity:0}}.k2{animation:k2 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">형태 그림자 · 캐스트 섀도</text>
+<text x="304" y="28" font-size="9" fill="#94a3b8" text-anchor="end">물체 위 vs 바닥 위</text>
+<rect x="16" y="40" width="288" height="144" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<line x1="24" y1="146" x2="196" y2="146" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<ellipse cx="150" cy="150" rx="42" ry="8" fill="#0f172a" opacity=".8"/>
+<defs><clipPath id="sc"><circle cx="100" cy="102" r="40"/></clipPath></defs>
+<circle cx="100" cy="102" r="40" fill="#475569"/>
+<g clip-path="url(#sc)"><circle cx="87" cy="89" r="38.0" fill="#cbd5e1"/></g>
+<g class="k1" opacity="0"><g clip-path="url(#sc)"><path d="M0 0 H320 V200 H0 Z M47 89 a40 40 0 1 0 80 0 a40 40 0 1 0 -80 0 Z" fill-rule="evenodd" fill="#f59e0b" opacity=".75"/></g></g>
+<ellipse cx="150" cy="150" rx="42" ry="8" fill="none" stroke="#f59e0b" stroke-width="3" opacity="0" class="k2"/>
+<line x1="210" y1="88" x2="134" y2="112" stroke="#475569" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="206" y1="150" x2="194" y2="150" stroke="#475569" stroke-width="1.2" stroke-linecap="round"/>
+<text x="214" y="84" font-size="11" fill="#e2e8f0" font-weight="700">형태 그림자</text>
+<text x="214" y="98" font-size="9" fill="#94a3b8">물체 위 어두운 면</text>
+<text x="214" y="146" font-size="11" fill="#e2e8f0" font-weight="700">캐스트 섀도</text>
+<text x="214" y="160" font-size="9" fill="#94a3b8">바닥에 생긴 그림자</text>
+</svg>

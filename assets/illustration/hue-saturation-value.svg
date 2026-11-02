@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="색조·채도·명도: 어떤 색인지(색조), 얼마나 선명한지(채도), 얼마나 밝은지(명도)를 따로 조절하는 색의 3요소">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%{transform:translateX(0.0px)}14%{transform:translateX(-66.1px)}30%{transform:translateX(-27.2px)}92%{transform:translateX(-27.2px)}100%{transform:translateX(0.0px)}}.k1{animation:k1 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%{transform:translateX(0.0px)}33%{transform:translateX(0.0px)}48%{transform:translateX(-84.0px)}63%{transform:translateX(28.0px)}92%{transform:translateX(28.0px)}100%{transform:translateX(0.0px)}}.k2{animation:k2 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%{transform:translateX(0.0px)}63%{transform:translateX(0.0px)}73%{transform:translateX(-56.0px)}86%{transform:translateX(60.2px)}96%{transform:translateX(0.0px)}100%{transform:translateX(0.0px)}}.k3{animation:k3 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%{fill:#2d9bd2}14%{fill:#d2802d}30%{fill:#2dd248}33%{fill:#2dd248}48%{fill:#79867b}63%{fill:#13ec37}66%{fill:#2dd248}73%{fill:#145d20}86%{fill:#b3efbd}96%{fill:#2dd248}100%{fill:#2d9bd2}}.k4{animation:k4 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">색조 · 채도 · 명도</text>
+<text x="304" y="28" font-size="9" fill="#94a3b8" text-anchor="end">색의 세 가지 손잡이</text>
+<text x="16" y="61" font-size="11" fill="#e2e8f0" font-weight="700">색조</text>
+<text x="16" y="74" font-size="9" fill="#94a3b8">Hue</text>
+<rect x="98.0" y="52" width="10.3" height="24" rx="0" fill="#d74242"/>
+<rect x="108.0" y="52" width="10.3" height="24" rx="0" fill="#d78242"/>
+<rect x="118.0" y="52" width="10.3" height="24" rx="0" fill="#d7c242"/>
+<rect x="128.0" y="52" width="10.3" height="24" rx="0" fill="#acd742"/>
+<rect x="138.0" y="52" width="10.3" height="24" rx="0" fill="#6cd742"/>
+<rect x="148.0" y="52" width="10.3" height="24" rx="0" fill="#42d757"/>
+<rect x="158.0" y="52" width="10.3" height="24" rx="0" fill="#42d797"/>
+<rect x="168.0" y="52" width="10.3" height="24" rx="0" fill="#42d7d7"/>
+<rect x="178.0" y="52" width="10.3" height="24" rx="0" fill="#4297d7"/>
+<rect x="188.0" y="52" width="10.3" height="24" rx="0" fill="#4257d7"/>
+<rect x="198.0" y="52" width="10.3" height="24" rx="0" fill="#6c42d7"/>
+<rect x="208.0" y="52" width="10.3" height="24" rx="0" fill="#ac42d7"/>
+<rect x="218.0" y="52" width="10.3" height="24" rx="0" fill="#d742c2"/>
+<rect x="228.0" y="52" width="10.3" height="24" rx="0" fill="#d74282"/>
+<text x="16" y="103" font-size="11" fill="#e2e8f0" font-weight="700">채도</text>
+<text x="16" y="116" font-size="9" fill="#94a3b8">Saturation</text>
+<rect x="98.0" y="94" width="10.3" height="24" rx="0" fill="#808080"/>
+<rect x="108.0" y="94" width="10.3" height="24" rx="0" fill="#768389"/>
+<rect x="118.0" y="94" width="10.3" height="24" rx="0" fill="#6c8693"/>
+<rect x="128.0" y="94" width="10.3" height="24" rx="0" fill="#62899d"/>
+<rect x="138.0" y="94" width="10.3" height="24" rx="0" fill="#588da7"/>
+<rect x="148.0" y="94" width="10.3" height="24" rx="0" fill="#4e90b1"/>
+<rect x="158.0" y="94" width="10.3" height="24" rx="0" fill="#4593ba"/>
+<rect x="168.0" y="94" width="10.3" height="24" rx="0" fill="#3b96c4"/>
+<rect x="178.0" y="94" width="10.3" height="24" rx="0" fill="#319ace"/>
+<rect x="188.0" y="94" width="10.3" height="24" rx="0" fill="#279dd8"/>
+<rect x="198.0" y="94" width="10.3" height="24" rx="0" fill="#1da0e2"/>
+<rect x="208.0" y="94" width="10.3" height="24" rx="0" fill="#14a3eb"/>
+<rect x="218.0" y="94" width="10.3" height="24" rx="0" fill="#0aa7f5"/>
+<rect x="228.0" y="94" width="10.3" height="24" rx="0" fill="#00aaff"/>
+<text x="16" y="145" font-size="11" fill="#e2e8f0" font-weight="700">명도</text>
+<text x="16" y="158" font-size="9" fill="#94a3b8">Value</text>
+<rect x="98.0" y="136" width="10.3" height="24" rx="0" fill="#0b2532"/>
+<rect x="108.0" y="136" width="10.3" height="24" rx="0" fill="#10374b"/>
+<rect x="118.0" y="136" width="10.3" height="24" rx="0" fill="#154a64"/>
+<rect x="128.0" y="136" width="10.3" height="24" rx="0" fill="#1a5c7c"/>
+<rect x="138.0" y="136" width="10.3" height="24" rx="0" fill="#206e95"/>
+<rect x="148.0" y="136" width="10.3" height="24" rx="0" fill="#2580ad"/>
+<rect x="158.0" y="136" width="10.3" height="24" rx="0" fill="#2a92c6"/>
+<rect x="168.0" y="136" width="10.3" height="24" rx="0" fill="#39a1d5"/>
+<rect x="178.0" y="136" width="10.3" height="24" rx="0" fill="#52adda"/>
+<rect x="188.0" y="136" width="10.3" height="24" rx="0" fill="#6ab8df"/>
+<rect x="198.0" y="136" width="10.3" height="24" rx="0" fill="#83c4e5"/>
+<rect x="208.0" y="136" width="10.3" height="24" rx="0" fill="#9bd0ea"/>
+<rect x="218.0" y="136" width="10.3" height="24" rx="0" fill="#b4dbef"/>
+<rect x="228.0" y="136" width="10.3" height="24" rx="0" fill="#cde7f4"/>
+<rect x="98" y="52" width="140" height="24" rx="3" fill="none" stroke="#475569" stroke-width="1.5"/>
+<rect x="98" y="94" width="140" height="24" rx="3" fill="none" stroke="#475569" stroke-width="1.5"/>
+<rect x="98" y="136" width="140" height="24" rx="3" fill="none" stroke="#475569" stroke-width="1.5"/>
+<rect x="173.8" y="48" width="4" height="32" rx="2" fill="none" stroke="#f59e0b" stroke-width="2.5" class="k1"/>
+<rect x="187.0" y="90" width="4" height="32" rx="2" fill="none" stroke="#f59e0b" stroke-width="2.5" class="k2"/>
+<rect x="166.0" y="132" width="4" height="32" rx="2" fill="none" stroke="#f59e0b" stroke-width="2.5" class="k3"/>
+<rect x="254" y="52" width="50" height="108" rx="8" fill="#2d9bd2" stroke="#475569" stroke-width="1.5" class="k4"/>
+<text x="279" y="176" font-size="9" fill="#94a3b8" text-anchor="middle">결과 색</text>
+</svg>
