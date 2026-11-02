@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="매치메이킹: 대기열의 플레이어를 실력이 비슷한 사람끼리 짝지어 준다">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0%,8%{stroke-dashoffset:1}22%,92%{stroke-dashoffset:0}100%{stroke-dashoffset:1}}.k1{animation:k1 5s ease-in-out infinite}@keyframes k2{0%,16%{opacity:0}20%,92%{opacity:1}100%{opacity:0}}.k2{animation:k2 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,34%{stroke-dashoffset:1}48%,92%{stroke-dashoffset:0}100%{stroke-dashoffset:1}}.k3{animation:k3 5s ease-in-out infinite}@keyframes k4{0%,42%{opacity:0}46%,92%{opacity:1}100%{opacity:0}}.k4{animation:k4 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,60%{stroke-dashoffset:1}74%,92%{stroke-dashoffset:0}100%{stroke-dashoffset:1}}.k5{animation:k5 5s ease-in-out infinite}@keyframes k6{0%,68%{opacity:0}72%,92%{opacity:1}100%{opacity:0}}.k6{animation:k6 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-family="system-ui, sans-serif" font-size="13" fill="#e2e8f0" font-weight="700">Matchmaking · 매치메이킹</text>
+<text x="160" y="52" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">실력이 비슷한 사람끼리 짝을 지어 준다</text>
+<line x1="24" y1="128" x2="296" y2="128" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<text x="24" y="150" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">초보</text>
+<text x="296" y="150" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" text-anchor="end">고수</text>
+<circle cx="40" cy="112" r="8" fill="#38bdf8"/>
+<circle cx="64" cy="112" r="8" fill="#38bdf8"/>
+<circle cx="122" cy="112" r="8" fill="#38bdf8"/>
+<circle cx="148" cy="112" r="8" fill="#38bdf8"/>
+<circle cx="232" cy="112" r="8" fill="#38bdf8"/>
+<circle cx="256" cy="112" r="8" fill="#38bdf8"/>
+<path d="M40 102 Q52 66 64 102" fill="none" stroke="#334155" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M40 102 Q52 66 64 102" pathLength="1" fill="none" stroke="#f59e0b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1" stroke-dashoffset="0" class="k1"/>
+<text x="52.0" y="84" font-family="system-ui, sans-serif" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" class="k2">VS</text>
+<path d="M122 102 Q135 66 148 102" fill="none" stroke="#334155" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M122 102 Q135 66 148 102" pathLength="1" fill="none" stroke="#f59e0b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1" stroke-dashoffset="0" class="k3"/>
+<text x="135.0" y="84" font-family="system-ui, sans-serif" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" class="k4">VS</text>
+<path d="M232 102 Q244 66 256 102" fill="none" stroke="#334155" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M232 102 Q244 66 256 102" pathLength="1" fill="none" stroke="#f59e0b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1" stroke-dashoffset="0" class="k5"/>
+<text x="244.0" y="84" font-family="system-ui, sans-serif" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" class="k6">VS</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="저장과 체크포인트: 죽으면 마지막으로 지나온 깃발에서 다시 시작한다">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0%,20%{opacity:0}24%,92%{opacity:1}100%{opacity:0}}.k1{animation:k1 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,45%{opacity:0}49%,92%{opacity:1}100%{opacity:0}}.k2{animation:k2 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0.0%{opacity:0}77.99%{opacity:0}79.5%{opacity:1}96.0%{opacity:1}97.5%{opacity:0}100.0%{opacity:0}}.k3{animation:k3 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,4%{opacity:0;transform:translate(0px,0px)}6%{opacity:1;transform:translate(0px,0px)}24%{opacity:1;transform:translate(80px,0px)}44%{opacity:1;transform:translate(170px,0px)}58%{opacity:1;transform:translate(232px,0px)}66%{opacity:1;transform:translate(232px,0px)}78%{opacity:1;transform:translate(170px,0px)}92%{opacity:1;transform:translate(170px,0px)}94%{opacity:0;transform:translate(170px,0px)}100%{opacity:0;transform:translate(0px,0px)}}.k4{animation:k4 5s linear infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-family="system-ui, sans-serif" font-size="13" fill="#e2e8f0" font-weight="700">Save · 저장과 체크포인트</text>
+<line x1="30" y1="110" x2="290" y2="110" stroke="#475569" stroke-width="3" stroke-linecap="round"/>
+<line x1="110" y1="88" x2="110" y2="110" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+<path d="M110 88 L124 94 L110 100 Z" fill="#334155"/>
+<line x1="200" y1="88" x2="200" y2="110" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+<path d="M200 88 L214 94 L200 100 Z" fill="#334155"/>
+<g class="k1"><path d="M110 88 L124 94 L110 100 Z" fill="#f59e0b"/></g>
+<g class="k2"><path d="M200 88 L214 94 L200 100 Z" fill="#f59e0b"/></g>
+<path d="M254 102 L270 118 M270 102 L254 118" fill="none" stroke="#f59e0b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="30" y="136" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">시작</text>
+<text x="110" y="136" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">체크포인트</text>
+<text x="200" y="136" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">체크포인트</text>
+<text x="262" y="136" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">함정</text>
+<text x="200" y="68" font-family="system-ui, sans-serif" font-size="10.5" fill="#f59e0b" text-anchor="middle" font-weight="700" opacity="0" class="k3">여기서 다시 시작!</text>
+<circle cx="30" cy="108" r="6" fill="#38bdf8" opacity="0" class="k4"/>
+<text x="160" y="184" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">죽어도 처음부터가 아니라 깃발부터</text>
+</svg>

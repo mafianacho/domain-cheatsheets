@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="MDA: 규칙(메카닉)이 플레이 중 행동(다이내믹)을 낳고 그것이 감정(에스테틱)을 만든다">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0.0%{opacity:0}2.99%{opacity:0}4.5%{opacity:1}17.0%{opacity:1}18.5%{opacity:0}100.0%{opacity:0}}.k1{animation:k1 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0.0%{opacity:0}81.99%{opacity:0}83.5%{opacity:1}96.0%{opacity:1}97.5%{opacity:0}100.0%{opacity:0}}.k2{animation:k2 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0.0%{opacity:0}17.99%{opacity:0}19.5%{opacity:1}32.0%{opacity:1}33.5%{opacity:0}100.0%{opacity:0}}.k3{animation:k3 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0.0%{opacity:0}66.99%{opacity:0}68.5%{opacity:1}81.0%{opacity:1}82.5%{opacity:0}100.0%{opacity:0}}.k4{animation:k4 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0.0%{opacity:0}32.99%{opacity:0}34.5%{opacity:1}47.0%{opacity:1}48.5%{opacity:0}100.0%{opacity:0}}.k5{animation:k5 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k6{0.0%{opacity:0}51.99%{opacity:0}53.5%{opacity:1}66.0%{opacity:1}67.5%{opacity:0}100.0%{opacity:0}}.k6{animation:k6 5s linear infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-family="system-ui, sans-serif" font-size="13" fill="#e2e8f0" font-weight="700">MDA · 메카닉·다이내믹·에스테틱</text>
+<rect x="16" y="48" width="88" height="46" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="60.0" y="65" font-family="system-ui, sans-serif" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700">메카닉</text>
+<text x="60.0" y="79" font-family="system-ui, sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">규칙·조작</text>
+<rect x="116" y="48" width="88" height="46" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="160.0" y="65" font-family="system-ui, sans-serif" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700">다이내믹</text>
+<text x="160.0" y="79" font-family="system-ui, sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">플레이 중 행동</text>
+<rect x="216" y="48" width="88" height="46" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="260.0" y="65" font-family="system-ui, sans-serif" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700">에스테틱</text>
+<text x="260.0" y="79" font-family="system-ui, sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">느끼는 감정</text>
+<path d="M106 71 L114 71 M108.8 74.0 L114 71 L108.8 68.0" fill="none" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M206 71 L214 71 M208.8 74.0 L214 71 L208.8 68.0" fill="none" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="60" y="112" font-family="system-ui, sans-serif" font-size="9.5" fill="#94a3b8" text-anchor="middle">점프, 중력</text>
+<text x="160" y="112" font-family="system-ui, sans-serif" font-size="9.5" fill="#94a3b8" text-anchor="middle">아슬아슬 피하기</text>
+<text x="260" y="112" font-family="system-ui, sans-serif" font-size="9.5" fill="#94a3b8" text-anchor="middle">짜릿함</text>
+<g class="k1" opacity="0"><rect x="16" y="48" width="88" height="46" rx="8" fill="#f59e0b"/>
+<text x="60.0" y="65" font-family="system-ui, sans-serif" font-size="11" fill="#0f172a" text-anchor="middle" font-weight="700">메카닉</text>
+<text x="60.0" y="79" font-family="system-ui, sans-serif" font-size="9" fill="#0f172a" text-anchor="middle">규칙·조작</text></g>
+<g class="k2" opacity="0"><rect x="16" y="48" width="88" height="46" rx="8" fill="#38bdf8"/>
+<text x="60.0" y="65" font-family="system-ui, sans-serif" font-size="11" fill="#0f172a" text-anchor="middle" font-weight="700">메카닉</text>
+<text x="60.0" y="79" font-family="system-ui, sans-serif" font-size="9" fill="#0f172a" text-anchor="middle">규칙·조작</text></g>
+<g class="k3" opacity="0"><rect x="116" y="48" width="88" height="46" rx="8" fill="#f59e0b"/>
+<text x="160.0" y="65" font-family="system-ui, sans-serif" font-size="11" fill="#0f172a" text-anchor="middle" font-weight="700">다이내믹</text>
+<text x="160.0" y="79" font-family="system-ui, sans-serif" font-size="9" fill="#0f172a" text-anchor="middle">플레이 중 행동</text></g>
+<g class="k4" opacity="0"><rect x="116" y="48" width="88" height="46" rx="8" fill="#38bdf8"/>
+<text x="160.0" y="65" font-family="system-ui, sans-serif" font-size="11" fill="#0f172a" text-anchor="middle" font-weight="700">다이내믹</text>
+<text x="160.0" y="79" font-family="system-ui, sans-serif" font-size="9" fill="#0f172a" text-anchor="middle">플레이 중 행동</text></g>
+<g class="k5" opacity="0"><rect x="216" y="48" width="88" height="46" rx="8" fill="#f59e0b"/>
+<text x="260.0" y="65" font-family="system-ui, sans-serif" font-size="11" fill="#0f172a" text-anchor="middle" font-weight="700">에스테틱</text>
+<text x="260.0" y="79" font-family="system-ui, sans-serif" font-size="9" fill="#0f172a" text-anchor="middle">느끼는 감정</text></g>
+<g class="k6" opacity="0"><rect x="216" y="48" width="88" height="46" rx="8" fill="#38bdf8"/>
+<text x="260.0" y="65" font-family="system-ui, sans-serif" font-size="11" fill="#0f172a" text-anchor="middle" font-weight="700">에스테틱</text>
+<text x="260.0" y="79" font-family="system-ui, sans-serif" font-size="9" fill="#0f172a" text-anchor="middle">느끼는 감정</text></g>
+<text x="16" y="144" font-family="system-ui, sans-serif" font-size="9.5" fill="#f59e0b">만드는 사람은 규칙에서 출발</text>
+<path d="M16 150 L304 150 M298.8 153.0 L304 150 L298.8 147.0" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="304" y="172" font-family="system-ui, sans-serif" font-size="9.5" fill="#38bdf8" text-anchor="end">플레이어는 감정에서 출발</text>
+<path d="M304 178 L16 178 M21.2 175.0 L16 178 L21.2 181.0" fill="none" stroke="#38bdf8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

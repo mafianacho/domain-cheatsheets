@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="서버 빌림 IaaS, 앱 올릴 판 PaaS, 완성된 앱 SaaS 세 가지에서 앱, 데이터, 런타임, OS, 하드웨어 다섯 층 중 내가 관리하는 층이 점점 줄어드는 그림">
+<style>@keyframes rv_50{0%,10.0%{opacity:0}13.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_50{animation:rv_50 5.0s linear infinite}@keyframes rv_70{0%,14.0%{opacity:0}17.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_70{animation:rv_70 5.0s linear infinite}@keyframes rv_90{0%,18.0%{opacity:0}21.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_90{animation:rv_90 5.0s linear infinite}@keyframes rv_110{0%,22.0%{opacity:0}25.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_110{animation:rv_110 5.0s linear infinite}@keyframes rv_180{0%,36.0%{opacity:0}39.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_180{animation:rv_180 5.0s linear infinite}@keyframes rv_200{0%,40.0%{opacity:0}43.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_200{animation:rv_200 5.0s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="24" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">IaaS · PaaS · SaaS</text>
+<text x="64" y="46" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">IaaS</text>
+<rect x="22" y="54" width="84" height="18" rx="3" fill="#334155"/>
+<text x="64" y="67" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">앱</text>
+<g class="rv_50"><rect x="22" y="54" width="84" height="18" rx="3" fill="#f59e0b"/><text x="64" y="67" font-size="9" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">앱</text></g>
+<rect x="22" y="74" width="84" height="18" rx="3" fill="#334155"/>
+<text x="64" y="87" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">데이터</text>
+<g class="rv_70"><rect x="22" y="74" width="84" height="18" rx="3" fill="#f59e0b"/><text x="64" y="87" font-size="9" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">데이터</text></g>
+<rect x="22" y="94" width="84" height="18" rx="3" fill="#334155"/>
+<text x="64" y="107" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">런타임</text>
+<g class="rv_90"><rect x="22" y="94" width="84" height="18" rx="3" fill="#f59e0b"/><text x="64" y="107" font-size="9" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">런타임</text></g>
+<rect x="22" y="114" width="84" height="18" rx="3" fill="#334155"/>
+<text x="64" y="127" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">OS</text>
+<g class="rv_110"><rect x="22" y="114" width="84" height="18" rx="3" fill="#f59e0b"/><text x="64" y="127" font-size="9" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">OS</text></g>
+<rect x="22" y="134" width="84" height="18" rx="3" fill="#334155"/>
+<text x="64" y="147" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">하드웨어</text>
+<text x="160" y="46" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">PaaS</text>
+<rect x="118" y="54" width="84" height="18" rx="3" fill="#334155"/>
+<text x="160" y="67" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">앱</text>
+<g class="rv_180"><rect x="118" y="54" width="84" height="18" rx="3" fill="#f59e0b"/><text x="160" y="67" font-size="9" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">앱</text></g>
+<rect x="118" y="74" width="84" height="18" rx="3" fill="#334155"/>
+<text x="160" y="87" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">데이터</text>
+<g class="rv_200"><rect x="118" y="74" width="84" height="18" rx="3" fill="#f59e0b"/><text x="160" y="87" font-size="9" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">데이터</text></g>
+<rect x="118" y="94" width="84" height="18" rx="3" fill="#334155"/>
+<text x="160" y="107" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">런타임</text>
+<rect x="118" y="114" width="84" height="18" rx="3" fill="#334155"/>
+<text x="160" y="127" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">OS</text>
+<rect x="118" y="134" width="84" height="18" rx="3" fill="#334155"/>
+<text x="160" y="147" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">하드웨어</text>
+<text x="256" y="46" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">SaaS</text>
+<rect x="214" y="54" width="84" height="18" rx="3" fill="#334155"/>
+<text x="256" y="67" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">앱</text>
+<rect x="214" y="74" width="84" height="18" rx="3" fill="#334155"/>
+<text x="256" y="87" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">데이터</text>
+<rect x="214" y="94" width="84" height="18" rx="3" fill="#334155"/>
+<text x="256" y="107" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">런타임</text>
+<rect x="214" y="114" width="84" height="18" rx="3" fill="#334155"/>
+<text x="256" y="127" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">OS</text>
+<rect x="214" y="134" width="84" height="18" rx="3" fill="#334155"/>
+<text x="256" y="147" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">하드웨어</text>
+<text x="64" y="166" font-size="9" fill="#38bdf8" text-anchor="middle" font-family="system-ui, sans-serif">서버를 빌림</text>
+<text x="160" y="166" font-size="9" fill="#38bdf8" text-anchor="middle" font-family="system-ui, sans-serif">앱만 올림</text>
+<text x="256" y="166" font-size="9" fill="#38bdf8" text-anchor="middle" font-family="system-ui, sans-serif">그냥 사용</text>
+<rect x="72" y="174" width="10" height="10" rx="2" fill="#f59e0b"/>
+<text x="86" y="183" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">내가 관리</text>
+<rect x="172" y="174" width="10" height="10" rx="2" fill="#334155"/>
+<text x="186" y="183" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">업체가 관리</text>
+</svg>

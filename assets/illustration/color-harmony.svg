@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="색 조화: 색상환에서 보색·유사색·삼각 배색처럼 위치 관계로 어울리는 색 조합을 고르는 방법">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,4%{opacity:0}6%,30%{opacity:1}33%{opacity:0}100%{opacity:0}}.k1{animation:k1 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,34%{opacity:0}36%,62%{opacity:1}65%{opacity:0}100%{opacity:0}}.k2{animation:k2 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,66%{opacity:0}68%,92%{opacity:1}95%{opacity:0}100%{opacity:0}}.k3{animation:k3 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,4%{opacity:0}6%,30%{opacity:1}33%{opacity:0}100%{opacity:0}}.k4{animation:k4 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,34%{opacity:0}36%,62%{opacity:1}65%{opacity:0}100%{opacity:0}}.k5{animation:k5 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k6{0%,66%{opacity:0}68%,92%{opacity:1}95%{opacity:0}100%{opacity:0}}.k6{animation:k6 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">색 조화</text>
+<text x="304" y="28" font-size="9" fill="#94a3b8" text-anchor="end">색상환 위의 위치 관계</text>
+<path d="M88.0 50.0 A64 64 0 0 1 120.0 58.6 L101.0 91.5 A26 26 0 0 0 88.0 88.0 Z" fill="#d14747" stroke="#0f172a" stroke-width="1.5"/>
+<path d="M120.0 58.6 A64 64 0 0 1 143.4 82.0 L110.5 101.0 A26 26 0 0 0 101.0 91.5 Z" fill="#d18c47" stroke="#0f172a" stroke-width="1.5"/>
+<path d="M143.4 82.0 A64 64 0 0 1 152.0 114.0 L114.0 114.0 A26 26 0 0 0 110.5 101.0 Z" fill="#d1d147" stroke="#0f172a" stroke-width="1.5"/>
+<path d="M152.0 114.0 A64 64 0 0 1 143.4 146.0 L110.5 127.0 A26 26 0 0 0 114.0 114.0 Z" fill="#8cd147" stroke="#0f172a" stroke-width="1.5"/>
+<path d="M143.4 146.0 A64 64 0 0 1 120.0 169.4 L101.0 136.5 A26 26 0 0 0 110.5 127.0 Z" fill="#47d147" stroke="#0f172a" stroke-width="1.5"/>
+<path d="M120.0 169.4 A64 64 0 0 1 88.0 178.0 L88.0 140.0 A26 26 0 0 0 101.0 136.5 Z" fill="#47d18c" stroke="#0f172a" stroke-width="1.5"/>
+<path d="M88.0 178.0 A64 64 0 0 1 56.0 169.4 L75.0 136.5 A26 26 0 0 0 88.0 140.0 Z" fill="#47d1d1" stroke="#0f172a" stroke-width="1.5"/>
+<path d="M56.0 169.4 A64 64 0 0 1 32.6 146.0 L65.5 127.0 A26 26 0 0 0 75.0 136.5 Z" fill="#478cd1" stroke="#0f172a" stroke-width="1.5"/>
+<path d="M32.6 146.0 A64 64 0 0 1 24.0 114.0 L62.0 114.0 A26 26 0 0 0 65.5 127.0 Z" fill="#4747d1" stroke="#0f172a" stroke-width="1.5"/>
+<path d="M24.0 114.0 A64 64 0 0 1 32.6 82.0 L65.5 101.0 A26 26 0 0 0 62.0 114.0 Z" fill="#8c47d1" stroke="#0f172a" stroke-width="1.5"/>
+<path d="M32.6 82.0 A64 64 0 0 1 56.0 58.6 L75.0 91.5 A26 26 0 0 0 65.5 101.0 Z" fill="#d147d1" stroke="#0f172a" stroke-width="1.5"/>
+<path d="M56.0 58.6 A64 64 0 0 1 88.0 50.0 L88.0 88.0 A26 26 0 0 0 75.0 91.5 Z" fill="#d1478c" stroke="#0f172a" stroke-width="1.5"/>
+<g class="k1" opacity="0"><path d="M120.0 58.6 A64 64 0 0 1 143.4 82.0 L110.5 101.0 A26 26 0 0 0 101.0 91.5 Z" fill="none" stroke="#e2e8f0" stroke-width="3.5"/>
+<path d="M56.0 169.4 A64 64 0 0 1 32.6 146.0 L65.5 127.0 A26 26 0 0 0 75.0 136.5 Z" fill="none" stroke="#e2e8f0" stroke-width="3.5"/></g>
+<g class="k2" opacity="0"><path d="M143.4 82.0 A64 64 0 0 1 152.0 114.0 L114.0 114.0 A26 26 0 0 0 110.5 101.0 Z" fill="none" stroke="#e2e8f0" stroke-width="3.5"/>
+<path d="M152.0 114.0 A64 64 0 0 1 143.4 146.0 L110.5 127.0 A26 26 0 0 0 114.0 114.0 Z" fill="none" stroke="#e2e8f0" stroke-width="3.5"/>
+<path d="M143.4 146.0 A64 64 0 0 1 120.0 169.4 L101.0 136.5 A26 26 0 0 0 110.5 127.0 Z" fill="none" stroke="#e2e8f0" stroke-width="3.5"/></g>
+<g class="k3" opacity="0"><path d="M88.0 50.0 A64 64 0 0 1 120.0 58.6 L101.0 91.5 A26 26 0 0 0 88.0 88.0 Z" fill="none" stroke="#e2e8f0" stroke-width="3.5"/>
+<path d="M143.4 146.0 A64 64 0 0 1 120.0 169.4 L101.0 136.5 A26 26 0 0 0 110.5 127.0 Z" fill="none" stroke="#e2e8f0" stroke-width="3.5"/>
+<path d="M32.6 146.0 A64 64 0 0 1 24.0 114.0 L62.0 114.0 A26 26 0 0 0 65.5 127.0 Z" fill="none" stroke="#e2e8f0" stroke-width="3.5"/></g>
+<rect x="180" y="50" width="124" height="38" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="192" y="66" font-size="11" fill="#e2e8f0" font-weight="700">보색</text>
+<text x="192" y="80" font-size="9" fill="#94a3b8">서로 반대편 색</text>
+<g class="k4" opacity="0"><rect x="180" y="50" width="124" height="38" rx="8" fill="#f59e0b"/>
+<text x="192" y="66" font-size="11" fill="#0f172a" font-weight="700">보색</text>
+<text x="192" y="80" font-size="9" fill="#0f172a">서로 반대편 색</text></g>
+<rect x="180" y="94" width="124" height="38" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="192" y="110" font-size="11" fill="#e2e8f0" font-weight="700">유사색</text>
+<text x="192" y="124" font-size="9" fill="#94a3b8">이웃한 색끼리</text>
+<g class="k5" opacity="0"><rect x="180" y="94" width="124" height="38" rx="8" fill="#f59e0b"/>
+<text x="192" y="110" font-size="11" fill="#0f172a" font-weight="700">유사색</text>
+<text x="192" y="124" font-size="9" fill="#0f172a">이웃한 색끼리</text></g>
+<rect x="180" y="138" width="124" height="38" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="192" y="154" font-size="11" fill="#e2e8f0" font-weight="700">삼각 배색</text>
+<text x="192" y="168" font-size="9" fill="#94a3b8">고르게 떨어진 셋</text>
+<g class="k6" opacity="0"><rect x="180" y="138" width="124" height="38" rx="8" fill="#f59e0b"/>
+<text x="192" y="154" font-size="11" fill="#0f172a" font-weight="700">삼각 배색</text>
+<text x="192" y="168" font-size="9" fill="#0f172a">고르게 떨어진 셋</text></g>
+</svg>

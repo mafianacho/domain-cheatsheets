@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="사용자가 입력한 글을 화면에 내보낼 때 안전하게 변환해 글자로만 보여 주고 변환을 빼먹으면 위험해지는 그림">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.ac{fill:#f59e0b}.sk{fill:#38bdf8}.mu{fill:#94a3b8}.b{font-weight:700}.dk{fill:#0f172a}@keyframes a1{0%{opacity:0;transform:translate(100px,88px)}5%{opacity:0;transform:translate(100px,88px)}8%{opacity:1;transform:translate(100px,88px)}22%{opacity:1;transform:translate(114px,88px)}25%{opacity:0;transform:translate(114px,88px)}100%{opacity:0;transform:translate(114px,88px)}}.a1{opacity:0;animation:a1 5s ease-in-out infinite}@keyframes a2{0%{opacity:0}26%{opacity:0}29%{opacity:1}42%{opacity:1}45%{opacity:0}100%{opacity:0}}.a2{opacity:0;animation:a2 5s linear infinite}@keyframes a3{0%{opacity:0}26%{opacity:0}29%{opacity:1}42%{opacity:1}45%{opacity:0}100%{opacity:0}}.a3{opacity:0;animation:a3 5s linear infinite}@keyframes a4{0%{opacity:0}26%{opacity:0}29%{opacity:1}42%{opacity:1}45%{opacity:0}100%{opacity:0}}.a4{opacity:0;animation:a4 5s linear infinite}@keyframes a5{0%{opacity:0;transform:translate(208px,88px)}44%{opacity:0;transform:translate(208px,88px)}47%{opacity:1;transform:translate(208px,88px)}58%{opacity:1;transform:translate(218px,88px)}61%{opacity:0;transform:translate(218px,88px)}100%{opacity:0;transform:translate(218px,88px)}}.a5{opacity:0;animation:a5 5s ease-in-out infinite}@keyframes a6{0%{opacity:0}58%{opacity:0}62%{opacity:1}66%{opacity:1}70%{opacity:0}100%{opacity:0}}.a6{animation:a6 5s linear infinite}@keyframes a7{0%{opacity:0;transform:translate(56px,120px)}70%{opacity:0;transform:translate(56px,120px)}73%{opacity:1;transform:translate(56px,120px)}74%{opacity:1;transform:translate(56px,144px)}90%{opacity:1;transform:translate(264px,144px)}94%{opacity:1;transform:translate(264px,120px)}97%{opacity:0;transform:translate(264px,120px)}100%{opacity:0;transform:translate(264px,120px)}}.a7{opacity:0;animation:a7 5s ease-in-out infinite}@keyframes a8{0%{opacity:0}84%{opacity:0}87%{opacity:1}96%{opacity:1}99%{opacity:0}100%{opacity:0}}.a8{opacity:0;animation:a8 5s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t" x="16" y="26">XSS 방어</text>
+<rect x="16" y="66" width="80" height="44" rx="8" fill="#1e293b" />
+<text class="c m b" x="56" y="92">사용자 입력</text>
+<rect x="118" y="60" width="84" height="56" rx="8" fill="#334155" />
+<text class="c m b" x="160" y="83">안전하게 변환</text>
+<text class="c s" x="160" y="99">(이스케이프)</text>
+<rect x="224" y="66" width="80" height="44" rx="8" fill="#1e293b" />
+<text class="c m b" x="264" y="85">화면</text>
+<text class="c s" x="264" y="99">글자로만 표시</text>
+<line x1="96" y1="88" x2="118" y2="88" stroke="#475569" stroke-width="1.5" stroke-linecap="round" />
+<line x1="202" y1="88" x2="224" y2="88" stroke="#475569" stroke-width="1.5" stroke-linecap="round" />
+<path d="M56 112 V144 H264 V112" fill="none" stroke="#475569" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 3"/>
+<g class="a1" ><circle cx="0" cy="0" r="4" fill="#38bdf8"/></g>
+<rect class="a2" x="118" y="60" width="84" height="56" rx="8" fill="#f59e0b" />
+<text class="c m b dk a3" x="160" y="83">안전하게 변환</text>
+<text class="c s dk a4" x="160" y="99">(이스케이프)</text>
+<g class="a5" ><rect x="-6" y="-4" width="12" height="8" rx="2" fill="#f59e0b"/></g>
+<g class="a6" ><path d="M259.5 123 L262.65 126.6 L269.4 118.5" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="a7" ><circle cx="0" cy="0" r="4" fill="#38bdf8"/></g>
+<g class="a8" ><path d="M158 121.0 L167.0 137.2 H149.0 Z" fill="#f59e0b"/><path d="M158 127.3 V131.8" stroke="#0f172a" stroke-width="2" stroke-linecap="round"/><circle cx="158" cy="134.5" r="1.2" fill="#0f172a"/></g>
+<text class="c s" x="160" y="168">변환을 빼먹으면 입력이 그대로 나간다</text>
+<text class="c s" x="160" y="182">입력을 믿지 말고, 내보낼 때 글자로 바꾼다</text>
+</svg>

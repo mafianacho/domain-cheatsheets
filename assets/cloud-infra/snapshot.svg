@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="시간 흐름 위에 스냅샷 1과 2가 찍혀 있고, 문제가 생기면 지금 상태에서 스냅샷 시점으로 되돌리는 복원 화살표가 나타나는 그림">
+<style>@keyframes dr_240_340{0%,48.0%{stroke-dashoffset:1}68.0%,94%{stroke-dashoffset:0}97%,100%{stroke-dashoffset:1}}.dr_240_340{stroke-dasharray:1;animation:dr_240_340 5.0s linear infinite}@keyframes wn_320_480{0%,64.0%{opacity:0}66.0%,96.0%{opacity:1}98.0%,100%{opacity:0}}.wn_320_480{animation:wn_320_480 5.0s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="24" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">스냅샷</text>
+<line x1="30" y1="98" x2="290" y2="98" stroke="#475569" stroke-width="3" stroke-linecap="round"/>
+<circle cx="90" cy="98" r="12" fill="#38bdf8"/>
+<text x="90" y="102" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">S1</text>
+<circle cx="170" cy="98" r="12" fill="#38bdf8"/>
+<text x="170" y="102" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">S2</text>
+<rect x="262" y="88" width="20" height="20" rx="4" fill="#f59e0b"/>
+<text x="90" y="128" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">스냅샷 1</text>
+<text x="170" y="128" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">스냅샷 2</text>
+<text x="272" y="128" font-size="9" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">지금</text>
+<text x="30" y="82" font-size="9" fill="#94a3b8" text-anchor="start" font-family="system-ui, sans-serif">시간 →</text>
+<path d="M268,84 C250,34 110,34 92,84" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="dr_240_340" pathLength="1"/>
+<g class="wn_320_480" opacity="0"><path d="M92,84 l-5,-9 M92,84 l6,-7" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="180" y="66" font-size="9" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif" class="wn_320_480" opacity="0">문제 생김 → S1 시점으로 복원</text>
+<text x="160" y="170" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">그 순간의 상태를 찍어 두고 필요하면 되돌린다</text>
+</svg>

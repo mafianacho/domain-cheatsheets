@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="경험치와 레벨: 경험치 막대가 차면 레벨이 오르고 다음 막대는 더 길어진다">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0%,6%{transform:scaleX(0)}34%,92%{transform:scaleX(1)}100%{transform:scaleX(0)}}.k1{animation:k1 5s ease-in-out infinite;transform-box:fill-box;transform-origin:0% 50%}@keyframes k2{0%,52%{transform:scaleX(0)}86%,92%{transform:scaleX(1)}100%{transform:scaleX(0)}}.k2{animation:k2 5s ease-in-out infinite;transform-box:fill-box;transform-origin:0% 50%}@keyframes k3{0%,38%{opacity:0}42%,92%{opacity:1}100%{opacity:0}}.k3{animation:k3 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-family="system-ui, sans-serif" font-size="13" fill="#e2e8f0" font-weight="700">XP · 경험치와 레벨</text>
+<text x="16" y="76" font-family="system-ui, sans-serif" font-size="10.5" fill="#e2e8f0" font-weight="700">Lv3→4</text>
+<rect x="84" y="64" width="110" height="16" rx="8" fill="#334155"/>
+<rect x="84" y="114" width="210" height="16" rx="8" fill="#334155"/>
+<rect x="84" y="64" width="110" height="16" rx="8" fill="#38bdf8" class="k1"/>
+<text x="16" y="126" font-family="system-ui, sans-serif" font-size="10.5" fill="#e2e8f0" font-weight="700">Lv4→5</text>
+<rect x="84" y="114" width="126" height="16" rx="8" fill="#f59e0b" class="k2"/>
+<g class="k3"><rect x="204" y="62" width="84" height="20" rx="6" fill="#f59e0b"/>
+<text x="246" y="76" font-family="system-ui, sans-serif" font-size="10.5" fill="#0f172a" text-anchor="middle" font-weight="700">레벨 업!</text></g>
+<text x="16" y="156" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">다음 레벨일수록 막대가 길어진다</text>
+<text x="160" y="186" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">경험치(XP) 가득 → 레벨 상승</text>
+</svg>

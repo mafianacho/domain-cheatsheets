@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="모델 시트: 캐릭터를 여러 각도·표정으로 그려 모두가 같은 모습으로 그리게 하는 기준표">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0%,18%{transform:scaleX(0)}36%,94%{transform:scaleX(1)}100%{transform:scaleX(0)}}.k1{animation:k1 5s ease-in-out infinite;transform-box:fill-box;transform-origin:0% 50%}@keyframes k2{0%,40%{opacity:1}46%,100%{opacity:0}}.k2{animation:k2 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,40%{opacity:0}46%,94%{opacity:1}100%{opacity:0}}.k3{animation:k3 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Model Sheet · 모델 시트</text>
+<rect x="14" y="42" width="60" height="94" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<circle cx="44" cy="88" r="22" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<rect x="84" y="42" width="60" height="94" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<circle cx="114" cy="88" r="22" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<rect x="154" y="42" width="60" height="94" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<circle cx="184" cy="88" r="22" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<rect x="224" y="42" width="60" height="94" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<circle cx="254" cy="88" r="22" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<circle cx="37" cy="84" r="2.5" fill="#e2e8f0"/>
+<circle cx="51" cy="84" r="2.5" fill="#e2e8f0"/>
+<path d="M38 96 Q44 101 50 96" fill="none" stroke="#e2e8f0" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="116" cy="84" r="2.5" fill="#e2e8f0"/>
+<circle cx="128" cy="84" r="2.5" fill="#e2e8f0"/>
+<path d="M116 96 Q123 100 129 95" fill="none" stroke="#e2e8f0" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="197" cy="84" r="2.5" fill="#e2e8f0"/>
+<path d="M205 84 L211 91 L205 92" fill="none" stroke="#38bdf8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M195 98 Q200 100 204 97" fill="none" stroke="#e2e8f0" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M240 82 L248 85 M268 82 L260 85" fill="none" stroke="#e2e8f0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M246 99 Q254 93 262 99" fill="none" stroke="#e2e8f0" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="44" y="152" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">정면</text>
+<text x="114" y="152" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">3/4</text>
+<text x="184" y="152" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">측면</text>
+<text x="254" y="152" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700">표정</text>
+<line x1="16" y1="84" x2="304" y2="84" stroke="#f59e0b" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="5 4" class="k1"/>
+<rect x="16" y="160" width="288" height="28" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="160" y="178" font-size="10" fill="#94a3b8" text-anchor="middle" class="k2">그리는 사람이 달라도 같은 얼굴</text>
+<text x="160" y="178" font-size="10" fill="#f59e0b" text-anchor="middle" opacity="0" class="k3">눈높이·크기가 모든 그림에서 같다</text>
+</svg>

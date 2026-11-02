@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="액션 라인: 포즈 전체를 지나는 큰 곡선 하나. 곡선이 있어야 역동적으로 보인다">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,6%{stroke-dashoffset:1;opacity:0}7%,7%{stroke-dashoffset:1;opacity:1}30%,92%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:1;opacity:0}}.k1{animation:k1 4.5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,12%{stroke-dashoffset:1;opacity:0}13%,13%{stroke-dashoffset:1;opacity:1}40%,92%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:1;opacity:0}}.k2{animation:k2 4.5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,30%{opacity:0}34%,92%{opacity:1}100%{opacity:0}}.k3{animation:k3 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,44%{opacity:0}48%,92%{opacity:1}100%{opacity:0}}.k4{animation:k4 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">액션 라인</text>
+<text x="304" y="28" font-size="9" fill="#94a3b8" text-anchor="end">포즈를 관통하는 선 하나</text>
+<rect x="16" y="40" width="136" height="112" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<rect x="168" y="40" width="136" height="112" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<circle cx="84" cy="66" r="9" fill="#334155" stroke="#94a3b8" stroke-width="2"/>
+<line x1="84" y1="75" x2="84" y2="118" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+<line x1="84" y1="118" x2="74" y2="142" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+<line x1="84" y1="118" x2="94" y2="142" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+<line x1="84" y1="84" x2="66" y2="104" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+<line x1="84" y1="84" x2="102" y2="104" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+<path d="M84 54 L84 148" pathLength="1" stroke-dasharray="1" stroke-dashoffset="0" fill="none" stroke="#f59e0b" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="1" class="k1"/>
+<circle cx="244" cy="62" r="9" fill="#334155" stroke="#94a3b8" stroke-width="2"/>
+<path d="M240 72 Q220 96 236 116" fill="none" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M236 116 L222 144" fill="none" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M236 116 L252 140" fill="none" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M232 84 L206 98" fill="none" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M234 82 L262 66" fill="none" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M252 50 Q204 96 230 148" pathLength="1" stroke-dasharray="1" stroke-dashoffset="0" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="k2"/>
+<text x="84" y="170" font-size="10" fill="#94a3b8" text-anchor="middle" class="k3">일직선 · 딱딱함</text>
+<text x="236" y="170" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" class="k4">큰 곡선 · 역동적</text>
+</svg>

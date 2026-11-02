@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="서비스가 보낸 확인 요청에 내 기기가 지문이나 얼굴 확인 뒤 열쇠로 서명해 답하는 패스키 그림">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.ac{fill:#f59e0b}.sk{fill:#38bdf8}.mu{fill:#94a3b8}.b{font-weight:700}.dk{fill:#0f172a}@keyframes a1{0%{opacity:0;transform:translate(192px,86px)}8%{opacity:0;transform:translate(192px,86px)}11%{opacity:1;transform:translate(192px,86px)}34%{opacity:1;transform:translate(104px,86px)}37%{opacity:0;transform:translate(104px,86px)}100%{opacity:0;transform:translate(104px,86px)}}.a1{opacity:0;animation:a1 5s ease-in-out infinite}@keyframes a2{0%{opacity:0;transform:translate(104px,118px)}60%{opacity:0;transform:translate(104px,118px)}63%{opacity:1;transform:translate(104px,118px)}84%{opacity:1;transform:translate(192px,118px)}87%{opacity:0;transform:translate(192px,118px)}100%{opacity:0;transform:translate(192px,118px)}}.a2{opacity:0;animation:a2 5s ease-in-out infinite}@keyframes a3{0%{opacity:0}38%{opacity:0}41%{opacity:1}58%{opacity:1}61%{opacity:0}100%{opacity:0}}.a3{opacity:0;animation:a3 5s linear infinite}@keyframes a4{0%{opacity:0}86%{opacity:0}90%{opacity:1}95%{opacity:1}99%{opacity:0}100%{opacity:0}}.a4{animation:a4 5s linear infinite}@keyframes a5{0%{opacity:1}36%{opacity:1}39%{opacity:0}100%{opacity:0}}.a5{opacity:0;animation:a5 5s linear infinite}@keyframes a6{0%{opacity:0}38%{opacity:0}41%{opacity:1}58%{opacity:1}61%{opacity:0}100%{opacity:0}}.a6{opacity:0;animation:a6 5s linear infinite}@keyframes a7{0%{opacity:0}60%{opacity:0}63%{opacity:1}96%{opacity:1}99%{opacity:0}100%{opacity:0}}.a7{opacity:0;animation:a7 5s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t" x="16" y="26">패스키</text>
+<rect x="44.6" y="70.8" width="30.799999999999997" height="50.4" rx="5" fill="#334155" stroke="#94a3b8" stroke-width="1.5"/><circle cx="60" cy="115.6" r="1.5" fill="#94a3b8"/>
+<text class="c b" x="60" y="150">내 기기</text>
+<text class="c s" x="60" y="162">비밀 열쇠가 안에 있음</text>
+<rect x="196" y="56" width="108" height="80" rx="8" fill="#1e293b" />
+<rect x="196" y="56" width="108" height="16" rx="8" fill="#334155" />
+<text class="c s" x="250" y="68">내 서비스</text>
+<text class="c b" x="250" y="106">로그인</text>
+<line x1="100" y1="86" x2="196" y2="86" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 3" />
+<line x1="100" y1="118" x2="196" y2="118" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 3" />
+<text class="c s" x="148" y="78">확인 요청</text>
+<text class="c s" x="148" y="134">서명 응답</text>
+<g class="a1" ><circle cx="0" cy="0" r="4" fill="#38bdf8"/></g>
+<g class="a2" ><circle cx="0" cy="0" r="4" fill="#f59e0b"/></g>
+<rect class="a3" x="46" y="82" width="28" height="28" rx="14" fill="none" stroke="#f59e0b" stroke-width="2.5" />
+<g class="a4" ><path d="M277.0 106 L281.9 111.6 L292.4 99.0" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text class="m c a5" x="160" y="184">서비스가 기기에 확인을 요청한다</text>
+<text class="m c a6" x="160" y="184">지문·얼굴로 확인한다</text>
+<text class="m c a7" x="160" y="184">비밀번호를 서버에 보내지 않는다</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="투시(원근법): 1점·2점·3점 투시는 소실점이 몇 개인지로 나뉜다. 상자 윗면이 보이는 장면 예시">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,6%{opacity:0.35}9%,30%{opacity:1}33%,100%{opacity:0.35}}.k1{animation:k1 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,36%{opacity:0.35}39%,60%{opacity:1}63%,100%{opacity:0.35}}.k2{animation:k2 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,66%{opacity:0.35}69%,90%{opacity:1}93%,100%{opacity:0.35}}.k3{animation:k3 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">투시 · 원근법</text>
+<text x="304" y="28" font-size="9" fill="#94a3b8" text-anchor="end">소실점이 1개 · 2개 · 3개</text>
+<g transform="translate(16 40)"><rect x="0" y="0" width="92" height="108" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<line x1="0" y1="14" x2="92" y2="14" stroke="#475569" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3"/>
+<g class="k1"><line x1="26.0" y1="38.0" x2="46.0" y2="14.0" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3 2"/><line x1="66.0" y1="38.0" x2="46.0" y2="14.0" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3 2"/><line x1="66.0" y1="74.0" x2="46.0" y2="14.0" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3 2"/><line x1="26.0" y1="74.0" x2="46.0" y2="14.0" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3 2"/></g>
+<path d="M26.0 38.0 L66.0 38.0 L58.4 28.9 L33.6 28.9 Z" fill="#94a3b8" stroke="#e2e8f0" stroke-width="1" stroke-linejoin="round"/>
+<path d="M26.0 38.0 L66.0 38.0 L66.0 74.0 L26.0 74.0 Z" fill="#475569" stroke="#e2e8f0" stroke-width="1" stroke-linejoin="round"/>
+<circle cx="46" cy="14" r="2.6" fill="#f59e0b"/></g>
+<text x="62" y="166" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700">1점 투시</text>
+<text x="62" y="181" font-size="9" fill="#94a3b8" text-anchor="middle">소실점 1개</text>
+<g transform="translate(116 40)"><rect x="0" y="0" width="92" height="108" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<line x1="0" y1="14" x2="92" y2="14" stroke="#475569" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3"/>
+<g class="k2"><line x1="46.0" y1="38.0" x2="8.0" y2="14.0" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3 2"/><line x1="46.0" y1="38.0" x2="84.0" y2="14.0" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3 2"/><line x1="46.0" y1="76.0" x2="8.0" y2="14.0" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3 2"/><line x1="46.0" y1="76.0" x2="84.0" y2="14.0" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3 2"/></g>
+<path d="M46.0 38.0 L34.6 30.8 L46.0 26.9 L57.4 30.8 Z" fill="#94a3b8" stroke="#e2e8f0" stroke-width="1" stroke-linejoin="round"/>
+<path d="M46.0 38.0 L34.6 30.8 L34.6 57.4 L46.0 76.0 Z" fill="#475569" stroke="#e2e8f0" stroke-width="1" stroke-linejoin="round"/>
+<path d="M46.0 38.0 L57.4 30.8 L57.4 57.4 L46.0 76.0 Z" fill="#334155" stroke="#e2e8f0" stroke-width="1" stroke-linejoin="round"/>
+<circle cx="8" cy="14" r="2.6" fill="#f59e0b"/>
+<circle cx="84" cy="14" r="2.6" fill="#f59e0b"/></g>
+<text x="162" y="166" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700">2점 투시</text>
+<text x="162" y="181" font-size="9" fill="#94a3b8" text-anchor="middle">소실점 2개</text>
+<g transform="translate(216 40)"><rect x="0" y="0" width="92" height="108" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<line x1="0" y1="14" x2="92" y2="14" stroke="#475569" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3"/>
+<g class="k3"><line x1="46.0" y1="28.0" x2="8.0" y2="14.0" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3 2"/><line x1="46.0" y1="28.0" x2="84.0" y2="14.0" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3 2"/><line x1="46.0" y1="66.0" x2="8.0" y2="14.0" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3 2"/><line x1="46.0" y1="66.0" x2="84.0" y2="14.0" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3 2"/><line x1="28.9" y1="21.7" x2="46.0" y2="104.0" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3 2"/><line x1="63.1" y1="21.7" x2="46.0" y2="104.0" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3 2"/></g>
+<path d="M46.0 28.0 L28.9 21.7 L46.0 19.3 L63.1 21.7 Z" fill="#94a3b8" stroke="#e2e8f0" stroke-width="1" stroke-linejoin="round"/>
+<path d="M46.0 28.0 L28.9 21.7 L35.0 50.9 L46.0 66.0 Z" fill="#475569" stroke="#e2e8f0" stroke-width="1" stroke-linejoin="round"/>
+<path d="M46.0 28.0 L63.1 21.7 L57.0 50.9 L46.0 66.0 Z" fill="#334155" stroke="#e2e8f0" stroke-width="1" stroke-linejoin="round"/>
+<circle cx="8" cy="14" r="2.6" fill="#f59e0b"/>
+<circle cx="84" cy="14" r="2.6" fill="#f59e0b"/>
+<circle cx="46" cy="104" r="2.6" fill="#f59e0b"/></g>
+<text x="262" y="166" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700">3점 투시</text>
+<text x="262" y="181" font-size="9" fill="#94a3b8" text-anchor="middle">소실점 3개</text>
+</svg>

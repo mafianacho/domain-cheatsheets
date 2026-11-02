@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="왼쪽은 서버 한 대를 위로 더 크게 키우는 수직 확장, 오른쪽은 같은 크기의 서버를 옆으로 여러 대 늘리는 수평 확장을 비교하는 그림">
+<style>@keyframes grYcenter_50_200{0%,10.0%{transform:scaleY(0)}40.0%,94%{transform:scaleY(1)}97%,100%{transform:scaleY(0)}}.grYcenter_50_200{transform-box:fill-box;transform-origin:center bottom;animation:grYcenter_50_200 5.0s linear infinite}@keyframes rv_200{0%,40.0%{opacity:0}43.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_200{animation:rv_200 5.0s linear infinite}@keyframes rv_310{0%,62.0%{opacity:0}65.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_310{animation:rv_310 5.0s linear infinite}@keyframes rv_380{0%,76.0%{opacity:0}79.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_380{animation:rv_380 5.0s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="24" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">수평 확장 vs 수직 확장</text>
+<rect x="14" y="38" width="140" height="124" rx="4" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<rect x="166" y="38" width="140" height="124" rx="4" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="84" y="56" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">수직 확장</text>
+<text x="236" y="56" font-size="10" fill="#38bdf8" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">수평 확장</text>
+<rect x="59" y="104" width="50" height="38" rx="4" fill="#334155"/>
+<text x="84" y="128" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">서버</text>
+<g class="grYcenter_50_200"><rect x="59" y="72" width="50" height="70" rx="4" fill="#f59e0b"/></g>
+<g class="rv_200"><text x="84" y="112" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">더 큰</text><text x="84" y="126" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">서버</text></g>
+<rect x="182" y="104" width="30" height="38" rx="4" fill="#334155"/>
+<text x="197" y="127" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">서버</text>
+<rect x="220" y="104" width="30" height="38" rx="4" fill="#334155"/>
+<text x="235" y="127" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">서버</text>
+<g class="rv_310"><rect x="220" y="104" width="30" height="38" rx="4" fill="#38bdf8"/><text x="235" y="127" font-size="9" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">서버</text></g>
+<rect x="258" y="104" width="30" height="38" rx="4" fill="#334155"/>
+<text x="273" y="127" font-size="9" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">서버</text>
+<g class="rv_380"><rect x="258" y="104" width="30" height="38" rx="4" fill="#38bdf8"/><text x="273" y="127" font-size="9" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">서버</text></g>
+<text x="84" y="154" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">한 대를 더 크게</text>
+<text x="236" y="154" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">여러 대로 늘림</text>
+<text x="160" y="182" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">크게 키울까(위로), 개수를 늘릴까(옆으로)</text>
+</svg>

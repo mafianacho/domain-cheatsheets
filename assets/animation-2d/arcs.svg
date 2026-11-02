@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="아크: 팔·머리 같은 살아 있는 움직임은 직선이 아니라 호(곡선)를 그린다">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0%{transform:rotate(52deg)}50%{transform:rotate(-52deg)}100%{transform:rotate(52deg)}}.k1{animation:k1 5s ease-in-out infinite;transform-box:view-box;transform-origin:160px 56px}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Arcs · 아크</text>
+<path d="M87.5 112.6 A92 92 0 0 0 232.5 112.6" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 4"/>
+<line x1="88" y1="113" x2="232" y2="113" stroke="#94a3b8" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3 4"/>
+<text x="160" y="178" font-size="10" fill="#94a3b8" text-anchor="middle">직선 이동은 기계처럼, 호는 사람처럼</text>
+<g class="k1"><line x1="160" y1="56" x2="160" y2="148" stroke="#38bdf8" stroke-width="4" stroke-linecap="round"/>
+<circle cx="160" cy="148" r="10" fill="#f59e0b"/></g>
+<circle cx="160" cy="56" r="5" fill="#334155" stroke="#94a3b8" stroke-width="2"/>
+</svg>

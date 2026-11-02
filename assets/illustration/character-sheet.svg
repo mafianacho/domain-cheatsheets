@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="캐릭터 시트: 한 캐릭터를 앞·3/4·옆·뒤에서 같은 높이로 그리고 색을 정리한 설정 자료">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,8%{stroke-dashoffset:1;opacity:0}9%,9%{stroke-dashoffset:1;opacity:1}30%,92%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:1;opacity:0}}.k1{animation:k1 4.5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,15%{stroke-dashoffset:1;opacity:0}16%,16%{stroke-dashoffset:1;opacity:1}37%,92%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:1;opacity:0}}.k2{animation:k2 4.5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,20%{stroke-dashoffset:1;opacity:0}21%,21%{stroke-dashoffset:1;opacity:1}42%,92%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:1;opacity:0}}.k3{animation:k3 4.5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,30%{opacity:0}34%,92%{opacity:1}100%{opacity:0}}.k4{animation:k4 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,44%{opacity:0}48%,92%{opacity:1}100%{opacity:0}}.k5{animation:k5 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k6{0%,58%{opacity:0}62%,92%{opacity:1}100%{opacity:0}}.k6{animation:k6 4.5s ease-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">캐릭터 시트</text>
+<text x="304" y="28" font-size="9" fill="#94a3b8" text-anchor="end">앞 · 3/4 · 옆 · 뒤 + 색 지정</text>
+<rect x="16" y="40" width="288" height="144" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<path d="M40 74 L60 74 L62 112 L38 112 Z" fill="#94a3b8" stroke="#334155" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="45" y1="112" x2="45" y2="150" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+<line x1="55" y1="112" x2="55" y2="150" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+<circle cx="50" cy="64" r="10" fill="#334155" stroke="#94a3b8" stroke-width="1.5"/>
+<circle cx="46" cy="63" r="1.4" fill="#e2e8f0"/>
+<circle cx="54" cy="63" r="1.4" fill="#e2e8f0"/>
+<text x="50" y="168" font-size="10" fill="#94a3b8" text-anchor="middle">앞</text>
+<path d="M95 74 L115 74 L117 112 L93 112 Z" fill="#94a3b8" stroke="#334155" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="100" y1="112" x2="100" y2="150" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+<line x1="110" y1="112" x2="110" y2="150" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+<circle cx="105" cy="64" r="10" fill="#334155" stroke="#94a3b8" stroke-width="1.5"/>
+<circle cx="104" cy="63" r="1.4" fill="#e2e8f0"/>
+<circle cx="111" cy="63" r="1.4" fill="#e2e8f0"/>
+<line x1="114" y1="66" x2="116" y2="67" stroke="#e2e8f0" stroke-width="1.5" stroke-linecap="round"/>
+<text x="105" y="168" font-size="10" fill="#94a3b8" text-anchor="middle">3/4</text>
+<path d="M150 74 L170 74 L172 112 L148 112 Z" fill="#94a3b8" stroke="#334155" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="155" y1="112" x2="155" y2="150" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+<line x1="165" y1="112" x2="165" y2="150" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+<circle cx="160" cy="64" r="10" fill="#334155" stroke="#94a3b8" stroke-width="1.5"/>
+<circle cx="164" cy="63" r="1.4" fill="#e2e8f0"/>
+<path d="M170.0 64.0 L174.0 67.0 L170.0 68.0 Z" fill="#94a3b8"/>
+<text x="160" y="168" font-size="10" fill="#94a3b8" text-anchor="middle">옆</text>
+<path d="M205 74 L225 74 L227 112 L203 112 Z" fill="#94a3b8" stroke="#334155" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="210" y1="112" x2="210" y2="150" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+<line x1="220" y1="112" x2="220" y2="150" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+<circle cx="215" cy="64" r="10" fill="#475569" stroke="#94a3b8" stroke-width="1.5"/>
+<text x="215" y="168" font-size="10" fill="#94a3b8" text-anchor="middle">뒤</text>
+<path d="M26 54 L240 54" pathLength="1" stroke-dasharray="1" stroke-dashoffset="0" fill="none" stroke="#f59e0b" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.8" class="k1"/>
+<path d="M26 112 L240 112" pathLength="1" stroke-dasharray="1" stroke-dashoffset="0" fill="none" stroke="#f59e0b" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.8" class="k2"/>
+<path d="M26 150 L240 150" pathLength="1" stroke-dasharray="1" stroke-dashoffset="0" fill="none" stroke="#f59e0b" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.8" class="k3"/>
+<text x="282" y="54" font-size="9" fill="#94a3b8" text-anchor="middle">색 지정</text>
+<g class="k4"><rect x="266" y="62" width="32" height="16" rx="4" fill="#f59e0b"/></g>
+<g class="k5"><rect x="266" y="84" width="32" height="16" rx="4" fill="#38bdf8"/></g>
+<g class="k6"><rect x="266" y="106" width="32" height="16" rx="4" fill="#e2e8f0"/></g>
+</svg>

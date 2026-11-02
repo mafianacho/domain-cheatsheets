@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="핵심 반복: 행동, 보상, 성장, 더 어려운 도전이 돌고 도는 한 바퀴">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0.0%{opacity:0}1.99%{opacity:0}3.5%{opacity:1}22.0%{opacity:1}23.5%{opacity:0}100.0%{opacity:0}}.k1{animation:k1 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0.0%{opacity:0}25.99%{opacity:0}27.5%{opacity:1}46.0%{opacity:1}47.5%{opacity:0}100.0%{opacity:0}}.k2{animation:k2 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0.0%{opacity:0}49.99%{opacity:0}51.5%{opacity:1}70.0%{opacity:1}71.5%{opacity:0}100.0%{opacity:0}}.k3{animation:k3 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0.0%{opacity:0}73.99%{opacity:0}75.5%{opacity:1}94.0%{opacity:1}95.5%{opacity:0}100.0%{opacity:0}}.k4{animation:k4 5s linear infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-family="system-ui, sans-serif" font-size="13" fill="#e2e8f0" font-weight="700">Core Loop · 핵심 반복</text>
+<rect x="24" y="48" width="110" height="40" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="79.0" y="65" font-family="system-ui, sans-serif" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700">행동</text>
+<text x="79.0" y="79" font-family="system-ui, sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">점프·사격</text>
+<rect x="186" y="48" width="110" height="40" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="241.0" y="65" font-family="system-ui, sans-serif" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700">보상</text>
+<text x="241.0" y="79" font-family="system-ui, sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">코인·경험치</text>
+<rect x="186" y="128" width="110" height="40" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="241.0" y="145" font-family="system-ui, sans-serif" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700">성장</text>
+<text x="241.0" y="159" font-family="system-ui, sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">더 센 장비</text>
+<rect x="24" y="128" width="110" height="40" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<text x="79.0" y="145" font-family="system-ui, sans-serif" font-size="11" fill="#e2e8f0" text-anchor="middle" font-weight="700">도전</text>
+<text x="79.0" y="159" font-family="system-ui, sans-serif" font-size="9" fill="#94a3b8" text-anchor="middle">더 어려운 적</text>
+<path d="M138 68 L184 68 M178.8 71.0 L184 68 L178.8 65.0" fill="none" stroke="#94a3b8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M241 90 L241 126 M238.0 120.8 L241 126 L244.0 120.8" fill="none" stroke="#94a3b8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M184 148 L138 148 M143.2 145.0 L138 148 L143.2 151.0" fill="none" stroke="#94a3b8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M79 126 L79 90 M82.0 95.2 L79 90 L76.0 95.2" fill="none" stroke="#94a3b8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="160" y="112" font-family="system-ui, sans-serif" font-size="9.5" fill="#94a3b8" text-anchor="middle">한 바퀴 = 몇 초~몇 분</text>
+<g class="k1" opacity="0"><rect x="24" y="48" width="110" height="40" rx="8" fill="#f59e0b"/>
+<text x="79.0" y="65" font-family="system-ui, sans-serif" font-size="11" fill="#0f172a" text-anchor="middle" font-weight="700">행동</text>
+<text x="79.0" y="79" font-family="system-ui, sans-serif" font-size="9" fill="#0f172a" text-anchor="middle">점프·사격</text></g>
+<g class="k2" opacity="0"><rect x="186" y="48" width="110" height="40" rx="8" fill="#f59e0b"/>
+<text x="241.0" y="65" font-family="system-ui, sans-serif" font-size="11" fill="#0f172a" text-anchor="middle" font-weight="700">보상</text>
+<text x="241.0" y="79" font-family="system-ui, sans-serif" font-size="9" fill="#0f172a" text-anchor="middle">코인·경험치</text></g>
+<g class="k3" opacity="0"><rect x="186" y="128" width="110" height="40" rx="8" fill="#f59e0b"/>
+<text x="241.0" y="145" font-family="system-ui, sans-serif" font-size="11" fill="#0f172a" text-anchor="middle" font-weight="700">성장</text>
+<text x="241.0" y="159" font-family="system-ui, sans-serif" font-size="9" fill="#0f172a" text-anchor="middle">더 센 장비</text></g>
+<g class="k4" opacity="0"><rect x="24" y="128" width="110" height="40" rx="8" fill="#f59e0b"/>
+<text x="79.0" y="145" font-family="system-ui, sans-serif" font-size="11" fill="#0f172a" text-anchor="middle" font-weight="700">도전</text>
+<text x="79.0" y="159" font-family="system-ui, sans-serif" font-size="9" fill="#0f172a" text-anchor="middle">더 어려운 적</text></g>
+<text x="160" y="188" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">보상이 다시 행동을 부른다</text>
+</svg>

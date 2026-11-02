@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="타이밍: 같은 움직임에 프레임을 몇 장 쓰느냐로 빠르기와 성격이 달라지는 것">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0%,6%{transform:translateX(0px)}30%,62%{transform:translateX(260px)}100%{transform:translateX(260px)}}.k1{animation:k1 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,6%{transform:translateX(0px)}90%,100%{transform:translateX(260px)}}.k2{animation:k2 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Timing · 타이밍</text>
+<text x="16" y="58" font-size="10" fill="#f59e0b" font-weight="700">프레임 적게 = 빠르고 가볍게</text>
+<text x="16" y="120" font-size="10" fill="#38bdf8" font-weight="700">프레임 많게 = 느리고 묵직하게</text>
+<line x1="30" y1="82" x2="290" y2="82" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<path d="M280 82 a10 10 0 1 0 20 0 a10 10 0 1 0 -20 0" fill="none" stroke="#94a3b8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 3"/>
+<line x1="30" y1="144" x2="290" y2="144" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<path d="M280 144 a10 10 0 1 0 20 0 a10 10 0 1 0 -20 0" fill="none" stroke="#94a3b8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 3"/>
+<circle cx="30" cy="82" r="10" fill="#f59e0b" class="k1"/>
+<circle cx="30" cy="144" r="10" fill="#38bdf8" class="k2"/>
+<text x="160" y="190" font-size="9" fill="#94a3b8" text-anchor="middle">거리는 같고 걸리는 시간이 다르다</text>
+</svg>

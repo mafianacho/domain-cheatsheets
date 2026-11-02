@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="탐지 격리 원인 파악 복구 회고 다섯 단계가 차례로 강조되는 사고 대응 순서 그림">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}.t{font-size:14px;font-weight:700}.s{font-size:9px;fill:#94a3b8}.m{font-size:10px}.c{text-anchor:middle}.e{text-anchor:end}.ac{fill:#f59e0b}.sk{fill:#38bdf8}.mu{fill:#94a3b8}.b{font-weight:700}.dk{fill:#0f172a}@keyframes a1{0%{opacity:1}19%{opacity:1}22%{opacity:0}100%{opacity:0}}.a1{opacity:0;animation:a1 5s linear infinite}@keyframes a2{0%{opacity:0}20%{opacity:0}23%{opacity:1}38%{opacity:1}41%{opacity:0}100%{opacity:0}}.a2{opacity:0;animation:a2 5s linear infinite}@keyframes a3{0%{opacity:0}39%{opacity:0}42%{opacity:1}57%{opacity:1}60%{opacity:0}100%{opacity:0}}.a3{opacity:0;animation:a3 5s linear infinite}@keyframes a4{0%{opacity:0}58%{opacity:0}61%{opacity:1}76%{opacity:1}79%{opacity:0}100%{opacity:0}}.a4{opacity:0;animation:a4 5s linear infinite}@keyframes a5{0%{opacity:0}77%{opacity:0}80%{opacity:1}95%{opacity:1}98%{opacity:0}100%{opacity:0}}.a5{opacity:0;animation:a5 5s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text class="t" x="16" y="26">사고 대응</text>
+<rect x="16" y="66" width="52" height="40" rx="8" fill="#1e293b" />
+<text class="c m b" x="42" y="91">탐지</text>
+<text class="c s" x="42" y="122">알아챈다</text>
+<circle cx="42" cy="54" r="7" fill="#334155" />
+<text class="c s" x="42" y="57.5">1</text>
+<path d="M71.0 82.8 L75 86 L71.0 89.2 Z" fill="#94a3b8"/>
+<rect class="a1" x="16" y="66" width="52" height="40" rx="8" fill="#f59e0b" />
+<text class="c m b dk a1" x="42" y="91">탐지</text>
+<rect x="75" y="66" width="52" height="40" rx="8" fill="#1e293b" />
+<text class="c m b" x="101" y="91">격리</text>
+<text class="c s" x="101" y="122">퍼짐 차단</text>
+<circle cx="101" cy="54" r="7" fill="#334155" />
+<text class="c s" x="101" y="57.5">2</text>
+<path d="M130.0 82.8 L134 86 L130.0 89.2 Z" fill="#94a3b8"/>
+<rect class="a2" x="75" y="66" width="52" height="40" rx="8" fill="#f59e0b" />
+<text class="c m b dk a2" x="101" y="91">격리</text>
+<rect x="134" y="66" width="52" height="40" rx="8" fill="#1e293b" />
+<text class="c m b" x="160" y="91">원인</text>
+<text class="c s" x="160" y="122">왜 뚫렸나</text>
+<circle cx="160" cy="54" r="7" fill="#334155" />
+<text class="c s" x="160" y="57.5">3</text>
+<path d="M189.0 82.8 L193 86 L189.0 89.2 Z" fill="#94a3b8"/>
+<rect class="a3" x="134" y="66" width="52" height="40" rx="8" fill="#f59e0b" />
+<text class="c m b dk a3" x="160" y="91">원인</text>
+<rect x="193" y="66" width="52" height="40" rx="8" fill="#1e293b" />
+<text class="c m b" x="219" y="91">복구</text>
+<text class="c s" x="219" y="122">정상으로</text>
+<circle cx="219" cy="54" r="7" fill="#334155" />
+<text class="c s" x="219" y="57.5">4</text>
+<path d="M248.0 82.8 L252 86 L248.0 89.2 Z" fill="#94a3b8"/>
+<rect class="a4" x="193" y="66" width="52" height="40" rx="8" fill="#f59e0b" />
+<text class="c m b dk a4" x="219" y="91">복구</text>
+<rect x="252" y="66" width="52" height="40" rx="8" fill="#1e293b" />
+<text class="c m b" x="278" y="91">회고</text>
+<text class="c s" x="278" y="122">재발 방지</text>
+<circle cx="278" cy="54" r="7" fill="#334155" />
+<text class="c s" x="278" y="57.5">5</text>
+<rect class="a5" x="252" y="66" width="52" height="40" rx="8" fill="#f59e0b" />
+<text class="c m b dk a5" x="278" y="91">회고</text>
+<text class="c s" x="160" y="150">고객 정보가 새면 지체 없이 알리고 신고한다</text>
+<text class="c s" x="160" y="168">미리 연락망과 순서를 정해 두면 당황하지 않는다</text>
+</svg>

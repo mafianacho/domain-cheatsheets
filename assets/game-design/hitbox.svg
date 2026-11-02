@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="히트박스: 맞는 범위(허트박스)와 때리는 범위(히트박스)가 겹치면 명중으로 계산한다">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0%,6%{transform:scaleX(0.25);opacity:.9}24%{transform:scaleX(1);opacity:.9}72%{transform:scaleX(1);opacity:.9}80%{transform:scaleX(1);opacity:0}100%{transform:scaleX(0.25);opacity:0}}.k1{animation:k1 5s ease-in-out infinite;transform-box:fill-box;transform-origin:0% 50%}@keyframes k2{0.0%{opacity:0}25.99%{opacity:0}27.5%{opacity:1}72.0%{opacity:1}73.5%{opacity:0}100.0%{opacity:0}}.k2{animation:k2 5s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0.0%{opacity:0}25.99%{opacity:0}27.5%{opacity:1}72.0%{opacity:1}73.5%{opacity:0}100.0%{opacity:0}}.k3{animation:k3 5s linear infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-family="system-ui, sans-serif" font-size="13" fill="#e2e8f0" font-weight="700">Hitbox · 히트박스</text>
+<line x1="20" y1="150" x2="300" y2="150" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<circle cx="75" cy="108" r="10" fill="#334155" stroke="#94a3b8" stroke-width="1.5"/>
+<rect x="63" y="118" width="24" height="32" rx="6" fill="#334155" stroke="#94a3b8" stroke-width="1.5"/>
+<circle cx="215" cy="108" r="10" fill="#334155" stroke="#94a3b8" stroke-width="1.5"/>
+<rect x="203" y="118" width="24" height="32" rx="6" fill="#334155" stroke="#94a3b8" stroke-width="1.5"/>
+<rect x="58" y="96" width="34" height="54" rx="3" fill="none" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="4 3"/>
+<rect x="198" y="96" width="34" height="54" rx="3" fill="none" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="4 3"/>
+<rect x="96" y="116" width="112" height="16" rx="3" fill="#f59e0b" class="k1"/>
+<rect x="198" y="116" width="10" height="16" fill="#e2e8f0" opacity="0" class="k2"/>
+<text x="215" y="86" font-family="system-ui, sans-serif" font-size="12" fill="#f59e0b" text-anchor="middle" font-weight="700" opacity="0" class="k3">명중!</text>
+<line x1="20" y1="172" x2="40" y2="172" stroke="#38bdf8" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 3"/>
+<text x="46" y="176" font-family="system-ui, sans-serif" font-size="9.5" fill="#e2e8f0">허트박스: 맞는 범위</text>
+<rect x="20" y="183" width="20" height="6" rx="2" fill="#f59e0b"/>
+<text x="46" y="190" font-family="system-ui, sans-serif" font-size="9.5" fill="#e2e8f0">히트박스: 때리는 범위</text>
+</svg>

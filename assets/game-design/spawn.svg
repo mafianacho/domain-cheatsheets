@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="스폰: 정해진 지점과 시간에 적이나 아이템이 나타나는 것">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0%,4%{transform:scale(1)}9%{transform:scale(1.5)}18%{transform:scale(1)}100%{transform:scale(1)}}.k1{animation:k1 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,4%{opacity:0;transform:translate(0px,0px) scale(.2)}9%{opacity:1;transform:translate(0px,0px) scale(1)}29%{opacity:1;transform:translate(30px,12px) scale(1)}33%{opacity:0;transform:translate(30px,12px) scale(1)}100%{opacity:0;transform:translate(0px,0px) scale(.2)}}.k2{animation:k2 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,34%{transform:scale(1)}39%{transform:scale(1.5)}48%{transform:scale(1)}100%{transform:scale(1)}}.k3{animation:k3 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,34%{opacity:0;transform:translate(0px,0px) scale(.2)}39%{opacity:1;transform:translate(0px,0px) scale(1)}59%{opacity:1;transform:translate(-30px,14px) scale(1)}63%{opacity:0;transform:translate(-30px,14px) scale(1)}100%{opacity:0;transform:translate(0px,0px) scale(.2)}}.k4{animation:k4 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,64%{transform:scale(1)}69%{transform:scale(1.5)}78%{transform:scale(1)}100%{transform:scale(1)}}.k5{animation:k5 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k6{0%,64%{opacity:0;transform:translate(0px,0px) scale(.2)}69%{opacity:1;transform:translate(0px,0px) scale(1)}89%{opacity:1;transform:translate(32px,-12px) scale(1)}93%{opacity:0;transform:translate(32px,-12px) scale(1)}100%{opacity:0;transform:translate(0px,0px) scale(.2)}}.k6{animation:k6 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-family="system-ui, sans-serif" font-size="13" fill="#e2e8f0" font-weight="700">Spawn · 스폰</text>
+<rect x="16" y="40" width="288" height="132" rx="10" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<circle cx="48" cy="66" r="12" fill="none" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="3 3" class="k1"/>
+<rect x="42" y="60" width="12" height="12" rx="2" fill="#f59e0b" opacity="0" class="k2"/>
+<circle cx="272" cy="66" r="12" fill="none" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="3 3" class="k3"/>
+<rect x="266" y="60" width="12" height="12" rx="2" fill="#f59e0b" opacity="0" class="k4"/>
+<circle cx="60" cy="152" r="12" fill="none" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="3 3" class="k5"/>
+<rect x="54" y="146" width="12" height="12" rx="2" fill="#f59e0b" opacity="0" class="k6"/>
+<text x="24" y="98" font-family="system-ui, sans-serif" font-size="9.5" fill="#38bdf8">스폰 지점</text>
+<circle cx="160" cy="108" r="9" fill="#38bdf8"/>
+<text x="160" y="134" font-family="system-ui, sans-serif" font-size="9.5" fill="#e2e8f0" text-anchor="middle">플레이어</text>
+<text x="160" y="188" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">정해진 곳·시간에 적이 나타난다</text>
+</svg>

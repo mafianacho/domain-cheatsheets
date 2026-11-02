@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="요청 열 개 중 여덟 개는 캐시에서 바로 답하고 두 개는 원본까지 가는 예시로 적중률을 비율 막대로 보여 주는 그림">
+<style>@keyframes rv_30{0%,6.0%{opacity:0}9.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_30{animation:rv_30 5.0s linear infinite}@keyframes rv_55{0%,11.0%{opacity:0}14.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_55{animation:rv_55 5.0s linear infinite}@keyframes rv_80{0%,16.0%{opacity:0}19.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_80{animation:rv_80 5.0s linear infinite}@keyframes rv_105{0%,21.0%{opacity:0}24.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_105{animation:rv_105 5.0s linear infinite}@keyframes rv_130{0%,26.0%{opacity:0}29.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_130{animation:rv_130 5.0s linear infinite}@keyframes rv_155{0%,31.0%{opacity:0}34.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_155{animation:rv_155 5.0s linear infinite}@keyframes rv_180{0%,36.0%{opacity:0}39.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_180{animation:rv_180 5.0s linear infinite}@keyframes rv_205{0%,41.0%{opacity:0}44.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_205{animation:rv_205 5.0s linear infinite}@keyframes rv_230{0%,46.0%{opacity:0}49.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_230{animation:rv_230 5.0s linear infinite}@keyframes rv_255{0%,51.0%{opacity:0}54.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_255{animation:rv_255 5.0s linear infinite}@keyframes grXleft_300_380{0%,60.0%{transform:scaleX(0)}76.0%,94%{transform:scaleX(1)}97%,100%{transform:scaleX(0)}}.grXleft_300_380{transform-box:fill-box;transform-origin:left center;animation:grXleft_300_380 5.0s linear infinite}@keyframes grXleft_380_420{0%,76.0%{transform:scaleX(0)}84.0%,94%{transform:scaleX(1)}97%,100%{transform:scaleX(0)}}.grXleft_380_420{transform-box:fill-box;transform-origin:left center;animation:grXleft_380_420 5.0s linear infinite}@keyframes rv_390{0%,78.0%{opacity:0}81.0%,94%{opacity:1}97%,100%{opacity:0}}.rv_390{animation:rv_390 5.0s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="24" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">캐시 적중률</text>
+<circle cx="40" cy="54" r="9" fill="#334155"/>
+<g class="rv_30"><circle cx="40" cy="54" r="9" fill="#38bdf8"/></g>
+<circle cx="66" cy="54" r="9" fill="#334155"/>
+<g class="rv_55"><circle cx="66" cy="54" r="9" fill="#38bdf8"/></g>
+<circle cx="92" cy="54" r="9" fill="#334155"/>
+<g class="rv_80"><circle cx="92" cy="54" r="9" fill="#f59e0b"/></g>
+<circle cx="118" cy="54" r="9" fill="#334155"/>
+<g class="rv_105"><circle cx="118" cy="54" r="9" fill="#38bdf8"/></g>
+<circle cx="144" cy="54" r="9" fill="#334155"/>
+<g class="rv_130"><circle cx="144" cy="54" r="9" fill="#38bdf8"/></g>
+<circle cx="170" cy="54" r="9" fill="#334155"/>
+<g class="rv_155"><circle cx="170" cy="54" r="9" fill="#38bdf8"/></g>
+<circle cx="196" cy="54" r="9" fill="#334155"/>
+<g class="rv_180"><circle cx="196" cy="54" r="9" fill="#f59e0b"/></g>
+<circle cx="222" cy="54" r="9" fill="#334155"/>
+<g class="rv_205"><circle cx="222" cy="54" r="9" fill="#38bdf8"/></g>
+<circle cx="248" cy="54" r="9" fill="#334155"/>
+<g class="rv_230"><circle cx="248" cy="54" r="9" fill="#38bdf8"/></g>
+<circle cx="274" cy="54" r="9" fill="#334155"/>
+<g class="rv_255"><circle cx="274" cy="54" r="9" fill="#38bdf8"/></g>
+<rect x="40" y="80" width="10" height="10" rx="2" fill="#38bdf8"/>
+<text x="54" y="89" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">HIT: 캐시가 바로 답</text>
+<rect x="172" y="80" width="10" height="10" rx="2" fill="#f59e0b"/>
+<text x="186" y="89" font-size="9" fill="#e2e8f0" text-anchor="start" font-family="system-ui, sans-serif">MISS: 원본까지</text>
+<text x="160" y="114" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">적중률 = HIT ÷ 전체 요청</text>
+<rect x="40" y="124" width="240" height="22" rx="4" fill="#334155"/>
+<g class="grXleft_300_380"><rect x="40" y="124" width="192" height="22" rx="4" fill="#38bdf8"/></g>
+<g class="grXleft_380_420"><rect x="232" y="124" width="48" height="22" rx="4" fill="#f59e0b"/></g>
+<g class="rv_390"><text x="136" y="139" font-size="9" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">캐시에서 응답</text><text x="256" y="139" font-size="9" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">원본</text></g>
+<text x="160" y="176" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">높을수록 원본 부담과 대기 시간이 줄어든다 (예시 비율)</text>
+</svg>

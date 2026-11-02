@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="난이도 곡선: 시간이 갈수록 오르내리며 올라가는 어려움의 그래프">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0%,6%{stroke-dashoffset:1}70%,92%{stroke-dashoffset:0}100%{stroke-dashoffset:1}}.k1{animation:k1 5s ease-in-out infinite}@keyframes k2{0%,34%{opacity:0}38%,92%{opacity:1}100%{opacity:0}}.k2{animation:k2 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,50%{opacity:0}54%,92%{opacity:1}100%{opacity:0}}.k3{animation:k3 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,66%{opacity:0}70%,92%{opacity:1}100%{opacity:0}}.k4{animation:k4 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-family="system-ui, sans-serif" font-size="13" fill="#e2e8f0" font-weight="700">Difficulty Curve · 난이도 곡선</text>
+<line x1="36" y1="44" x2="36" y2="170" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<line x1="36" y1="170" x2="304" y2="170" stroke="#475569" stroke-width="2" stroke-linecap="round"/>
+<text x="42" y="56" font-family="system-ui, sans-serif" font-size="9.5" fill="#94a3b8">난이도</text>
+<text x="304" y="188" font-family="system-ui, sans-serif" font-size="9.5" fill="#94a3b8" text-anchor="end">시간</text>
+<path d="M40 160 L84 128 L104 142 L156 98 L176 112 L228 66 L246 82 L290 52" fill="none" stroke="#334155" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M40 160 L84 128 L104 142 L156 98 L176 112 L228 66 L246 82 L290 52" pathLength="1" fill="none" stroke="#f59e0b" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1" stroke-dashoffset="0" class="k1"/>
+<text x="104" y="160" font-family="system-ui, sans-serif" font-size="9.5" fill="#e2e8f0" text-anchor="middle" class="k2">쉬는 구간</text>
+<text x="176" y="130" font-family="system-ui, sans-serif" font-size="9.5" fill="#e2e8f0" text-anchor="middle" class="k3">쉬는 구간</text>
+<text x="270" y="44" font-family="system-ui, sans-serif" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" class="k4">보스</text>
+</svg>

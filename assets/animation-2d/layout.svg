@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="레이아웃: 배경 그림 위에 카메라 범위와 캐릭터의 시작·끝 자리를 정해 놓은 장면 설계도">
+<style>text{font-family:system-ui,sans-serif}@keyframes k1{0%,100%{opacity:1}50%{opacity:0.25}}.k1{animation:k1 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,15%{opacity:0}19%,92%{opacity:1}100%{opacity:0}}.k2{animation:k2 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,40%{opacity:0}44%,92%{opacity:1}100%{opacity:0}}.k3{animation:k3 5s ease-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">Layout · 레이아웃</text>
+<rect x="16" y="40" width="288" height="110" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<path d="M16 120 Q80 92 150 118 T304 108 L304 142 Q304 150 296 150 L24 150 Q16 150 16 142 Z" fill="#334155" stroke="#334155" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="270" cy="62" r="11" fill="none" stroke="#94a3b8" stroke-width="2"/>
+<line x1="16" y1="128" x2="304" y2="128" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 4"/>
+<rect x="36" y="52" width="190" height="90" rx="6" fill="none" stroke="#f59e0b" stroke-width="2.5"/>
+<text x="44" y="67" font-size="9" fill="#f59e0b" font-weight="700">카메라 범위</text>
+<circle cx="84" cy="112" r="7" fill="#334155" stroke="#38bdf8" stroke-width="1.5"/>
+<line x1="84" y1="119" x2="84" y2="132" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/>
+<path d="M98 120 L190 120 M184.8 123.0 L190 120 L184.8 117.0" fill="none" stroke="#f59e0b" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="k2"/>
+<circle cx="206" cy="112" r="7" fill="#334155" stroke="#38bdf8" stroke-width="1.5" class="k3"/>
+<line x1="206" y1="119" x2="206" y2="132" stroke="#38bdf8" stroke-width="2" stroke-linecap="round" class="k3"/>
+<text x="84" y="146" font-size="9" fill="#e2e8f0" text-anchor="middle">시작</text>
+<text x="206" y="146" font-size="9" fill="#e2e8f0" text-anchor="middle" class="k3">끝</text>
+<text x="160" y="176" font-size="10" fill="#94a3b8" text-anchor="middle">배경 + 카메라 + 캐릭터 위치를 한 장에</text>
+</svg>

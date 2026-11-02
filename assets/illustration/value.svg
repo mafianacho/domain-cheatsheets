@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="밸류: 색을 빼고 밝고 어두운 정도만 본 것. 흑백으로 봤을 때 구분되면 잘 읽힌다">
+<style>text{font-family:system-ui,sans-serif;fill:#e2e8f0;font-size:11px}@keyframes k1{0%,30%{opacity:0}36%,80%{opacity:1}86%,100%{opacity:0}}.k1{animation:k1 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k2{0%,36%{opacity:0}38%,88%{opacity:1}91%{opacity:0}100%{opacity:0}}.k2{animation:k2 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k3{0%,36%{opacity:0}38%,88%{opacity:1}91%{opacity:0}100%{opacity:0}}.k3{animation:k3 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k4{0%,30%{opacity:1}33%{opacity:0}100%{opacity:0}}.k4{animation:k4 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes k5{0%,36%{opacity:0}38%,88%{opacity:1}91%{opacity:0}100%{opacity:0}}.k5{animation:k5 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="16" y="28" font-size="13" fill="#e2e8f0" font-weight="700">밸류 · 명암 단계</text>
+<text x="304" y="28" font-size="9" fill="#94a3b8" text-anchor="end">흑백으로 확인</text>
+<rect x="16" y="40" width="142" height="100" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<rect x="162" y="40" width="142" height="100" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+<circle cx="44" cy="90" r="18" fill="#d65a5a"/>
+<circle cx="190" cy="90" r="18" fill="#f0c4c4"/>
+<circle cx="87" cy="90" r="18" fill="#2db544"/>
+<circle cx="233" cy="90" r="18" fill="#2db544"/>
+<circle cx="130" cy="90" r="18" fill="#5983d6"/>
+<circle cx="276" cy="90" r="18" fill="#1a356a"/>
+<circle cx="44" cy="90" r="18" fill="#7f7f7f" opacity="0" class="k1"/>
+<circle cx="190" cy="90" r="18" fill="#d1d1d1" opacity="0" class="k1"/>
+<circle cx="87" cy="90" r="18" fill="#7f7f7f" opacity="0" class="k1"/>
+<circle cx="233" cy="90" r="18" fill="#7f7f7f" opacity="0" class="k1"/>
+<circle cx="130" cy="90" r="18" fill="#808080" opacity="0" class="k1"/>
+<circle cx="276" cy="90" r="18" fill="#333333" opacity="0" class="k1"/>
+<text x="87" y="128" font-size="10" fill="#94a3b8" text-anchor="middle">밝기가 비슷함</text>
+<text x="233" y="128" font-size="10" fill="#94a3b8" text-anchor="middle">밝기 차이가 큼</text>
+<text x="87" y="162" font-size="10" fill="#94a3b8" text-anchor="middle" opacity="0" class="k2">흑백이면 뭉침</text>
+<text x="233" y="162" font-size="10" fill="#f59e0b" text-anchor="middle" font-weight="700" opacity="0" class="k3">흑백이어도 구분</text>
+<text x="160" y="182" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700" class="k4">색 → 흑백으로 바꿔 보기</text>
+<text x="160" y="182" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700" opacity="0" class="k5">흑백으로 본 상태</text>
+</svg>

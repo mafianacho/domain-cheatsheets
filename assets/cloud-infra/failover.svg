@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="주 서버가 멈추면 감지하여 대기 서버가 운영 역할을 넘겨받고 요청이 그쪽으로 옮겨 가는 그림">
+<style>@keyframes mv_30_70_100_140_190_62{0%,6.0%{opacity:0;transform:translate(70px,100px)}6.4%{opacity:1;transform:translate(70px,100px)}28.0%{opacity:1;transform:translate(190px,62px)}28.8%,100%{opacity:0;transform:translate(190px,62px)}}.mv_30_70_100_140_190_62{animation:mv_30_70_100_140_190_62 5.0s linear infinite}@keyframes wn_180_470{0%,36.0%{opacity:0}38.0%,94.0%{opacity:1}96.0%,100%{opacity:0}}.wn_180_470{animation:wn_180_470 5.0s linear infinite}@keyframes wn_240_470{0%,48.0%{opacity:0}50.0%,94.0%{opacity:1}96.0%,100%{opacity:0}}.wn_240_470{animation:wn_240_470 5.0s linear infinite}@keyframes mv_280_70_100_400_190_140{0%,56.0%{opacity:0;transform:translate(70px,100px)}56.4%{opacity:1;transform:translate(70px,100px)}80.0%{opacity:1;transform:translate(190px,140px)}80.8%,100%{opacity:0;transform:translate(190px,140px)}}.mv_280_70_100_400_190_140{animation:mv_280_70_100_400_190_140 5.0s linear infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="320" height="200" rx="12" fill="#0f172a"/>
+<text x="160" y="24" font-size="12" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">페일오버</text>
+<rect x="14" y="84" width="56" height="32" rx="6" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+<text x="42" y="104" font-size="10" fill="#e2e8f0" text-anchor="middle" font-family="system-ui, sans-serif">사용자</text>
+<rect x="192" y="44" width="112" height="36" rx="6" fill="#334155" stroke="#f59e0b" stroke-width="1.5"/>
+<text x="248" y="67" font-size="10" fill="#e2e8f0" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">주 서버 (운영)</text>
+<rect x="192" y="122" width="112" height="36" rx="6" fill="none" stroke="#475569" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="248" y="145" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">대기 서버</text>
+<line x1="70" y1="100" x2="192" y2="62" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="70" y1="100" x2="192" y2="140" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 3"/>
+<rect x="-5.0" y="-5.0" width="10" height="10" rx="2" fill="#f59e0b" class="mv_30_70_100_140_190_62" opacity="0" transform="translate(70,100)"/>
+<g class="wn_180_470" opacity="0"><rect x="192" y="44" width="112" height="36" rx="6" fill="#111827" stroke="#475569" stroke-width="1.5"/><text x="248" y="67" font-size="10" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">장애 발생</text><line x1="285" y1="57" x2="295" y2="67" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round"/><line x1="285" y1="67" x2="295" y2="57" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round"/></g>
+<g class="wn_240_470" opacity="0"><rect x="192" y="122" width="112" height="36" rx="6" fill="#38bdf8"/><text x="248" y="145" font-size="10" fill="#0f172a" text-anchor="middle" font-weight="700" font-family="system-ui, sans-serif">대기 → 운영</text></g>
+<rect x="-5.0" y="-5.0" width="10" height="10" rx="2" fill="#38bdf8" class="mv_280_70_100_400_190_140" opacity="0" transform="translate(70,100)"/>
+<text x="120" y="168" font-size="9" fill="#f59e0b" text-anchor="middle" font-family="system-ui, sans-serif" class="wn_180_470" opacity="0">장애를 감지해 자동 전환</text>
+<text x="160" y="184" font-size="9" fill="#94a3b8" text-anchor="middle" font-family="system-ui, sans-serif">멈추면 예비 서버가 바통을 넘겨받는다</text>
+</svg>
